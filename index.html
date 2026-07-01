@@ -64,10 +64,71 @@
   .container { max-width: 880px; margin: 0 auto; padding: 0 20px 80px; }
 
   header {
-    background: linear-gradient(135deg, #2b5cff 0%, #7c3aed 55%, #e11d74 100%);
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(135deg, #2b5cff, #7c3aed, #e11d74, #0891b2, #2b5cff);
+    background-size: 400% 400%;
+    animation: gradient-flow 18s ease infinite;
     color: #fff;
     padding: 44px 20px 56px;
     text-align: center;
+  }
+  @keyframes gradient-flow {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  /* 은은하게 떠다니는 테마 아이콘 */
+  .float-deco {
+    position: absolute;
+    font-size: 42px;
+    opacity: .13;
+    pointer-events: none;
+    user-select: none;
+    animation: float-up 14s ease-in-out infinite;
+    filter: blur(.5px);
+  }
+  .float-deco:nth-child(1) { top: 14%; left: 7%;  animation-duration: 16s; }
+  .float-deco:nth-child(2) { top: 58%; left: 14%; animation-duration: 13s; animation-delay: -4s; font-size: 34px; }
+  .float-deco:nth-child(3) { top: 22%; right: 9%; animation-duration: 17s; animation-delay: -8s; font-size: 48px; }
+  .float-deco:nth-child(4) { top: 64%; right: 16%; animation-duration: 12s; animation-delay: -2s; font-size: 30px; }
+  .float-deco:nth-child(5) { top: 8%;  left: 42%; animation-duration: 15s; animation-delay: -6s; font-size: 28px; }
+  .float-deco:nth-child(6) { top: 70%; left: 46%; animation-duration: 18s; animation-delay: -10s; font-size: 36px; }
+  @keyframes float-up {
+    0%, 100% { transform: translateY(0) rotate(-4deg); }
+    50% { transform: translateY(-16px) rotate(5deg); }
+  }
+  /* 헤더 하단 심전도(ECG) 라인 */
+  .ecg {
+    position: absolute;
+    left: 0; right: 0; bottom: 8px;
+    width: 100%; height: 38px;
+    opacity: .28;
+    pointer-events: none;
+  }
+  .ecg path {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 1200;
+    stroke-dashoffset: 1200;
+    animation: ecg-draw 6s linear infinite;
+  }
+  @keyframes ecg-draw {
+    0% { stroke-dashoffset: 1200; }
+    70% { stroke-dashoffset: 0; }
+    100% { stroke-dashoffset: 0; opacity: 0; }
+  }
+  header .badge, header h1, header p { position: relative; z-index: 1; }
+  header h1 { animation: title-glow 4s ease-in-out infinite; }
+  @keyframes title-glow {
+    0%, 100% { text-shadow: 0 0 0 rgba(255,255,255,0); }
+    50% { text-shadow: 0 0 24px rgba(255,255,255,.45); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    header, .float-deco, .ecg path, header h1 { animation: none; }
   }
   header .badge {
     display: inline-block;
@@ -201,6 +262,15 @@
 <body>
 
 <header>
+  <span class="float-deco" aria-hidden="true">🩺</span>
+  <span class="float-deco" aria-hidden="true">🤖</span>
+  <span class="float-deco" aria-hidden="true">💊</span>
+  <span class="float-deco" aria-hidden="true">💻</span>
+  <span class="float-deco" aria-hidden="true">📄</span>
+  <span class="float-deco" aria-hidden="true">🧠</span>
+  <svg class="ecg" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,20 L180,20 L200,20 L212,4 L224,36 L236,12 L248,20 L420,20 L440,20 L452,4 L464,36 L476,12 L488,20 L660,20 L680,20 L692,4 L704,36 L716,12 L728,20 L900,20 L920,20 L932,4 L944,36 L956,12 L968,20 L1200,20"/>
+  </svg>
   <div class="badge">매일 오전 6시 업데이트</div>
   <h1>AI융합 간호정보학 데일리 뉴스</h1>
   <p>최신 AI · IT · 간호 · 간호정보학 · 최신 논문 소식을 전하는 데일리 뉴스 브리핑</p>
