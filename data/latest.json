@@ -1,8 +1,24 @@
 {
  "date": "2026-07-02",
- "generatedAt": "2026-07-02T08:29:38.627979+09:00",
+ "generatedAt": "2026-07-02T08:43:52.385155+09:00",
  "articles": {
   "ai": [
+   {
+    "title": "경북도, 대경권 전략산업 인재양성에 올해 114억원 투입",
+    "link": "https://www.etnews.com/20260702000030",
+    "summary": "경북도는 올해 대경권 전략산업 인재 양성 및 산학연 협력 강화를 위한 대학지원사업에 114억원을 투입한다고 2일 밝혔다. 도는 대경권 성장엔진인 인공지능(AI), 반도체, 로봇, 미래 모빌리티, 이차전지, 바이오, 방산 등에 필요한 인재 육성에 속도를 낼 계획이다. 이 사업은 대학을 중심으로 대경권 전략산업 고도화를 위한 연구·기술혁신 인재 양성, 지역산업 현장과 밀접한 실무 중심 교육, 한일 지자체(경북도-나라현) 미래 인재 협력·교류 및 K",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-02T08:14:11+09:00"
+   },
+   {
+    "title": "도구로보틱스, 美 로봇닷컴과 실내용 AI 순찰로봇 공급키로하는 MOU 체결",
+    "link": "https://www.etnews.com/20260702000028",
+    "summary": "AI 자율주행 순찰로봇 전문기업 도구로보틱스(대표 김진효)는 미국 로보틱스 기업 로봇닷컴과 자사 실내용 순찰로봇 '이로이(iroi)'를 약 200만달러어치 공급하기로 하는 업무협약(MOU)을 체결했다고 2일 밝혔다. 로봇닷컴은 미국 샌프란시스코에 본사를 둔 로보틱스 플랫폼 기업이다. 다양한 로봇 솔루션 도입과 운영을 지원하며 북미 시장에서 사업을 펼치고 있다. 도구로보틱스는 이번 협력으로 미국 현지 고객 접점을 확대하고, 순찰로봇 서비스 공급",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-02T08:04:21+09:00"
+   },
    {
     "title": "DGIST, 오탐률 2% 혁신적 텍스트 워터마킹 개발…디지털 저작권 보호하는 AI 포렌식 분야에서 핵심 역할 기대",
     "link": "https://www.etnews.com/20260702000022",
@@ -42,22 +58,6 @@
     "source": "전자신문 SW·AI",
     "lang": "ko",
     "published": "2026-07-02T06:04:22+09:00"
-   },
-   {
-    "title": "임병택 시장, 세 번째 출발…AI·바이오로 시흥 성장판 연다",
-    "link": "https://www.etnews.com/20260702000013",
-    "summary": "임병택 경기 시흥시장이 지난 1일 민선 9기 제15대 시흥시장 취임식을 열고 인공지능(AI)·바이오 산업 육성, 공간구조 재편, 광역교통망 확충을 새 임기 핵심 과제로 제시했다. 임 시장은 이날 취임사에서 “시민의 뜻은 하던 일을 끝까지 완성하라는 명령”이라며 “지난 8년간 추진해 온 사업을 시민 삶의 변화로 완성하겠다”고 말했다. 그는 민선 7·8기에 이어 세 번째 임기를 시작했으며, 코로나19 등 재난 대응으로 앞선 두 차례 취임식을 열지",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-02T05:39:00+09:00"
-   },
-   {
-    "title": "신계용 과천시장 민선 9기 출범…AX 클러스터·의료체계 확충",
-    "link": "https://www.etnews.com/20260702000011",
-    "summary": "신계용 경기 과천시장이 지난 1일 민선 9기 시정 방향으로 첨단산업·의료바이오·인공지능(AI)을 연계한 '과천형 인공지능 전환(AX) 클러스터' 조성과 광역교통망 확충 등을 제시했다. 과천시는 이날 오전 시청 대강당에서 민선 9기 과천시장 취임식을 열었다. 취임식은 대규모 외부 행사 대신 시청에서 진행하는 '작은 취임식' 형식으로 마련됐으며, 시 직원 150명과 시민 50여 명이 참석했다. 신 시장은 취임사에서 '과천다움의 완성'을 민선 9기",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-02T05:25:34+09:00"
    },
    {
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -149,6 +149,14 @@
    }
   ],
   "it": [
+   {
+    "title": "삼성전자 '감사 페스티벌' 5일 종료…삼성스토어 방문객 75% 급증",
+    "link": "https://www.etnews.com/20260702000033",
+    "summary": "삼성전자가 지난 달 8일부터 4주간 진행중인 '국민과 함께, 삼성전자 감사 페스티벌'이 5일 종료된다. '국민과 함께, 삼성전자 감사 페스티벌'은 삼성전자가 국민들의 성원과 지지로 거둔 성과에 보답하기 위해 진행 중인 행사다. 행사는 고객에게 제공한 혜택이 지역 소상공인 및 중소기업과의 상생으로 이어져, 모든 국민이 직간접적으로 삼성전자의 성과를 함께 누릴 수 있도록 하는 데 중점을 두고 있다. 행사 이후 전국 삼성스토어의 방문객 수는 행사 이",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T08:32:30+09:00"
+   },
    {
     "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
     "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
@@ -254,14 +262,6 @@
     "published": "2026-07-01T18:40:50+09:00"
    },
    {
-    "title": "“기술로 세상을 바꾼다”…AI·펨테크 앞세운 여성기업, 미래산업 주역으로",
-    "link": "https://www.etnews.com/20260701000456",
-    "summary": "여성기업의 기술력과 미래 비전을 한자리에서 확인하는 '제5회 여성기업주간'이 막을 올렸다. 인공지능(AI), 펨테크, 콘텐츠 등 신산업을 이끄는 여성 창업가들이 혁신 사례를 공유하며 여성기업이 미래 성장의 한 축으로 자리매김하고 있음을 확인시켰다. 중소벤처기업부와 한국여성경제인협회는 1일 서울 신라호텔 다이너스티홀에서 '기술로 성장하고, 감성으로 연결하는 여성기업'을 주제로 제5회 여성기업주간 개막식을 개최했다. 올해 행사는 AI 시대 여성기업",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-01T17:00:00+09:00"
-   },
-   {
     "title": "New attack provides one more reason why AI browsers are a bad idea",
     "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
     "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
@@ -294,6 +294,38 @@
     "source": "American Nurse Journal",
     "lang": "en",
     "published": "2026-07-02T02:39:04+09:00"
+   },
+   {
+    "title": "IV vitamin C may lower mortality and sepsis risk in trauma patients",
+    "link": "https://www.nursingtimes.net/emergency-and-critical-care/iv-vitamin-c-may-lower-mortality-and-sepsis-risk-in-trauma-patients-01-07-2026/",
+    "summary": "Giving trauma patients high doses of intravenous (IV) vitamin C may lower the risks of both death and sepsis, as well as shortening hospital stays, according to UK researchers. The post IV vitamin C may lower mortality and sepsis risk in trauma patients appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-02T01:40:40+09:00"
+   },
+   {
+    "title": "Guidance aims to reduce choking risk in people with learning disabilities",
+    "link": "https://www.nursingtimes.net/learning-disabilities/guidance-aims-to-reduce-choking-risk-in-people-with-learning-disabilities-01-07-2026/",
+    "summary": "Effective choking prevention in people with learning disabilities depends on proactive risk identification and strong everyday systems, according to landmark guidance for social care. The post Guidance aims to reduce choking risk in people with learning disabilities appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-02T00:51:17+09:00"
+   },
+   {
+    "title": "Community nurse leader recognised by Yorkshire university",
+    "link": "https://www.nursingtimes.net/community-nursing/community-nurse-leader-recognised-by-yorkshire-university-01-07-2026/",
+    "summary": "The current leader of the Queen’s Institute of Community Nursing has been awarded an honorary doctorate by Leeds Beckett University. The post Community nurse leader recognised by Yorkshire university appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-01T21:58:38+09:00"
+   },
+   {
+    "title": "‘Without children’s nurses, our wider healthcare systems would buckle under pressure’",
+    "link": "https://www.nursingtimes.net/childrens-nursing/without-childrens-nurses-our-wider-healthcare-systems-would-buckle-under-pressure-01-07-2026/",
+    "summary": "Rebekah Overend and Carli Whittaker discuss the value and impact of children's nursing for wider healthcare services for Children’s Nurses Day. The post ‘Without children’s nurses, our wider healthcare systems would buckle under pressure’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-01T21:56:51+09:00"
    },
    {
     "title": "250 years of American nursing",
@@ -350,6 +382,22 @@
     "source": "라포르시안",
     "lang": "ko",
     "published": "2026-07-01T11:55:00+09:00"
+   },
+   {
+    "title": "Midwives felt ‘ignored and dismissed’ when raising safety concerns",
+    "link": "https://www.nursingtimes.net/midwifery-and-neonatal/midwives-felt-ignored-and-dismissed-when-raising-safety-concerns-30-06-2026/",
+    "summary": "Persistent workforce pressures, outdated service models and fragile education arrangements are just some of the problems affecting the maternity and neonatal system in England, according to a review. The post Midwives felt ‘ignored and dismissed’ when raising safety concerns appeared first on Nursin",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-01T02:09:06+09:00"
+   },
+   {
+    "title": "Shortlist announced for the 2026 Nursing Times Awards",
+    "link": "https://www.nursingtimes.net/leadership/shortlist-announced-for-the-2026-nursing-times-awards-30-06-2026/",
+    "summary": "The nurses, teams and organisations that have made the shortlist for this year’s Nursing Times Awards have been revealed. The post Shortlist announced for the 2026 Nursing Times Awards appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-06-30T23:17:48+09:00"
    },
    {
     "title": "Learning for the history of nursing",
