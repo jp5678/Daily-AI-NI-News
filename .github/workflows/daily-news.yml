@@ -5,6 +5,9 @@ on:
     # 매일 오전 6시 KST (= 21:00 UTC 전일)
     - cron: "0 21 * * *"
   workflow_dispatch: {} # 수동 실행 가능
+  push:
+    branches: [index]
+    paths-ignore: ["data/**"] # 뉴스 데이터 커밋으로는 재실행하지 않음
 
 permissions:
   contents: write
