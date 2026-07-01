@@ -35,10 +35,10 @@ AI융합 간호정보학 수강생을 위해 **매일 오전 6시(KST)** 최신 
 `scripts/fetch_news.py` 상단의 `FEEDS` 목록에서 RSS 피드를 추가/삭제할 수 있습니다.
 
 ```python
-{"name": "매체명", "url": "https://.../rss.xml", "category": "ai|it|ni", "lang": "ko|en"}
+{"name": "매체명", "url": "https://.../rss.xml", "category": "ai|it|nurse|ni", "lang": "ko|en"}
 ```
 
-- `category`: `ai`(AI 뉴스) / `it`(IT 뉴스) / `ni`(간호정보학·디지털헬스)
+- `category`: `ai`(AI 뉴스) / `it`(IT 뉴스) / `nurse`(간호 뉴스) / `ni`(간호정보학·디지털헬스)
 - 국내 의료 매체(`ni` + `ko`)는 간호·디지털헬스 관련 키워드가 포함된 기사만 선별됩니다.
   키워드는 같은 파일의 `NI_KEYWORDS`에서 조정하세요.
 

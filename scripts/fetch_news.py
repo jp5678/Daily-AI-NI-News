@@ -31,7 +31,9 @@ USER_AGENT = "Mozilla/5.0 (compatible; DailyAININews/1.0; +https://github.com/jp
 
 # ---------------------------------------------------------------------------
 # 뉴스 소스 정의
-# category: ai(AI 뉴스) / it(IT 뉴스) / ni(간호정보학·디지털헬스)
+# category: ai(AI 뉴스) / it(IT 뉴스) / nurse(간호 뉴스) / ni(간호정보학·디지털헬스)
+# 같은 피드를 두 카테고리에 등록해도 중복 제거로 기사는 한 곳에만 실린다.
+# (먼저 정의된 카테고리가 우선이므로 nurse를 ni보다 앞에 둔다)
 # ---------------------------------------------------------------------------
 FEEDS = [
     # --- 국내 AI/IT ---
@@ -47,6 +49,14 @@ FEEDS = [
     {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "lang": "en"},
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "it", "lang": "en"},
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "category": "it", "lang": "en"},
+    # --- 간호 뉴스 ---
+    {"name": "간호사신문", "url": "https://www.nursenews.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
+    {"name": "널스케어", "url": "https://www.nursenews.org/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
+    {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "청년의사", "url": "https://www.docdocdoc.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "Nursing Times", "url": "https://www.nursingtimes.net/feed/", "category": "nurse", "lang": "en"},
+    {"name": "American Nurse Journal", "url": "https://www.myamericannurse.com/feed/", "category": "nurse", "lang": "en"},
     # --- 보건의료·간호 (국내) ---
     {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
@@ -83,7 +93,13 @@ AI_KEYWORDS = [
     "에이전트", "추론 모델", "파운데이션 모델", "지능형",
 ]
 
-KEYWORD_SETS = {"ai": AI_KEYWORDS, "ni": NI_KEYWORDS}
+# 간호 뉴스 선별 키워드 (의료 일반 매체용)
+NURSE_KEYWORDS = [
+    "간호", "널스", "간협", "조산사", "요양보호", "보건교사",
+    "nurse", "nursing", "midwife",
+]
+
+KEYWORD_SETS = {"ai": AI_KEYWORDS, "ni": NI_KEYWORDS, "nurse": NURSE_KEYWORDS}
 
 MAX_PER_SOURCE = 6
 MAX_PER_CATEGORY = 18
@@ -183,7 +199,7 @@ def is_ni_relevant(item):
 
 
 def collect_feeds():
-    articles = {"ai": [], "it": [], "ni": []}
+    articles = {"ai": [], "it": [], "nurse": [], "ni": []}
     seen_links = set()
     seen_titles = set()
 

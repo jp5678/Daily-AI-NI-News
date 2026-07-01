@@ -20,6 +20,8 @@
     --ai-soft: #f3ecff;
     --it: #0891b2;
     --it-soft: #e6f7fb;
+    --nurse: #059669;
+    --nurse-soft: #e6f5ef;
     --ni: #e11d74;
     --ni-soft: #fdecf4;
     --paper: #b45309;
@@ -40,6 +42,8 @@
       --ai-soft: #2c2350;
       --it: #4dc4dd;
       --it-soft: #12333d;
+      --nurse: #3ddba4;
+      --nurse-soft: #123a2d;
       --ni: #ff6ba8;
       --ni-soft: #46182c;
       --paper: #e8a04c;
@@ -155,6 +159,7 @@
   }
   .chip.ai { background: var(--ai-soft); color: var(--ai); }
   .chip.it { background: var(--it-soft); color: var(--it); }
+  .chip.nurse { background: var(--nurse-soft); color: var(--nurse); }
   .chip.ni { background: var(--ni-soft); color: var(--ni); }
   .chip.paper { background: var(--paper-soft); color: var(--paper); }
   .chip.en { background: var(--primary-soft); color: var(--primary); }
@@ -216,6 +221,7 @@
     <button class="tab active" data-cat="all">전체</button>
     <button class="tab" data-cat="ai">🤖 AI 뉴스</button>
     <button class="tab" data-cat="it">💻 IT 뉴스</button>
+    <button class="tab" data-cat="nurse">👩‍⚕️ 간호 뉴스</button>
     <button class="tab" data-cat="ni">🩺 간호정보학·디지털헬스</button>
     <button class="tab" data-cat="paper">📄 최신 논문</button>
   </nav>
@@ -234,6 +240,7 @@
 const SECTIONS = [
   { key: "ai", title: "AI 뉴스", emoji: "🤖", color: "var(--ai)" },
   { key: "it", title: "IT 뉴스", emoji: "💻", color: "var(--it)" },
+  { key: "nurse", title: "간호 뉴스", emoji: "👩‍⚕️", color: "var(--nurse)" },
   { key: "ni", title: "간호정보학 · 디지털헬스", emoji: "🩺", color: "var(--ni)" },
 ];
 
@@ -265,7 +272,7 @@ function fmtTime(iso) {
 }
 
 function articleCard(a, catKey) {
-  const chipLabel = { ai: "AI", it: "IT", ni: "간호정보학" }[catKey] || "";
+  const chipLabel = { ai: "AI", it: "IT", nurse: "간호", ni: "간호정보학" }[catKey] || "";
   return `
     <a class="card" href="${esc(a.link)}" target="_blank" rel="noopener">
       <div class="meta">
