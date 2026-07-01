@@ -1,6 +1,6 @@
 {
  "date": "2026-07-02",
- "generatedAt": "2026-07-02T08:08:03.956967+09:00",
+ "generatedAt": "2026-07-02T08:11:56.715896+09:00",
  "articles": {
   "ai": [
    {
@@ -272,6 +272,30 @@
   ],
   "nurse": [
    {
+    "title": "Addressing pediatric vaccine hesitancy",
+    "link": "https://www.myamericannurse.com/addressing-pediatric-vaccine-hesitancy/",
+    "summary": "Recent federal updates to the national vaccine schedule and state immunization requirements have intensified public debate about vaccine administration, timing, and combination vaccines such as measles, mumps, rubella, varicella (MMRV). On January 5, 2026, the U.S. Department of Health and Human Ser",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-07-02T04:03:35+09:00"
+   },
+   {
+    "title": "The pursuit of equity in nurse staffing and AI",
+    "link": "https://www.myamericannurse.com/the-pursuit-of-equity-in-nurse-staffing-and-ai/",
+    "summary": "Early engagement by nurses as a strategy to fairly advance technology solutions For decades, nurse staffing has been a source of nursing dissatisfaction. It continues to be at the crux of many pervasive issues that impact the sustainability and strength of our profession. There are two opposing view",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-07-02T03:28:36+09:00"
+   },
+   {
+    "title": "Promote publication success by avoiding pitfalls",
+    "link": "https://www.myamericannurse.com/promote-publication-success-by-avoiding-pitfalls/",
+    "summary": "When nurses share their expertise, they benefit colleagues and patients; however, many remain reluctant because they fear rejection. Nobody likes rejection, whether from a friend, the organization you hoped to work for, or the journal where you submitted your manuscript. Fortunately, you can minimiz",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-07-02T02:39:04+09:00"
+   },
+   {
     "title": "IV vitamin C may lower mortality and sepsis risk in trauma patients",
     "link": "https://www.nursingtimes.net/emergency-and-critical-care/iv-vitamin-c-may-lower-mortality-and-sepsis-risk-in-trauma-patients-01-07-2026/",
     "summary": "Giving trauma patients high doses of intravenous (IV) vitamin C may lower the risks of both death and sepsis, as well as shortening hospital stays, according to UK researchers. The post IV vitamin C may lower mortality and sepsis risk in trauma patients appeared first on Nursing Times .",
@@ -302,6 +326,22 @@
     "source": "Nursing Times",
     "lang": "en",
     "published": "2026-07-01T21:56:51+09:00"
+   },
+   {
+    "title": "250 years of American nursing",
+    "link": "https://www.myamericannurse.com/250-years-of-american-nursing/",
+    "summary": "Human survival, particularly during times of crisis, has always hinged on our ability to provide care for our sick and vulnerable. The story of American nursing, then, is at least as old as the story of the nation itself. This occasion of America’s semiquincentennial offers a unique chance to reflec",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-07-01T21:24:55+09:00"
+   },
+   {
+    "title": "Ultrasound guidance and PIV insertion",
+    "link": "https://www.myamericannurse.com/ultrasound-guidance-and-piv-insertion/",
+    "summary": "Nurses frequently encounter challenges with peripheral I.V. (PIV) insertion, especially among adult patients with difficult I.V. access (DIVA), resulting in multiple unsuccessful skin punctures. Many nurses continue to apply the traditional visualization and extremity palpation technique to obtain v",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-07-01T21:22:39+09:00"
    },
    {
     "title": "서울의료원, 7월부터 호스피스완화의료센터 재개…15병상 운영",
@@ -358,6 +398,14 @@
     "source": "Nursing Times",
     "lang": "en",
     "published": "2026-06-30T23:17:48+09:00"
+   },
+   {
+    "title": "Learning for the history of nursing",
+    "link": "https://www.myamericannurse.com/learning-for-the-history-of-nursing/",
+    "summary": "As the nation celebrates its 250th anniversary, the story of nursing emerges with lessons and common threads from our past that inform contemporary practice. As the authors of our feature article note, “the story of American nursing is as old as the story of the nation itself.”",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-06-30T21:38:18+09:00"
    }
   ],
   "ni": [
