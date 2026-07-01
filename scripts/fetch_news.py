@@ -51,7 +51,11 @@ FEEDS = [
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "category": "it", "lang": "en"},
     # --- 간호 뉴스 ---
     {"name": "간호사신문", "url": "https://www.nursenews.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
-    {"name": "널스케어", "url": "https://www.nursenews.org/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
+    {"name": "간호사타임즈", "url": "https://www.fornurse.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
+    {"name": "간호조무사신문", "url": "https://www.klpnnews.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
+    {"name": "병원신문", "url": "https://www.khanews.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "라포르시안", "url": "https://www.rapportian.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "의학신문", "url": "http://www.bosa.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "청년의사", "url": "https://www.docdocdoc.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
