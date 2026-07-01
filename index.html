@@ -1,1 +1,377 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI융합 간호정보학 데일리 뉴스</title>
+<meta name="description" content="AI융합 간호정보학 수강생을 위한 매일 오전 6시 최신 AI·IT·간호정보학 뉴스 브리핑">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+  :root {
+    --bg: #f6f7fb;
+    --surface: #ffffff;
+    --text: #1a2233;
+    --text-sub: #5b6478;
+    --line: #e4e8f0;
+    --primary: #2b5cff;
+    --primary-soft: #eaf0ff;
+    --ai: #7c3aed;
+    --ai-soft: #f3ecff;
+    --it: #0891b2;
+    --it-soft: #e6f7fb;
+    --ni: #e11d74;
+    --ni-soft: #fdecf4;
+    --paper: #b45309;
+    --paper-soft: #fdf3e3;
+    --radius: 14px;
+    --shadow: 0 1px 3px rgba(20, 30, 60, .06), 0 8px 24px rgba(20, 30, 60, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1420;
+      --surface: #1a2130;
+      --text: #e8ecf5;
+      --text-sub: #97a0b5;
+      --line: #2a3348;
+      --primary: #6b93ff;
+      --primary-soft: #1f2c4d;
+      --ai: #b08aff;
+      --ai-soft: #2c2350;
+      --it: #4dc4dd;
+      --it-soft: #12333d;
+      --ni: #ff6ba8;
+      --ni-soft: #46182c;
+      --paper: #e8a04c;
+      --paper-soft: #3c2c14;
+      --shadow: 0 1px 3px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.25);
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
 
+  .container { max-width: 880px; margin: 0 auto; padding: 0 20px 80px; }
+
+  header {
+    background: linear-gradient(135deg, #2b5cff 0%, #7c3aed 55%, #e11d74 100%);
+    color: #fff;
+    padding: 44px 20px 56px;
+    text-align: center;
+  }
+  header .badge {
+    display: inline-block;
+    background: rgba(255,255,255,.18);
+    border: 1px solid rgba(255,255,255,.3);
+    border-radius: 999px;
+    padding: 4px 14px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .02em;
+    margin-bottom: 14px;
+  }
+  header h1 { font-size: clamp(24px, 4.5vw, 34px); font-weight: 800; letter-spacing: -.02em; }
+  header p { margin-top: 10px; font-size: 15px; opacity: .92; }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin: -26px 0 26px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 14px 18px;
+  }
+  .date-info { font-weight: 700; font-size: 15px; }
+  .date-info .sub { display: block; font-weight: 500; font-size: 12.5px; color: var(--text-sub); }
+  select {
+    font: inherit;
+    font-size: 14px;
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+  .tab {
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-sub);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 8px 18px;
+    cursor: pointer;
+    transition: all .15s;
+  }
+  .tab:hover { border-color: var(--primary); color: var(--primary); }
+  .tab.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+
+  section { margin-bottom: 36px; }
+  .section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: -.01em;
+    margin-bottom: 14px;
+  }
+  .section-title .dot { width: 10px; height: 10px; border-radius: 3px; }
+  .section-title .count { font-size: 13px; font-weight: 600; color: var(--text-sub); }
+
+  .card {
+    display: block;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    margin-bottom: 12px;
+    box-shadow: var(--shadow);
+    transition: transform .15s, border-color .15s;
+  }
+  .card:hover { transform: translateY(-2px); border-color: var(--primary); }
+  .card .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .chip {
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 999px;
+    letter-spacing: .02em;
+  }
+  .chip.ai { background: var(--ai-soft); color: var(--ai); }
+  .chip.it { background: var(--it-soft); color: var(--it); }
+  .chip.ni { background: var(--ni-soft); color: var(--ni); }
+  .chip.paper { background: var(--paper-soft); color: var(--paper); }
+  .chip.en { background: var(--primary-soft); color: var(--primary); }
+  .card .meta .src { font-size: 12.5px; color: var(--text-sub); font-weight: 600; }
+  .card .meta time { font-size: 12.5px; color: var(--text-sub); }
+  .card h3 { font-size: 16px; font-weight: 700; letter-spacing: -.01em; }
+  .card p.summary {
+    margin-top: 6px;
+    font-size: 13.5px;
+    color: var(--text-sub);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card .journal { margin-top: 6px; font-size: 13px; color: var(--text-sub); }
+
+  .empty, .loading, .error {
+    text-align: center;
+    color: var(--text-sub);
+    background: var(--surface);
+    border: 1px dashed var(--line);
+    border-radius: var(--radius);
+    padding: 44px 20px;
+    font-size: 14.5px;
+  }
+
+  footer {
+    text-align: center;
+    font-size: 13px;
+    color: var(--text-sub);
+    padding: 28px 20px 40px;
+    border-top: 1px solid var(--line);
+  }
+  footer a { color: var(--primary); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">매일 오전 6시 업데이트</div>
+  <h1>AI융합 간호정보학 데일리 뉴스</h1>
+  <p>수강생을 위한 최신 AI · IT · 간호정보학 소식 브리핑</p>
+</header>
+
+<div class="container">
+  <div class="toolbar">
+    <div class="date-info">
+      <span id="current-date">불러오는 중…</span>
+      <span class="sub" id="generated-at"></span>
+    </div>
+    <label>
+      지난 브리핑&nbsp;
+      <select id="archive-select" aria-label="지난 브리핑 날짜 선택"></select>
+    </label>
+  </div>
+
+  <nav class="tabs" id="tabs" aria-label="카테고리">
+    <button class="tab active" data-cat="all">전체</button>
+    <button class="tab" data-cat="ai">🤖 AI 뉴스</button>
+    <button class="tab" data-cat="it">💻 IT 뉴스</button>
+    <button class="tab" data-cat="ni">🩺 간호정보학·디지털헬스</button>
+    <button class="tab" data-cat="paper">📄 최신 논문</button>
+  </nav>
+
+  <main id="content">
+    <div class="loading">뉴스를 불러오는 중입니다…</div>
+  </main>
+</div>
+
+<footer>
+  본 페이지는 공개 RSS 피드와 PubMed 데이터를 자동 수집하여 매일 오전 6시(KST)에 갱신됩니다.<br>
+  기사 저작권은 각 언론사에 있으며, 제목 클릭 시 원문으로 이동합니다. ·
+  <a href="https://github.com/jp5678/Daily-AI-NI-News" target="_blank" rel="noopener">GitHub</a>
+</footer>
+
+<script>
+const SECTIONS = [
+  { key: "ai", title: "AI 뉴스", emoji: "🤖", color: "var(--ai)" },
+  { key: "it", title: "IT 뉴스", emoji: "💻", color: "var(--it)" },
+  { key: "ni", title: "간호정보학 · 디지털헬스", emoji: "🩺", color: "var(--ni)" },
+];
+
+let currentData = null;
+let currentCat = "all";
+
+const $ = (sel) => document.querySelector(sel);
+
+function esc(s) {
+  const d = document.createElement("div");
+  d.textContent = s ?? "";
+  return d.innerHTML;
+}
+
+function fmtDate(dateStr) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const day = ["일","월","화","수","목","금","토"][new Date(y, m - 1, d).getDay()];
+  return `${y}년 ${m}월 ${d}일 (${day})`;
+}
+
+function fmtTime(iso) {
+  if (!iso) return "";
+  try {
+    return new Intl.DateTimeFormat("ko-KR", {
+      month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit",
+      timeZone: "Asia/Seoul",
+    }).format(new Date(iso));
+  } catch { return ""; }
+}
+
+function articleCard(a, catKey) {
+  const chipLabel = { ai: "AI", it: "IT", ni: "간호정보학" }[catKey] || "";
+  return `
+    <a class="card" href="${esc(a.link)}" target="_blank" rel="noopener">
+      <div class="meta">
+        <span class="chip ${catKey}">${chipLabel}</span>
+        ${a.lang === "en" ? '<span class="chip en">해외</span>' : ""}
+        <span class="src">${esc(a.source)}</span>
+        ${a.published ? `<time>${fmtTime(a.published)}</time>` : ""}
+      </div>
+      <h3>${esc(a.title)}</h3>
+      ${a.summary ? `<p class="summary">${esc(a.summary)}</p>` : ""}
+    </a>`;
+}
+
+function paperCard(p) {
+  return `
+    <a class="card" href="${esc(p.link)}" target="_blank" rel="noopener">
+      <div class="meta">
+        <span class="chip paper">논문</span>
+        <span class="src">PubMed</span>
+        ${p.pubdate ? `<time>${esc(p.pubdate)}</time>` : ""}
+      </div>
+      <h3>${esc(p.title)}</h3>
+      <p class="journal">${esc(p.journal)}${p.authors ? " · " + esc(p.authors) : ""}</p>
+    </a>`;
+}
+
+function sectionBlock(title, emoji, color, inner, count) {
+  return `
+    <section>
+      <div class="section-title">
+        <span class="dot" style="background:${color}"></span>
+        ${emoji} ${esc(title)} <span class="count">${count}건</span>
+      </div>
+      ${inner}
+    </section>`;
+}
+
+function render() {
+  const el = $("#content");
+  if (!currentData) return;
+  const { articles = {}, papers = [] } = currentData;
+  let htmlOut = "";
+
+  for (const s of SECTIONS) {
+    if (currentCat !== "all" && currentCat !== s.key) continue;
+    const list = articles[s.key] || [];
+    if (!list.length && currentCat === "all") continue;
+    const inner = list.length
+      ? list.map(a => articleCard(a, s.key)).join("")
+      : '<div class="empty">오늘 수집된 기사가 없습니다.</div>';
+    htmlOut += sectionBlock(s.title, s.emoji, s.color, inner, list.length);
+  }
+
+  if (currentCat === "all" || currentCat === "paper") {
+    const inner = papers.length
+      ? papers.map(paperCard).join("")
+      : '<div class="empty">최근 2주 내 수집된 논문이 없습니다.</div>';
+    if (papers.length || currentCat === "paper") {
+      htmlOut += sectionBlock("간호정보학 최신 논문", "📄", "var(--paper)", inner, papers.length);
+    }
+  }
+
+  el.innerHTML = htmlOut || '<div class="empty">아직 수집된 뉴스가 없습니다. 첫 업데이트는 다음 오전 6시에 진행됩니다.</div>';
+}
+
+async function loadData(date) {
+  const file = date ? `data/news-${date}.json` : "data/latest.json";
+  const res = await fetch(`${file}?v=${Date.now()}`);
+  if (!res.ok) throw new Error(`${file} 로드 실패 (${res.status})`);
+  currentData = await res.json();
+  $("#current-date").textContent = fmtDate(currentData.date) + " 브리핑";
+  $("#generated-at").textContent = currentData.generatedAt
+    ? "생성 시각: " + fmtTime(currentData.generatedAt) : "";
+  render();
+}
+
+async function loadArchive() {
+  try {
+    const res = await fetch(`data/archive.json?v=${Date.now()}`);
+    if (!res.ok) return;
+    const { dates = [] } = await res.json();
+    const sel = $("#archive-select");
+    sel.innerHTML = dates.map((d, i) =>
+      `<option value="${d}">${fmtDate(d)}${i === 0 ? " (최신)" : ""}</option>`).join("");
+    sel.addEventListener("change", () => loadData(sel.value).catch(showError));
+  } catch { /* 아카이브 없으면 무시 */ }
+}
+
+function showError(e) {
+  $("#content").innerHTML =
+    `<div class="error">데이터를 불러오지 못했습니다.<br>${esc(e.message)}<br><br>` +
+    `첫 뉴스 수집이 아직 실행되지 않았다면, GitHub 저장소의 Actions 탭에서 "Daily News Update" 워크플로우를 수동 실행해 보세요.</div>`;
+  $("#current-date").textContent = "데이터 없음";
+}
+
+$("#tabs").addEventListener("click", (e) => {
+  const btn = e.target.closest(".tab");
+  if (!btn) return;
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t === btn));
+  currentCat = btn.dataset.cat;
+  render();
+});
+
+loadData().catch(showError);
+loadArchive();
+</script>
+</body>
+</html>
