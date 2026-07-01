@@ -36,7 +36,8 @@ USER_AGENT = "Mozilla/5.0 (compatible; DailyAININews/1.0; +https://github.com/jp
 FEEDS = [
     # --- 국내 AI/IT ---
     {"name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml", "category": "ai", "lang": "ko"},
-    {"name": "전자신문 SW·AI", "url": "https://rss.etnews.com/Section902.xml", "category": "ai", "lang": "ko"},
+    # Section902는 SW 전반을 다루므로 AI 관련 기사만 선별
+    {"name": "전자신문 SW·AI", "url": "https://rss.etnews.com/Section902.xml", "category": "ai", "lang": "ko", "keywords": "ai"},
     {"name": "전자신문 IT", "url": "https://rss.etnews.com/Section901.xml", "category": "it", "lang": "ko"},
     {"name": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "category": "it", "lang": "ko"},
     {"name": "디지털데일리", "url": "https://www.ddaily.co.kr/rss/S1N1.xml", "category": "it", "lang": "ko"},
@@ -74,6 +75,15 @@ NI_KEYWORDS = [
     "fhir", "documentation", "workflow", "burnout", "virtual care", "chatbot",
     "generative", "llm", "clinical", "hospital",
 ]
+
+# 피드에 "keywords": "ai" 지정 시 아래 키워드가 포함된 기사만 수집
+AI_KEYWORDS = [
+    "인공지능", " ai", "ai ", "에이아이", "생성형", "챗gpt", "챗봇", "거대언어모델",
+    "llm", "머신러닝", "딥러닝", "신경망", "오픈ai", "앤트로픽", "제미나이", "코파일럿",
+    "에이전트", "추론 모델", "파운데이션 모델", "지능형",
+]
+
+KEYWORD_SETS = {"ai": AI_KEYWORDS, "ni": NI_KEYWORDS}
 
 MAX_PER_SOURCE = 6
 MAX_PER_CATEGORY = 18
@@ -163,9 +173,13 @@ def parse_feed(xml_bytes):
     return items
 
 
-def is_ni_relevant(item):
+def matches_keywords(item, keywords):
     text = f" {item['title']} {item['summary']} ".lower()
-    return any(kw in text for kw in NI_KEYWORDS)
+    return any(kw in text for kw in keywords)
+
+
+def is_ni_relevant(item):
+    return matches_keywords(item, NI_KEYWORDS)
 
 
 def collect_feeds():
@@ -191,8 +205,11 @@ def collect_feeds():
             title_key = re.sub(r"\W+", "", item["title"].lower())[:60]
             if key in seen_links or title_key in seen_titles:
                 continue
-            # ni 카테고리는 의료 일반 매체가 많아 관련 키워드 필터 적용
-            if feed["category"] == "ni" and feed["lang"] == "ko" and not is_ni_relevant(item):
+            # 피드별 키워드 필터 (ni 국문 매체는 기본으로 간호정보학 키워드 적용)
+            kw_set = feed.get("keywords")
+            if not kw_set and feed["category"] == "ni" and feed["lang"] == "ko":
+                kw_set = "ni"
+            if kw_set and not matches_keywords(item, KEYWORD_SETS[kw_set]):
                 continue
             seen_links.add(key)
             seen_titles.add(title_key)
