@@ -1,47 +1,39 @@
 {
  "date": "2026-07-02",
- "generatedAt": "2026-07-02T08:43:52.385155+09:00",
+ "generatedAt": "2026-07-02T10:33:44.357631+09:00",
  "articles": {
   "ai": [
    {
-    "title": "경북도, 대경권 전략산업 인재양성에 올해 114억원 투입",
-    "link": "https://www.etnews.com/20260702000030",
-    "summary": "경북도는 올해 대경권 전략산업 인재 양성 및 산학연 협력 강화를 위한 대학지원사업에 114억원을 투입한다고 2일 밝혔다. 도는 대경권 성장엔진인 인공지능(AI), 반도체, 로봇, 미래 모빌리티, 이차전지, 바이오, 방산 등에 필요한 인재 육성에 속도를 낼 계획이다. 이 사업은 대학을 중심으로 대경권 전략산업 고도화를 위한 연구·기술혁신 인재 양성, 지역산업 현장과 밀접한 실무 중심 교육, 한일 지자체(경북도-나라현) 미래 인재 협력·교류 및 K",
+    "title": "배경훈 부총리 “모두의 AI로 'AI 강국' 실현”…토큰·수익 환원 제안",
+    "link": "https://www.etnews.com/20260702000148",
+    "summary": "“모든 국민이 각자 인공지능(AI) 에이전트를 보유하는 시대가 올 것입니다. 국민이 AI를 활용하며 AI로 사회적 가치와 경제적 가치를 함께 만들어낼 수 있는 구조를 고민해야 합니다.” 배경훈 부총리 겸 과학기술정보통신부 장관은 2일 사회관계망서비스(SNS)를 통해 현재 과기정통부가 추진 중인 '모두의 AI' 개발 관련 “AI 인프라 구축만으로 AI 강국이 되는 것은 아니고, AI 혜택 국민 모두가 함께 누릴 수 있는 'AI 기본사회'를 어떻게",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-02T08:14:11+09:00"
+    "published": "2026-07-02T10:25:09+09:00"
    },
    {
-    "title": "도구로보틱스, 美 로봇닷컴과 실내용 AI 순찰로봇 공급키로하는 MOU 체결",
-    "link": "https://www.etnews.com/20260702000028",
-    "summary": "AI 자율주행 순찰로봇 전문기업 도구로보틱스(대표 김진효)는 미국 로보틱스 기업 로봇닷컴과 자사 실내용 순찰로봇 '이로이(iroi)'를 약 200만달러어치 공급하기로 하는 업무협약(MOU)을 체결했다고 2일 밝혔다. 로봇닷컴은 미국 샌프란시스코에 본사를 둔 로보틱스 플랫폼 기업이다. 다양한 로봇 솔루션 도입과 운영을 지원하며 북미 시장에서 사업을 펼치고 있다. 도구로보틱스는 이번 협력으로 미국 현지 고객 접점을 확대하고, 순찰로봇 서비스 공급",
-    "source": "전자신문 SW·AI",
+    "title": "트웰브랩스, 시리즈B 1,500억 원 유치…영상 인식·기억·추론을 통합한 ‘영상 인지 시스템’ 확장",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40795",
+    "summary": "글로벌 영상 인공지능(AI) 선도 기업 트웰브랩스(TwelveLabs, 대표 이재성)가 1억 달러(약 1,500억 원) 규모의 시리즈B 투자 유치를 완료했다고 2일 밝혔다. 누적 투자 총액은 2억 달러 (약 3,000억 원) 이상이다.이번 라운드는 NEA와 네이버벤처스가 공동 주도했으며, 아마존(Amazon)이 주요 투자자로 참여했다. 여기에 래디컬벤처스(Radical Ventures), 한국투자파트너스, 인덱스벤처스(Index Ventures) 등 기존 투자자들이 후속 투자에 나섰고, 쿼드릴캐피탈(Quadrille Capital)",
+    "source": "인공지능신문",
     "lang": "ko",
-    "published": "2026-07-02T08:04:21+09:00"
+    "published": "2026-07-02T10:15:17+09:00"
    },
    {
-    "title": "DGIST, 오탐률 2% 혁신적 텍스트 워터마킹 개발…디지털 저작권 보호하는 AI 포렌식 분야에서 핵심 역할 기대",
-    "link": "https://www.etnews.com/20260702000022",
-    "summary": "디지스트(DGIST·총장 이건우) 연구팀이 가짜뉴스를 맞는 인공지능(AI) 포렌식 핵심기술을 개발했다. DGIST는 김영식 전기전자컴퓨터공학과·인공지능전공 교수 연구팀이 AI가 작성한 글에 눈에 보이지 않는 고유의 디지털 워터마크를 정교하게 심어두고, 텍스트가 훼손되거나 조작되어도 AI 생성 여부와 출처를 명확히 증명하는 혁신적인 가짜 방지 기술 'BREW(Block-wise Reliable Embedding for Watermarking)'를",
+    "title": "아이서티, 성균관대와 AI 데이터 트러스트 플랫폼 개발 추진",
+    "link": "https://www.etnews.com/20260702000126",
+    "summary": "영상보안 전문기업 아이서티(대표 김영후)는 성균관대 인공지능 건설 레질리언스 연구센터(ERC센터)와 '신뢰가능한 인공지능(Trustworthy AI)' 구현을 위한 전략적 업무협약(MOU)을 체결하고, AI 영상보안, 멀티모달 AI, AI 데이터 신뢰기술 분야 공동연구를 본격 추진한다고 밝혔다. 협약에 따라 양 기관은 △AI 영상보안 △영상 원본성(Integrity) 검증 △멀티모달 기반 상황인지(Context-Aware AI) △AI 데이터",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-02T07:50:19+09:00"
+    "published": "2026-07-02T10:12:31+09:00"
    },
    {
-    "title": "메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토",
-    "link": "https://www.etnews.com/20260702000019",
-    "summary": "메타 플랫폼스가 자체 데이터센터의 남는 인공지능(AI) 연산 자원을 외부에 판매하는 클라우드 사업을 검토하고 있다. 블룸버그통신은 1일(현지시간) 복수의 소식통을 인용해 메타가 사내 프로젝트인 '메타 컴퓨트(Meta Compute)'를 통해 클라우드 사업 모델을 구상하고 있다고 보도했다. 메타가 클라우드 시장에 진출하면 아마존웹서비스(AWS), 마이크로소프트 애저, 구글 클라우드 등과 경쟁하게 된다. 메타는 두 가지 사업 방식을 검토하고 있다고",
-    "source": "전자신문 SW·AI",
+    "title": "디노티시아, KV 캐시 압축기술로 ICML 2026 논문 채택",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=21018",
+    "summary": "디노티시아가 대형언어모델(LLM) 추론의 핵심 병목인 KV 캐시를 최대 20배까지 압축하는 기술 ‘STAR-KV’를 개발하고, 머신러닝 학회인 ICML 2026에 스포트라이트 논문으로 채택됐다고 1일 밝혔다. 논문과 소스코드는 이날 공개됐다.KV 캐시는 LLM이 이전에 처리한 문맥 정보를 GPU에 임시 저장해 재계산 없이 활용하는 방식이다. 챗봇이나 문서 요약 정도의 단순한 AI 활용에서는 큰 문제가 되지 않지만, AI가 여러 문서, 대화 이력, 코드, 검색 결과, 외부 도구 실행 결과를 동시에 참조하는 에이전트형 시스템으로 진화하",
+    "source": "THE AI",
     "lang": "ko",
-    "published": "2026-07-02T07:04:43+09:00"
-   },
-   {
-    "title": "팔란티어 CEO “오픈AI·앤트로픽 토큰 모델, 완전히 잘못됐다”",
-    "link": "https://www.etnews.com/20260702000018",
-    "summary": "미국 데이터 분석 기업 팔란티어 테크놀로지스의 알렉스 카프 최고경영자(CEO)가 오픈AI와 앤트로픽 등 폐쇄형 인공지능(AI) 기업의 토큰 기반 사업 모델을 비판했다. 카프 CEO는 1일(현지시간) 미국 경제방송 CNBC에 출연해 미국 기업들이 실질적인 가치를 얻지 못하면서 토큰 사용료를 지불하고 있다면서 “그들(오픈AI·앤트로픽)을 깎아내리려는 것은 아니지만 무언가 완전히 잘못됐다”고 말했다. 이는 폐쇄형 AI 모델이 기업 고객에게 과도하게",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-02T07:00:25+09:00"
+    "published": "2026-07-02T09:46:12+09:00"
    },
    {
     "title": "[7월1일] \"AI 시대 최대 리스크는 기술이 아닌 불평등\"…다시 거론된 '엥겔스의 정체'",
@@ -52,12 +44,12 @@
     "published": "2026-07-02T07:00:00+09:00"
    },
    {
-    "title": "최대호 안양시장, 민선 9기 출범…철도·AI 성장축 제시",
-    "link": "https://www.etnews.com/20260702000016",
-    "summary": "최대호 경기 안양시장이 지난 1일 민선 9기 임기를 시작하며 8개 철도노선과 18개 역세권 개발, 피지컬 인공지능(AI) 산업 육성을 주요 시정 과제로 제시했다. 안양시는 이날 오전 시청 강당에서 시민과 공직자 등 900여 명이 참석한 가운데 민선 9기 제11대 안양시장 취임식을 열었다. 최 시장은 취임사에서 GTX-C 노선 인덕원역 확정, 광역철도망 구축, 박달스마트시티 조성 사업시행자 지정, 인덕원 인텐스퀘어 착공 등을 언급하며 “그동안 미",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-02T06:04:22+09:00"
+    "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+    "link": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+    "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat. The article SpaceX shows investors a slim AI ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-02T04:47:31+09:00"
    },
    {
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -76,12 +68,44 @@
     "published": "2026-07-02T03:47:22+09:00"
    },
    {
+    "title": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "summary": "June Pixel Drop hero",
+    "source": "Google AI 블로그",
+    "lang": "en",
+    "published": "2026-07-02T03:15:00+09:00"
+   },
+   {
     "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
     "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
     "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
     "source": "TechCrunch AI",
     "lang": "en",
     "published": "2026-07-02T02:48:37+09:00"
+   },
+   {
+    "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+    "link": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
+    "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models? The articl",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-02T01:00:43+09:00"
+   },
+   {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "source": "Google AI 블로그",
+    "lang": "en",
+    "published": "2026-07-02T01:00:00+09:00"
+   },
+   {
+    "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+    "link": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+    "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way off, but accuracy kee",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-02T00:34:09+09:00"
    },
    {
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -124,38 +148,118 @@
     "published": "2026-07-01T21:10:00+09:00"
    },
    {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
-    "source": "MIT Technology Review",
+    "title": "Hidden code in Claude Code secretly flagged Chinese users",
+    "link": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+    "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder .",
+    "source": "The Decoder",
     "lang": "en",
-    "published": "2026-07-01T06:50:04+09:00"
+    "published": "2026-07-01T20:27:06+09:00"
    },
    {
-    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-    "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers:",
-    "source": "MIT Technology Review",
+    "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+    "link": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+    "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite identical list prices. An",
+    "source": "The Decoder",
     "lang": "en",
-    "published": "2026-07-01T02:36:48+09:00"
-   },
-   {
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
-    "source": "MIT Technology Review",
-    "lang": "en",
-    "published": "2026-06-30T21:10:00+09:00"
+    "published": "2026-07-01T20:12:09+09:00"
    }
   ],
   "it": [
    {
-    "title": "삼성전자 '감사 페스티벌' 5일 종료…삼성스토어 방문객 75% 급증",
-    "link": "https://www.etnews.com/20260702000033",
-    "summary": "삼성전자가 지난 달 8일부터 4주간 진행중인 '국민과 함께, 삼성전자 감사 페스티벌'이 5일 종료된다. '국민과 함께, 삼성전자 감사 페스티벌'은 삼성전자가 국민들의 성원과 지지로 거둔 성과에 보답하기 위해 진행 중인 행사다. 행사는 고객에게 제공한 혜택이 지역 소상공인 및 중소기업과의 상생으로 이어져, 모든 국민이 직간접적으로 삼성전자의 성과를 함께 누릴 수 있도록 하는 데 중점을 두고 있다. 행사 이후 전국 삼성스토어의 방문객 수는 행사 이",
+    "title": "엑스박스, 디스크 게임도 디지털로 연동하나…'디스크 없는 시대' 시험",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680613",
+    "summary": "[디지털투데이 AI리포터] 엑스박스(Xbox)가 일부 물리 게임을 디지털 사본으로 전환해 디스크 없이 실행할 수 있는 프로그램을 시험 중인 것으로 알려졌다.1일(현지시간) IT매체 엔가젯에 따르면, 대상은 엑스박스 원과 엑스박스 시리즈 X 타이틀이며, 기존 디스크 기반 구매를 디지털 환경으로 전환하려는 시도로 해석된다.이번 프로그램의 핵심은 물리 디스크와 디지털 버전을 연동하는 방식이다. 사용자가 디스크를 콘솔에 넣으면 해당 게임의 디지털 사본이 계정에 연결되고, 이후에는 디스크를 넣지 않아도 게임을 실행할 수 있는 구조다. 다른",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-07-02T10:28:19+09:00"
+   },
+   {
+    "title": "���긮��, SaaS ��� ���� �������� ��� ��ȭ��Ʈ����� �÷����� ���",
+    "link": "http://www.boannews.com/media/view.asp?idx=144453&kind=&sub_kind=",
+    "summary": "PC���� �̱��� �������� �л�� IT �ڻ� �ƿ츥 �߾� ����9�� ����������ȣ�� ���� �յΰ� ������ ���ü� Ȯ�� ����[���ȴ��� ����ȣ ����] ���긮���� ������� �����ϰ� ����� ��ü ���� ��Ȳ�� �߾ӿ��� �ϰ� ������ �� �ִ� SaaS ��� ��ȭ��Ʈ����� �÷������� ���� ����ߴ�. �� �÷����� ���� ����̳� EDR �ַ�ǰ� �浹 ���� ���� ��� �� ������,",
+    "source": "보안뉴스",
+    "lang": "ko",
+    "published": "2026-07-02T10:24:00+09:00"
+   },
+   {
+    "title": "“40년 묵은 징크스 깼다”…멕시코, 16강 진출 축하 인파 몰려 3명 압사",
+    "link": "https://www.etnews.com/20260702000146",
+    "summary": "2026 FIFA 북중미 월드컵 무대에서 극적인 승리를 거둔 멕시코가 이어진 거리 축하 행사 중 4명이 숨지는 비극적인 사고가 발생했다. 1일(현지시간) 텔레그래프 등 외신에 따르면 멕시코 보건당국은 월드컵 32강전에서 멕시코 국가대표팀이 에콰도르를 2-0으로 꺾은 뒤, 수도 멕시코시티 거리로 수많은 인파가 쏟아져 나오면서 과격한 축하 행사가 벌어졌다고 밝혔다. 이 과정에서 19세 여성과 44세 남성, 48세 여성이 인파에 깔려 질식사하는 사고",
     "source": "전자신문 IT",
     "lang": "ko",
-    "published": "2026-07-02T08:32:30+09:00"
+    "published": "2026-07-02T10:23:35+09:00"
+   },
+   {
+    "title": "기아, 연식변경 'The 2027 K5' 출시…상품성 강화",
+    "link": "https://www.etnews.com/20260702000114",
+    "summary": "기아가 브랜드 대표 중형 세단 K5 연식변경 모델 'The 2027 K5'를 출시, 판매에 돌입했다. The 2027 K5는 고객 선호 사양을 트림별로 대거 기본 적용, 상품 경쟁력을 높였다. 기아는 디지털 라이프 스타일을 반영해 전 트림에 신규 사양인 100W C타입 USB 단자와 케이블을 기본화했다. 프레스티지 트림에는 고속도로 주행 보조와 내비게이션 기반 스마트 크루즈 컨트롤 등을 기본 적용했다. 인기 트림인 베스트 셀렉션에는 12.3인치",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T10:07:49+09:00"
+   },
+   {
+    "title": "LG전자, 대만·싱가포르에 HVAC 아카데미 오픈…현지 완결형 B2B 가속",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403800",
+    "summary": "[테크월드=박규찬 기자] LG전자가 대만과 싱가포르에 냉난방공조(HVAC) 아카데미를 잇따라 개설하며 아시아 지역을 중심으로 한 글로벌 B2B 시장 공략에 속도를 낸다.LG전자는 최근 대만 타이중과 싱가포르에 새로운 'HVAC 아카데미'를 오픈했다고 2일 밝혔다.이번 거점 신설은 최근 급격한 도시화와 산업 인프라 확대로 공조 시스템 수요가 가파르게 늘고 있는 아시아 시장을 선점하기 위한 포석이다.현재 LG전자는 아시아, 유럽, 북미, 중남미, 아프리카 등 전 세계 40여 개국에서 약 70곳의 HVAC 아카데미를 운영 중이다. 이곳에",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-07-02T10:00:00+09:00"
+   },
+   {
+    "title": "폴스타, 플래그십 전기 SUV '폴스타 3' 국내 출시…7790만원부터",
+    "link": "https://www.etnews.com/20260702000103",
+    "summary": "스웨덴 프리미엄 전기차 브랜드 폴스타(Polestar)가 2일 플래그십 전기 SUV '폴스타 3'를 국내 시장에 공식 출시, 판매에 돌입했다. 폴스타코리아는 흥행 중인 폴스타 4에 이어, 상위급 모델 폴스타 3를 글로벌 시장 중 가장 합리적인 가격대에 선보여 국내 고급 전기차 시장을 공략한다. 폴스타 3는 유럽 신차 안전도 평가인 유로앤캡에서 '2025 가장 안전한 차'로 선정되는 등 동급 최고 수준의 안전성과 완성도를 입증했다. 고성능 스포츠",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T09:59:52+09:00"
+   },
+   {
+    "title": "쿠팡, 종합몰 앱 MAU '독주'…배달앱 3사는 모두 감소",
+    "link": "https://www.etnews.com/20260702000096",
+    "summary": "쿠팡이 지난달 3300만명을 웃도는 사용자 수를 기록하면서 종합몰 시장에서 압도적 1위를 기록했다. 2일 와이즈앱·리테일에 따르면 지난 6월(안드로이드 및 iOS 기준) 종합몰 앱 사용자 수 1위는 3356만5404명을 기록한 쿠팡이 차지했다. 이는 전월 대비 0.4% 소폭 감소했다. 하지만 2위와의 격차가 3배 이상 벌어지는 등 여전히 시장 내 압도적 지배력을 과시했다. 가장 눈에 띄는 성장세를 보인 곳은 알리익스프레스다. 알리익스프레스의 6",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T09:56:22+09:00"
+   },
+   {
+    "title": "대구시, 전국 최초 스마트도시 특화단지 지정…스마트도시 산업생태계 구축 속도",
+    "link": "https://www.etnews.com/20260702000072",
+    "summary": "대구광역시는 2일 국토교통부로부터 전국 최초 스마트도시 특화단지로 지정·고시됨에 따라 수성알파시티 일원을 중심으로 스마트도시 특화단지 조성사업을 본격 추진한다고 밝혔다. 대구 스마트도시 특화단지는 수성알파시티를 중심으로 조성될 계획이다. 시는 이 일원을 '모빌리티·로봇' '지능형 관제·안전' 특화 분야의 혁신기술 실증과 사업화를 지원하는 국가대표 스마트도시 산업거점으로 육성할 방침이다. 시는 지난해 6월 국토교통부 공모사업 선정 이후 시행계획",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T09:34:29+09:00"
+   },
+   {
+    "title": "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+    "link": "https://zdnet.co.kr/view/?no=20260702085955",
+    "summary": "[지디넷코리아]메타가 자체 인공지능(AI) 데이터센터와 반도체 인프라를 활용해 외부 기업에 AI 컴퓨팅 자원을 판매하는 클라우드 사업 진출을 추진한다. AI 인프라에 수백억 달러를 투자한 메타가 이를 새로운 수익원으로 연결하는 동시에, 아마존웹서비스(AWS)·마이크로소프트(MS)·구글이 주도해온 시장에 도전장을 내민 모습이다.1일(현지시간) 블룸버그통신에 따르면 메타는 내부 프로젝트인 '메타 컴퓨트'를 통해 AI 컴퓨팅 파워와 AI 모델을 판매하는 클라우드 사업을 준비 중인 것으로 알려졌다.회사는 자체 데이터센터에서 운영하는 AI ",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-07-02T09:26:57+09:00"
+   },
+   {
+    "title": "6월 소비자물가 3.2% 상승…한은 “7월엔 다소 낮아질 것”",
+    "link": "https://www.etnews.com/20260702000060",
+    "summary": "6월 소비자물가 상승률이 석유류와 농축수산물 가격 오름세 여파로 3.2%를 기록하며 전월보다 상승폭을 키웠다. 한국은행은 7월 물가상승률이 국제유가 하락과 정부 물가안정 대책에 힘입어 6월보다 다소 낮아질 것으로 전망했다. 한국은행은 2일 오전 본관 회의실에서 이지호 부총재보 주재로 '물가 상황 점검회의'를 개최하고 최근 물가 흐름을 점검했다. 한은에 따르면 6월 소비자물가 상승률은 전월(3.1%) 대비 0.1%포인트(p) 높아진 3.2%로 집",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-02T09:19:03+09:00"
+   },
+   {
+    "title": "Don't expect trackers to save your stolen car, experts say",
+    "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-07-02T08:31:43+09:00"
+   },
+   {
+    "title": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
+    "link": "https://www.engadget.com/2206465/apple-is-reportedly-planning-a-visual-refresh-of-the-entry-level-macbook-pro-next-year/",
+    "summary": "Next spring could be a fiesta of new iPads, MacBooks and iPhones.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-07-02T07:52:09+09:00"
    },
    {
     "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -164,14 +268,6 @@
     "source": "The Verge",
     "lang": "en",
     "published": "2026-07-02T07:39:43+09:00"
-   },
-   {
-    "title": "구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방",
-    "link": "https://zdnet.co.kr/view/?no=20260702073802",
-    "summary": "[지디넷코리아]구글이 6월 30일(현지시간) 자사 이미지 생성 모델 '나노 바나나(Nano Banana)' 기반의 개인화 이미지 생성 기능을 미국 내 자격 요건을 충족한 제미나이 앱 사용자에게 무료로 개방했다. 그동안 유료 등급에서만 쓸 수 있던 기능을 일반 사용자로 확대한 것이다.개인화 이미지 생성은 사용자의 사진이나 취향을 반영해 맞춤형 이미지를 만들어 주는 고급 창작 도구다. 구글은 이번 무료 개방으로 제미나이 앱의 사용자 참여도를 끌어올리는 동시에, 더 많은 사용 데이터를 확보해 모델 성능을 개선하려는 의도를 엿보였다. 프리",
-    "source": "ZDNet Korea",
-    "lang": "ko",
-    "published": "2026-07-02T07:38:02+09:00"
    },
    {
     "title": "The funeral for PlayStation discs has begun",
@@ -190,20 +286,20 @@
     "published": "2026-07-02T06:21:21+09:00"
    },
    {
-    "title": "40년간 서랍에 방치된 동물 뼈, 남극 최초의 '공룡 화석'이었다",
-    "link": "https://www.etnews.com/20260701000529",
-    "summary": "수십년 동안 박물관 수집품 서랍 속에 잠들어 있던 화석이 남극 대륙에서 최초로 발견된 공룡 뼈였던 것으로 밝혀졌다. 영국 BBC·미국 CNN 등에 따르면 런던 자연사 박물관은 지난달 30일(현지시간) 성명을 통해 해당 척추뼈 화석이 1985년 영국 남극 조사단(BAS)에 의해 처음 발굴됐으나, 당시에는 대형 파충류의 뼈로 오인되어 보관되어 왔다고 발표했다. 오랫동안 방치되었던 이 화석의 정체를 밝혀낸 이는 영국 남극 조사단의 고생물학자이자 지질",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-02T06:00:00+09:00"
-   },
-   {
     "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
     "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
     "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accountab",
     "source": "The Verge",
     "lang": "en",
     "published": "2026-07-02T05:58:33+09:00"
+   },
+   {
+    "title": "Apple's Hide My Email may not be hiding anything",
+    "link": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
+    "summary": "A vulnerability can reportedly connect real email addresses to anonymous ones.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-07-02T05:57:11+09:00"
    },
    {
     "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
@@ -214,63 +310,31 @@
     "published": "2026-07-02T05:10:21+09:00"
    },
    {
-    "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-    "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
-    "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and",
-    "source": "The Verge",
+    "title": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+    "link": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
+    "summary": "A rumored SpaceX device could offer a way to access xAI's models without having to use a smartphone.",
+    "source": "Engadget",
     "lang": "en",
-    "published": "2026-07-02T02:55:07+09:00"
+    "published": "2026-07-02T05:09:31+09:00"
    },
    {
-    "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-    "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
-    "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to dig",
-    "source": "The Verge",
+    "title": "Xbox is reportedly testing a way to digitize your disc-based games",
+    "link": "https://www.engadget.com/2206315/xbox-is-reportedly-testing-a-way-to-digitize-your-disc-based-games/",
+    "summary": "Xbox may offer a way to preserve physical game purchases in an increasingly digital future.",
+    "source": "Engadget",
     "lang": "en",
-    "published": "2026-07-02T02:46:46+09:00"
-   },
-   {
-    "title": "“부품 선별·배치까지”…美 휴머노이드, BMW 생산라인 투입",
-    "link": "https://www.etnews.com/20260701000591",
-    "summary": "미국 로봇 스타트업 피규어 AI(Figure AI)가 자사 휴머노이드 로봇 '피규어 03'을 BMW 스파턴버그 공장에 투입했다고 밝혔습니다 로봇의 전작인 피규어 02는 지난해 BMW 생산라인에서 약 3만대의 차량 조립 과정에 투입됐습니다. 이번 피규어 03은 단순 부품 이송을 넘어 자동차 생산 순서에 맞춰 필요한 부품을 선별하고 배치하는 '시퀀싱' 공정을 수행했습니다. 회사 측은 기존 고정형 자동화 설비나 6축 산업용 로봇으로는 자동화하기 어려",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-01T22:30:00+09:00"
-   },
-   {
-    "title": "8억 페라리에 올라가 뛰어논 아이들…부모는 “100만원만 배상” 배째라?",
-    "link": "https://www.etnews.com/20260701000613",
-    "summary": "중국에서 어린이들이 고가의 슈퍼카를 훼손한 뒤 배상 문제를 둘러싸고 차주와 가해 아동 부모들이 갈등을 빚고 있다. 차주는 수리비를 줄이기 위해 공식 서비스센터 대신 일반 정비업체를 이용했지만, 부모들이 실제 수리비에 크게 못 미치는 금액을 제시하면서 결국 법적 분쟁으로 이어질 전망이다. 지난달 30일(현지시간) 중국 관찰자망과 홍콩 사우스차이나모닝포스트(SCMP) 등 외신에 따르면, 윈난성 쿤밍에 거주하는 장모 씨는 최근 자신이 소유한 페라리",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-01T21:17:27+09:00"
-   },
-   {
-    "title": "현대차 지난달 판매 또 감소…기아는 상반기 역대 최대",
-    "link": "https://www.etnews.com/20260701000606",
-    "summary": "현대차·기아가 엇갈린 판매 성적표를 받았다. 현대차는 지난달 판매량이 재차 감소하며 상반기 판매가 2.3% 줄어든 반면 기아는 2.7% 늘면서 역대 최다 판매를 기록했다. 현대차는 상반기(1~6월) 196만6267대를 판매했다. 전년 동기 대비 2.3% 감소한 것이다. 현대차는 6월 국내 판매가 전년 동월 대비 6.2% 줄어든 5만8232대에 그쳤다. 해외 판매도 5.8% 줄어든 28만81대를 판매했는데 9개월 연속 감소했다. 현대차는 신차 효",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-01T19:15:12+09:00"
-   },
-   {
-    "title": "달러 스테이블코인 판 흔드는 OUSD…삼성·신한·두나무도 참여",
-    "link": "https://www.etnews.com/20260701000596",
-    "summary": "글로벌 결제·금융 기업이 참여한 달러 스테이블코인 연합체가 출범했다. 국내에선 삼성전자와 신한금융그룹, 두나무 등 주요 기업이 참여사 명단에 이름을 올리며 글로벌 지급결제 인프라 변화에 선제적으로 대응하는 모습이다. 1일 외신과 가상자산업계에 따르면 글로벌 컨소시엄 오픈스탠더드는 달러 기반 스테이블코인 '오픈USD(OUSD)'를 공개하고 연내 출시를 추진한다. 컨소시엄에는 비자, 마스터카드, 스트라이프, 코인베이스, 블랙록, 스탠다드차타드, 구",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-01T18:40:50+09:00"
-   },
-   {
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-    "source": "Ars Technica",
-    "lang": "en",
-    "published": "2026-07-01T05:03:14+09:00"
+    "published": "2026-07-02T04:49:27+09:00"
    }
   ],
   "nurse": [
+   {
+    "title": "직업건강협회, KISS 2026서 '직업건강Check’ 홍보부스 운영",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=237761",
+    "summary": "[라포르시안] 한국직업건강간호협회(회장 이복임, 이하 직업건강협회)는 오는 6일부터 9일까지 나흘간 고양 킨텍스에서 개최되는 ‘2026 국제안전보건전시회(KISS 2026)’에 참가한다고 밝혔다. 이번 전시회에서 직업건강협회는 최신 AI 기술을 활용한 산업보건관리 솔루션 '직업건강Check'를 집중 홍보한다. 직업건강Check는 근로자의 건강위험 요인을 간편하게 평가하고 개인 맞춤형 건강관리 서비스를 제공하는 AI 기반 디지털 헬스케어 시스템이다. 이를 활용해 △뇌심혈관 질환 발병 위험도 △직무스트레스 △감정노동 △심리사회적 건강",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-07-02T10:21:00+09:00"
+   },
    {
     "title": "Addressing pediatric vaccine hesitancy",
     "link": "https://www.myamericannurse.com/addressing-pediatric-vaccine-hesitancy/",
@@ -310,6 +374,14 @@
     "source": "Nursing Times",
     "lang": "en",
     "published": "2026-07-02T00:51:17+09:00"
+   },
+   {
+    "title": "[직생인]분당 서울대병원 간호사가 탈임상한 진짜 이유 (솔직 인터뷰)",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20883",
+    "summary": "하단 문구를 클릭하시면해당 채널로 이동합니다♥[직생인 - 간호학과 다니는 대기업 직장인]",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-07-02T00:00:00+09:00"
    },
    {
     "title": "Community nurse leader recognised by Yorkshire university",
@@ -368,22 +440,6 @@
     "published": "2026-07-01T16:36:36+09:00"
    },
    {
-    "title": "안산대학교 재난안전교육센터, 간호학과 대상 'AHA BLS Provider' 교육과정 성료",
-    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20882",
-    "summary": "안산대학교(총장 윤동열) 재난안전교육센터는 지난 22일부터 26일까지 5일간 간호학과 3학년 재학생 220명을 대상으로 미국심장협회(AHA) BLS Provider 교육과정을 성공적으로 운영했다고 밝혔다. 이번 교육은 대학 혁신지원사업의 일환으로 미래 보건의료 현장에서 활동할 예비 간호사들의 심폐소생술 수행 능력과 응급상황 대응 역량을 높이고자 마련했다. 교육은 교내 실습실에서 오전반과 오후반으로 나누어 총 10회 과정으로 진행했다. 교육 내용은 최신 AHA 2025 가이드라인을 반영하여 성인 심정지 환자에 대한 고품질 심폐소생술(",
-    "source": "간호사타임즈",
-    "lang": "ko",
-    "published": "2026-07-01T15:45:48+09:00"
-   },
-   {
-    "title": "원광대병원서 치료 받은 제주도 응급환자 \"잊지 못할 따뜻한 의료\"",
-    "link": "https://www.rapportian.com/news/articleView.html?idxno=237708",
-    "summary": "[라포르시안] 원광대학교병원(병원장 서일영)이 제주도에서 발생한 급성심근염 중증 응급환자를 응급이송과 전문 의료진의 신속한 치료를 통해 건강하게 회복시킨 가운데, 환자가 퇴원 후 국민신문고에 의료진과 간호사, 영양팀을 향한 감사글을 남기며 지역사회에 따뜻한 감동을 전하고 있다. 1일 원광대병원에 따르면 환자는 지난 6월 초 제주도에서 급성심근염으로 갑작스럽게 심장 기능이 급격히 저하되는 위중한 상황을 맞았다. 급성심근염은 심장 근육에 염증이 발생해 심한 경우 심인성 쇼크와 심정지로 이어질 수 있는 중증 응급질환이다.당시 환자는 제주",
-    "source": "라포르시안",
-    "lang": "ko",
-    "published": "2026-07-01T11:55:00+09:00"
-   },
-   {
     "title": "Midwives felt ‘ignored and dismissed’ when raising safety concerns",
     "link": "https://www.nursingtimes.net/midwifery-and-neonatal/midwives-felt-ignored-and-dismissed-when-raising-safety-concerns-30-06-2026/",
     "summary": "Persistent workforce pressures, outdated service models and fragile education arrangements are just some of the problems affecting the maternity and neonatal system in England, according to a review. The post Midwives felt ‘ignored and dismissed’ when raising safety concerns appeared first on Nursin",
@@ -406,16 +462,96 @@
     "source": "American Nurse Journal",
     "lang": "en",
     "published": "2026-06-30T21:38:18+09:00"
+   },
+   {
+    "title": "[Medical Report] 간호계, 진료지원 교육체계 반발 … 지방간 치료 단서 ‘젖산’에서 찾았다 外",
+    "link": "http://www.hkn24.com/news/articleView.html?idxno=350232",
+    "summary": "[헬스코리아뉴스 / 임해리] 간호계가 진료지원 간호사 교육체계와 전문성 관리 권한을 둘러싼 정부 방침에 반발하며 제도 개선을 요구하고 나선 가운데, 의료현장에서는 간호교육의 질 향상과 역할 변화에 대한 논의가 이어지고 있다. 또한 의료기관들은 치매 조기 진단과 치료 연계, 의료 인력 역량 강화, 해외 보건의료 협력 등 미래 의료 환경 변화에 대응하기 위한 기반 마련에 힘을 쏟고 있다. 오늘의 주요 의료계 뉴스를 정리했다. 지방간 치료 새 표적 제시… ‘젖산’이 간 지방 축적 유도 규명고려대 안산병원 유지희 교수와 강원",
+    "source": "헬스코리아뉴스",
+    "lang": "ko",
+    "published": "2026-06-30T14:53:50+09:00"
    }
   ],
   "ni": [
    {
-    "title": "코스닥 바이오 업종은 끝났다고? 전문가는 정반대 진단 내놓았다",
-    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77313",
-    "summary": "반도체와 인공지능(AI) 등 일부 업종이 국내 증시를 주도하면서 제약·바이오 업종은 상대적으로 투자자들의 관심에서 멀어졌다. 올해 초 '코스닥 3000' 기대감과 함께 단기간 급등했던 바이오 종목들도 이후 IT·반도체로 수급이 이동하면서 상승분의 상당 부분을 반납했다.하지만 이 같은 주가 부진을 산업 경쟁력 약화로 연결해 해석해서는 안 된다는 분석이 나온다. 글로벌 빅파마의 인수합병(M&A)과 기술도입 수요는 오히려 확대되고 있으며, 국내 기업들의 기술수출 성과도 이어지고 있다는 설명이다. 여기에 한국거래소가 추진 중인 '코스닥 세",
+    "title": "Orca Bio Cell Therapy Gets Landmark FDA Nod for New Kind of Living Medicine",
+    "link": "https://medcitynews.com/2026/07/orca-bio-treg-cell-therapy-tregzi-blood-cancer-leukemia-graft-versus-host-disease-gvhd/",
+    "summary": "FDA approval of Orca Bio’s Tregzi makes it the first cell therapy based on regulatory T cells, or Tregs. Clinical trial results showed reduced risk of graft-versus-host disease, a common complication of the allogeneic stem cell transplants that are a standard treatment for certain blood cancers. The",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-02T09:33:28+09:00"
+   },
+   {
+    "title": "SK바이오사이언스, 게이츠재단 AI 백신 플랫폼 주관기관 선정",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77336",
+    "summary": "SK바이오사이언스는 게이츠재단이 지원하는 AI 기반 임상 의사결정 지원 플랫폼 개발 과제 'ROTOR(The Research Optimization & Trial Outcome Recommender)'의 주관기관으로 선정됐다고 2일 밝혔다.회사 측에 따르면 이번 프로젝트에는 비영리 국제보건기구 PATH와 글로벌 IT 컨설팅 기업 Slalom이 참여하며, 게이츠재단이 연구비를 지원한다.ROTOR는 백신 개발 과정에서 생성되는 면역원성 및 임상 데이터를 AI로 분석해 임상 개발 전략과 의사결정을 지원하는 플랫폼이다. 회사는 후보물질의",
     "source": "히트뉴스",
     "lang": "ko",
-    "published": "2026-07-02T06:08:00+09:00"
+    "published": "2026-07-02T08:56:46+09:00"
+   },
+   {
+    "title": "SK바사-게이츠재단, 백신 개발에 'AI 엔진' 탑재",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=413955",
+    "summary": "글로벌 보건기관들과 협업을 통한 백신 개발에 나서고 있는 SK바이오사이언스가 게이츠재단과 손잡고 AI를 활용한 백신 개발 패러다임 전환에 나선다.SK바이오사이언스는 게이츠재단(Gates Foundation)이 지원하는 AI 기반 임상 의사결정 지원플랫폼 개발 과제인 'ROTOR(The Research Optimization & Trial Outcome Recommender)' 프로젝트의 주관기관으로 선정됐다고 2일 밝혔다.게이츠재단은 자체 펀딩을 통해 이번 프로젝트 비용을 지원하며, 과제에는 비영리 국제 보건기구인 PATH(Prog",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-07-02T08:37:56+09:00"
+   },
+   {
+    "title": "Morning Headlines 7/2/26",
+    "link": "https://histalk2.com/2026/07/01/morning-headlines-7-2-26/",
+    "summary": "Experity Acquires Exdion Healthcare to Accelerate AI-Driven Revenue Cycle Management ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-02T06:59:02+09:00"
+   },
+   {
+    "title": "Evernorth Invests $100M for AI Specialty Pharmacy Program",
+    "link": "https://medcitynews.com/2026/07/evernorth-invests-100m-for-ai-specialty-pharmacy-program/",
+    "summary": "Evernorth is investing $100 million through 2028 in Pharmacy Forward, an AI-powered program aimed at improving specialty pharmacy operations and patient care. The post Evernorth Invests $100M for AI Specialty Pharmacy Program appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-02T06:48:18+09:00"
+   },
+   {
+    "title": "Healthcare AI News 7/1/26",
+    "link": "https://histalk2.com/2026/07/01/healthcare-ai-news-7-1-26/",
+    "summary": "This column is presented by InterSystems. Learn how InterSystems helps ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-02T00:09:45+09:00"
+   },
+   {
+    "title": "This Week in Health Tech 7/1/26",
+    "link": "https://histalk2.com/2026/07/01/this-week-in-health-tech-7-1-26/",
+    "summary": "",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-01T22:53:17+09:00"
+   },
+   {
+    "title": "Your Healthcare AI Strategy Is Probably an Architecture Problem",
+    "link": "https://medcitynews.com/2026/07/your-healthcare-ai-strategy-is-probably-an-architecture-problem/",
+    "summary": "These three patterns keep showing up, and each is much cheaper to prevent than to fix later. The post Your Healthcare AI Strategy Is Probably an Architecture Problem appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-01T22:48:00+09:00"
+   },
+   {
+    "title": "Healthcare Retention Depends On Better Pathways, Not Just Better Pay",
+    "link": "https://medcitynews.com/2026/07/healthcare-retention-depends-on-better-pathways-not-just-better-pay/",
+    "summary": "When workers feel stuck in place, with limited opportunities to advance or deepen their skills, disengagement tends to follow. In allied health roles, where burnout is already high and many touch the patient experience, it is a risk healthcare employers cannot afford to ignore. The post Healthcare R",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-01T22:23:00+09:00"
+   },
+   {
+    "title": "What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools",
+    "link": "https://medcitynews.com/2026/07/what-healthcare-leaders-should-know-before-implementing-ai-powered-documentation-tools/",
+    "summary": "These tools are worth implementing. They are not worth implementing without the right preparation. The post What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-01T22:02:00+09:00"
    },
    {
     "title": "NHS Greater Glasgow and Clyde rolls out digital triage system",
@@ -440,6 +576,30 @@
     "source": "Digital Health News",
     "lang": "en",
     "published": "2026-07-01T15:30:52+09:00"
+   },
+   {
+    "title": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO",
+    "link": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
+    "summary": "Anthropic unveiled Claude Science, an AI workbench designed to run — not just assist with — pharma research. The company is seeking to build out its customer base in the pharma sector as it deepens its healthcare push ahead of a widely anticipated IPO. The post Anthropic Launches Claude Science to C",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-07-01T12:27:40+09:00"
+   },
+   {
+    "title": "Morning Headlines 7/1/26",
+    "link": "https://histalk2.com/2026/06/30/morning-headlines-7-1-26/",
+    "summary": "OpenLoop Acquires Hey Revia, Names Sowmya Subramanian Chief Technology and ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-01T09:00:20+09:00"
+   },
+   {
+    "title": "News 7/1/26",
+    "link": "https://histalk2.com/2026/06/30/news-7-1-26/",
+    "summary": "Top News Multi-vertical agentic AI operating system startup Trase raises ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-01T05:29:22+09:00"
    },
    {
     "title": "Midlands trust launches digital medicines management system",
@@ -483,6 +643,13 @@
    "pubdate": "2026 Jul 1"
   },
   {
+   "title": "Joint Cancer Nurses Society of Australia-Clinical Oncology Society of Australia Position Statement on the Contribution of Nurses to Cancer Survivorship Care in Australia.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42383647/",
+   "journal": "Asia-Pacific journal of clinical oncology",
+   "authors": "Chan RJ, McErlean G, Crawford-Williams F 외",
+   "pubdate": "2026 Jul 1"
+  },
+  {
    "title": "Ethical implications of the use of AI-based technologies for medical image classification systems in screening: a qualitative systematic review.",
    "link": "https://pubmed.ncbi.nlm.nih.gov/42383551/",
    "journal": "Health technology assessment (Winchester, England)",
@@ -523,6 +690,13 @@
    "journal": "JMIR formative research",
    "authors": "Kaur A, Ray A, Kumari A 외",
    "pubdate": "2026 Jun 30"
+  },
+  {
+   "title": "Feasibility of implementation, diagnostic accuracy, and end-user impact of an electronic health record (EHR)-based ureteral stent tracking tool in a pediatric population.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42379126/",
+   "journal": "Journal of pediatric urology",
+   "authors": "Ashbrook CQ, Hsi R, Cavanaugh KL 외",
+   "pubdate": "2026 Jun 17"
   }
  ]
 }
