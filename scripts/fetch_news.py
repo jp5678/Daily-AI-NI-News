@@ -36,19 +36,31 @@ USER_AGENT = "Mozilla/5.0 (compatible; DailyAININews/1.0; +https://github.com/jp
 # (먼저 정의된 카테고리가 우선이므로 nurse를 ni보다 앞에 둔다)
 # ---------------------------------------------------------------------------
 FEEDS = [
-    # --- 국내 AI/IT ---
+    # --- 국내 AI ---
     {"name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml", "category": "ai", "lang": "ko"},
+    {"name": "인공지능신문", "url": "https://www.aitimes.kr/rss/allArticle.xml", "category": "ai", "lang": "ko"},
+    {"name": "THE AI", "url": "https://www.newstheai.com/rss/allArticle.xml", "category": "ai", "lang": "ko"},
     # Section902는 SW 전반을 다루므로 AI 관련 기사만 선별
     {"name": "전자신문 SW·AI", "url": "https://rss.etnews.com/Section902.xml", "category": "ai", "lang": "ko", "keywords": "ai"},
-    {"name": "전자신문 IT", "url": "https://rss.etnews.com/Section901.xml", "category": "it", "lang": "ko"},
-    {"name": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "category": "it", "lang": "ko"},
-    {"name": "디지털데일리", "url": "https://www.ddaily.co.kr/rss/S1N1.xml", "category": "it", "lang": "ko"},
-    # --- 해외 AI/IT ---
+    # --- 해외 AI ---
     {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "lang": "en"},
     {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai", "lang": "en"},
     {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "lang": "en"},
+    {"name": "The Decoder", "url": "https://the-decoder.com/feed/", "category": "ai", "lang": "en"},
+    {"name": "Google AI 블로그", "url": "https://blog.google/technology/ai/rss/", "category": "ai", "lang": "en"},
+    {"name": "OpenAI 뉴스", "url": "https://openai.com/news/rss.xml", "category": "ai", "lang": "en"},
+    # --- 국내 IT ---
+    {"name": "전자신문 IT", "url": "https://rss.etnews.com/Section901.xml", "category": "it", "lang": "ko"},
+    {"name": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "category": "it", "lang": "ko"},
+    {"name": "디지털데일리", "url": "https://www.ddaily.co.kr/rss/S1N1.xml", "category": "it", "lang": "ko"},
+    {"name": "디지털투데이", "url": "https://www.digitaltoday.co.kr/rss/allArticle.xml", "category": "it", "lang": "ko"},
+    {"name": "보안뉴스", "url": "https://www.boannews.com/media/news_rss.xml", "category": "it", "lang": "ko"},
+    {"name": "테크월드뉴스", "url": "https://www.epnc.co.kr/rss/allArticle.xml", "category": "it", "lang": "ko"},
+    # --- 해외 IT ---
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "it", "lang": "en"},
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "category": "it", "lang": "en"},
+    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml", "category": "it", "lang": "en"},
+    {"name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "it", "lang": "en"},
     # --- 간호 뉴스 ---
     {"name": "간호사신문", "url": "https://www.nursenews.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
     {"name": "간호사타임즈", "url": "https://www.fornurse.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko"},
@@ -59,18 +71,27 @@ FEEDS = [
     {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "청년의사", "url": "https://www.docdocdoc.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "헬스코리아뉴스", "url": "https://www.hkn24.com/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
+    {"name": "메디컬옵저버", "url": "https://www.monews.co.kr/rss/allArticle.xml", "category": "nurse", "lang": "ko", "keywords": "nurse"},
     {"name": "Nursing Times", "url": "https://www.nursingtimes.net/feed/", "category": "nurse", "lang": "en"},
     {"name": "American Nurse Journal", "url": "https://www.myamericannurse.com/feed/", "category": "nurse", "lang": "en"},
+    {"name": "Daily Nurse", "url": "https://dailynurse.com/feed/", "category": "nurse", "lang": "en"},
+    {"name": "Nurse.com", "url": "https://www.nurse.com/blog/feed/", "category": "nurse", "lang": "en"},
     # --- 보건의료·간호 (국내) ---
     {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     {"name": "청년의사", "url": "https://www.docdocdoc.co.kr/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     {"name": "히트뉴스", "url": "https://www.hitnews.co.kr/rss/allArticle.xml", "category": "ni", "lang": "ko"},
+    {"name": "후생신보", "url": "https://www.whosaeng.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
+    {"name": "메디파나뉴스", "url": "https://www.medipana.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     # --- 디지털헬스·간호정보학 (해외) ---
     {"name": "Healthcare IT News", "url": "https://www.healthcareitnews.com/home/feed", "category": "ni", "lang": "en"},
     {"name": "MobiHealthNews", "url": "https://www.mobihealthnews.com/feed", "category": "ni", "lang": "en"},
     {"name": "HIMSS News", "url": "https://www.himss.org/news/rss.xml", "category": "ni", "lang": "en"},
     {"name": "Digital Health News", "url": "https://www.digitalhealth.net/feed/", "category": "ni", "lang": "en"},
+    {"name": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/rss/xml", "category": "ni", "lang": "en", "keywords": "ni"},
+    {"name": "MedCity News", "url": "https://medcitynews.com/feed/", "category": "ni", "lang": "en", "keywords": "ni"},
+    {"name": "HIStalk", "url": "https://histalk2.com/feed/", "category": "ni", "lang": "en"},
 ]
 
 # 간호정보학 카테고리(ni)에서 의료 일반 기사 중 관련 기사를 골라내는 키워드
@@ -106,8 +127,8 @@ NURSE_KEYWORDS = [
 KEYWORD_SETS = {"ai": AI_KEYWORDS, "ni": NI_KEYWORDS, "nurse": NURSE_KEYWORDS}
 
 MAX_PER_SOURCE = 6
-MAX_PER_CATEGORY = 18
-MAX_PAPERS = 8
+MAX_PER_CATEGORY = 20
+MAX_PAPERS = 10
 
 
 def log(msg):
@@ -257,7 +278,11 @@ def collect_pubmed_papers():
         '("nursing informatics"[Title/Abstract] OR '
         '("artificial intelligence"[Title/Abstract] AND nurs*[Title/Abstract]) OR '
         '("machine learning"[Title/Abstract] AND nurs*[Title/Abstract]) OR '
-        '("digital health"[Title/Abstract] AND nurs*[Title/Abstract]))'
+        '("large language model*"[Title/Abstract] AND nurs*[Title/Abstract]) OR '
+        '("digital health"[Title/Abstract] AND nurs*[Title/Abstract]) OR '
+        '(telehealth[Title/Abstract] AND nurs*[Title/Abstract]) OR '
+        '("clinical decision support"[Title/Abstract] AND nurs*[Title/Abstract]) OR '
+        '("electronic health record*"[Title/Abstract] AND nurs*[Title/Abstract]))'
     )
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
     try:
