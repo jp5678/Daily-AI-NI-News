@@ -4,7 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI융합 간호정보학 데일리 뉴스 | 청암대학교 간호학과</title>
-<meta name="description" content="AI융합 간호정보학 수강생을 위한 매일 오전 6시 최신 AI·IT·간호정보학 뉴스 브리핑">
+<meta name="description" content="청암대학교 간호학과 · 매일 오전 6시 최신 AI · IT · 간호 · 간호정보학 뉴스와 논문을 전하는 데일리 브리핑">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2288%22>🩺</text></svg>">
+<meta property="og:type" content="website">
+<meta property="og:title" content="AI융합 간호정보학 데일리 뉴스">
+<meta property="og:description" content="매일 오전 6시 최신 AI · IT · 간호 · 간호정보학 뉴스와 논문을 전하는 데일리 브리핑">
+<meta name="theme-color" content="#2b5cff">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
@@ -292,12 +297,12 @@
   </div>
 
   <nav class="tabs" id="tabs" aria-label="카테고리">
-    <button class="tab active" data-cat="all">전체</button>
-    <button class="tab" data-cat="ai">🤖 AI 뉴스</button>
-    <button class="tab" data-cat="it">💻 IT 뉴스</button>
-    <button class="tab" data-cat="nurse">👩‍⚕️ 간호 뉴스</button>
-    <button class="tab" data-cat="ni">🩺 간호정보학</button>
-    <button class="tab" data-cat="paper">📄 최신 논문</button>
+    <button class="tab active" data-cat="all" aria-pressed="true">전체</button>
+    <button class="tab" data-cat="ai" aria-pressed="false">🤖 AI 뉴스</button>
+    <button class="tab" data-cat="it" aria-pressed="false">💻 IT 뉴스</button>
+    <button class="tab" data-cat="nurse" aria-pressed="false">👩‍⚕️ 간호 뉴스</button>
+    <button class="tab" data-cat="ni" aria-pressed="false">🩺 간호정보학</button>
+    <button class="tab" data-cat="paper" aria-pressed="false">📄 최신 논문</button>
   </nav>
 
   <main id="content">
@@ -445,7 +450,11 @@ function showError(e) {
 $("#tabs").addEventListener("click", (e) => {
   const btn = e.target.closest(".tab");
   if (!btn) return;
-  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t === btn));
+  document.querySelectorAll(".tab").forEach(t => {
+    const on = t === btn;
+    t.classList.toggle("active", on);
+    t.setAttribute("aria-pressed", String(on));
+  });
   currentCat = btn.dataset.cat;
   render();
 });

@@ -2,20 +2,21 @@
 """AI융합 간호정보학 데일리 뉴스 수집 스크립트.
 
 매일 오전 6시(KST)에 GitHub Actions로 실행되어:
-1. AI / IT 뉴스 RSS 피드 수집
-2. 간호정보학·디지털헬스 뉴스 및 최신 논문(PubMed) 수집
-3. data/news-YYYY-MM-DD.json 및 data/latest.json 생성
+1. AI / IT / 간호 / 간호정보학 뉴스 RSS 피드를 병렬로 수집
+2. 간호정보학 최신 논문(PubMed) 수집
+3. data/news-YYYY-MM-DD.json, data/latest.json, data/archive.json 생성
 """
 
 import json
 import os
 import re
 import sys
+import time
 import html
-import hashlib
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -130,15 +131,29 @@ MAX_PER_SOURCE = 6
 MAX_PER_CATEGORY = 20
 MAX_PAPERS = 10
 
+# 피드를 동시에 받아오는 스레드 수 (피드가 많아 순차 수집은 느리다)
+FETCH_WORKERS = 8
+FETCH_TIMEOUT = 15
+FETCH_RETRIES = 1
+
 
 def log(msg):
     print(f"[fetch_news] {msg}", file=sys.stderr)
 
 
-def fetch_url(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+def fetch_url(url, timeout=FETCH_TIMEOUT, retries=FETCH_RETRIES):
+    """URL을 받아 bytes 반환. 일시적 네트워크 오류는 짧은 백오프 후 재시도."""
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"})
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read()
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(1.5 * (attempt + 1))
+    raise last_err
 
 
 def strip_html(text):
@@ -219,8 +234,13 @@ def matches_keywords(item, keywords):
     return any(kw in text for kw in keywords)
 
 
-def is_ni_relevant(item):
-    return matches_keywords(item, NI_KEYWORDS)
+def _fetch_feed(feed):
+    """피드를 받아 파싱한 (feed, items) 튜플 반환. 실패 시 items=None."""
+    try:
+        return feed, parse_feed(fetch_url(feed["url"]))
+    except Exception as e:
+        log(f"SKIP {feed['name']}: {e}")
+        return feed, None
 
 
 def collect_feeds():
@@ -228,12 +248,13 @@ def collect_feeds():
     seen_links = set()
     seen_titles = set()
 
-    for feed in FEEDS:
-        try:
-            raw = fetch_url(feed["url"])
-            items = parse_feed(raw)
-        except Exception as e:
-            log(f"SKIP {feed['name']}: {e}")
+    # 모든 피드를 병렬로 받되, 중복 제거는 FEEDS 정의 순서대로 처리해
+    # 카테고리 우선순위(nurse가 ni보다 먼저)를 그대로 유지한다.
+    with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as executor:
+        results = list(executor.map(_fetch_feed, FEEDS))
+
+    for feed, items in results:
+        if items is None:
             continue
 
         count = 0
@@ -285,15 +306,16 @@ def collect_pubmed_papers():
         '("electronic health record*"[Title/Abstract] AND nurs*[Title/Abstract]))'
     )
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+    tool = "&tool=DailyAININews"
     try:
         search_url = (
             f"{base}/esearch.fcgi?db=pubmed&retmode=json&retmax={MAX_PAPERS}"
-            f"&sort=date&datetype=edat&reldate=14&term={urllib.parse.quote(query)}"
+            f"&sort=date&datetype=edat&reldate=14{tool}&term={urllib.parse.quote(query)}"
         )
         ids = json.loads(fetch_url(search_url))["esearchresult"].get("idlist", [])
         if not ids:
             return []
-        summary_url = f"{base}/esummary.fcgi?db=pubmed&retmode=json&id={','.join(ids)}"
+        summary_url = f"{base}/esummary.fcgi?db=pubmed&retmode=json{tool}&id={','.join(ids)}"
         result = json.loads(fetch_url(summary_url))["result"]
         papers = []
         for pmid in ids:
