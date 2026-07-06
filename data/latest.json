@@ -1,47 +1,55 @@
 {
  "date": "2026-07-06",
- "generatedAt": "2026-07-06T17:42:59.521183+09:00",
+ "generatedAt": "2026-07-06T21:33:25.268933+09:00",
  "articles": {
   "ai": [
    {
-    "title": "메타, 미성년 위장해 경쟁사 AI에 '극단적 프롬프트' 테스트…약관 위반 논란",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212470",
-    "summary": "메타가 수백명의 외부 계약직 인력을 동원해 경쟁사의 AI 챗봇을 대상으로 미성년자로 위장한 계정을 사용해 수만 건의 극단적인 프롬프트를 입력하는 비공개 프로젝트를 운영한 사실이 드러났다. 이를 AI 안전성 평가를 위한 업계 표준 절차라고 주장했지만, 전문가들은 경쟁사에 알리지 않은 채 비밀리에 진행된 대규모 테스트는 일반적인 안전성 검증의 범위를 벗어난다고 지적하고 있다.와이어드에 따르면, 이 프로젝트는 메타의 협력업체 코베일런이 수행했으며 내부적으로 '칸(Cannes)'이라는 이름으로 운영됐다. 올해 4월21일까지 진행됐으며, 오",
-    "source": "AI타임스",
-    "lang": "ko",
-    "published": "2026-07-06T17:23:04+09:00"
+    "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+    "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+    "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra variant has also been canc",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-06T21:30:11+09:00"
    },
    {
-    "title": "'AX 2.0' 시대, 韓 생존 전략 담은 'AI 문명 대전환' 출간",
-    "link": "https://www.etnews.com/20260706000415",
-    "summary": "스토리하우스는 대한민국이 인공지능(AI) 전환(AX) 흐름에 대응해 나아가야 할 방향을 다룬 신간 'AI 문명 대전환: 생성형 AI가 바꾸는 산업·국가·인간의 미래'를 출간했다고 6일 밝혔다. 한성대 IT공과대학 김진환 학장을 비롯해 황동현·유상미·이승준 교수 등 현장 전문가가 공동 집필한 이 책은 2023년 챗GPT 등장 이후 3년간 이어진 기술 변화와 국제적 흐름을 분석했다. 저자들은 AI가 스스로 판단하고 행동하는 'AX 2.0' 시대의",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-06T17:21:53+09:00"
+    "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
+    "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
+    "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-06T20:19:29+09:00"
    },
    {
-    "title": "구글, FBI와 공조해 세계 최대 악성 프록시 네트워크 ‘넷넛(NetNut)’ 차단",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40848",
-    "summary": "구글 위협 인텔리전스 그룹(Google Threat Intelligence Group, GTIG)이 지난 3일(현지시간) 미국 연방수사국(FBI)과 업계 파트너들과 협력해 세계 최대 규모의 악성 주거용 프록시(residential proxy) 네트워크 중 하나인 ‘넷넛(NetNut)’에 대한 대규모 차단 작전을 수행했다.이번 조치는 올해 초 중국 기반의 IPIDEA 프록시 네트워크를 무력화한 데 이은 후속 조치로, 넷넛이 악용해 온 수백만 대의 감염 기기를 차단함으로써 글로벌 프록시 봇넷(botnet) 생태계 해체에 중요한 전환점이",
+    "title": "\"생성형 AI, 사진의 경계까지 확장한다\"…퀄컴 특허 기술이 보여주는 '무한 캔버스'의 시대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40853",
+    "summary": "생성형 인공지능(AI)은 이제 단순히 새로운 이미지를 만들어내는 수준을 넘어 기존 사진 자체를 다시 창조하는 단계로 진화하고 있다. 불과 몇 년 전까지만 하더라도 생성형 AI는 텍스트를 입력하면 새로운 그림을 생성하거나 사진 속 일부 영역을 수정하는 수준에 머물렀다. 그러나 최근에는 사용자가 촬영한 사진의 경계를 넘어 실제 존재하지 않았던 공간까지 자연스럽게 생성하는 기술이 빠르게 발전하고 있다.이러한 기술은 흔히 '아웃페인팅(Outpainting)'이라 불린다. 사진의 바깥 영역을 AI가 추론해 확장하는 기술이다. 사용자는 사진을",
     "source": "인공지능신문",
     "lang": "ko",
-    "published": "2026-07-06T17:15:45+09:00"
+    "published": "2026-07-06T19:46:41+09:00"
    },
    {
-    "title": "인간형 AI 사상까지 통제?…中, 빅테크 AI 에이전트 서비스 중단",
-    "link": "https://www.etnews.com/20260706000414",
-    "summary": "중국 빅테크 기업들이 제공하던 맞춤형 인공지능(AI) 에이전트 서비스가 잇따라 종료된다. 오는 15일부터 인간과 유사한 방식으로 교감하는 AI를 대상으로 새로운 규제가 시행되면서 관련 기능을 정리하는 것으로 보인다. 5일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 바이트댄스는 AI 앱 더우바오의 에이전트 서비스를 15일 종료한다고 최근 공지했다. 회사는 서비스 개편을 이유로 들었으며, 오는 10월 15일부터는 기존 에이전트 관련",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-06T17:15:30+09:00"
+    "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
+    "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
+    "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed appea",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-07-06T19:04:02+09:00"
    },
    {
-    "title": "비드래프트, 실제 양자컴퓨터로 대칭키 암호 구조 해독 실증",
-    "link": "https://www.etnews.com/20260706000411",
-    "summary": "AI 전문기업 비드래프트는 IBM 156큐빗 실제 양자컴퓨터 'ibm_kingston'에서 대칭키 암호의 대표 구조인 Even-Mansour와 Feistel 축소 구조를 대상으로 양자 암호분석 실증에 성공했다고 밝혔다. 이번 실험의 핵심은 암호 구조 안에 숨어 있는 '주기'를 실제 양자 하드웨어에서 복원한 것이다. 비드래프트는 Simon 알고리즘 기반 실험을 통해 Even-Mansour 구조에서 N=5부터 N=10까지 비밀키를 좌우하는 숨은 주",
-    "source": "전자신문 SW·AI",
+    "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+    "summary": "'메타 AI'에 사용자의 반복적인 작업을 자동으로 수행하는 '예약 작업(Scheduled Tasks)' 기능이 도입될 것으로 확인됐다. 이번 기능이 추가되면 메타 AI는 단순히 질문에 답하는 챗봇을 넘어, 사용자를 대신해 비동기적으로 업무를 수행하는 AI 에이전트 형태로 한 단계 진화할 것으로 기대된다.4일(현지시간) 테스팅카탈로그에 따르면, 메타 AI 웹 버전의 개발 빌드에서는 '예약 작업(Scheduled Tasks)' 메뉴가 새롭게 추가된 정황이 발견됐다.아직 일반 사용자에게는 공개되지 않았지만, 사용자가 매번 같은 프롬프트를",
+    "source": "AI타임스",
     "lang": "ko",
-    "published": "2026-07-06T17:13:26+09:00"
+    "published": "2026-07-06T18:37:29+09:00"
+   },
+   {
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to ",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-07-06T18:00:00+09:00"
    },
    {
     "title": "딥엑스, 도쿄서 1300여 건 상담... 저전력 NPU로 日 제조업 침투",
@@ -50,30 +58,6 @@
     "source": "THE AI",
     "lang": "ko",
     "published": "2026-07-06T17:03:12+09:00"
-   },
-   {
-    "title": "몰로코, AI 기반 CTV 맞춤형 영상 광고로 북미 진출 지원",
-    "link": "https://www.etnews.com/20260706000343",
-    "summary": "“몰로코는 인공지능(AI) 기반 광고 기술로 국내 기업의 미국 진출 파트너가 되겠습니다. 커넥티드TV(CTV) 특화 광고 플랫폼이 새로운 창구가 될 것입니다.” 안재균 몰로코 한국지사장은 최근 전자신문과 인터뷰에서 “몰로코는 모바일 중심에서 CTV로 광고 사업을 확대, 사업 다각화와 새로운 성장동력을 확보하고 있다”며 이같이 밝혔다. 몰로코는 안익진 대표가 미국에서 창업한 AI 애드테크 기업이다. 2021년 유니콘 기업으로 등극했고 현재 기업가",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-06T17:00:00+09:00"
-   },
-   {
-    "title": "[테크 차이나] AI가 쓴 소설, AI가 가려낸다…웹소설 시장의 역설",
-    "link": "https://www.etnews.com/20260706000183",
-    "summary": "2026년 들어 중국 무료 웹소설 플랫폼들이 AI 생성 콘텐츠 단속에 본격 나서고 있다. 그러나 아이러니하게도 AI가 쓴 소설을 AI가 판별하는 구조 속에서 인간 작가들마저 'AI처럼 보이지 않는 글쓰기'를 고민해야 하는 상황에 놓였다. 중국 무료 웹소설 플랫폼 판치에 노벨(Fanqie Novel)은 올해 상반기 콘텐츠 심사를 대폭 강화했다. 플랫폼에 따르면 6월 한 달 동안에만 10만권 이상 저품질 작품에 대해 계약을 거부했고, 4만권이 넘는",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-06T17:00:00+09:00"
-   },
-   {
-    "title": "망고부스트, '초저지연 AI 패브릭' 국책사업 수주…정부지원 144억원",
-    "link": "https://www.etnews.com/20260706000119",
-    "summary": "한국 반도체 스타트업 망고부스트가 인공지능(AI) 데이터센터용 초고속·초저지연 네트워크 기술 개발을 위한 정부 대형 연구개발(R&D) 사업의 총괄 주관기관으로 선정됐다. 6일 업계에 따르면 망고부스트(대표 김장우)는 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 '데이터센터 네트워크 인프라 기술 선도사업(과제번호 RS-2026-25507250)'에서 총괄 및 1세부 주관기관으로 선정됐다. 오는 2030년 12월까지 총 4년 9개월",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-06T17:00:00+09:00"
    },
    {
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
@@ -108,30 +92,6 @@
     "published": "2026-07-05T19:45:46+09:00"
    },
    {
-    "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
-    "link": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
-    "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete with frontier models fr",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-05T19:22:06+09:00"
-   },
-   {
-    "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
-    "link": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
-    "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" b",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-05T18:02:36+09:00"
-   },
-   {
-    "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
-    "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
-    "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform wo",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-05T16:52:17+09:00"
-   },
-   {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
@@ -162,24 +122,144 @@
     "source": "TechCrunch AI",
     "lang": "en",
     "published": "2026-07-05T00:51:32+09:00"
+   },
+   {
+    "title": "The only AI glossary you’ll need this year",
+    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-07-04T06:20:00+09:00"
+   },
+   {
+    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+    "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-07-04T02:34:37+09:00"
    }
   ],
   "it": [
    {
-    "title": "��������-Ƽ���� AI ����Ƽ�� ����... �۷ι� AI �ŷ� ���� ���� ����",
-    "link": "http://www.boannews.com/media/view.asp?idx=144522&kind=&sub_kind=",
-    "summary": "AI �� ���������� ���� ���� ����[���ȴ��� �Ѽ��� ����] AI ���� ������� �������ɰ� AI ������ ������� Ƽ������ AI �ô� �ŷ��� �� �ִ� ���� ȯ�� ������ ���� ���ΰ����� �ŷ� ���ȡ�(AI Trust Security) �о� ������ ���� ����� �ξ��ٰ� 6�� ������.�̹� ������ ���� ���������� AI ����Ƽ��(AI Red Teaming) �� AI",
-    "source": "보안뉴스",
-    "lang": "ko",
-    "published": "2026-07-06T17:33:00+09:00"
+    "title": "Comcast buys the UK's biggest commercial broadcaster, ITV",
+    "link": "https://www.engadget.com/2208279/comcast-buys-the-uks-biggest-commercial-broadcaster-itv/",
+    "summary": "Comcast subsidiary Sky plans to buy the UK's biggest broadcaster, ITV.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-07-06T21:21:23+09:00"
    },
    {
-    "title": "셀트리온, CT-P51 미국 임상 3상 시험계획 변경 신청",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681734",
-    "summary": "[디지털투데이 윤선훈 에디터] 제약바이오 기업 셀트리온(068270)이 7월 6일 공시를 통해 미국에서 진행 중인 CT-P51(키트루다 바이오시밀러) 임상 3상 시험계획 변경을 신청했다고 밝혔다. 이번 임상시험은 이전에 치료받지 않은 전이성 비편평 비소세포폐암 환자를 대상으로 CT-P51과 키트루다의 유효성 및 안전성을 비교하기 위한 이중눈가림, 무작위배정, 활성대조 방식의 글로벌 제3상 임상이다.임상시험은 총 220명의 대상자를 모집하며, 치료기간은 2년이다. 셀트리온은 이번 임상시험을 통해 CT-P51 약물의 오리지널 약물 키트",
+    "title": "벤틀리 첫 전기차 이름은 '토르칼'…9월 23일 공개",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681791",
+    "summary": "[디지털투데이 AI리포터] 벤틀리가 첫 전기차 '토르칼'을 오는 9월 23일 공개한다. 6일(현지시간) IT매체 아스테크니카(ArsTechnica)에 따르면 토르칼은 벤틀리 라인업에 추가될 네 번째 모델이다.벤틀리는 그동안 첫 배터리 전기차를 개발해왔다. 지난해 말 북극권 시험 주행에서 차량이 포착됐고, 몇 주 전에는 뉘르부르크링에서도 다른 시험차가 확인됐다.토르칼은 벤틀리의 기존 작명 방식을 따랐다. 벤테이가, 바칼라르, 바투르처럼 자연 지형에서 이름을 가져왔으며, 스페인 엘 토르칼 데 안테케라의 석회암 지형에서 이름을 땄다. 벤",
     "source": "디지털투데이",
     "lang": "ko",
-    "published": "2026-07-06T17:32:01+09:00"
+    "published": "2026-07-06T21:09:00+09:00"
+   },
+   {
+    "title": "앤트로픽, 페이블5 사이버 탈옥 신고 '해커원 버그바운티' 개설",
+    "link": "https://zdnet.co.kr/view/?no=20260706203507",
+    "summary": "[지디넷코리아]앤트로픽이 최신 모델 페이블5의 사이버 탈옥을 신고받는 버그바운티를 열었다. 해커원(HackerOne) 플랫폼에서 운영한다. 6월 페이블5를 다시 배포하며 미 정부와 맺은 합의의 일부다.방식은 이렇다. 검증된 보안 연구자가 페이블5의 사이버보안 분류기를 우회하는 기법을 찾아 신고한다. 성공한 신고에는 금전 보상을 준다. 적대적 공격이 아닌 책임 있는 공개로 처리한다. 신고 범위는 사이버 탈옥으로 한정된다. 시스템 프롬프트 추출 같은 비(非)사이버 문제는 앤트로픽이 이미 자체 공개하고 있어 제외된다.이 프로그램은 6월 ",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-07-06T20:35:07+09:00"
+   },
+   {
+    "title": "Alibaba gets a reprieve from US Chinese military ban",
+    "link": "https://www.engadget.com/2208232/alibaba-gets-a-reprieve-from-us-chinese-military-ban/",
+    "summary": "A judge has ruled that the Pentagon must give Alibaba a reprieve over its placement on a Chinese military list.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-07-06T19:09:41+09:00"
+   },
+   {
+    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+    "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+    "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T19:08:18+09:00"
+   },
+   {
+    "title": "How Keurig saved — and ruined — your coffee",
+    "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+    "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an e",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T18:58:07+09:00"
+   },
+   {
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T18:43:17+09:00"
+   },
+   {
+    "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
+    "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+    "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip-hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It wa",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T18:39:06+09:00"
+   },
+   {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T18:26:00+09:00"
+   },
+   {
+    "title": "���� AI ����� ���� ���� ���⺻ ž�硯��... �������ꡯ ȭ�� ���ö�",
+    "link": "http://www.boannews.com/media/view.asp?idx=144526&kind=&sub_kind=",
+    "summary": "����Ư�� ȭ�� ���� ù ���� �̷����ؿ� ��ʡ����� ��Ȳ ���Ǹ� ���� ����[���ȴ��� ������ ����] ������ �ΰ�����(AI) ����� ��å�� ���� ������ ���⺻ ž�硯�ž� �ϴ� �� �ƴұ��� ȭ�ΰ� ��������.6�� ���� ���� �� �а迡 ������ ����AI��������ȸ ����Ư������ȸ �ֵ��� ��AI ��ť��Ƽ �����ꡯ(AI Security Budget Rule) ���ǰ� ���۵�",
+    "source": "보안뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T18:25:00+09:00"
+   },
+   {
+    "title": "삼성전자, 토요타와 '휴머노이드 동맹' 확대…로봇 공급 2년 만에 '5배'",
+    "link": "https://www.etnews.com/20260703000206",
+    "summary": "삼성전자가 로봇 사업 부문에서 세계 최대 완성차 업체인 일본 토요타에 휴머노이드 공급을 늘리고 있다. 자회사 레인보우로보틱스를 중심으로 양사 파트너십이 견고해지는 가운데, 삼성전자의 로봇 사업도 성장 궤도에 오르는 모습이다. 6일 업계에 따르면 레인보우로보틱스는 이동형 휴머노이드 로봇 'RB-Y1'을 토요타에 2024년 최초 납품한 이후 공급량을 꾸준히 확대하고 있다. 지금까지 토요타가 구매한 RB-Y1은 총 25대 안팎으로 파악됐다. 레인보우",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T18:05:38+09:00"
+   },
+   {
+    "title": "T커머스 '재승인' 석 달째 표류…사업 불확실성 장기화",
+    "link": "https://www.etnews.com/20260706000420",
+    "summary": "데이터홈쇼핑(T커머스) 사업자들의 승인 유효기간이 만료된 지 석 달 가까이 지났지만, 명확한 재승인 심사 일정이 확정되지 않고 있다. 방송법 개정에 따라 당장의 영업에는 문제가 없지만, 정부의 인허가 절차가 장기간 지연되면서 사업자들의 투자와 사업 전략 수립에 불확실성을 키우고 있다는 지적이 나온다. 6일 업계에 따르면 T커머스 사업자들은 현재까지 방송미디어통신위원회(방미통위)로부터 재승인 심사와 관련한 공식 일정이나 절차 안내를 받지 못한 상",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T18:05:27+09:00"
+   },
+   {
+    "title": "이 대통령, 한 총리와 첫 주례회동…AI·규제혁신 드라이브",
+    "link": "https://www.etnews.com/20260706000418",
+    "summary": "이재명 대통령이 한성숙 국무총리와 첫 주례보고 회동을 갖고 인공지능(AI) 대전환과 규제 합리화를 국정 핵심 과제로 추진하기로 했다. 특히 이 대통령은 한 총리에게 “전권을 갖고 공직사회와 국정 전반의 혁신을 이끌어 달라”고 주문하며 AI·IT 전문성을 바탕으로 한 역할을 강조했다. 6일 국무조정실에 따르면 이 대통령과 한 총리는 이날 청와대에서 오찬을 겸한 첫 주례보고 회동을 열고 국정 현안을 논의했다. 주례보고 회동은 대통령과 총리가 정례적",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T17:53:53+09:00"
+   },
+   {
+    "title": "“일찍 자는 게 답이었다”…청소년 비만·당뇨 위험 좌우하는 '의외의 원인'",
+    "link": "https://www.etnews.com/20260706000367",
+    "summary": "충분한 수면을 취하는 청소년은 혈당이 보다 일정하게 유지되고, 제2형 당뇨병 및 비만 발생 가능성이 낮아질 수 있다는 연구 결과가 발표됐다. 3일(현지시간) 데일리메일에 따르면 덴마크 코펜하겐대학교 연구팀은 18세 청소년 206명을 대상으로 2주간 수면 패턴과 혈당 수치를 동시에 추적하며 이 같은 결론을 도출했다. 참가자들은 신체 활동량, 수면 상태, 혈당 변화를 실시간으로 기록하는 웨어러블 기기를 착용한 채 일상생활을 유지했다. 연구진은 수집",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T17:50:00+09:00"
+   },
+   {
+    "title": "“대통령 풍자는 모욕”…'사상검열' 튀르키예, 코미디언까지 체포했다",
+    "link": "https://www.etnews.com/20260706000417",
+    "summary": "튀르키예 정부가 북대서양조약기구(NATO·나토) 정상회의를 앞두고 기자와 야당 운동가, 코미디언 등을 잇달아 체포하면서 표현의 자유를 둘러싼 논란이 커지고 있다. 정부는 국가 안보와 질서 유지를 위한 조치라고 설명하고 있지만, 야권과 인권단체는 반대 의견을 억압하는 탄압이라고 비판하고 있다. 5일(현지시간) 영국 파이낸셜타임스(FT)에 따르면 튀르키예 당국은 최근 기자 2명과 수십 명의 야당 운동가를 테러 혐의 등으로 체포했다. 또 대통령과 정",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T17:44:52+09:00"
    },
    {
     "title": "“랜섬웨어, 즉시 신고시 일사천리 지원”…정부, 랜섬웨어 복구 돕는다",
@@ -206,70 +286,6 @@
     "published": "2026-07-06T17:09:11+09:00"
    },
    {
-    "title": "천진우 연대교수 \"뇌 회로 제어 통해 치매 질환 해결할 것\"",
-    "link": "https://zdnet.co.kr/view/?no=20260706165524",
-    "summary": "[지디넷코리아]\"인간의 뇌는 현재의 인공지능(AI) 대비 100만배 더 에너지 효율적이다. 뇌를 더 알기 위해서는 나노의학을 연구하는 것이 정답이다. 이를 통해 치매 등을 근본적으로 해결하고자 한다.\"천진우 연세대학교 언더우드 특훈교수가 과학기술정보통신부와 한국과학기술단체총연합회가 시상하는 '2026년 대한민국최고과학기술인상'을 수상했다.시상으로 대통령 상과 함께 상금 3억원이 주어진다.천진우 교수는 나노의학’ 분야 세계적 석학이다. 나노-바이오 인터페이스 화학을 통해 질병진단, 세포치료, 뇌회로 교정의 한계를 획기적으로 개선, 이",
-    "source": "ZDNet Korea",
-    "lang": "ko",
-    "published": "2026-07-06T16:55:24+09:00"
-   },
-   {
-    "title": "코스피, 8000선 머무르며 보합세…장중 변동성은 확대",
-    "link": "https://www.etnews.com/20260706000403",
-    "summary": "코스피가 전장 대비 큰 변화 없이 장을 마감했다. 주중 미국 주요 경제지표와 삼성전자 2분기 잠정실적 발표를 앞두고 시장을 관망하는 분위기가 이어졌다. 6일 한국거래소에 따르면 코스피는 37.01포인트(0.46%) 떨어진 8051.33에 마감했다. 마감시간 기준 지수는 전장(8088.34)와 비슷했지만, 장중 500포인트 이상 급등과 급락을 이어가며 극심한 변동성을 보였다. 코스닥은 21.34포인트(2.46%) 떨어진 847.07에 장을 마쳤다",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-06T16:48:08+09:00"
-   },
-   {
-    "title": "'미니 맥주' 판매 늘리는 美…위고비 영향?",
-    "link": "https://www.etnews.com/20260706000259",
-    "summary": "미국 주요 맥주 제조사들이 작은 용량의 맥주 제품을 잇따라 선보이며 소비자 공략에 나섰다. 2일(현지시간) 월스트리트저널(WSJ)에 따르면 크래프트 맥주 브랜드 시에라 네바다 브루잉 컴퍼니와 코로나 맥주를 보유한 콘스텔레이션 브랜즈 등은 이른바 '포니(Pony)'로 불리는 미니 캔·병맥주 판매를 확대하고 있다. 일반적으로 미국 맥주가 12~16온스(약 340~450㎖)인 반면 포니 제품은 7~9온스(약 198~255㎖) 수준으로 훨씬 작다. 업",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-06T16:35:00+09:00"
-   },
-   {
-    "title": "중국, 태평양 공해상에 핵잠 탄도미사일 기습 발사…호주·뉴질랜드·일본 반발",
-    "link": "https://www.etnews.com/20260706000397",
-    "summary": "중국군이 남태평양에서 핵잠수함을 이용해 장거리 탄도미사일을 시험 발사하면서 인근 국가들의 강한 반발과 우려가 확산하고 있다. 6일 AP 통신은 중국 관영 신화통신을 인용해, 중국군이 이날 오후 12시 1분 훈련용 모의 탄두를 탑재한 장거리 탄도미사일 시험 발사를 감행했다고 전했다. 중국이 태평양 해역에서 미사일 시험 발사를 실시한 것은 지난 2024년 9월 이후 약 2년 만이다. 당시 중국은 1980년 '둥펑(DF)-5' 이후 44년 만에 태평",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-06T16:22:03+09:00"
-   },
-   {
-    "title": "고동진 “첨단산업 전력 경쟁력, 재생에너지는 오답…원전PPA 추진할 것”",
-    "link": "https://www.etnews.com/20260706000396",
-    "summary": "삼성전자 사장을 지낸 고동진 국민의힘 의원은 6일 반도체·인공지능(AI) 등 첨단산업 전력 경쟁력 강화를 위해 '원자력발전 전력구매계약(이하 원전PPA)' 도입을 추진하겠다고 밝혔다. 고 의원은 이날 자신의 SNS를 통해 “반도체, AI 등 첨단산업의 원전PPA를 추진하겠다”며 “기업들의 에너지 비용 경쟁력이 대한민국 전체의 경쟁력으로 이어질 수 있도록 제도 개선에 나서겠다”고 말했다. PPA는 전력 수요자인 기업과 발전사업자가 장기간 전력을",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-06T16:21:49+09:00"
-   },
-   {
-    "title": "LG화학 신약 수익화 분수령…기술수출 2건 임상 3상 진입",
-    "link": "https://www.etnews.com/20260706000326",
-    "summary": "LG화학이 해외 기업에 기술이전한 신약 후보물질 2건이 임상 3상에 잇달아 진입하며 개발 성과가 가시화되고 있다. 후기 임상에서 유효성과 안전성을 입증하고 상업화까지 이어질 경우 LG화학 생명과학사업본부는 추가 마일스톤과 로열티 수익을 확보할 수 있어 향후 임상 결과에 관심이 쏠린다. 6일 업계에 따르면 LG화학은 미국 리듬파마슈티컬스에 기술이전한 희귀비만증 신약 '비바멜라곤'의 임상 3상을 올 하반기 중 시작할 예정이다. 중국 이노벤트 바이오",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-06T16:00:00+09:00"
-   },
-   {
-    "title": "Some of the nation’s rich are letting AI teach their kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep ",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-06T07:30:54+09:00"
-   },
-   {
-    "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
-    "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
-    "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It wa",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-06T04:06:39+09:00"
-   },
-   {
     "title": "Why 3D TVs failed and the trouble with 3D in Hollywood.",
     "link": "https://www.engadget.com/2206391/why-3d-tvs-failed/",
     "summary": "They were annoying to use and bad 3D movies didn't help.",
@@ -284,49 +300,33 @@
     "source": "Engadget",
     "lang": "en",
     "published": "2026-07-06T02:27:08+09:00"
-   },
-   {
-    "title": "What's the fastest charging speed your iPad or iPhone port can handle?",
-    "link": "https://www.engadget.com/2205909/fastest-charging-speed-ipad-iphone-port/",
-    "summary": "Here's how to find out whether you're charging your Apple mobile devices at top speed.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-07-06T00:30:00+09:00"
-   },
-   {
-    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-    "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-05T23:55:03+09:00"
-   },
-   {
-    "title": "How Keurig saved — and ruined — your coffee",
-    "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
-    "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an e",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-05T22:51:56+09:00"
-   },
-   {
-    "title": "These popular smartphones are in their last year of software support",
-    "link": "https://www.engadget.com/2206707/these-popular-smartphones-are-in-their-last-year-of-software-support/",
-    "summary": "It's good to know how long your phone will get updates before you purchase.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-07-05T22:30:00+09:00"
-   },
-   {
-    "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
-    "link": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
-    "summary": "This week's science news.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-07-05T04:45:00+09:00"
    }
   ],
   "nurse": [
+   {
+    "title": "간협, 의사단체 주장에 “기득권 위한 왜곡 멈춰야”",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42289",
+    "summary": "대한간호협회가 진료지원업무 수행 간호사(전담간호사) 교육체계를 둘러싼 의료계 갈등과 관련해 대한의사협회와 대한병원협회, 대한의학회의 주장을 정면으로 반박하며 교육과 평가를 아우르는 통합적 질 관리체계 구축이 필요하다고 주장했다.간호협회는 7월 6일 오후 발표한 긴급성명에서 “의사단체의 공동성명은 진료지원업무 제도의 취지와 간호법의 입법 목적, 의료현장의 현실을 의도적으로 왜곡하고 있다”며 “국민의 생명과 안전보다 직역의 기득권을 앞세운 주장”이라고 비판했다.이번 성명은 의사협회·병원협회·의학회가 지난 2일 전담간호사 교육 및 평가관",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-07-06T20:02:14+09:00"
+   },
+   {
+    "title": "한양대국제병원, ‘23주년 개원기념식’ 개최",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=237913",
+    "summary": "[라포르시안] 한양대학교국제병원(병원장 임영효)은 지난 3일 국제병원 1층 로비에서 ‘제23주년 개원기념식’을 개최했다고 6일 밝혔다. 이날 행사에는 임영효 국제병원장, 이항락 한양대학교병원 부원장을 비롯해 의료원 주요 보직자와 교직원 50여 명이 참석해 국제병원의 지난 23년간의 성과를 돌아보고 미래 비전을 공유했다.임영효 국제병원장은 기념사에서 \"국제병원은 우수한 의료진과 영어·중국어·러시아어·몽골어 등 다양한 언어로 원활한 의사소통이 가능한 전담 간호사와 코디네이터를 중심으로 24시간 진료서비스 체계를 운영하며 외래, 입원,",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-07-06T17:45:00+09:00"
+   },
+   {
+    "title": "IPC lead saves trust three band 5 salaries with switch to Medipal products",
+    "link": "https://www.nursingtimes.net/infection-prevention-and-control/latest-infection-prevention-and-control-clinical-practice/ipc-lead-saves-trust-three-band-5-salaries-with-switch-to-medipal-products-06-07-2026/",
+    "summary": "An NHS trust has unlocked annual savings equivalent to the salaries of up to three band 5 nurses after making what has been described as an ‘effortless’ switch to Medipal medical wipes, according to its infection prevention and control (IPC) site lead. Mark Dalauidao, who… The post IPC lead saves tr",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T17:00:41+09:00"
+   },
    {
     "title": "숙련 간호사들의 새로운 도전…전문간호사 자격시험 응시자 수, 3년 연속 상승곡선",
     "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20901",
@@ -334,6 +334,22 @@
     "source": "간호사타임즈",
     "lang": "ko",
     "published": "2026-07-06T17:00:18+09:00"
+   },
+   {
+    "title": "Orange and lemon juice used to improve nasogastric tube aspiration success",
+    "link": "https://www.nursingtimes.net/nutrition-and-hydration/orange-and-lemon-juice-used-to-improve-nasogastric-tube-aspiration-success-06-07-2026/",
+    "summary": "Applying citrus juice to the tongue and gums may stimulate gastric secretions and reduce delays in starting nasogastric use. The post Orange and lemon juice used to improve nasogastric tube aspiration success appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T16:44:06+09:00"
+   },
+   {
+    "title": "Nursing Times Awards 2025: Sustainability in Nursing and Midwifery winner and shortlist",
+    "link": "https://www.nursingtimes.net/sustainability-and-environment/nursing-times-awards-2025-sustainability-in-nursing-and-midwifery-winner-and-shortlist-06-07-2026/",
+    "summary": "Find out more about the winner and shortlisted entries in the Sustainability in Nursing and Midwifery category at the 2025 Nursing Times Awards. The post Nursing Times Awards 2025: Sustainability in Nursing and Midwifery winner and shortlist appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T16:37:42+09:00"
    },
    {
     "title": "가톨릭간호대, 홍콩간호대 학생 초청 국제연수 진행",
@@ -352,12 +368,12 @@
     "published": "2026-07-06T15:52:38+09:00"
    },
    {
-    "title": "창원파티마병원, ‘혈관내 쇄석술’ 지역 최초 성공",
-    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42285",
-    "summary": "창원파티마병원이 경남 지역 비대학병원 최초로 ‘혈관내 쇄석술(Intravascular Lithotripsy, IVL)’을 도입하고 성공적으로 첫 시술을 마쳤다고 7월 6일 밝혔다.지난 3일 오후 창원파티마병원 혈관조영센터에서 심장내과 이재광 과장은 삼성서울병원 순환기내과 이주명 교수와 합동으로 환자 2명을 대상으로 혈관내 쇄석술을 시행했다. 시술은 성공적으로 마무리됐다.혈관내 쇄석술(IVL)은 관상동맥 내에 단단하게 석회화된 병변을 치료하기 위해 개발된 최신 중재시술법이다. 혈관 내에 특수 풍선 카테터를 삽입한 뒤 저강도 충격파를",
-    "source": "간호사신문",
-    "lang": "ko",
-    "published": "2026-07-06T15:15:28+09:00"
+    "title": "New AI tools to be rolled out as ‘priorities’ for NHS in England",
+    "link": "https://www.nursingtimes.net/digital-and-technology/new-ai-tools-to-be-rolled-out-as-priorities-for-nhs-in-england-06-07-2026/",
+    "summary": "Access to AI notetaking tools for health service staff and a new triage resource driven by artificial intelligence (AI) have been flagged as technology priorities to be introduced across the NHS. The post New AI tools to be rolled out as ‘priorities’ for NHS in England appeared first on Nursing Time",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T15:01:29+09:00"
    },
    {
     "title": "한양대국제병원 '제23주년 개원기념식' 개최",
@@ -368,15 +384,31 @@
     "published": "2026-07-06T14:17:11+09:00"
    },
    {
-    "title": "간호협회, ‘간호사 SOS 지원창구’ 운영...심리·노무·법률상담 원스톱 지원",
-    "link": "https://www.rapportian.com/news/articleView.html?idxno=237877",
-    "summary": "[라포르시안] 대한간호협회는 의료현장에서 근무하는 간호사들이 업무 과정에서 겪는 심리적 어려움과 직장 내 갈등, 법률적 문제 등 다양한 위기 상황에 신속하게 대응할 수 있도록 상담체계를 마련했다고 6일 밝혔다.‘간호사 SOS 지원창구’는 “혼자 견디지 마세요. 대한간호협회가 함께합니다.”라는 슬로건 아래, 간호현장의 어려움부터 마음의 상처까지 간호사의 든든한 버팀목이 되겠다는 취지로 운영된다. 지원 분야는 ▲위기·고충 지원 ▲심리 상담 ▲노무 상담 ▲법률 상담 등 총 4개 분야로 구성됐다.먼저 위기·고충 지원은 간호사 출신 전문 상",
-    "source": "라포르시안",
-    "lang": "ko",
-    "published": "2026-07-06T10:20:00+09:00"
+    "title": "Nursing Times Awards 2025: Care of Older People winner and shortlist",
+    "link": "https://www.nursingtimes.net/older-peoples-nursing/nursing-times-awards-2025-care-of-older-people-winner-and-shortlist-03-07-2026/",
+    "summary": "Find out more about the winner and shortlisted entries in the Care of Older People category at the 2025 Nursing Times Awards. The post Nursing Times Awards 2025: Care of Older People winner and shortlist appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-04T03:52:32+09:00"
+   },
+   {
+    "title": "Influential MPs urge next prime minister to ‘fix’ adult social care",
+    "link": "https://www.nursingtimes.net/social-care/influential-mps-urge-next-prime-minister-to-fix-adult-social-care-03-07-2026/",
+    "summary": "Long-promised and much-needed policies to reform the adult social care sector in England must not be delayed further and must be introduced during the current parliament, a group of MPs has urged. The post Influential MPs urge next prime minister to ‘fix’ adult social care appeared first on Nursing ",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-04T03:17:02+09:00"
    }
   ],
   "ni": [
+   {
+    "title": "[주식] 비보존제약, 계열사 임상결과에 주가 16%↑",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77441",
+    "summary": "오늘의 증시시장 지수KOSPI : 8,051.33 (▼0.46%)KOSDAQ : 847.07 (▼2.46%)상승 종목비보존제약(+15.74%), 코스맥스엔비티(+9.97%), 휴온스(+7.69%), 서흥(+5.58%), 강스템바이오텍(+5.38%)하락 종목알지노믹스(-9.95%), 올릭스(-9.58%), 한미약품(-8.34%), 디앤디파마텍(-7.10%), 에이프릴바이오(-6.42%) 오늘의 이슈비보존제약(+15.74%) : 계열사 비보존 \"VVZ-2471 4주 투여 후 통증 감소 32%\"한독(+4.45%) : 42억원 규모 AI",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T18:20:21+09:00"
+   },
    {
     "title": "전남대병원, AI·AR 기반 '스마트 병원동행' 구축 나선다",
     "link": "https://www.medipana.com/news/articleView.html?idxno=414181",
@@ -384,14 +416,6 @@
     "source": "메디파나뉴스",
     "lang": "ko",
     "published": "2026-07-06T17:11:11+09:00"
-   },
-   {
-    "title": "파로스아이바이오 \"라스모티닙 기술이전, 내년초 안으로 결실 기대\"",
-    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77365",
-    "summary": "인공지능(AI) 신약개발 기업 파로스아이바이오가 급성골수성백혈병(AML) 치료제 '라스모티닙(PHI-101)'을 앞세워 글로벌 기술이전 성과 창출에 속도를 낸다. 임상 1상에서 확보한 데이터를 바탕으로 미국과 유럽을 중심으로 한 글로벌 사업개발을 본격화하며 AI 플랫폼 기업을 넘어 신약개발 기업으로의 전환에 나선다는 전략이다.회사는 최근 세계 최대 규모 바이오 행사인 바이오USA에서 IR 피칭 기업으로 선정돼 글로벌 투자자와 제약·바이오 기업을 대상으로 자체 AI 신약개발 플랫폼 '케미버스(Chemiverse)'와 주요 파이프라인을",
-    "source": "히트뉴스",
-    "lang": "ko",
-    "published": "2026-07-06T12:04:00+09:00"
    },
    {
     "title": "Morning Headlines 7/6/26",
@@ -416,18 +440,59 @@
     "source": "Digital Health News",
     "lang": "en",
     "published": "2026-07-05T06:30:16+09:00"
-   },
-   {
-    "title": "Pathology transformation could unlock £450m a year for the NHS",
-    "link": "https://www.digitalhealth.net/2026/07/pathology-transformation-could-unlock-450m-a-year-for-the-nhs/",
-    "summary": "Completing the NHS's pathology transformation programme could unlock around £450m a year for the health service, a review has found.",
-    "source": "Digital Health News",
-    "lang": "en",
-    "published": "2026-07-03T21:30:49+09:00"
    }
   ]
  },
  "papers": [
+  {
+   "title": "Explainable Artificial Intelligence in Critical Care Nursing: A Discussion Paper.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42405422/",
+   "journal": "Nursing in critical care",
+   "authors": "Berdida DJE",
+   "pubdate": "2026 Jul"
+  },
+  {
+   "title": "Effectiveness of an Internet-Based 4C Nursing Model on Pulmonary Rehabilitation Outcomes in Patients with Chronic Obstructive Pulmonary Disease: A Quasi-Experimental Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42405288/",
+   "journal": "Patient preference and adherence",
+   "authors": "Shen F, Guo Z, Zhang Z 외",
+   "pubdate": "2026 Jun 30"
+  },
+  {
+   "title": "Clinical nurses as digital guardians: unlocking the key determinants of digital resilience in the AI era.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42404964/",
+   "journal": "Frontiers in public health",
+   "authors": "Yu M, Chen J, Yu R 외",
+   "pubdate": "2026 Jun 19"
+  },
+  {
+   "title": "Best evidence summary of digital health interventions for self-management in patients with coronary artery disease.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42404963/",
+   "journal": "Frontiers in public health",
+   "authors": "Chen X, Zheng H, Han Y 외",
+   "pubdate": "2026 Jun 19"
+  },
+  {
+   "title": "The Development of Telelearning as an Effort to Improve Nurses' Readiness to Adopt Artificial Intelligence.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42404541/",
+   "journal": "Journal of patient experience",
+   "authors": "Ariga RA, Imelda F, Herriyance H 외",
+   "pubdate": "2026 Jul 3"
+  },
+  {
+   "title": "SiMON-PRO-Hematology®: Digital techology for pharmacotherapeutic and patient reported outcomes monitoring in patients with hematologic malignancies.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42403530/",
+   "journal": "Exploratory research in clinical and social pharmacy",
+   "authors": "Pradeda AM, Gabriel EF, Aguado SJ 외",
+   "pubdate": "2026 Jun 26"
+  },
+  {
+   "title": "Policy Recommendations for Information Prescribing to Heart Failure Patients to Reduce Readmissions, Mortality, and Costs.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42403521/",
+   "journal": "Journal of caring sciences",
+   "authors": "Mahami-Oskouei M, Zarea Gavgani V, Kazemi Majd F",
+   "pubdate": "2026 Mar 25"
+  },
   {
    "title": "Nurses' knowledge, attitudes, and perceived challenges toward artificial intelligence applications in patient care: a descriptive-analytical cross-sectional study.",
    "link": "https://pubmed.ncbi.nlm.nih.gov/42401846/",
@@ -448,55 +513,6 @@
    "journal": "Nurse education today",
    "authors": "Semerci Şahin R, Durmuş Sarıkahya S, Çınar Özbay S 외",
    "pubdate": "2026 Jun 30"
-  },
-  {
-   "title": "Exploring Cultural and Technological Gaps: A Qualitative Study of Spanish and Colombian Nursing Students' Views on Digital Health Leadership.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42400141/",
-   "journal": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
-   "authors": "Navarro Martínez O, Cuartero Monteagudo N, Camacho Rodríguez DE 외",
-   "pubdate": "2026 Jul 3"
-  },
-  {
-   "title": "Artificial intelligence integration and patient safety culture: a cross-sectional study of healthcare professionals in Riyadh, Saudi Arabia.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42399990/",
-   "journal": "BMC health services research",
-   "authors": "Abuabat A, Almutairi A, Gazali N 외",
-   "pubdate": "2026 Jul 3"
-  },
-  {
-   "title": "Perception and Knowledge About Telenursing and eHealth Among Nursing University Students: A Cross-Sectional Study in the United Arab Emirates.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42399720/",
-   "journal": "Public health nursing (Boston, Mass.)",
-   "authors": "Alkouri O, Alrida NA, Al-Bashaireh AM 외",
-   "pubdate": "2026 Jul 3"
-  },
-  {
-   "title": "An Examination of Throughput Issues in Inpatient Obstetrics Units in an Academic Medical Center.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42398539/",
-   "journal": "Nursing for women's health",
-   "authors": "McDonald BJ, Karlowicz KA",
-   "pubdate": "2026 Jul 3"
-  },
-  {
-   "title": "Pharmacotherapy for Alzheimer's Disease and Dementias in Long-Term Care: A Real-World EHR Study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42398193/",
-   "journal": "Journal of the American Medical Directors Association",
-   "authors": "Saumur TM, Ashraf H, Mathers KE 외",
-   "pubdate": "2026 Jul 3"
-  },
-  {
-   "title": "Securing Safety and Quality in AI-generated Patient Education: A Nurse-led Methodological Framework Integrating Kolcaba's Comfort Theory.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42398097/",
-   "journal": "Computers, informatics, nursing : CIN",
-   "authors": "Gökçen Gökalp M, Çalışkan T, Cafer Karalar B",
-   "pubdate": "2026 Jul 6"
-  },
-  {
-   "title": "Alleviating Nurse Burnout With an Artificial Intelligence-Selected Mobile Cognitive Behavioral Therapy-Based Intervention: Mixed Methods Randomized Controlled Trial.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42398032/",
-   "journal": "JMIR mHealth and uHealth",
-   "authors": "Kim Y, Cha C, Baek G",
-   "pubdate": "2026 Jul 3"
   }
  ]
 }
