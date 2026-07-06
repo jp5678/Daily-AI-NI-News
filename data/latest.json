@@ -1,63 +1,79 @@
 {
  "date": "2026-07-06",
- "generatedAt": "2026-07-06T10:01:30.199098+09:00",
+ "generatedAt": "2026-07-06T17:23:42.557686+09:00",
  "articles": {
   "ai": [
    {
-    "title": "주한독일상공회의소, 국내 유망 AI 스타트업 발굴...‘AI 스타트업 피칭 챌린지 2026’ 개최",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40834",
-    "summary": "주한독일상공회의소(대표 마리 안토니아 폰 쉔부르크. 이하, KGCCI)가 오는 15일 삼성동 코엑스에 위치한 한국무역협회 스타트업 브랜치에서 '한-독 커넥트: AI 스타트업 피칭 챌린지 2026’을 개최한다고 6일 밝혔다.인피니언 테크놀로지스(Infineon Technologies)가 후원하고 한국무역협회(KITA)가 협력하는 이번 행사는 독일 및 유럽 시장 진출 가능성이 높은 국내 인공지능(AI) 스타트업을 발굴하기 위해 마련됐다.이번 경연은 KGCCI의 스타트업 이니셔티브인 'KG Connect(Korea-Germany Conn",
+    "title": "구글, FBI와 공조해 세계 최대 악성 프록시 네트워크 ‘넷넛(NetNut)’ 차단",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40848",
+    "summary": "구글 위협 인텔리전스 그룹(Google Threat Intelligence Group, GTIG)이 지난 3일(현지시간) 미국 연방수사국(FBI)과 업계 파트너들과 협력해 세계 최대 규모의 악성 주거용 프록시(residential proxy) 네트워크 중 하나인 ‘넷넛(NetNut)’에 대한 대규모 차단 작전을 수행했다.이번 조치는 올해 초 중국 기반의 IPIDEA 프록시 네트워크를 무력화한 데 이은 후속 조치로, 넷넛이 악용해 온 수백만 대의 감염 기기를 차단함으로써 글로벌 프록시 봇넷(botnet) 생태계 해체에 중요한 전환점이",
     "source": "인공지능신문",
     "lang": "ko",
-    "published": "2026-07-06T09:43:02+09:00"
+    "published": "2026-07-06T17:15:45+09:00"
    },
    {
-    "title": "[에듀플러스]세종대, 포에버스튜디오와 AI 공연영상콘텐츠 분야 산학협력 업무협약 체결",
-    "link": "https://www.etnews.com/20260706000071",
-    "summary": "세종대학교는 지난달 1일 교내 집현관 10층 소회의실에서 AI 콘텐츠 전문기업 포에버스튜디오와 인공지능(AI) 기반 공연영상콘텐츠 분야의 산학협력 강화를 위한 업무협약(MOU)을 체결했다고 6일 밝혔다. 이번 협약은 양 기관이 산학협력 체계를 구축하고 AI를 활용한 공연영상콘텐츠의 기획·제작과 사업화를 추진하는 한편, 관련 분야의 전문 인재를 양성하기 위해 마련됐다. 협약식에는 엄총화 세종대 총장, 이충훈 대외협력처장, 라경민 영화예술학과 학과",
-    "source": "전자신문 SW·AI",
+    "title": "KAIST, 로봇이 보고·이해하고·예측하는 ‘피지컬 AI’ 기술 개발…ICLR·CVPR서 인정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212474",
+    "summary": "한국과학기술원(KAIST, 총장 배충식)는 윤성의 전산학부 교수 연구팀이 유리나 물처럼 투명한 물체를 정확히 인식하는 기술 등 피지컬 AI 관련 기술을 개발했다고 6일 밝혔다.이번 연구는 시각 인식부터 물리적 이해, 미래 예측, 행동 계획까지 하나의 기술 흐름으로 연결하는 데 초점을 맞췄다. AI가 보고(인식) 이해하고(물리 이해) 예측하고(미래 예측) 행동하는(계획) 과정을 수행하는 기반을 제시했으며, 다양한 자율 시스템의 성능과 활용 범위를 한층 넓힐 것으로 전망했다.성과는 글로벌 AI 학회인 ICLR과 CVPR 2026에서 구",
+    "source": "AI타임스",
     "lang": "ko",
-    "published": "2026-07-06T09:28:47+09:00"
+    "published": "2026-07-06T17:03:18+09:00"
    },
    {
-    "title": "KB금융, 국내 최초 휴머노이드 경진대회 후원…미래 금융 생태계 확장",
-    "link": "https://www.etnews.com/20260706000067",
-    "summary": "KB금융그룹이 국내 최초 휴머노이드 로봇 기술 실증형 경진대회인 '2026 휴머노이드 챌린지'에 총 3000만원 규모의 상금을 후원하며 인공지능(AI)·로보틱스 분야 혁신 기술 생태계 조성을 지속 지원한다. 산업통상자원부가 주최하고 한국로봇산업진흥원과 한국로봇융합연구원이 공동 주관한 이번 대회는 지난 2일부터 3일까지 이틀간 인천 송도컨벤시아에서 열렸다. 휴머노이드 로봇 기술의 상용화 수준과 산업 현장 적용 가능성을 검증하는 무대로 마련됐다.",
-    "source": "전자신문 SW·AI",
+    "title": "딥엑스, 도쿄서 1300여 건 상담... 저전력 NPU로 日 제조업 침투",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=21068",
+    "summary": "딥엑스가 도쿄에서 열린 현지 첫 피지컬 AI 전문 전시회에서 대기업들과 잇달아 상용화 논의를 시작하며, 초저전력 신경망처리장치(NPU) 시장에서 일본을 새로운 거점으로 삼겠다는 전략에 속도가 붙는 모습이다. 딥엑스는 지난 1일부터 3일까지 일본 도쿄 빅사이트에서 열린 ‘제1회 피지컬 AI 엑스포’에 참가해 현지 제조·IT·산업 인프라 기업과 자사 NPU의 제품 적용 가능성을 논의했다고 6일 밝혔다. 김녹원 딥엑스 대표는 “이번 전시회를 통해 피지컬 AI와 초저전력 NPU에 대한 일본 산업계의 실질적인 수요를 확인했다”며 “현장에서",
+    "source": "THE AI",
     "lang": "ko",
-    "published": "2026-07-06T09:28:05+09:00"
+    "published": "2026-07-06T17:03:12+09:00"
    },
    {
-    "title": "[에듀플러스]성균관대 김정래 교수 연구팀, AI 반도체 올림픽 'ISCA 2026'서 대한민국 최초 최우수 논문상 쾌거",
-    "link": "https://www.etnews.com/20260706000064",
-    "summary": "성균관대학교는 김정래 반도체시스템공학과 교수 연구팀이 인공지능(AI) 반도체 및 컴퓨터 구조 분야에서 국제학회 'ISCA(International Symposium on Computer Architecture) 2026'에서 최우수 논문상(Best Paper Award)을 수상했다고 6일 밝혔다. 반세기가 넘는 역사를 지닌 ISCA는 AI 반도체 구조 분야의 '올림픽'으로 불리는 초일류 학회로, 논문이 채택되는 것만으로도 가문과 학교의 영예로",
+    "title": "몰로코, AI 기반 CTV 맞춤형 영상 광고로 북미 진출 지원",
+    "link": "https://www.etnews.com/20260706000343",
+    "summary": "“몰로코는 인공지능(AI) 기반 광고 기술로 국내 기업의 미국 진출 파트너가 되겠습니다. 커넥티드TV(CTV) 특화 광고 플랫폼이 새로운 창구가 될 것입니다.” 안재균 몰로코 한국지사장은 최근 전자신문과 인터뷰에서 “몰로코는 모바일 중심에서 CTV로 광고 사업을 확대, 사업 다각화와 새로운 성장동력을 확보하고 있다”며 이같이 밝혔다. 몰로코는 안익진 대표가 미국에서 창업한 AI 애드테크 기업이다. 2021년 유니콘 기업으로 등극했고 현재 기업가",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-06T09:25:04+09:00"
+    "published": "2026-07-06T17:00:00+09:00"
    },
    {
-    "title": "AI 강화학습, 양자 컴퓨팅으로 극대화한다",
-    "link": "https://www.etnews.com/20260706000060",
-    "summary": "양자 컴퓨팅으로 '강인한 인공지능(AI)'을 훨씬 효율적으로 학습시킬 수 있는 기법이 개발됐다. 양자 컴퓨팅의 강력한 연산 능력으로 기존 계산 비용을 최대 5분의 1로 줄인 것이 핵심이다. 개발 주역은 윤성환 UNIST 인공지능대학원 교수팀과 김중헌 고려대 전기전자공학부 교수팀이다. 공동 연구팀은 양자 알고리즘을 이용해 '강인한 강화학습'의 계산 비용을 획기적으로 줄인 학습 기법(QRIM)'을 개발했다고 6일 밝혔다. 강화학습은 AI가 시행착오",
+    "title": "[테크 차이나] AI가 쓴 소설, AI가 가려낸다…웹소설 시장의 역설",
+    "link": "https://www.etnews.com/20260706000183",
+    "summary": "2026년 들어 중국 무료 웹소설 플랫폼들이 AI 생성 콘텐츠 단속에 본격 나서고 있다. 그러나 아이러니하게도 AI가 쓴 소설을 AI가 판별하는 구조 속에서 인간 작가들마저 'AI처럼 보이지 않는 글쓰기'를 고민해야 하는 상황에 놓였다. 중국 무료 웹소설 플랫폼 판치에 노벨(Fanqie Novel)은 올해 상반기 콘텐츠 심사를 대폭 강화했다. 플랫폼에 따르면 6월 한 달 동안에만 10만권 이상 저품질 작품에 대해 계약을 거부했고, 4만권이 넘는",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-06T09:21:33+09:00"
+    "published": "2026-07-06T17:00:00+09:00"
    },
    {
-    "title": "기장병원, 대웅제약 '씽크' 도입…AX로 의료 취약지 한계 돌파",
-    "link": "https://www.etnews.com/20260706000057",
-    "summary": "기장병원이 대웅제약의 인공지능(AI) 기반 스마트 병상 모니터링 시스템 '씽크'를 도입하고 지역 의료 인프라 고도화에 나섰다. 디지털 헬스케어 기술을 접목해 환자 안전관리 체계를 강화하는 등 지역 의료 접근성 개선 효과를 꾀한다. 대웅제약은 부산 기장병원이 총 154병상 중 50병상에 씽크를 우선 적용해 운영에 돌입했다고 6일 밝혔다. 기장병원은 씽크 도입으로 입원 환자의 주요 생체 데이터를 더 체계적으로 관리할 수 있는 스마트 병동 환경을 조",
+    "title": "망고부스트, '초저지연 AI 패브릭' 국책사업 수주…정부지원 144억원",
+    "link": "https://www.etnews.com/20260706000119",
+    "summary": "한국 반도체 스타트업 망고부스트가 인공지능(AI) 데이터센터용 초고속·초저지연 네트워크 기술 개발을 위한 정부 대형 연구개발(R&D) 사업의 총괄 주관기관으로 선정됐다. 6일 업계에 따르면 망고부스트(대표 김장우)는 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 '데이터센터 네트워크 인프라 기술 선도사업(과제번호 RS-2026-25507250)'에서 총괄 및 1세부 주관기관으로 선정됐다. 오는 2030년 12월까지 총 4년 9개월",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-06T09:18:23+09:00"
+    "published": "2026-07-06T17:00:00+09:00"
    },
    {
-    "title": "법무법인 민후·법무법인 원 합병 계약… '100인 규모' 대형 로펌으로 도약",
-    "link": "https://www.etnews.com/20260706000052",
-    "summary": "기술 및 지식재산권(IP) 분야에서 독보적인 전문성을 구축해 온 법무법인 민후가 중견 로펌인 법무법인 원과 합병하고, 소속 변호사 100인 규모의 메이저 로펌으로 본격 도약한다고 6일 밝혔다. 이번 합병을 통해 법무법인 민후는 기존의 강점인 IT·인공지능(AI)·블록체인·IP 분야의 전문성에 법무법인 원이 보유한 송무, 기업 법무, 공공기관 자문 등 전통적 법률 영역의 인프라를 결합하여 한층 고도화된 종합 법률 서비스를 제공할 방침이다. 특히",
+    "title": "가천대 길병원, 20개 진료과에 AI 음성인식 EMR 도입",
+    "link": "https://www.etnews.com/20260706000405",
+    "summary": "가천대 길병원은 인공지능(AI) 의료 음성 전자의무기록(EMR) 자동화 솔루션 '닥터펜슬'을 이달 초부터 진료 현장에 도입했다고 6일 밝혔다. 이번 도입은 인공지능 전환(AX)을 추진하는 가천대 길병원의 디지털 혁신 전략 일환으로 의료진 업무 효율을 높이고 환자 중심 진료 환경을 구현하기 위한 것이다. 닥터펜슬은 카이랩이 개발한 의료 특화 AI 음성인식 솔루션이다. 의사가 진료 중 자연스럽게 말하는 내용을 AI가 실시간 분석해 환자 증상·검사결",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-07-06T09:11:01+09:00"
+    "published": "2026-07-06T16:53:06+09:00"
+   },
+   {
+    "title": "고동진 “첨단산업 전력 경쟁력, 재생에너지는 오답…원전PPA 추진할 것”",
+    "link": "https://www.etnews.com/20260706000396",
+    "summary": "삼성전자 사장을 지낸 고동진 국민의힘 의원은 6일 반도체·인공지능(AI) 등 첨단산업 전력 경쟁력 강화를 위해 '원자력발전 전력구매계약(이하 원전PPA)' 도입을 추진하겠다고 밝혔다. 고 의원은 이날 자신의 SNS를 통해 “반도체, AI 등 첨단산업의 원전PPA를 추진하겠다”며 “기업들의 에너지 비용 경쟁력이 대한민국 전체의 경쟁력으로 이어질 수 있도록 제도 개선에 나서겠다”고 말했다. PPA는 전력 수요자인 기업과 발전사업자가 장기간 전력을",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T16:21:49+09:00"
+   },
+   {
+    "title": "GE헬스케어, 차세대 심혈관 초음파 '비비드 파이오니어' 국내 출시",
+    "link": "https://www.etnews.com/20260706000394",
+    "summary": "GE헬스케어는 차세대 고사양 심혈관 초음파 시스템 '비비드 파이오니어'를 국내 출시한다고 6일 밝혔다. 비비드 파이오니어는 고해상도 2D·4D 영상, 인공지능(AI) 기반 자동화 기능, 향상된 혈류 평가 기술을 결합한 차세대 심혈관 초음파 플랫폼으로 심장질환 진단과 구조심장질환 치료를 지원한다. 지난해 8월 스페인 마드리드에서 열린 유럽심장학회(ESC) 2025에서 처음 공개한 이후 유럽 CE 인증과 미국 FDA 510(k) 허가를 획득했다.",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T16:14:31+09:00"
    },
    {
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
@@ -90,14 +106,6 @@
     "source": "The Decoder",
     "lang": "en",
     "published": "2026-07-05T19:45:46+09:00"
-   },
-   {
-    "title": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
-    "summary": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 'AI 신뢰성' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\"라며 \"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\"라고 강조했다.■ 인증은 보증이 아니다…'전 주기 관리' 필요박 대표는 현재 활발한",
-    "source": "AI타임스",
-    "lang": "ko",
-    "published": "2026-07-05T19:42:13+09:00"
    },
    {
     "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
@@ -158,60 +166,92 @@
   ],
   "it": [
    {
-    "title": "[디지키 테크포럼] LED 스트립 조명에 맞는 LED 드라이버 선택 방법은?",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403725",
-    "summary": "[테크월드=이광재 기자] LED 스트립 조명을 ‘제대로 안전하게 오래 사용’하려면 먼저 적합한 LED 드라이버를 선택해야 한다.이 글에서는 LED 스트립 조명에 맞는 LED 드라이버를 고르는 기본 원리를 살펴보고 아메리칸브라이트(American Bright) 제품을 예로 들어 실제 선택 방법을 설명한다.알맞은 조합이 중요한 이유LED 드라이버를 잘못 고르면 조명이 깜박이거나 밝기가 어두워질 수 있고 심하면 LED 스트립이 손상될 수도 있다. 전압과 소비 전력을 맞춰야 조명 시스템이 안정적으로 제 성능을 내며 작동한다.LED 스트립",
-    "source": "테크월드뉴스",
-    "lang": "ko",
-    "published": "2026-07-06T10:00:00+09:00"
-   },
-   {
-    "title": "美 지니어스법, 세부 규정 7월 18일 마감…스테이블코인 발행사 옥석 가리기 시작",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681472",
-    "summary": "[디지털투데이 홍진주 기자] 미국 스테이블코인 시장이 지니어스(GENIUS) 법 세부 규정 확정 시한을 계기로 대형 발행사 중심으로 재편될 가능성이 커지고 있다. 준비금 규정과 월간 감사, 인허가, 자금세탁방지 체계가 본격 적용되면 스테이블코인 발행 사업의 경쟁력은 규제 비용을 얼마나 감당할 수 있느냐에 달릴 전망이다.지난 3일(현지시간) 블록체인 매체 크립토슬레이트에 따르면, 미국 지니어스법은 제정 후 1년 안에 세부 규정을 확정하도록 하고 있으며, 오는 7월18일이 핵심 분기점으로 지목된다. 이 시점 이후 발행사는 준비금 구성,",
+    "title": "방미통위, 아고다에 과징금 24억원…수수료 불명확 등 사유",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681702",
+    "summary": "[디지털투데이 손슬기 기자] 방송미디어통신위원회는 온라인 여행 플랫폼 아고다에 전기통신사업법 위반에 따른 시정명령과 과징금 24억2400만원을 부과한다고 6일 밝혔다.이날 방미통위는 '2026년 제22차 전체회의'를 열고 해당 제재안을 의결했다.방미통위는 아고다가 여행상품 예약 과정에서 환불조건과 취소·변경 수수료, 후지불 시 추가수수료 등 중요사항을 명확히 고지하지 않아 이용자 피해가 발생할 가능성이 있다고 보고 지난 2024년 9월부터 사실조사를 진행했다.조사 결과 아고다는 항공권 예약 시 환불 가능 여부와 취소·변경 수수료를",
     "source": "디지털투데이",
     "lang": "ko",
-    "published": "2026-07-06T09:53:50+09:00"
+    "published": "2026-07-06T17:16:29+09:00"
    },
    {
-    "title": "문체부, 미술서비스업 신고제 권역별 설명회 마련",
-    "link": "https://zdnet.co.kr/view/?no=20260706092933",
-    "summary": "[지디넷코리아]문화체육관광부(장관 최휘영)는 예술경영지원센터(대표 김장호)와 함께 미술서비스업 신고제의 원활한 시행을 위해 관련 사업자를 대상으로 권역별 설명회를 개최한다고 6일 밝혔다. 미술진흥법 제18조(미술서비스업의 신고)에 따라 신설된 미술서비스업 신고제는 미술 유통 분야의 체계적인 육성·지원과 투명한 미술 시장 조성을 위한 제도로서, 미술서비스업 신고제가 시행되면 화랑업, 미술품 경매업, 미술품 자문업, 미술품 대여·판매업, 미술품 감정업, 미술전시업을 영위하려는 자는 관할 지방자치단체장에게 신고해야 한다. 해당 신고제는 ",
-    "source": "ZDNet Korea",
-    "lang": "ko",
-    "published": "2026-07-06T09:29:41+09:00"
+    "title": "Apple's foldable iPhone may be in short supply after it launches",
+    "link": "https://www.engadget.com/2208210/apple-foldable-iphone-may-be-in-short-supply-after-it-launches/",
+    "summary": "Many people who want Apple's rumored folding iPhone 'Ultra' may not be able to get it at first",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-07-06T17:11:10+09:00"
    },
    {
-    "title": "OT ȯ�濡�� �׼����� �߿伺 �� ���� ���� ����� �Ѱ� �غ� ��ȡ� ����Ʈ����Ʈ ���� ����",
-    "link": "http://www.boannews.com/media/view.asp?idx=144388&kind=&sub_kind=",
-    "summary": "7�� 14��(ȭ) 2��, ��OT ���� ȯ�� �м� �� BeyondTrust�� ���� �ؼ� ��ȡ� ���� ����[���ȴ��� �Ѽ��� ����] OT ȯ���� ���� �� ����ʿ� ���� �׼����� ���� �������̸鼭�� �����Ǳ� ���� ���� ��� �� �ϳ��� ��εǾ���. ���� ���޾�ü, �ý��� ���վ�ü �� ���� �� ��� �ٽ� OT �ý��ۿ� ���� �׼����� �ʿ�������, ���� ������ ������",
+    "title": "�� ���������̴��� ķ����, ������ �븰 �Ǽ� ��Ű�� 108�� ����",
+    "link": "http://www.boannews.com/media/view.asp?idx=144518&kind=&sub_kind=",
+    "summary": "���� ������ �ֽ� �м� ���, ������ ����ҿ� 162�� �Ǽ� ������ �������� ���� �����ϴ� ������������ ���ͺ䡯 ķ���� ��ȯ���� ������ �ܸ� ������[���ȴ��� ������ ����] ���Ѱ� ����� ��Ŀ���� �����ڿ� ��ȣȭ�� ���� �����ڸ� �ܳ��� 108���� ����ȭ�� �Ǽ� ��Ű���� �� ������ Ȯ�� ���α׷��� ������ ����� ���Ӱ� �巯����.���̹����� ��� ����(",
     "source": "보안뉴스",
     "lang": "ko",
-    "published": "2026-07-06T09:04:00+09:00"
+    "published": "2026-07-06T17:00:00+09:00"
    },
    {
-    "title": "트럼프, FIFA 회장에 전화걸자…'출전정지' 美 공격수 징계 뒤집혔다",
-    "link": "https://www.etnews.com/20260706000030",
-    "summary": "미국 축구대표팀 공격수 폴라린 발로건(AS모나코)이 국제축구연맹(FIFA)의 징계 집행 유예 결정으로 벨기에와의 2026 북중미 월드컵 16강전에 출전할 수 있게 됐다. 하지만 도널드 트럼프 미국 대통령이 직접 잔니 인판티노 FIFA 회장에게 전화를 걸어 징계 재검토를 요청한 사실이 알려지면서 정치적 외압과 개최국 특혜 논란이 커지고 있다. 미국 일간 뉴욕타임스는 5일(현지시간) 사안에 정통한 복수의 소식통을 인용해 트럼프 대통령이 지난 2일",
-    "source": "전자신문 IT",
+    "title": "천진우 연대교수 \"뇌 회로 제어 통해 치매 질환 해결할 것\"",
+    "link": "https://zdnet.co.kr/view/?no=20260706165524",
+    "summary": "[지디넷코리아]\"인간의 뇌는 현재의 인공지능(AI) 대비 100만배 더 에너지 효율적이다. 뇌를 더 알기 위해서는 나노의학을 연구하는 것이 정답이다. 이를 통해 치매 등을 근본적으로 해결하고자 한다.\"천진우 연세대학교 언더우드 특훈교수가 과학기술정보통신부와 한국과학기술단체총연합회가 시상하는 '2026년 대한민국최고과학기술인상'을 수상했다.시상으로 대통령 상과 함께 상금 3억원이 주어진다.천진우 교수는 나노의학’ 분야 세계적 석학이다. 나노-바이오 인터페이스 화학을 통해 질병진단, 세포치료, 뇌회로 교정의 한계를 획기적으로 개선, 이",
+    "source": "ZDNet Korea",
     "lang": "ko",
-    "published": "2026-07-06T08:53:23+09:00"
+    "published": "2026-07-06T16:55:24+09:00"
    },
    {
-    "title": "K-팝 최초! 제니, 유럽 양대 페스티벌 연속 헤드라이너",
-    "link": "https://www.etnews.com/20260706000011",
-    "summary": "글로벌 아티스트 제니(JENNIE)가 글로벌 페스티벌 퀸 존재감을 입증했다. 덴마크 '로스킬데 페스티벌'(Roskilde Festival)과 폴란드 '오프너 페스티벌'(Open’er Festival)에서 연속 헤드라이너로 무대에 오르며 K-",
+    "title": "코스피, 8000선 머무르며 보합세…장중 변동성은 확대",
+    "link": "https://www.etnews.com/20260706000403",
+    "summary": "코스피가 전장 대비 큰 변화 없이 장을 마감했다. 주중 미국 주요 경제지표와 삼성전자 2분기 잠정실적 발표를 앞두고 시장을 관망하는 분위기가 이어졌다. 6일 한국거래소에 따르면 코스피는 37.01포인트(0.46%) 떨어진 8051.33에 마감했다. 마감시간 기준 지수는 전장(8088.34)와 비슷했지만, 장중 500포인트 이상 급등과 급락을 이어가며 극심한 변동성을 보였다. 코스닥은 21.34포인트(2.46%) 떨어진 847.07에 장을 마쳤다",
     "source": "전자신문 IT",
     "lang": "ko",
-    "published": "2026-07-06T08:33:23+09:00"
+    "published": "2026-07-06T16:48:08+09:00"
    },
    {
-    "title": "5대 은행·인터넷뱅크, 정보보호 예산 4000억원 육박…집행률은 3년째 하락",
-    "link": "https://www.etnews.com/20260706000007",
-    "summary": "최근 사이버 위협이 고도화되면서 시중은행과 인터넷전문은행의 정보보호 예산 편성 규모가 4000억원에 육박한 것으로 나타났다. 다만 예산을 늘린 것에 비해 실제 집행한 비율은 3년 연속 내림세를 기록했다. 6일 국회 정무위원회 소속 이양수 국민의힘 의원이 금융감독원으로부터 제출받은 자료에 따르면, 지난해 5대 시중은행(국민·농협·신한·우리·하나)과 인터넷전문은행(카카오뱅크·케이뱅크·토스뱅크)의 정보보호 예산 편성액은 3978억원을 기록했다. 20",
+    "title": "'미니 맥주' 판매 늘리는 美…위고비 영향?",
+    "link": "https://www.etnews.com/20260706000259",
+    "summary": "미국 주요 맥주 제조사들이 작은 용량의 맥주 제품을 잇따라 선보이며 소비자 공략에 나섰다. 2일(현지시간) 월스트리트저널(WSJ)에 따르면 크래프트 맥주 브랜드 시에라 네바다 브루잉 컴퍼니와 코로나 맥주를 보유한 콘스텔레이션 브랜즈 등은 이른바 '포니(Pony)'로 불리는 미니 캔·병맥주 판매를 확대하고 있다. 일반적으로 미국 맥주가 12~16온스(약 340~450㎖)인 반면 포니 제품은 7~9온스(약 198~255㎖) 수준으로 훨씬 작다. 업",
     "source": "전자신문 IT",
     "lang": "ko",
-    "published": "2026-07-06T07:52:58+09:00"
+    "published": "2026-07-06T16:35:00+09:00"
+   },
+   {
+    "title": "중국, 태평양 공해상에 핵잠 탄도미사일 기습 발사…호주·뉴질랜드·일본 반발",
+    "link": "https://www.etnews.com/20260706000397",
+    "summary": "중국군이 남태평양에서 핵잠수함을 이용해 장거리 탄도미사일을 시험 발사하면서 인근 국가들의 강한 반발과 우려가 확산하고 있다. 6일 AP 통신은 중국 관영 신화통신을 인용해, 중국군이 이날 오후 12시 1분 훈련용 모의 탄두를 탑재한 장거리 탄도미사일 시험 발사를 감행했다고 전했다. 중국이 태평양 해역에서 미사일 시험 발사를 실시한 것은 지난 2024년 9월 이후 약 2년 만이다. 당시 중국은 1980년 '둥펑(DF)-5' 이후 44년 만에 태평",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T16:22:03+09:00"
+   },
+   {
+    "title": "LG화학 신약 수익화 분수령…기술수출 2건 임상 3상 진입",
+    "link": "https://www.etnews.com/20260706000326",
+    "summary": "LG화학이 해외 기업에 기술이전한 신약 후보물질 2건이 임상 3상에 잇달아 진입하며 개발 성과가 가시화되고 있다. 후기 임상에서 유효성과 안전성을 입증하고 상업화까지 이어질 경우 LG화학 생명과학사업본부는 추가 마일스톤과 로열티 수익을 확보할 수 있어 향후 임상 결과에 관심이 쏠린다. 6일 업계에 따르면 LG화학은 미국 리듬파마슈티컬스에 기술이전한 희귀비만증 신약 '비바멜라곤'의 임상 3상을 올 하반기 중 시작할 예정이다. 중국 이노벤트 바이오",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T16:00:00+09:00"
+   },
+   {
+    "title": "반도체 투톱, 2분기 영업익 150조 전망…랠리 지속성 시험대",
+    "link": "https://www.etnews.com/20260706000319",
+    "summary": "이번주 삼성전자 잠정실적 발표와 SK하이닉스 미국 주식예탁증서(ADR) 상장이 맞물리며 반도체 '슈퍼위크'가 열린다. 삼성전자는 7일 2분기 잠정실적을 발표하고, SK하이닉스는 10일 ADR 상장에 나선다. 삼성전자의 실적 서프라이즈 여부와 SK하이닉스의 ADR 상장이 반도체 랠리 지속 여부를 가를 시험대가 될 전망이다. 6일 에프앤가이드에 따르면 삼성전자와 SK하이닉스의 올해 합산 영업이익은 약 640조원이다. 올해 코스피 전체 영업이익 전망",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T16:00:00+09:00"
+   },
+   {
+    "title": "김대진 가톨릭중앙의료원 정보융합진흥원장 “'AI 의료' 승부처는 케어 영역”",
+    "link": "https://www.etnews.com/20260706000307",
+    "summary": "“치료·수술 수준은 이제 어느 병원이나 비슷합니다. 그러나 퇴원 이후 벌어지는 일은 병원마다 차이가 큽니다. 환자가 병원을 나선 뒤 삶까지 관리하는 병원이 결국 환자 선택을 받을 겁니다.” 김대진 가톨릭중앙의료원(CMC) 정보융합진흥원장은 의료 인공지능(AI) 다음 승부처로 치료 이후 환자 관리, 즉 '애프터케어'를 지목했다. 진단·치료에 머물던 의료 AI를 퇴원 이후 환자 일상 관리로 확장해, 병원 안에서 시작된 진료가 완치·최적 관리로 이어",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T16:00:00+09:00"
+   },
+   {
+    "title": "TSMC, 베일 벗은 1.3나노 ‘A13’ 공정…미세화·패키징으로 연산 한계 넘는다",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403912",
+    "summary": "[테크월드=박규찬 기자] 대만 TSMC가 급증하는 AI 및 HPC(고성능 컴퓨팅) 연산 수요에 대응하기 위해 선단 공정 미세화와 차세대 패키징 기술을 아우르는 미래 로드맵을 전격 공개했다.TSMC는 지난 7월 3일(현지시간) 일본에서 연례 기술 행사인 ‘TSMC 2026 일본 테크놀로지 심포지움(Japan Technology Symposium)’을 개최하고 최첨단 1.3나노(A13) 및 1.2나노(A12) 공정 도입 계획과 함께 ‘에이전틱 AI(Agentic AI)’ 시대로의 전환에 따른 CPU 수요 확대 등 변화하는 반도체 시장의",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T16:00:00+09:00"
    },
    {
     "title": "Some of the nation’s rich are letting AI teach their kids",
@@ -278,80 +318,128 @@
     "published": "2026-07-05T22:30:00+09:00"
    },
    {
-    "title": "멕시코에 베팅해 거액 땄다… 美 유튜버, 대표팀에 롤렉스 15억어치 선물",
-    "link": "https://www.etnews.com/20260705000072",
-    "summary": "2026 FIFA 월드컵 16강전을 앞둔 멕시코 축구 국가대표팀 선수들이 규정 위반 논란을 피하기 위해 포상으로 받은 고가의 명품 시계를 전량 반납한 것으로 확인됐다. 4일(현지시간) 영국 더선 등 외신에 따르면, 멕시코 대표팀 선수들이 미국 유튜버로부터 총 100만 달러(약 15억 원) 상당의 롤렉스 시계를 선물 받았다가 이를 다시 돌려주었다. 해당 선물을 제공한 인물은 온라인에서 'SteveWillDoIt'이라는 아이디로 활동 중인 미국의",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:27:42+09:00"
-   },
-   {
-    "title": "[뉴스줌인] '수백만 큐비트' 통념 깨졌다…양자컴퓨터가 흔드는 암호 방패",
-    "link": "https://www.etnews.com/20260705000046",
-    "summary": "기존 암호체계가 무력화되는 이른바 'Q-데이(Q-Day)'의 도래 시점이 앞당겨질 것이란 전망이 나온다. 고성능 양자컴퓨터 개발이 빨라지는 데다, 오류정정과 연산 설계 개선으로 암호 해독에 필요한 큐비트 수를 줄일 수 있다는 연구가 있따르고 있어서다. ◇암호 해독 큐비트 급감 과거에는 기존 암호체계를 해독하려면 수백만개의 물리 큐비트가 필요할 것으로 예상됐다. 양자 위협이 먼 미래의 일로 여겨진 이유다. 하지만 최근에는 암호해독에 필요한 큐비트",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
-    "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
-    "link": "https://www.etnews.com/20260703000231",
-    "summary": "양자컴퓨팅 상용화 시기가 앞당겨지면서 국내 금융권 보안 체계에 경고등이 켜졌다. 기존 암호 체계가 '선수집·후해독(HNDL)' 공격에 무방비로 노출될 가능성이 커지고 있기 때문이다. 양자 공격을 방어할 수 있는 양자내성암호(PQC)로의 전환이 시급하다는 지적이다. 5일 업계에 따르면 올해 발급된 금융거래 인증서의 유효기간이 2029년까지 이어지면서 현행 인증 체계의 보안 공백이 현실화하고 있다. 이는 2028년을 전후해 고성능 양자컴퓨터가 등장",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
     "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
     "link": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
     "summary": "This week's science news.",
     "source": "Engadget",
     "lang": "en",
     "published": "2026-07-05T04:45:00+09:00"
-   },
-   {
-    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-    "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-    "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday ",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-05T04:06:27+09:00"
    }
   ],
   "nurse": [
    {
-    "title": "초고령화 사회에서의 노인 간호 해법, 방문 요양 간호 체계 확충 필수적",
-    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20898",
-    "summary": "대한민국이 초고령화 사회를 맞이하면서 의료계에서는 노인 돌봄을 위한 의료 시스템 도입이 필요하다는 의견이 초고령화 사회의 패러다임으로 자리 잡고 있다. 노인 인구가 전체 인구의 20%를 초과한 시대에서 의료계는 이를 어떻게 받아들이고 해결의 열쇠를 찾아야 한다는 의견이 나오고 있다. 이와 관련하여 제시된 해법이 바로 방문 요양 간호이다. 현재 대한민국에서는 혼자 사는 노인이 점점 증가하는 추세이고 가족 부양에 대한 인식 변화와 축소된 가족 형태 등으로 노인에 대한 사회적 돌봄의 필요성이 증가하고 있다는 점에서 방문 요양 간호에 대한",
+    "title": "IPC lead saves trust three band 5 salaries with switch to Medipal products",
+    "link": "https://www.nursingtimes.net/infection-prevention-and-control/latest-infection-prevention-and-control-clinical-practice/ipc-lead-saves-trust-three-band-5-salaries-with-switch-to-medipal-products-06-07-2026/",
+    "summary": "An NHS trust has unlocked annual savings equivalent to the salaries of up to three band 5 nurses after making what has been described as an ‘effortless’ switch to Medipal medical wipes, according to its infection prevention and control (IPC) site lead. Mark Dalauidao, who… The post IPC lead saves tr",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T17:00:41+09:00"
+   },
+   {
+    "title": "숙련 간호사들의 새로운 도전…전문간호사 자격시험 응시자 수, 3년 연속 상승곡선",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20901",
+    "summary": "대한간호협회(간협)가 지난 5일 서울 중구 다산로에 위치한 성동공업고등학교에서 2025년도 제22회 전문간호사 자격 1차 시험을 실시했다. 올해 1차 시험에는 총 576명의 간호사가 응시해 전문간호사로의 첫걸음을 내디뎠으며, 이는 2023년 533명과 2024년 565명 대비 각각 증가한 수치로 전문간호사에 대한 관심과 수요가 꾸준히 증가하고 있음을 보여준다. 이로써 전문간호사 자격시험 응시자 수는 3년 연속 증가세를 이어가게 됐다. 해당 시험은 보건복지부의 위탁을 받아 간호협회가 주관하며, 간호협회는 전문간호사 자격인정 등에 관한",
     "source": "간호사타임즈",
     "lang": "ko",
-    "published": "2026-07-06T08:48:35+09:00"
+    "published": "2026-07-06T17:00:18+09:00"
    },
    {
-    "title": "정부·기업 맞손, 쪽방촌 ‘폭염 안전망’ 가동",
-    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42258",
-    "summary": "정부가 올여름 기록적인 폭염에 대비해 주거 환경이 열악한 전국 쪽방촌 주민들을 위한 대규모 냉방 지원에 나선다.보건복지부와 사회복지공동모금회는 7월 7일부터 전국 10개 쪽방촌 주민들을 대상으로 에어컨 등 냉방기기와 여름철 전기요금을 지원한다고 밝혔다. 이번 조치는 지난 5월 이재명 대통령의 서울 돈의동 쪽방촌 방문 이후 제기된 냉방 취약환경 개선 요구와 지난달 발표한 ‘여름철 취약계층 보호대책’의 일환으로 추진된다.전국 10개 쪽방촌은 각 지방자치단체가 운영하는 쪽방상담소를 통해 지원을 받아왔으나 지역별 재정 여건에 따라 지원 수",
-    "source": "간호사신문",
-    "lang": "ko",
-    "published": "2026-07-05T12:38:14+09:00"
+    "title": "Orange and lemon juice used to improve nasogastric tube aspiration success",
+    "link": "https://www.nursingtimes.net/nutrition-and-hydration/orange-and-lemon-juice-used-to-improve-nasogastric-tube-aspiration-success-06-07-2026/",
+    "summary": "Applying citrus juice to the tongue and gums may stimulate gastric secretions and reduce delays in starting nasogastric use. The post Orange and lemon juice used to improve nasogastric tube aspiration success appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T16:44:06+09:00"
    },
    {
-    "title": "울산대병원, 지역 의료기관 신생아 감염관리 역량 강화",
-    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3007658",
-    "summary": "[의학신문·일간보사=이균성 기자] 권역책임의료기관인 울산대학교병원(병원장 박종하)은 지난 2일 병원 권역외상센터 세미나실에서 ‘2026년도 신생아중환자실 및 신생아실 감염관리 벤치마킹’ 행사를 열었다.울산 동북 및 서남 지역책임의료기관 울산병원, 동강병원과 함께 마련한 이날 행사에는 권역 8개 의료기관에서 감염관리 담당자 15명이 참석해 강의와 현장 방문 등으로 신생아 감염 예방을 위한 우수사례를 공유했다.교육은 울산대병원 신생아중환자실 김숙향 수간호사가 '신생아중환자실 및 신생아실 감염관리 방안'을 주제로 손위생, 의료기기 소독",
+    "title": "Nursing Times Awards 2025: Sustainability in Nursing and Midwifery winner and shortlist",
+    "link": "https://www.nursingtimes.net/sustainability-and-environment/nursing-times-awards-2025-sustainability-in-nursing-and-midwifery-winner-and-shortlist-06-07-2026/",
+    "summary": "Find out more about the winner and shortlisted entries in the Sustainability in Nursing and Midwifery category at the 2025 Nursing Times Awards. The post Nursing Times Awards 2025: Sustainability in Nursing and Midwifery winner and shortlist appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T16:37:42+09:00"
+   },
+   {
+    "title": "가톨릭간호대, 홍콩간호대 학생 초청 국제연수 진행",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3007771",
+    "summary": "[의학신문·일간보사=정광성 기자] 가톨릭대학교 간호대학(학장 이선미)이 지난 6월 29일부터 7월 3일까지 4박 5일간 홍콩대학교 간호대학 학생들을 대상으로 국제교류 연수 프로그램을 운영했다.이번 연수에는 홍콩대학교 간호대학 학생 6명이 참가했으며 양교 학생들은 간호교육 시스템과 대학 문화를 공유하고 캠퍼스 투어를 통해 상호 교류를 이어갔다.참가 학생들은 서울성모병원과 은평성모병원, 서울시 서초구보건소, 협력병원 및 요양원을 방문해 국내 의료·보건 시스템과 호스피스 완화의료, 지역사회 간호, 노인 돌봄 체계를 직접 체험했다.이번 프",
     "source": "의학신문",
     "lang": "ko",
-    "published": "2026-07-04T18:56:38+09:00"
+    "published": "2026-07-06T16:22:39+09:00"
+   },
+   {
+    "title": "[신간] 간호사의 듣기와 말하기",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040704",
+    "summary": "간호사의 하루는 수많은 ‘듣기’와 ‘말하기’로 이뤄진다. 환자와 보호자에게 치료를 설명하고, 의사에게 환자의 상태를 보고하고, 동료에게는 인수인계를 한다. 긴박하고 분주한 현장에서 듣기와 말하기는 환자의 안전을 지키고 전문성을 드러내는 중요한 도구다. 신간 〈간호사의 듣기와 말하기〉는 간호 현장에서 마주하는 다양한 상황을 통해 ‘어떻게 듣고, 어떻게 말해야 하는지’를 풀어낸다.책은 총 3부로 구성됐다. 1부 ‘환자와 듣고 말하기’에서는 환자에게 안도감과 신뢰를 전하는 소통의 원칙과 상황별 대화 방법을 소개한다. 2부 ‘동료와 듣고",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-07-06T15:52:38+09:00"
+   },
+   {
+    "title": "창원파티마병원, ‘혈관내 쇄석술’ 지역 최초 성공",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42285",
+    "summary": "창원파티마병원이 경남 지역 비대학병원 최초로 ‘혈관내 쇄석술(Intravascular Lithotripsy, IVL)’을 도입하고 성공적으로 첫 시술을 마쳤다고 7월 6일 밝혔다.지난 3일 오후 창원파티마병원 혈관조영센터에서 심장내과 이재광 과장은 삼성서울병원 순환기내과 이주명 교수와 합동으로 환자 2명을 대상으로 혈관내 쇄석술을 시행했다. 시술은 성공적으로 마무리됐다.혈관내 쇄석술(IVL)은 관상동맥 내에 단단하게 석회화된 병변을 치료하기 위해 개발된 최신 중재시술법이다. 혈관 내에 특수 풍선 카테터를 삽입한 뒤 저강도 충격파를",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-07-06T15:15:28+09:00"
+   },
+   {
+    "title": "New AI tools to be rolled out as ‘priorities’ for NHS in England",
+    "link": "https://www.nursingtimes.net/digital-and-technology/new-ai-tools-to-be-rolled-out-as-priorities-for-nhs-in-england-06-07-2026/",
+    "summary": "Access to AI notetaking tools for health service staff and a new triage resource driven by artificial intelligence (AI) have been flagged as technology priorities to be introduced across the NHS. The post New AI tools to be rolled out as ‘priorities’ for NHS in England appeared first on Nursing Time",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-06T15:01:29+09:00"
+   },
+   {
+    "title": "한양대국제병원 '제23주년 개원기념식' 개최",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=412375",
+    "summary": "[메디칼업저버 박선혜 기자] 한양대국제병원(병원장 임영효)이 '제23주년 개원기념식'을 개최했다기념식은 3일 국제병원 1층 로비에서 열렸다. 이 자리에서 한양대국제병원은 글로벌 시대에 발맞춘 병원의 정보화와 국제화, 혁신화를 통한 새로운 도약을 다짐했다.임영효 국제병원장은 \"국제병원은 우수한 의료진과 영어·중국어·러시아어·몽골어 등 다양한 언어로 원활한 의사소통이 가능한 전담 간호사와 코디네이터를 중심으로 24시간 진료서비스 체계를 운영하며 외래, 입원, 응급환자까지 수준 높은 의료서비스를 제공하고 있다\"고 말했다.이어 \"종합검진센",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-07-06T14:17:11+09:00"
+   },
+   {
+    "title": "간호협회, ‘간호사 SOS 지원창구’ 운영...심리·노무·법률상담 원스톱 지원",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=237877",
+    "summary": "[라포르시안] 대한간호협회는 의료현장에서 근무하는 간호사들이 업무 과정에서 겪는 심리적 어려움과 직장 내 갈등, 법률적 문제 등 다양한 위기 상황에 신속하게 대응할 수 있도록 상담체계를 마련했다고 6일 밝혔다.‘간호사 SOS 지원창구’는 “혼자 견디지 마세요. 대한간호협회가 함께합니다.”라는 슬로건 아래, 간호현장의 어려움부터 마음의 상처까지 간호사의 든든한 버팀목이 되겠다는 취지로 운영된다. 지원 분야는 ▲위기·고충 지원 ▲심리 상담 ▲노무 상담 ▲법률 상담 등 총 4개 분야로 구성됐다.먼저 위기·고충 지원은 간호사 출신 전문 상",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-07-06T10:20:00+09:00"
+   },
+   {
+    "title": "Nursing Times Awards 2025: Care of Older People winner and shortlist",
+    "link": "https://www.nursingtimes.net/older-peoples-nursing/nursing-times-awards-2025-care-of-older-people-winner-and-shortlist-03-07-2026/",
+    "summary": "Find out more about the winner and shortlisted entries in the Care of Older People category at the 2025 Nursing Times Awards. The post Nursing Times Awards 2025: Care of Older People winner and shortlist appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-04T03:52:32+09:00"
+   },
+   {
+    "title": "Influential MPs urge next prime minister to ‘fix’ adult social care",
+    "link": "https://www.nursingtimes.net/social-care/influential-mps-urge-next-prime-minister-to-fix-adult-social-care-03-07-2026/",
+    "summary": "Long-promised and much-needed policies to reform the adult social care sector in England must not be delayed further and must be introduced during the current parliament, a group of MPs has urged. The post Influential MPs urge next prime minister to ‘fix’ adult social care appeared first on Nursing ",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-04T03:17:02+09:00"
    }
   ],
   "ni": [
    {
-    "title": "한독, AI 기반 지능형 공장 구축 본격화",
-    "link": "https://www.medipana.com/news/articleView.html?idxno=414130",
-    "summary": "한독이 정부 지원사업 선정을 계기로 AI 기반 지능형 공장 구축을 본격화한다. 생산, 품질, 물류, 설비 운영 전반을 데이터와 AI 기반으로 재설계하며 제약·바이오 제조 혁신 모델을 마련한다는 계획이다.한독(대표 김영진-백진기)은 중소벤처기업부가 주관하는 ‘2026년 제조분야 AI 응용제품 신속 상용화 지원사업’에 최종 선정됐다고 6일 밝혔다.이번 사업에서 한독은 제약·바이오 기업 가운데 유일하게 선정됐다. 회사는 그동안 축적해 온 디지털 전환과 제조 혁신 역량을 바탕으로 사업 대상에 포함됐다고 설명했다.AI 응용제품 신속 상용화",
+    "title": "전남대병원, AI·AR 기반 '스마트 병원동행' 구축 나선다",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=414181",
+    "summary": "전남대학교병원이 인공지능(AI)과 증강현실(AR)을 활용해 병원 방문부터 진료, 검사, 복약관리까지 지원하는 '스마트 병원동행 서비스' 구축에 착수한다. 복잡한 병원 동선을 안내하는 것은 물론 검사 순서와 복약 정보까지 실시간으로 제공하는 환자 맞춤형 플랫폼을 구현한다는 구상이다.전남대학교병원은 최근 'AI 가상융합 기반 스마트 병원동행 서비스' 구축 사업 추진 보고회를 열고 서비스 개발 방향과 단계별 추진 계획을 공개했다고 밝혔다.이번 사업은 과학기술정보통신부 방송통신발전기금 지원을 받아 추진되는 'AI 가상융합 기반 서비스 전환",
     "source": "메디파나뉴스",
     "lang": "ko",
-    "published": "2026-07-06T09:26:17+09:00"
+    "published": "2026-07-06T17:11:11+09:00"
+   },
+   {
+    "title": "파로스아이바이오 \"라스모티닙 기술이전, 내년초 안으로 결실 기대\"",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77365",
+    "summary": "인공지능(AI) 신약개발 기업 파로스아이바이오가 급성골수성백혈병(AML) 치료제 '라스모티닙(PHI-101)'을 앞세워 글로벌 기술이전 성과 창출에 속도를 낸다. 임상 1상에서 확보한 데이터를 바탕으로 미국과 유럽을 중심으로 한 글로벌 사업개발을 본격화하며 AI 플랫폼 기업을 넘어 신약개발 기업으로의 전환에 나선다는 전략이다.회사는 최근 세계 최대 규모 바이오 행사인 바이오USA에서 IR 피칭 기업으로 선정돼 글로벌 투자자와 제약·바이오 기업을 대상으로 자체 AI 신약개발 플랫폼 '케미버스(Chemiverse)'와 주요 파이프라인을",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T12:04:00+09:00"
    },
    {
     "title": "Morning Headlines 7/6/26",
@@ -360,14 +448,6 @@
     "source": "HIStalk",
     "lang": "en",
     "published": "2026-07-06T07:02:53+09:00"
-   },
-   {
-    "title": "국내 비만치료제 시장을 만든 건, 8할이 한국인의 원초적 욕망",
-    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77240",
-    "summary": "기획 한국인의 욕망을 뒤흔든 이름, GLP-1광풍이다. 근래 국내 의약품 시장과 우리 사회 전반을 흔든 키워드는 단언컨대 '비만치료제'다. GLP-1유사체 비만치료제, 위고비와 마운자로(일명 위마)는 비만에 대한 사회적 인식을 바꾸고 있으며, 난치질환 치료의 실마리를 쥐고 있다. ① 유독 한국에서 광풍은 세게 분다② 비만치료제 '위마’가 죽이고 살린 것들③ 해피드럭을 넘어 '생활치료’의 시대로④ '넘버 원'이 되기 위한 전쟁마운자로를 받기까지 걸린 시간... '3분 34초'비대면진료 앱으로 마운자로를 처방받고 첫 투여를 마치기까지",
-    "source": "히트뉴스",
-    "lang": "ko",
-    "published": "2026-07-06T06:09:00+09:00"
    },
    {
     "title": "Monday Morning Update 7/6/26",
@@ -384,6 +464,14 @@
     "source": "Digital Health News",
     "lang": "en",
     "published": "2026-07-05T06:30:16+09:00"
+   },
+   {
+    "title": "Pathology transformation could unlock £450m a year for the NHS",
+    "link": "https://www.digitalhealth.net/2026/07/pathology-transformation-could-unlock-450m-a-year-for-the-nhs/",
+    "summary": "Completing the NHS's pathology transformation programme could unlock around £450m a year for the health service, a review has found.",
+    "source": "Digital Health News",
+    "lang": "en",
+    "published": "2026-07-03T21:30:49+09:00"
    }
   ]
  },
