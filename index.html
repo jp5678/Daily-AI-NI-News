@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
   :root {
-    --bg: #f6f7fb;
+    --bg: #e6f0fb;
     --surface: #ffffff;
     --text: #1a2233;
     --text-sub: #5b6478;
@@ -56,12 +56,29 @@
       --shadow: 0 1px 3px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.25);
     }
   }
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-image:
+        radial-gradient(60% 50% at 14% 8%, rgba(70,110,180,.22) 0%, rgba(70,110,180,0) 60%),
+        radial-gradient(45% 45% at 90% 88%, rgba(40,80,150,.28) 0%, rgba(40,80,150,0) 62%),
+        linear-gradient(160deg, #0f1420 0%, #0c1a2b 100%);
+    }
+  }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
-    background: var(--bg);
+    /* 시험문제 출제 플랫폼 로그인 화면과 같은 은은한 하늘색 그라디언트 배경 */
+    background-color: var(--bg);
+    background-image:
+      radial-gradient(60% 50% at 12% 8%, rgba(255,255,255,.85) 0%, rgba(255,255,255,0) 60%),
+      radial-gradient(42% 42% at 92% 88%, rgba(120,180,240,.55) 0%, rgba(120,180,240,0) 62%),
+      radial-gradient(38% 40% at 82% 55%, rgba(160,205,245,.38) 0%, rgba(160,205,245,0) 60%),
+      linear-gradient(160deg, #eaf3fc 0%, #d6e8f9 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     color: var(--text);
     line-height: 1.6;
+    min-height: 100vh;
     -webkit-font-smoothing: antialiased;
   }
   a { color: inherit; text-decoration: none; }
