@@ -1,8 +1,64 @@
 {
  "date": "2026-07-06",
- "generatedAt": "2026-07-06T06:57:52.071743+09:00",
+ "generatedAt": "2026-07-06T10:01:30.199098+09:00",
  "articles": {
   "ai": [
+   {
+    "title": "주한독일상공회의소, 국내 유망 AI 스타트업 발굴...‘AI 스타트업 피칭 챌린지 2026’ 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40834",
+    "summary": "주한독일상공회의소(대표 마리 안토니아 폰 쉔부르크. 이하, KGCCI)가 오는 15일 삼성동 코엑스에 위치한 한국무역협회 스타트업 브랜치에서 '한-독 커넥트: AI 스타트업 피칭 챌린지 2026’을 개최한다고 6일 밝혔다.인피니언 테크놀로지스(Infineon Technologies)가 후원하고 한국무역협회(KITA)가 협력하는 이번 행사는 독일 및 유럽 시장 진출 가능성이 높은 국내 인공지능(AI) 스타트업을 발굴하기 위해 마련됐다.이번 경연은 KGCCI의 스타트업 이니셔티브인 'KG Connect(Korea-Germany Conn",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-07-06T09:43:02+09:00"
+   },
+   {
+    "title": "[에듀플러스]세종대, 포에버스튜디오와 AI 공연영상콘텐츠 분야 산학협력 업무협약 체결",
+    "link": "https://www.etnews.com/20260706000071",
+    "summary": "세종대학교는 지난달 1일 교내 집현관 10층 소회의실에서 AI 콘텐츠 전문기업 포에버스튜디오와 인공지능(AI) 기반 공연영상콘텐츠 분야의 산학협력 강화를 위한 업무협약(MOU)을 체결했다고 6일 밝혔다. 이번 협약은 양 기관이 산학협력 체계를 구축하고 AI를 활용한 공연영상콘텐츠의 기획·제작과 사업화를 추진하는 한편, 관련 분야의 전문 인재를 양성하기 위해 마련됐다. 협약식에는 엄총화 세종대 총장, 이충훈 대외협력처장, 라경민 영화예술학과 학과",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:28:47+09:00"
+   },
+   {
+    "title": "KB금융, 국내 최초 휴머노이드 경진대회 후원…미래 금융 생태계 확장",
+    "link": "https://www.etnews.com/20260706000067",
+    "summary": "KB금융그룹이 국내 최초 휴머노이드 로봇 기술 실증형 경진대회인 '2026 휴머노이드 챌린지'에 총 3000만원 규모의 상금을 후원하며 인공지능(AI)·로보틱스 분야 혁신 기술 생태계 조성을 지속 지원한다. 산업통상자원부가 주최하고 한국로봇산업진흥원과 한국로봇융합연구원이 공동 주관한 이번 대회는 지난 2일부터 3일까지 이틀간 인천 송도컨벤시아에서 열렸다. 휴머노이드 로봇 기술의 상용화 수준과 산업 현장 적용 가능성을 검증하는 무대로 마련됐다.",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:28:05+09:00"
+   },
+   {
+    "title": "[에듀플러스]성균관대 김정래 교수 연구팀, AI 반도체 올림픽 'ISCA 2026'서 대한민국 최초 최우수 논문상 쾌거",
+    "link": "https://www.etnews.com/20260706000064",
+    "summary": "성균관대학교는 김정래 반도체시스템공학과 교수 연구팀이 인공지능(AI) 반도체 및 컴퓨터 구조 분야에서 국제학회 'ISCA(International Symposium on Computer Architecture) 2026'에서 최우수 논문상(Best Paper Award)을 수상했다고 6일 밝혔다. 반세기가 넘는 역사를 지닌 ISCA는 AI 반도체 구조 분야의 '올림픽'으로 불리는 초일류 학회로, 논문이 채택되는 것만으로도 가문과 학교의 영예로",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:25:04+09:00"
+   },
+   {
+    "title": "AI 강화학습, 양자 컴퓨팅으로 극대화한다",
+    "link": "https://www.etnews.com/20260706000060",
+    "summary": "양자 컴퓨팅으로 '강인한 인공지능(AI)'을 훨씬 효율적으로 학습시킬 수 있는 기법이 개발됐다. 양자 컴퓨팅의 강력한 연산 능력으로 기존 계산 비용을 최대 5분의 1로 줄인 것이 핵심이다. 개발 주역은 윤성환 UNIST 인공지능대학원 교수팀과 김중헌 고려대 전기전자공학부 교수팀이다. 공동 연구팀은 양자 알고리즘을 이용해 '강인한 강화학습'의 계산 비용을 획기적으로 줄인 학습 기법(QRIM)'을 개발했다고 6일 밝혔다. 강화학습은 AI가 시행착오",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:21:33+09:00"
+   },
+   {
+    "title": "기장병원, 대웅제약 '씽크' 도입…AX로 의료 취약지 한계 돌파",
+    "link": "https://www.etnews.com/20260706000057",
+    "summary": "기장병원이 대웅제약의 인공지능(AI) 기반 스마트 병상 모니터링 시스템 '씽크'를 도입하고 지역 의료 인프라 고도화에 나섰다. 디지털 헬스케어 기술을 접목해 환자 안전관리 체계를 강화하는 등 지역 의료 접근성 개선 효과를 꾀한다. 대웅제약은 부산 기장병원이 총 154병상 중 50병상에 씽크를 우선 적용해 운영에 돌입했다고 6일 밝혔다. 기장병원은 씽크 도입으로 입원 환자의 주요 생체 데이터를 더 체계적으로 관리할 수 있는 스마트 병동 환경을 조",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:18:23+09:00"
+   },
+   {
+    "title": "법무법인 민후·법무법인 원 합병 계약… '100인 규모' 대형 로펌으로 도약",
+    "link": "https://www.etnews.com/20260706000052",
+    "summary": "기술 및 지식재산권(IP) 분야에서 독보적인 전문성을 구축해 온 법무법인 민후가 중견 로펌인 법무법인 원과 합병하고, 소속 변호사 100인 규모의 메이저 로펌으로 본격 도약한다고 6일 밝혔다. 이번 합병을 통해 법무법인 민후는 기존의 강점인 IT·인공지능(AI)·블록체인·IP 분야의 전문성에 법무법인 원이 보유한 송무, 기업 법무, 공공기관 자문 등 전통적 법률 영역의 인프라를 결합하여 한층 고도화된 종합 법률 서비스를 제공할 방침이다. 특히",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-06T09:11:01+09:00"
+   },
    {
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
     "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
@@ -26,22 +82,6 @@
     "source": "The Decoder",
     "lang": "en",
     "published": "2026-07-06T00:25:07+09:00"
-   },
-   {
-    "title": "한국공학대 길형원팀, AI 자세 인식 시스템으로 반도체 캡스톤 대상",
-    "link": "https://www.etnews.com/20260705000083",
-    "summary": "한국공학대학교 반도체공학부 학생들이 인공지능(AI)과 압저항 센서를 결합한 자세 인식 시스템으로 반도체특성화대학 캡스톤디자인 경진대회에서 대상을 받았다. 한국공학대 반도체인력양성사업단(단장 안승언)은 국립공주대와 공동 개최한 '2026 반도체특성화대학 캡스톤디자인 경진대회'에서 길형원 팀이 대학별 대상을 수상했다고 5일 밝혔다. 경진대회는 지난달 26일 부산 벡스코에서 열린 '2026 한국전기전자재료학회 하계학술대회' 특별세션으로 진행됐다. 두",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-05T23:10:43+09:00"
-   },
-   {
-    "title": "영종에 모인 외투기업 50여개사 CEO…인천 미래산업 협력에 머리맞대",
-    "link": "https://www.etnews.com/20260705000082",
-    "summary": "인천광역시가 외국인 투자기업 50여 개 사와 계양테크노밸리, 인공지능(AI) 커넥티드카 등 미래산업 분야의 투자·협력 방안을 논의했다. 인천시는 지난 3∼4일 영종 인스파이어 리조트에서 한국외국기업협회(FORCA)와 '2026 인천시 비즈니스 라운드테이블'을 공동 개최했다고 5일 밝혔다. 행사에는 문고영 한국외국기업협회 회장 겸 RWE코리아 대표를 비롯해 지멘스코리아, 스태츠칩팩코리아 등 외국인 투자기업 50여 개 사 최고경영자(CEO)가 참석",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-05T21:30:26+09:00"
    },
    {
     "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
@@ -68,14 +108,6 @@
     "published": "2026-07-05T19:22:06+09:00"
    },
    {
-    "title": "[에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 'AI 면접관'",
-    "link": "https://www.etnews.com/20260702000446",
-    "summary": "대학가에 인공지능(AI) 면접이 속속 도입되는 모양새다. 교환학생 선발 등 대학 행정 영역까지 AI가 면접관 자리를 대신하는 사례가 늘고 있다. 대학들은 공정성 강화, 행정 비용 절감, 선발 정확도 등 다양한 요인을 고려해 AI 면접관을 도입한다. AI 면접관 도입 배경에는 객관적이고 공정한 선발 체계를 구축하려는 의도가 있다. 면접위원 개인의 주관이 개입될 여지를 구조적으로 차단하고, 일관된 기준에 따라 평가가 이뤄지도록 하는 것이 핵심이다.",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-05T18:37:10+09:00"
-   },
-   {
     "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
     "link": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
     "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" b",
@@ -84,36 +116,12 @@
     "published": "2026-07-05T18:02:36+09:00"
    },
    {
-    "title": "韓총리 “3대 메가로 새 성장시대”…한병도 “입법·예산 지원 총력”",
-    "link": "https://www.etnews.com/20260705000071",
-    "summary": "더불어민주당과 정부, 대통령실이 5일 고위당정협의회를 열고 정부의 핵심 성장 전략인 '3대 메가 프로젝트'의 조기 추진을 위해 입법과 예산 지원에 총력을 기울이기로 했다. 반도체와 인공지능(AI) 데이터센터, 피지컬 AI를 축으로 한 대규모 국가 프로젝트를 통해 새로운 성장동력을 확보하고, 물가 안정과 민생경제 회복에도 힘을 모을 방침이다. 한성숙 국무총리는 이날 서울 삼청동 총리공관에서 열린 고위당정협의회에서 “과거 고속도로와 초고속통신망이",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:27+09:00"
-   },
-   {
-    "title": "AI 훈풍에 삼성전기·LG이노텍 2분기 호실적 예고",
-    "link": "https://www.etnews.com/20260702000224",
-    "summary": "서버 등 인공지능(AI) 부문 가파른 성장세로 반도체 기판, 적층세라믹콘덴서(MLCC) 등 여기에 들어가는 주요 부품을 제조하는 삼성전기, LG이노텍의 2분기 실적에도 훈풍이 예고됐다. 5일 업계에 따르면 삼성전기와 LG이노텍은 이달 말 지난해 2분기보다 각각 1000억원 이상 성장한 실적을 발표할 예정이다. 금융정보업체 에프엔가이드 컨센서스에 따르면 삼성전기는 2분기 매출 3조2776억원, 영업이익 3819억원을 기록할 것으로 예상됐다. 매출",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
     "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
     "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
     "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform wo",
     "source": "The Decoder",
     "lang": "en",
     "published": "2026-07-05T16:52:17+09:00"
-   },
-   {
-    "title": "세계 1만5천 AI 석학들 서울 총 집결… ICML 2026, 한국 AI 위상 높인다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40833",
-    "summary": "세계 최고 권위의 머신러닝 학술대회인 국제머신러닝학회(ICML 2026, International Conference on Machine Learning)가 6일부터 11일까지 6일간 서울 코엑스 전관에서 개최된다. 전 세계 인공지능(AI) 연구자와 기업 관계자 약 1만5000명이 참가하는 이번 행사는 서울에서 열리는 국제 학술행사 가운데 최대 규모 중 하나로 기록될 전망이다.ICML은 신경망, 생성형 AI, 대형언어모델(LLM), 강화학습, 컴퓨터 비전, 로보틱스 등 현대 AI 기술의 핵심 연구 성과가 발표되는 머신러닝 분야 최고",
-    "source": "인공지능신문",
-    "lang": "ko",
-    "published": "2026-07-05T16:22:48+09:00"
    },
    {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -150,20 +158,68 @@
   ],
   "it": [
    {
-    "title": "라이터, 토크노믹스 개편...스테이킹 재원 생태계 준비금으로 전환",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681430",
-    "summary": "[디지털투데이 황치규 기자]탈중앙화 거래소 라이터는 새 토크노믹스를 공개했다.라이터는 프로그램 매입으로 확보한 LIT토큰 약 1550만개를 영구 소각한다. 유통량 6.3% 규모다. 첫 소각은 2026년 2분기 마감 몇 주 뒤 진행할 예정이다.스테이킹 보상 재원도 바꾼다. 기존에는 초기 매출에서 지급했지만 앞으로는 생태계 토큰 준비금에서 지급한다. 초기 연간 스테이킹 수익률 목표는 6%다. 현재 스테이킹된 LIT토큰이 약 1억2500만개인 점을 감안하면 매년 약 750만개가 보상으로 지급된다.앞서 라이터는 토큰 출시를 앞두고 플랫폼",
-    "source": "디지털투데이",
+    "title": "[디지키 테크포럼] LED 스트립 조명에 맞는 LED 드라이버 선택 방법은?",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403725",
+    "summary": "[테크월드=이광재 기자] LED 스트립 조명을 ‘제대로 안전하게 오래 사용’하려면 먼저 적합한 LED 드라이버를 선택해야 한다.이 글에서는 LED 스트립 조명에 맞는 LED 드라이버를 고르는 기본 원리를 살펴보고 아메리칸브라이트(American Bright) 제품을 예로 들어 실제 선택 방법을 설명한다.알맞은 조합이 중요한 이유LED 드라이버를 잘못 고르면 조명이 깜박이거나 밝기가 어두워질 수 있고 심하면 LED 스트립이 손상될 수도 있다. 전압과 소비 전력을 맞춰야 조명 시스템이 안정적으로 제 성능을 내며 작동한다.LED 스트립",
+    "source": "테크월드뉴스",
     "lang": "ko",
-    "published": "2026-07-06T06:54:01+09:00"
+    "published": "2026-07-06T10:00:00+09:00"
    },
    {
-    "title": "KAIST 석사과정 AI에이전트로 주식 자동매매…수익률은",
-    "link": "https://zdnet.co.kr/view/?no=20260705190503",
-    "summary": "[지디넷코리아]KAIST 연구생들이 AI 에이전트 오픈클로를 이용해 자동 주식매매를 했다. 과연 수익률은 어땠을까?이관택 전기및전자공학부 석사과정 연구생이 220만원을 투자해 실제 투자해봤다. 이틀간 350건 자동매매한 결과는 2만5,029원 손실. 매수금액 대비 -1.11% 손실을 입었다.KAIST 테라랩(김정호 전기및전자공학부 석좌교수 연구실, 랩장 서해석 박사과정생)이 지난 3일 오픈클로 AI에이전트를 HBM(고대역폭메모리) 등 연구 현장에 적용한 실험이나 일상 적용 실험 결과를 공개하는 워크숍을 진행했다.석, 박사과정 연구생",
+    "title": "美 지니어스법, 세부 규정 7월 18일 마감…스테이블코인 발행사 옥석 가리기 시작",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681472",
+    "summary": "[디지털투데이 홍진주 기자] 미국 스테이블코인 시장이 지니어스(GENIUS) 법 세부 규정 확정 시한을 계기로 대형 발행사 중심으로 재편될 가능성이 커지고 있다. 준비금 규정과 월간 감사, 인허가, 자금세탁방지 체계가 본격 적용되면 스테이블코인 발행 사업의 경쟁력은 규제 비용을 얼마나 감당할 수 있느냐에 달릴 전망이다.지난 3일(현지시간) 블록체인 매체 크립토슬레이트에 따르면, 미국 지니어스법은 제정 후 1년 안에 세부 규정을 확정하도록 하고 있으며, 오는 7월18일이 핵심 분기점으로 지목된다. 이 시점 이후 발행사는 준비금 구성,",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-07-06T09:53:50+09:00"
+   },
+   {
+    "title": "문체부, 미술서비스업 신고제 권역별 설명회 마련",
+    "link": "https://zdnet.co.kr/view/?no=20260706092933",
+    "summary": "[지디넷코리아]문화체육관광부(장관 최휘영)는 예술경영지원센터(대표 김장호)와 함께 미술서비스업 신고제의 원활한 시행을 위해 관련 사업자를 대상으로 권역별 설명회를 개최한다고 6일 밝혔다. 미술진흥법 제18조(미술서비스업의 신고)에 따라 신설된 미술서비스업 신고제는 미술 유통 분야의 체계적인 육성·지원과 투명한 미술 시장 조성을 위한 제도로서, 미술서비스업 신고제가 시행되면 화랑업, 미술품 경매업, 미술품 자문업, 미술품 대여·판매업, 미술품 감정업, 미술전시업을 영위하려는 자는 관할 지방자치단체장에게 신고해야 한다. 해당 신고제는 ",
     "source": "ZDNet Korea",
     "lang": "ko",
-    "published": "2026-07-06T06:00:02+09:00"
+    "published": "2026-07-06T09:29:41+09:00"
+   },
+   {
+    "title": "OT ȯ�濡�� �׼����� �߿伺 �� ���� ���� ����� �Ѱ� �غ� ��ȡ� ����Ʈ����Ʈ ���� ����",
+    "link": "http://www.boannews.com/media/view.asp?idx=144388&kind=&sub_kind=",
+    "summary": "7�� 14��(ȭ) 2��, ��OT ���� ȯ�� �м� �� BeyondTrust�� ���� �ؼ� ��ȡ� ���� ����[���ȴ��� �Ѽ��� ����] OT ȯ���� ���� �� ����ʿ� ���� �׼����� ���� �������̸鼭�� �����Ǳ� ���� ���� ��� �� �ϳ��� ��εǾ���. ���� ���޾�ü, �ý��� ���վ�ü �� ���� �� ��� �ٽ� OT �ý��ۿ� ���� �׼����� �ʿ�������, ���� ������ ������",
+    "source": "보안뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T09:04:00+09:00"
+   },
+   {
+    "title": "트럼프, FIFA 회장에 전화걸자…'출전정지' 美 공격수 징계 뒤집혔다",
+    "link": "https://www.etnews.com/20260706000030",
+    "summary": "미국 축구대표팀 공격수 폴라린 발로건(AS모나코)이 국제축구연맹(FIFA)의 징계 집행 유예 결정으로 벨기에와의 2026 북중미 월드컵 16강전에 출전할 수 있게 됐다. 하지만 도널드 트럼프 미국 대통령이 직접 잔니 인판티노 FIFA 회장에게 전화를 걸어 징계 재검토를 요청한 사실이 알려지면서 정치적 외압과 개최국 특혜 논란이 커지고 있다. 미국 일간 뉴욕타임스는 5일(현지시간) 사안에 정통한 복수의 소식통을 인용해 트럼프 대통령이 지난 2일",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T08:53:23+09:00"
+   },
+   {
+    "title": "K-팝 최초! 제니, 유럽 양대 페스티벌 연속 헤드라이너",
+    "link": "https://www.etnews.com/20260706000011",
+    "summary": "글로벌 아티스트 제니(JENNIE)가 글로벌 페스티벌 퀸 존재감을 입증했다. 덴마크 '로스킬데 페스티벌'(Roskilde Festival)과 폴란드 '오프너 페스티벌'(Open’er Festival)에서 연속 헤드라이너로 무대에 오르며 K-",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T08:33:23+09:00"
+   },
+   {
+    "title": "5대 은행·인터넷뱅크, 정보보호 예산 4000억원 육박…집행률은 3년째 하락",
+    "link": "https://www.etnews.com/20260706000007",
+    "summary": "최근 사이버 위협이 고도화되면서 시중은행과 인터넷전문은행의 정보보호 예산 편성 규모가 4000억원에 육박한 것으로 나타났다. 다만 예산을 늘린 것에 비해 실제 집행한 비율은 3년 연속 내림세를 기록했다. 6일 국회 정무위원회 소속 이양수 국민의힘 의원이 금융감독원으로부터 제출받은 자료에 따르면, 지난해 5대 시중은행(국민·농협·신한·우리·하나)과 인터넷전문은행(카카오뱅크·케이뱅크·토스뱅크)의 정보보호 예산 편성액은 3978억원을 기록했다. 20",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-06T07:52:58+09:00"
+   },
+   {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-06T07:30:54+09:00"
    },
    {
     "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
@@ -246,46 +302,6 @@
     "published": "2026-07-05T17:00:00+09:00"
    },
    {
-    "title": "인텔 1.4나노 '아키텍처 변형' 승부수…전후면 전력공급 검토",
-    "link": "https://www.etnews.com/20260703000219",
-    "summary": "종합반도체 기업 인텔이 1.4나노급 초미세 공정에서 경쟁사들을 추격하기 위해 내부적으로 전면·후면 전력을 모두 활용하는 아키텍처를 고려 중인 것으로 나타났다. 업계에 따르면 인텔은 1.4나노급 기본 공정인 14A에서 후면 전력 공급(BSPDN) 전용 기술인 '파워다이렉트(PowerDirect)'를 적용할 방침이었으나, 후속 공정인 14A2에서는 전면과 후면을 모두 활용하는 '듀얼 사이드(Dual side)' 아키텍처 도입을 검토 중인 것으로 알",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
-    "title": "“차단 무력화 우회로 막혔다”…뉴토끼 텔레그램 주소안내방 차단",
-    "link": "https://www.etnews.com/20260703000217",
-    "summary": "불법 웹툰·웹소설 유통 사이트 '뉴토끼'의 새 접속 주소를 실시간 공유해온 텔레그램 공식 채널이 차단됐다. 정부의 긴급차단 조치를 무력화하는 핵심 우회 수단으로 지목돼온 텔레그램 유통망까지 막히면서 불법 사이트에 대한 전방위 압박이 한층 강화되는 모양새다. 5일 문화체육관광부와 관련업계에 따르면 뉴토끼 주소안내 텔레그램 채널 접속이 차단됐다. 해당 방에 접속을 시도하면 '이 채널은 지역 법률(South Korea)을 위반했기 때문에 표시할 수",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
-    "title": "中 거리두는 韓반도체, 소부장 공급망 재편",
-    "link": "https://www.etnews.com/20260703000213",
-    "summary": "삼성전자와 SK하이닉스가 중국 의존도가 높은 반도체 소재·부품·장비(소부장) 공급망 재편에 나섰다. 미국의 대중국 규제 강화 가능성에 선제 대응하기 위해 일부 중국산 장비를 한국과 미국 등 다른 국가 제품으로 대체하는 방안을 추진하는 것으로 파악됐다. 미·중 갈등이 국내 반도체 제조의 공급망 판도까지 흔드는 모습이다. 5일 업계에 따르면 삼성전자와 SK하이닉스는 중국 맷슨테크놀로지 장비 도입 비중을 줄이는 방안을 추진하고 있다. 감광액 찌꺼기를",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-05T17:00:00+09:00"
-   },
-   {
-    "title": "[�Ӵ����� ���� 100���� ���� ���� 54] �� �� ���� ������� ����(4)-���� ��й�ȣ ���� �и��� ����",
-    "link": "http://www.boannews.com/media/view.asp?idx=143641&kind=&sub_kind=",
-    "summary": "����Ʈ���� ���� �ٸ� ��й�ȣ�� ����ϼ��亸�� ����� 90%�� ��ŷ�� �ƴ϶� ���Ǽ������� ���۵ȴ�. �׷��� �츮�� ������� ������ ����� �Ѵ�. �Ӵ����� ���� 100���� ���� ���������� �⽺��Ʈ�� ���� ���������й�ȣ ��PC�����ͳ� ���Ȱ ���� ��������������� �� 100���� ���� ������ �Ӵ�� �������� �Ұ��Ѵ�. ������ ����� �ʴ�. ��Ű����, �� ��Ű��",
-    "source": "보안뉴스",
-    "lang": "ko",
-    "published": "2026-07-05T16:38:00+09:00"
-   },
-   {
-    "title": "LG유플러스, \"해외 로밍 통화 부담 낮춘다\"…'익시오 로밍콜' 해외 100개국 확대",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403881",
-    "summary": "[테크월드=김혜진 기자] LG유플러스가 해외 100개국에 ‘익시오(ixi-O) 로밍콜’ 서비스를 출시한다. 일본을 시작으로 동남아, 중국, 유럽 등 확대 추진한다는 계획이다.LG유플러스는 이용자들에게 국내와 유사한 통화 환경을 제공하고자 일본을 시작으로 해외 100개국에 익시오 로밍콜을 출시한다고 5일 밝혔다.익시오 로밍콜은 해외 무료 통화 서비스다. AI 통화앱인 익시오 이용자가 유플러스 로밍 요금제 또는 와이파이(Wi-Fi) 환경에서 음성 통화 시 국제 통화요금을 부담 없이 사용할 수 있도록 설계한 서비스다.실제 LG유플러스의",
-    "source": "테크월드뉴스",
-    "lang": "ko",
-    "published": "2026-07-05T09:05:00+09:00"
-   },
-   {
     "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
     "link": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
     "summary": "This week's science news.",
@@ -300,17 +316,17 @@
     "source": "The Verge",
     "lang": "en",
     "published": "2026-07-05T04:06:27+09:00"
-   },
-   {
-    "title": "How your smartwatch and AI might detect early signs of illness",
-    "link": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
-    "summary": "Wearables are best at noticing breaks from your body's usual patterns. Those outliers can hint that something warrants further investigation with your doctor.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-07-05T03:30:00+09:00"
    }
   ],
   "nurse": [
+   {
+    "title": "초고령화 사회에서의 노인 간호 해법, 방문 요양 간호 체계 확충 필수적",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20898",
+    "summary": "대한민국이 초고령화 사회를 맞이하면서 의료계에서는 노인 돌봄을 위한 의료 시스템 도입이 필요하다는 의견이 초고령화 사회의 패러다임으로 자리 잡고 있다. 노인 인구가 전체 인구의 20%를 초과한 시대에서 의료계는 이를 어떻게 받아들이고 해결의 열쇠를 찾아야 한다는 의견이 나오고 있다. 이와 관련하여 제시된 해법이 바로 방문 요양 간호이다. 현재 대한민국에서는 혼자 사는 노인이 점점 증가하는 추세이고 가족 부양에 대한 인식 변화와 축소된 가족 형태 등으로 노인에 대한 사회적 돌봄의 필요성이 증가하고 있다는 점에서 방문 요양 간호에 대한",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-07-06T08:48:35+09:00"
+   },
    {
     "title": "정부·기업 맞손, 쪽방촌 ‘폭염 안전망’ 가동",
     "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42258",
@@ -330,6 +346,22 @@
   ],
   "ni": [
    {
+    "title": "한독, AI 기반 지능형 공장 구축 본격화",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=414130",
+    "summary": "한독이 정부 지원사업 선정을 계기로 AI 기반 지능형 공장 구축을 본격화한다. 생산, 품질, 물류, 설비 운영 전반을 데이터와 AI 기반으로 재설계하며 제약·바이오 제조 혁신 모델을 마련한다는 계획이다.한독(대표 김영진-백진기)은 중소벤처기업부가 주관하는 ‘2026년 제조분야 AI 응용제품 신속 상용화 지원사업’에 최종 선정됐다고 6일 밝혔다.이번 사업에서 한독은 제약·바이오 기업 가운데 유일하게 선정됐다. 회사는 그동안 축적해 온 디지털 전환과 제조 혁신 역량을 바탕으로 사업 대상에 포함됐다고 설명했다.AI 응용제품 신속 상용화",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-07-06T09:26:17+09:00"
+   },
+   {
+    "title": "Morning Headlines 7/6/26",
+    "link": "https://histalk2.com/2026/07/05/morning-headlines-7-6-26-2/",
+    "summary": "NHS accelerates artificial intelligence rollout to cut waiting times and ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-06T07:02:53+09:00"
+   },
+   {
     "title": "국내 비만치료제 시장을 만든 건, 8할이 한국인의 원초적 욕망",
     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77240",
     "summary": "기획 한국인의 욕망을 뒤흔든 이름, GLP-1광풍이다. 근래 국내 의약품 시장과 우리 사회 전반을 흔든 키워드는 단언컨대 '비만치료제'다. GLP-1유사체 비만치료제, 위고비와 마운자로(일명 위마)는 비만에 대한 사회적 인식을 바꾸고 있으며, 난치질환 치료의 실마리를 쥐고 있다. ① 유독 한국에서 광풍은 세게 분다② 비만치료제 '위마’가 죽이고 살린 것들③ 해피드럭을 넘어 '생활치료’의 시대로④ '넘버 원'이 되기 위한 전쟁마운자로를 받기까지 걸린 시간... '3분 34초'비대면진료 앱으로 마운자로를 처방받고 첫 투여를 마치기까지",
@@ -338,36 +370,12 @@
     "published": "2026-07-06T06:09:00+09:00"
    },
    {
-    "title": "Morning Headlines 7/6/26",
-    "link": "https://histalk2.com/2026/07/05/morning-headlines-7-6-26/",
-    "summary": "Epic’s President Resigns Epic President Sumit Rana has resigned from ...",
-    "source": "HIStalk",
-    "lang": "en",
-    "published": "2026-07-06T04:23:40+09:00"
-   },
-   {
     "title": "Monday Morning Update 7/6/26",
     "link": "https://histalk2.com/2026/07/05/monday-morning-update-7-6-26/",
     "summary": "Top News Epic President Sumit Rana has resigned from the ...",
     "source": "HIStalk",
     "lang": "en",
     "published": "2026-07-06T04:07:22+09:00"
-   },
-   {
-    "title": "AI in Mental Health: Why Clinicians Need to Be in the Room",
-    "link": "https://medcitynews.com/2026/07/ai-in-mental-health-why-clinicians-need-to-be-in-the-room/",
-    "summary": "As clinicians, we learn not to be agreeable, we learn to challenge and sit in discomfort. We ask the hard questions underneath the one being asked. That is the work these tools are not yet built to do. The post AI in Mental Health: Why Clinicians Need to Be in the Room appeared first on MedCity News",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-07-05T22:24:00+09:00"
-   },
-   {
-    "title": "한미 프로-캄, 'EGF 우레아 케라톤 크림' 출시",
-    "link": "https://www.medipana.com/news/articleView.html?idxno=414108",
-    "summary": "한미사이언스의 약국 전용 화장품 브랜드 '프로-캄'이 기능성 올인원 케어 크림을 출시하며 제품 라인업을 확대했다. 각질과 피부결, 색소침착 고민 부위를 함께 관리할 수 있는 바디 케어 제품이다.한미사이언스는 우레아와 EGF를 핵심 성분으로 함유한 신제품 '프로-캄 EGF 우레아 케라톤 크림'을 6월 출시했다고 5일 밝혔다.프로-캄은 한미사이언스의 약국 전용 화장품 브랜드다. 이번 제품은 프로-캄의 기존 제품인 'EGF 액티브 바이탈 크림'의 새로운 라인업으로 개발됐다.신제품은 피부 개선에 도움을 줄 수 있는 EGF 성분을 기반으로",
-    "source": "메디파나뉴스",
-    "lang": "ko",
-    "published": "2026-07-05T21:45:42+09:00"
    },
    {
     "title": "NHS backs rollout of integrated AVT as part of £10bn tech funding",
