@@ -23,8 +23,12 @@ from email.utils import parsedate_to_datetime
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(KST)
 TODAY = NOW.strftime("%Y-%m-%d")
-# 최근 48시간 이내 기사만 수집 (주말/공휴일 대비 여유)
-CUTOFF = NOW - timedelta(hours=48)
+# 최근 72시간 이내 기사만 수집.
+# 국내 매체는 하루에도 여러 건을 올리지만, 해외 간호 전문지(American Nurse,
+# Daily Nurse 등)는 게시 빈도가 낮아 48시간 창에서는 국외 기사가 통째로
+# 누락되곤 했다. 창을 72시간으로 넓혀 해외 기사도 확보하되, 최신순 정렬 +
+# 카테고리 상한으로 신선도는 유지한다.
+CUTOFF = NOW - timedelta(hours=72)
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 
@@ -78,6 +82,9 @@ FEEDS = [
     {"name": "American Nurse Journal", "url": "https://www.myamericannurse.com/feed/", "category": "nurse", "lang": "en"},
     {"name": "Daily Nurse", "url": "https://dailynurse.com/feed/", "category": "nurse", "lang": "en"},
     {"name": "Nurse.com", "url": "https://www.nurse.com/blog/feed/", "category": "nurse", "lang": "en"},
+    {"name": "Nurse.org", "url": "https://nurse.org/feed/", "category": "nurse", "lang": "en"},
+    {"name": "Scrubs Magazine", "url": "https://scrubsmag.com/feed/", "category": "nurse", "lang": "en"},
+    {"name": "Minority Nurse", "url": "https://minoritynurse.com/feed/", "category": "nurse", "lang": "en"},
     # --- 보건의료·간호 (국내) ---
     {"name": "메디칼타임즈", "url": "https://www.medicaltimes.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
     {"name": "데일리메디", "url": "https://www.dailymedi.com/rss/allArticle.xml", "category": "ni", "lang": "ko"},
@@ -132,21 +139,37 @@ MAX_PER_CATEGORY = 20
 MAX_PAPERS = 10
 
 # 피드를 동시에 받아오는 스레드 수 (피드가 많아 순차 수집은 느리다)
-FETCH_WORKERS = 8
-FETCH_TIMEOUT = 15
-FETCH_RETRIES = 1
+FETCH_WORKERS = 6
+FETCH_TIMEOUT = 25
+FETCH_RETRIES = 2
 
 
 def log(msg):
     print(f"[fetch_news] {msg}", file=sys.stderr)
 
 
+# 일부 해외 매체(Cloudflare 등)는 봇 User-Agent를 403으로 막는다.
+# 첫 시도는 프로젝트 UA로, 이후 재시도는 브라우저 UA로 바꿔 차단을 우회한다.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+)
+
+
 def fetch_url(url, timeout=FETCH_TIMEOUT, retries=FETCH_RETRIES):
-    """URL을 받아 bytes 반환. 일시적 네트워크 오류는 짧은 백오프 후 재시도."""
+    """URL을 받아 bytes 반환. 일시적 네트워크 오류는 짧은 백오프 후 재시도.
+
+    재시도 시에는 브라우저 User-Agent로 전환해 봇 차단(403)을 회피한다.
+    """
     last_err = None
     for attempt in range(retries + 1):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"})
+            ua = USER_AGENT if attempt == 0 else BROWSER_UA
+            req = urllib.request.Request(url, headers={
+                "User-Agent": ua,
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+                "Accept-Language": "ko,en-US;q=0.8,en;q=0.6",
+            })
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
         except Exception as e:
