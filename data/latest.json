@@ -1,8 +1,104 @@
 {
  "date": "2026-07-15",
- "generatedAt": "2026-07-15T06:54:23.209648+09:00",
+ "generatedAt": "2026-07-15T10:18:19.049402+09:00",
  "articles": {
   "ai": [
+   {
+    "title": "GIST, MIT CSAIL에 ‘피지컬 AI 전진기지’ 구축… 인간중심 AI 공동연구 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40989",
+    "summary": "광주과학기술원(GIST)이 美 MIT와 손잡고 인간중심 피지컬 인공지능(Physical AI) 분야 글로벌 공동연구를 본격화한다. 이는 MIT 캠퍼스 내에 공동 연구 거점을 구축하고 양국 연구진 간 상시 협력 체계를 마련하면서 차세대 피지컬 인공지능 기술 개발에 속도를 낸다는 계획이다.GIST는 AI학과 김승준 교수 연구팀이 MIT 컴퓨터과학·인공지능연구소(CSAIL)와 함께 추진하는 ‘GIST-MIT 인간중심 피지컬 AI 상호작용 연구센터(PAIR-HCI Center)’가 MIT 내 물리적 연구 거점을 마련하고 공동 워크숍과 연구",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-07-15T10:11:41+09:00"
+   },
+   {
+    "title": "국립광주과학관, 온 국민의 'AI 스위치'를 켜다…'모두의 On-A.I.' 특별전 개최",
+    "link": "https://www.etnews.com/20260715000122",
+    "summary": "국립광주과학관(관장 이정구)은 오는 30일부터 11월 8일까지 기획전시실에서 인공지능(AI) 특별전 '모두의 A.I.(On-A.I.)'를 개최한다. 'On-A.I.'는 '인공지능의 스위치를 켜다'라는 의미를 담고 있으며, 이번 특별전은 관람객이 AI를 눈으로 보는 데 그치지 않고 직접 체험하고 이해하며 함께 생각해 볼 수 있도록 기획한 참여형 전시다. 전시는 프롤로그와 에필로그를 포함한 6개 주제로 구성됐으며, 총 32점의 AI 관련 전시품을",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T10:03:05+09:00"
+   },
+   {
+    "title": "'전남광주 미래첨단산업 포럼' 특별세미나, 22일 GIST서 개최…광반도체 집중 논의",
+    "link": "https://www.etnews.com/20260709000001",
+    "summary": "전남광주통합특별시 광융합기술 유관 기관들이 공동으로 22일 오후 2시부터 광주과학기술원(GIST) 오륭관 다목적홀에서 '미래 첨단산업 포럼(JAIF) 특별 세미나'로 개최한다. 이날 행사는 인공지능(AI) 반도체 시대 핵심기술로 부상하는 광반도체를 전남광주의 미래 전략산업으로 제시하고 광반도체 핵심소자, 광연결 기술, 첨단패키징을 연계한 혁신 생태계 조성 방향을 논의하기 위해 열린다. '미래 반도체 산업의 핵심, 광반도체 혁신 생태계 조성 방안",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T10:00:00+09:00"
+   },
+   {
+    "title": "LG헬로비전, ESG 보고서 발간…AI 교육·헬로라이프 100만 구독 등 성과",
+    "link": "https://www.etnews.com/20260715000116",
+    "summary": "LG헬로비전이 15일 2025-2026년 주요 ESG 성과를 담은 지속가능경영보고서를 발간했다. 이번 보고서는 '미디어와 통신이 연결하는 지속 가능한 내일'을 주제로 AI 혁신과 로컬 생태계 조성 성과를 담았다. 중대성 평가를 통해 정보보안 및 고객정보 보호·고객만족·윤리준법경영·지역사회 참여·기후변화 대응을 5대 중대이슈로 선정했다. AI 분야에서는 사내 해커톤·임직원 교육·AI 기반 고객 문의 분석 등 AX 조직문화 구축 사례를 담았다.",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T09:58:34+09:00"
+   },
+   {
+    "title": "보산진-한국MSD, 디지털 헬스케어 혁신기업 발굴",
+    "link": "https://www.etnews.com/20260715000110",
+    "summary": "한국보건산업진흥원은 한국MSD와 지난 14일 서울 양재 엘타워에서 'MSD 헬스 이노베이션 서밋'을 성료했다고 15일 밝혔다. 이번 행사는 글로벌 제약사별 특화 프로그램 'K바이오파마 넥스트 브리지' 일환으로 개최했다. MSD 핵심 치료 영역에서의 의료 과제 해결을 위한 디지털 혁신 기술 활용 방안과 의료 접근성 향상을 위한 인공지능의 잠재력을 집중 조명했다. 피칭 세션에서는 사전 심사로 선정된 국내 8개 혁신 기업이 발표했다. 최종 4개 기업",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T09:55:39+09:00"
+   },
+   {
+    "title": "“연구비 정산 자동화” 이파피루스, '스트림닥스 AI' 조달 등록",
+    "link": "https://www.etnews.com/20260715000109",
+    "summary": "이파피루스(대표 김정희)는 연구비 정산 등록을 자동화할 수 있는 전자 증빙 솔루션 '스트림닥스(StreamDocs) AI v1.0'을 조달청 디지털서비스몰에 등록했다고 15일 밝혔다. 스트림닥스는 텍스트를 정확히 해석하는 SLM(소형언어모델)과 도장·영수증 등 시각 정보를 정밀 분석하는 VLM(시각언어모델)을 결합, 문서 내 데이터 정합성을 검증하는 것이 특징이다. 사용자가 증빙 서류를 업로드하면 AI가 품의 내역과 실제 영수증의 금액·날짜·장",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T09:54:32+09:00"
+   },
+   {
+    "title": "GIST-MIT, 글로벌 피지컬 AI 공동연구 협력 체제 구축",
+    "link": "https://www.etnews.com/20260715000108",
+    "summary": "광주과학기술원(GIST·총장 임기철)은 김승준 AI학과 교수팀이 미국 매사추세츠 공과대학교(MIT) 컴퓨터과학·인공지능 연구소(CSAIL)에 'GIST-MIT 인간중심 피지컬 AI 상호작용 연구센터(PAIR-HCI Center)' 거점을 마련해 글로벌 협력 체계를 본격 가동하고 있다고 15일 밝혔다. PAIR-HCI 센터는 과학기술정보통신부와 한국연구재단이 지원하는 '해외 우수 연구기관 협력허브 구축사업'의 일환으로 지난해 7월부터 2030년",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-07-15T09:53:50+09:00"
+   },
+   {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-07-15T09:27:04+09:00"
+   },
+   {
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-07-15T08:10:02+09:00"
+   },
+   {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-07-15T07:22:24+09:00"
+   },
+   {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-07-15T07:07:42+09:00"
+   },
+   {
+    "title": "[7월14일] 'AI 2027'은 경고였다…이번에는 \"2040년까지 초지능 개발을 멈추자\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212739",
+    "summary": "지난해 4월 공개된 'AI 2027'이라는 보고서는 실리콘 밸리에서 화제가 됐습니다. 이 보고서는 불과 몇 년 안에 AGI가 달성되고, 나아가 AI가 더 뛰어난 AI를 개발하는 단계까지 진입할 수 있다는 가상의 시나리오를 제시했습니다. 당시에는 다소 급진적인 전망이라는 평가도 있었지만, AI의 발전 속도와 안전 문제를 둘러싼 논의를 본격화했다는 점에서 큰 영향을 미쳤습니다.그런데 AI 2027을 만든 연구진이 이번에는 한층 더 강경한 메시지를 내놨습니다. 새 프로젝트 'AI 2040'을 통해 인간보다 뛰어난 초지능의 개발을 최소 2",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-07-15T07:00:00+09:00"
+   },
    {
     "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
     "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
@@ -12,52 +108,12 @@
     "published": "2026-07-15T06:50:11+09:00"
    },
    {
-    "title": "2027년 IFRS18 의무화 대비…블루어드, SAP 고객 위한 'iPL18' 출시",
-    "link": "https://www.etnews.com/20260714000469",
-    "summary": "AI·디지털 혁신 전문기업 블루어드(Blueward)가 2027년부터 의무 적용되는 IFRS18(국제회계기준 제18호)에 대응하기 위한 SAP 전용 솔루션 'iPL18'을 공식 출시했다고 15일 밝혔다. 14일 SAP 나우 AI 투어 코리아(SAP NOW AI Tour Korea)2026에서 처음 공개된 iPL18은 행사 기간 동안 IFRS18 대응을 준비하는 SAP 고객들의 높은 관심을 받으며 시장 수요를 확인했다. 블루어드는 이번 출시를",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-15T05:00:00+09:00"
-   },
-   {
     "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
     "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
     "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
     "source": "TechCrunch AI",
     "lang": "en",
     "published": "2026-07-15T04:42:27+09:00"
-   },
-   {
-    "title": "Anthropic’s newest ad is creeping people out",
-    "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-07-15T04:41:27+09:00"
-   },
-   {
-    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-    "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-    "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-07-15T04:39:39+09:00"
-   },
-   {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-    "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-07-15T03:33:31+09:00"
-   },
-   {
-    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-    "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-07-15T02:45:55+09:00"
    },
    {
     "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
@@ -92,14 +148,6 @@
     "published": "2026-07-15T01:00:00+09:00"
    },
    {
-    "title": "“새만금 미래는 로봇·드론·수소 모빌리티”…'2026 새만금 AI 영상 공모전' 수상작 선정",
-    "link": "https://www.etnews.com/20260714000505",
-    "summary": "새만금개발청(청장 문성요)은 미래의 새만금을 인공지능(AI)으로 그려낸 '2026 새만금 AI 영상 공모전' 최종 수상작을 선정, 14일 시상식을 개최했다. 이번 공모전은 새만금과 AI에 관심 있는 모든 국민을 대상으로 5월 18일부터 6월 7일까지 진행했다. 미래 수변도시와 교통체계, 친환경에너지, 스마트산업단지 등을 주제로 한 다양한 작품이 출품됐다. 최종 심사는 전문가 평가와 국민투표를 함께 실시하여 공정성과 국민 참여를 모두 담았다. 국",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-14T23:17:31+09:00"
-   },
-   {
     "title": "“전원만 꽂으면 끝” 와이즈넛이 실증한 RNGD 탑재 공공 AI 어플라이언스",
     "link": "http://www.newstheai.com/news/articleView.html?idxno=21141",
     "summary": "장정훈 와이즈넛 CTO가 ‘2026 K-NPU 테크 웨이브’에 참석해 ‘공공 AI 어플라이언스의 기준을 세우다, RNGD X 와이즈넛’을 주제로 발표했다. 이 자리에서 장 CTO는 NPU 위에서 실제로 구동되는 애플리케이션 관점으로 이야기를 풀었다. ◇ 추론이라는 한 단어에 숨은 두 개념장정훈 CTO는 발표 서두에서 추론의 정의부터 짚었다. 그는 국내에서 통용되는 추론이라는 개념이 인퍼런스와 리즈닝, 원어로는 전혀 다른 두 개념을 함께 지칭하면서 생기는 혼선이 있다고 말했다. 그는 “인퍼런스는 질문 하나에 답을 만들어내는 계산 과정",
@@ -114,64 +162,96 @@
     "source": "MIT Technology Review",
     "lang": "en",
     "published": "2026-07-14T21:10:00+09:00"
-   },
-   {
-    "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
-    "link": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
-    "summary": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots appeared first on The Decoder .",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-14T21:02:06+09:00"
-   },
-   {
-    "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now",
-    "link": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/",
-    "summary": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI. He wants a new US standards body modeled after financial regulator FINRA that would develop evaluation protocols for frontier models and could coordinate a slowdown in AI development if needed. Startu",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-14T20:49:03+09:00"
-   },
-   {
-    "title": "확산되는 오픈소스 AI, 'AI 컴플라이언스' 도입 필요...율촌·OSBC, 국내 최초 '기업형 AI 거버넌스' 체계 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40982",
-    "summary": "법무법인 율촌은 OSBC와 함께 정보통신산업진흥원(NIPA)의 '오픈소스 AI·SW 개발·활용 지원사업' 수행기업 11개사를 대상으로 오픈소스 인공지능(AI) 거버넌스 컨설팅을 수행한다고 14일 밝혔다. 해당 사업은 올해 처음 추진되는 총 92억 원 규모의 신규 사업으로, 국내 기업 주도의 오픈소스 AI·SW 개발·활용과 공개·확산을 지원한다.이번 컨설팅은 오픈소스 AI·SW 개발·활용 지원사업과 연계해 오픈소스 AI 모델·데이터·소프트웨어의 라이선스 및 법적 리스크, 공개·사업화 전략을 함께 점검하는 오픈소스 AI 거버넌스 컨설팅",
-    "source": "인공지능신문",
-    "lang": "ko",
-    "published": "2026-07-14T20:44:15+09:00"
-   },
-   {
-    "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
-    "link": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/",
-    "summary": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner appeared first on The Decoder .",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-07-14T20:13:39+09:00"
-   },
-   {
-    "title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
-    "summary": "오픈AI의 AI 코딩 에이전트 '코덱스'와 '챗GPT 워크(ChatGPT Work)'의 활성 사용자가 700만명을 돌파했다. 코덱스는 지난 2월 정식 출시 이후 반년 만에 달성한 성과로, 최근 'GPT-5.6' 출시를 계기로 사용자 증가세가 더 가속화되는 추세다.티보 소티오 오픈AI 코덱스 책임자는 13일(현지시간) 소셜미디어 X를 통해 \"현재 코덱스와 챗GPT 워크를 사용하는 활성 사용자가 700만명에 도달했다\"라고 밝혔다.또 샘 알트먼 오픈AI CEO는 \"우리 사용자들을 사랑한다(We love our users)\"며 감사의 뜻을",
-    "source": "AI타임스",
-    "lang": "ko",
-    "published": "2026-07-14T19:31:17+09:00"
-   },
-   {
-    "title": "엔비디아 AI칩 中 우회 공급 차단…구매기업 '화이트리스트' 도입",
-    "link": "https://www.etnews.com/20260714000498",
-    "summary": "엔비디아가 중국으로 인공지능(AI) 반도체 우회 수출되는 것을 차단하기 위해 구매업체 심사를 강화하고 구매 승인 기업을 절반으로 줄인 것으로 전해졌다. 13일(현지시간) 파이낸셜타임스(FT)는 복수 소식통을 인용, 엔비디아가 최근 중국으로 자사 AI 칩이 우회 공급되는 것을 막기 위해 규정 준수 심사를 통과한 기업만 포함하는 '화이트리스트'를 도입했다고 보도했다. 엔비디아는 지난 수개월 동안 칩 구매와 관련 고객 실사를 강화했고, 결과로 기존",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-07-14T19:00:25+09:00"
    }
   ],
   "it": [
    {
-    "title": "드롭박스, 클로드·챗GPT·제미나이 연동 확대…AI 협업 생태계 강화",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404271",
-    "summary": "[테크월드=김승기 기자] 드롭박스가 앤트로픽의 클로드(Claude)를 비롯해 챗GPT, 제미나이 스파크 등 생성형 AI 서비스와의 연동을 확대하며 AI 협업 생태계 강화에 나섰다.드롭박스는 클로드용 커넥터(Connector)와 클로드 코워크(CoWork)용 플러그인, 클로드 코드(Code)용 플러그인을 새롭게 공개했다.이번 업데이트를 통해 사용자는 드롭박스에 저장된 콘텐츠를 다양한 AI 서비스에서 안전하게 활용할 수 있게 됐다.이번 통합은 AI가 단순히 파일을 검색하는 수준을 넘어 프로젝트 문서와 피드백, 협업 이력 등 업무 맥락(",
+    "title": "가온전선, SK하이닉스 용인 클러스터 배전 케이블 공급",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404299",
+    "summary": "[테크월드=이광재 기자] 가온전선이 국내 주요 반도체 생산시설에 전력 인프라 공급을 확대하며 관련 시장 공략을 강화하고 있다.이런 가운데 가온전선은 SK하이닉스 용인 반도체 클러스터에 수백억원 규모의 배전 케이블을 공급했다고 15일 밝혔다.가온전선은 기존 SK하이닉스 이천·청주 공장에 이어 용인 클러스터까지 공급을 확대했으며 이를 바탕으로 국내 신규 팹 건설과 기존 생산시설의 증설·교체 수요를 적극 공략할 계획이라고 전했다.가온전선은 하반기에도 수백억 원 규모의 추가 공급을 협의하고 있으며 미국 기업이 추진하는 반도체 생산시설 전력",
     "source": "테크월드뉴스",
     "lang": "ko",
-    "published": "2026-07-15T06:50:00+09:00"
+    "published": "2026-07-15T10:10:00+09:00"
+   },
+   {
+    "title": "SK텔레콤·SK바이오팜, AI로 난치성 암 치료 유효물질 발굴",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684185",
+    "summary": "[디지털투데이 이진호 기자] SK텔레콤과 SK바이오팜이 A를 활용해 난치성 암 표적 치료제 개발에 활용할 수 있는 초기 유효물질을 발굴했다.SK텔레콤은 SK바이오팜과 공동 연구를 통해 암세포 표면 단백질인 'ROR1'에 결합할 수 있는 바인더 후보를 생성·선별하고, 실험실 검증을 거쳐 2종의 초기 유효물질을 확인했다고 15일 밝혔다.유효물질은 실험에서 표적에 유효하게 결합하는 것으로 확인된 물질이다. 바인더는 암세포와 같은 특정 표적에 결합하도록 설계된 물질을 말한다. ROR1은 여러 혈액암과 고형암에서 많이 생성되는 종양 관련 세",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-07-15T10:08:03+09:00"
+   },
+   {
+    "title": "카카오톡 PC에서도 챗GPT 쓴다…업데이트 단행",
+    "link": "https://www.etnews.com/20260715000100",
+    "summary": "카카오가 PC 버전 챗GPT 포 카카오를 지원한다. 이용자가 쌓인 메시지를 파악하도록 채팅방 메시지 요약 기능도 강화했다. 카카오는 이 같은 내용을 담은 카카오톡 6차 정기 업데이트를 진행했다고 15일 밝혔다.0 카카오는 이번 업데이트로 챗GPT 포 카카오 이용 범위를 카카오톡 PC 버전으로 확대했다. 모바일에서 사용하던 대화 흐름을 PC에서도 이어갈 수 있다. 해당 기능은 채팅탭 상단 'ChatGPT'에서 이용할 수 있다. 채팅방에서 주고받은",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:50:24+09:00"
+   },
+   {
+    "title": "셀트리온, 7.7조원 '트렘피어' 시장 공략…바이오시밀러 임상 돌입",
+    "link": "https://www.etnews.com/20260715000078",
+    "summary": "셀트리온은 식품의약품안전처로부터 '트렘피어'(성분명 구셀쿠맙) 바이오시밀러 'CT-P68'의 임상 1상을 위한 임상시험계획서(IND) 승인을 받았다고 15일 밝혔다. 셀트리온은 이번 승인에 따라 건강한 성인 258명 대상으로 임상 절차에 돌입한다. 오리지널 의약품 트렘피어와 CT-P68 간 안전성과 약동학적(PK) 동등성 입증을 위한 비교연구를 실시한다. 트렘피어는 염증 유발에 관여하는 인터루킨(IL)-23 단백질을 선택적으로 억제하는 기전의",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:33:29+09:00"
+   },
+   {
+    "title": "HLB “리보세라닙 허가 걸림돌 해소”…cGMP 실사 VAI 종결",
+    "link": "https://www.etnews.com/20260715000066",
+    "summary": "HLB의 간암 신약 '리보세라닙'이 미국 허가 보류 사유로 지목됐던 원료의약품 제조소 실사에서 '자발적 개선 권고 조치'(VAI) 판정을 받았다. VAI는 경미한 지적사항은 있으나 별도 규제 조치 없이 자율 개선을 권고하는 수준의 판정이어서 사실상 보완요구서한(CRL)에 따른 리스크가 해소됐다. HLB는 간암 신약의 미국 허가 보류의 사유로 지목된 리보세라닙 원료의약품 제조소의 일반 의약품 제조·품질관리 기준(cGMP) 실사가 '자발적 개선 권",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:25:31+09:00"
+   },
+   {
+    "title": "코스피 6%대 급등해 7000선 회복…코스피·코스닥 매수 사이드카 발동",
+    "link": "https://www.etnews.com/20260715000061",
+    "summary": "코스피가 15일 장 초반 6% 넘게 급등하며 7000선을 회복했다. 지수 급등에 따라 유가증권시장에서는 프로그램 매수호가 일시 효력정지인 매수 사이드카도 발동됐다. 한국거래소에 따르면 이날 오전 9시 15분 기준 코스피는 전 거래일보다 431.51포인트(6.29%) 오른 7288.34를 기록했다. 지수는 전장보다 226.08포인트(3.30%) 오른 7082.91로 출발한 뒤 상승 폭을 확대했다. 장중 한때 상승률이 6%를 넘어서면서 전날 급락분",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:19:36+09:00"
+   },
+   {
+    "title": "“SK하이닉스 ADR 두 배 더 간다”…월가, 장기 성장성 낙관론에 '27% 급등'",
+    "link": "https://www.etnews.com/20260715000049",
+    "summary": "미국 뉴욕증시에 상장한 SK하이닉스 미국주식예탁증서(ADR)가 상장 초기 폭발적인 상승세를 이어가며 글로벌 투자자들의 관심을 끌고 있다. 영국계 투자은행 바클레이스는 메모리 반도체 시장의 장기 공급 부족과 인공지능(AI) 투자 확대를 근거로 SK하이닉스 ADR의 목표주가를 현재보다 두 배 이상 높은 330달러로 제시했다. 14일(현지시간) 블룸버그와 인베스팅닷컴 등 외신에 따르면 SK하이닉스 ADR은 이날 뉴욕증시에서 전 거래일보다 27.29%",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:13:44+09:00"
+   },
+   {
+    "title": "'PK 유도' 19세 야말이 결승행 이끌어…'스페인 조직수비'에 발 묶인 음바페 '침묵'",
+    "link": "https://www.etnews.com/20260715000045",
+    "summary": "'무적함대' 스페인이 프랑스를 완파하며 2026 국제축구연맹(FIFA) 북중미 월드컵 결승 무대를 밟았다. 루이스 데 라 푸엔테 감독이 이끄는 스페인(FIFA 랭킹 3위)은 15일(한국시간) 미국 텍사스주 알링턴 AT&T 스타디움에서 열린 대회 준결승에서 프랑스(1위)를 2-0으로 꺾고 결승 진출을 확정했다. 스페인은 전반 20분 라민 야말이 얻어낸 페널티킥을 미켈 오야르사발이 침착하게 성공시키며 기선을 제압했다. 오야르사발은 이번 대회 5호",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-07-15T09:10:43+09:00"
+   },
+   {
+    "title": "Midnight social media curfew proposed for older UK teens",
+    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-07-15T08:17:23+09:00"
+   },
+   {
+    "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+    "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+    "summary": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in every color (the price fluctuates between $79 and $99)",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-07-15T07:24:26+09:00"
+   },
+   {
+    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+    "source": "Ars Technica",
+    "lang": "en",
+    "published": "2026-07-15T07:20:48+09:00"
    },
    {
     "title": "The WGA is also suing to block Paramount-Warner Bros. Discovery merger",
@@ -180,14 +260,6 @@
     "source": "Engadget",
     "lang": "en",
     "published": "2026-07-15T06:48:02+09:00"
-   },
-   {
-    "title": "Midnight social media curfew proposed for older UK teens",
-    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-    "source": "BBC Technology",
-    "lang": "en",
-    "published": "2026-07-15T06:43:56+09:00"
    },
    {
     "title": "Windows 11’s big patch Tuesday allows you to hold off on updates for longer",
@@ -214,22 +286,6 @@
     "published": "2026-07-15T06:18:23+09:00"
    },
    {
-    "title": "덜 익힌 새우 먹었다가 살이 썩어…“다리 절단할 뻔” 수술만 17번 받은 美 여성",
-    "link": "https://www.etnews.com/20260714000367",
-    "summary": "미국의 한 40대 여성이 충분히 익히지 않은 새우를 먹은 뒤 치명적인 세균 감염에 걸려 신체 일부를 제거하는 큰 수술을 받는 일을 겪었다. 12일(현지시간) 데일리메일에 따르면 미국 미시시피주에 사는 세 아이의 엄마 레이시 페퍼(47)는 2024년 4월 가족과 함께 약 16시간 동안 차량으로 이동하던 중 다리에 불편함을 느꼈다. 그는 오랜 시간 차 안에 있었던 영향으로 여겼고 크게 신경 쓰지 않았다. 그러나 여행지에 도착한 뒤 상황은 급격히 달",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-15T06:00:00+09:00"
-   },
-   {
-    "title": "“드론 아닌데 난다”…헬륨으로 떠다니는 반려 로봇",
-    "link": "https://www.etnews.com/20260714000340",
-    "summary": "일본 게이오대학교 연구진이 헬륨의 부력을 이용해 실내를 조용히 떠다니는 반려 로봇을 공개했습니다. 이 로봇은 프로펠러 대신 부드러운 날갯짓으로 이동해 소음과 바람을 줄였으며, 사용자를 깨우거나 알림을 전달하고 공부 중 곁을 지키는 등 감성적인 상호작용을 수행하도록 설계됐습니다. 또한 부드러운 헬륨 구조를 적용해 사람이나 가구와 부딪혀도 충격을 줄일 수 있으며, 바닥을 이동하는 로봇보다 실내 3차원 공간을 활용할 수 있는 것이 특징입니다. 연구진",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-15T06:00:00+09:00"
-   },
-   {
     "title": "Three publishers challenge Google over AI copyright infringement",
     "link": "https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/",
     "summary": "It's the latest in a barrage of efforts to win compensation from AI companies over training materials.",
@@ -247,7 +303,7 @@
    },
    {
     "title": "Tech Life",
-    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
     "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
     "source": "BBC Technology",
     "lang": "en",
@@ -268,65 +324,33 @@
     "source": "Engadget",
     "lang": "en",
     "published": "2026-07-15T04:05:38+09:00"
-   },
-   {
-    "title": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
-    "link": "https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/",
-    "summary": "Because it's 2026, Samsung's new 990 Pro SSD is both more expensive and slower than the original.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-07-15T03:58:30+09:00"
-   },
-   {
-    "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
-    "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
-    "summary": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia). Usually, the bundle saves you $20 or $30, depending on t",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-15T03:13:58+09:00"
-   },
-   {
-    "title": "Plex problems prevented users from streaming movies and shows",
-    "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
-    "summary": "Plex services experienced some major issues on Tuesday, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are upset because today's problems were reportedly affecting their ability to do that. ",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-15T03:13:54+09:00"
-   },
-   {
-    "title": "Philips Hue’s budget-friendly Essential starter kit has hit a new low price",
-    "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-    "summary": "Although most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can bu",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-07-15T02:36:05+09:00"
-   },
-   {
-    "title": "XRP, 개인 투자자 낙관론 1위…비트코인은 오히려 ‘중립’",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684166",
-    "summary": "[디지털투데이 김예슬 기자] XRP가 주요 암호화폐 가운데 소셜 미디어에서 가장 강한 낙관 심리를 보인 것으로 나타났다.14일(현지시간) 블록체인 매체 디크립트에 따르면 온체인 분석업체 센티먼트는 XRP의 긍정 대 부정 코멘트 비율이 3.02대 1로, 추적 대상인 주요 3개 암호화폐 중 가장 높았다고 밝혔다.이더리움은 2.31대 1로 뒤를 이었고, 비트코인은 1.40대 1로 상대적으로 중립에 가까웠다. 센티먼트는 시장 심리가 공포 국면에서 벗어나는 흐름을 보였지만, 낙관론이 주요 자산 전반에 고르게 퍼진 것은 아니라고 진단했다. X",
-    "source": "디지털투데이",
-    "lang": "ko",
-    "published": "2026-07-15T01:31:10+09:00"
-   },
-   {
-    "title": "새로운 로크웰 오토메이션 보고서에 따르면, 제조업체의 93%가 MES를 보유하고 있지만, 완전히 통합한 곳은 23%에 불과함",
-    "link": "https://zdnet.co.kr/view/?no=20260715001004",
-    "summary": "[지디넷코리아] 제조업체는 설치된 MES를 전사적 성능으로 전환하고 있지만 대부분은 확장에 어려움을 겪고 있습니다. 밀워키, 2026년 7월 14일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 전환 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)가 오늘 17개국 1,560명의 제조 및 산업 운영 의사 결정권자들의 의견을 바탕으로 한 업계 인사이트 보고서인 \"전사적 MES 확장\"을 발표했습니다. 연구에 따르면 제조 실행 시스템(MES)이 널리 도입되었음에도 불구하고, 성과 향상, 통합",
-    "source": "ZDNet Korea",
-    "lang": "ko",
-    "published": "2026-07-15T00:10:04+09:00"
-   },
-   {
-    "title": "“개가 대마초를 했어요”… 英 최고봉서 산악 구조대에 실려나온 반려견",
-    "link": "https://www.etnews.com/20260714000408",
-    "summary": "영국 최고봉인 벤 네비스산에서 대마초 성분을 섭취하고 의식을 잃은 반려견이 산악 구조대에 의해 극적으로 구조되는 소동이 벌어졌다. 13일(현지시간) CNN 등 외신에 따르면, 전날 스코틀랜드 벤 네비스산을 오르던 5살 래브라도레트리버종 '도쿄'가 갑자기 사지 마비와 의식 불명 증세를 보여 산악 구조대가 긴급 출동했다. 당시 도쿄는 주인 크리스티나 블루메(전문 반려견 조련사) 및 일행들과 함께 해발 1345m 정상 부근을 트레킹 중이었다. 평소",
-    "source": "전자신문 IT",
-    "lang": "ko",
-    "published": "2026-07-14T22:30:00+09:00"
    }
   ],
   "nurse": [
+   {
+    "title": "암 관리도 ‘지역완결형’ 시대…전국 표준 만든다",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42530",
+    "summary": "국립암센터와 고양시의사회가 지역 단위 ‘암 전주기(全週期) 진료연계체계’ 구축을 위해 손을 맞잡았다. 암 진단부터 치료, 그리고 치료 이후 생존자 관리까지 고양시 내에서 촘촘하게 이어지는 의료망을 만들겠다는 취지다.국립암센와 고양시의사회는 지난 7월 13일 국립암센터에서 업무협약(MOU)을 체결하고 고양시민을 위한 연속성 있는 암 의료서비스 제공에 합의했다.이번 협약은 상급 종합병원과 지역 1차 의료기관 간의 격차를 줄여 환자 중심의 의료 환경을 조성하는 데 방점을 뒀다. 암 치료를 마친 후에도 환자가 거주지 근처 의원에서 체계적인",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-07-15T10:12:26+09:00"
+   },
+   {
+    "title": "Lockdown legacy for children born during Covid-19 pandemic",
+    "link": "https://www.nursingtimes.net/childrens-nursing/lockdown-legacy-for-children-born-during-covid-19-pandemic-14-07-2026/",
+    "summary": "Children born during lockdown have found it more difficult to focus, follow instructions and regulate their emotions at the age of four, according to UK researchers. The post Lockdown legacy for children born during Covid-19 pandemic appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-15T07:32:26+09:00"
+   },
+   {
+    "title": "Greater cultural engagement can improve BP and other health markers",
+    "link": "https://www.nursingtimes.net/older-peoples-nursing/greater-cultural-engagement-can-improve-bp-and-other-health-markers-14-07-2026/",
+    "summary": "Promoting cultural activities like going to the cinema, theatre or a museum may help support health in older adults by slowing down physiological ageing, according to a study on English patients. The post Greater cultural engagement can improve BP and other health markers appeared first on Nursing T",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-07-15T07:31:05+09:00"
+   },
    {
     "title": "Union to ballot Irish nurses and midwives over industrial action",
     "link": "https://www.nursingtimes.net/workforce/union-to-ballot-irish-nurses-and-midwives-over-industrial-action-14-07-2026/",
@@ -352,6 +376,14 @@
     "published": "2026-07-15T02:37:12+09:00"
    },
    {
+    "title": "[이널싱] 단 한권으로 합격을 찰떡같이!『 찰떡 요약집 』저자 한미영, 양진이 작가 인터뷰",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20934",
+    "summary": "하단 문구를 클릭하시면해당 채널로 이동합니다♥[이널싱]",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-07-15T00:00:00+09:00"
+   },
+   {
     "title": "‘Why stay? A newly qualified nurse’s perspective on the need for improved support’",
     "link": "https://www.nursingtimes.net/newly-registered-nurses/why-stay-a-newly-qualified-nurses-perspective-on-attrition-preceptorship-and-the-need-for-improved-support-14-07-2026/",
     "summary": "Saphir Davis describes her lived experience of being a newly qualified nurse and suggests ways to provide better support to reduce the likelihood of attrition among her peers. The post ‘Why stay? A newly qualified nurse’s perspective on the need for improved support’ appeared first on Nursing Times ",
@@ -360,44 +392,12 @@
     "published": "2026-07-14T21:41:39+09:00"
    },
    {
-    "title": "‘The implications of Muckamore read across to all aspects of care’",
-    "link": "https://www.nursingtimes.net/learning-disabilities/the-implications-of-muckamore-read-across-to-all-aspects-of-care-14-07-2026/",
-    "summary": "Peter Carter argues that the findings of the Muckamore Abbey Hospital Inquiry deserve more attention and have widespread implications for health and social care. The post ‘The implications of Muckamore read across to all aspects of care’ appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-07-14T18:47:20+09:00"
-   },
-   {
     "title": "직업건강협회, 건설현장 노동자 대상 온열질환 예방교육 실시",
     "link": "https://www.rapportian.com/news/articleView.html?idxno=238262",
     "summary": "[라포르시안] 한국직업건강간호협회(회장 이복임, 이하 직업건강협회)는 지난 13일 서울역 북부역세권 개발사업 건설현장에서 한화건설 근로자 400여명을 대상으로 여름철 폭염 대비 온열질환 예방교육 및 캠페인을 진행했다고 밝혔다.직업건강협회에 따르면 이번 교육캠페인은 산업간호사로 구성된 강사진이 산업현장에서 바로 적용할 수 있는 실용적인 내용으로 구성해 진행했다. 교육은 구체적으로 △폭염의 정의와 폭염특보 기준, △열사병 등 온열질환의 증상과 위험성, △응급상황 대처 요령, △폭염 대비 5대 수칙 등을 중심으로 노동자들의 이해를 돕기",
     "source": "라포르시안",
     "lang": "ko",
     "published": "2026-07-14T18:00:35+09:00"
-   },
-   {
-    "title": "국립보건연구원, ‘보건의료 데이터 위원회’ 3기 구성",
-    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=42525",
-    "summary": "질병관리청 국립보건연구원이 인공지능(AI) 기반 의료 연구 환경에 발맞춰 국가 보건의료 연구데이터의 활용도를 극대화하기 위한 전문 거버넌스를 새롭게 구축했다.국립보건연구원은 7월 14일 ‘보건의료연구자원정보센터(CODA) 제3기 데이터공개·활용위원회’를 구성하고 첫 심의 회의를 개최했다고 밝혔다. 이번 위원회는 AI, 빅데이터, 보건의료, 산업계 및 법·윤리(ELSI) 등 각 분야 최고 전문가 17명으로 구성되어 심의의 전문성과 대표성을 한층 강화했다.데이터위원회는 한국인유전체역학조사사업(KoGES), 희귀질환, 감염병 등 국가 연",
-    "source": "간호사신문",
-    "lang": "ko",
-    "published": "2026-07-14T17:19:32+09:00"
-   },
-   {
-    "title": "[인터뷰] 간호교육자 한미영, \"자격증 취득은 공부의 끝이 아니라 병원 현장으로 들어가는 첫 번째 문입니다\"",
-    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=20933",
-    "summary": "Q1. 안녕하세요 선생님^^ 인터뷰를 수락해 주셔서 감사합니다. 선생님의 소개를 부탁드립니다.저는 미영쌤 송내간호학원 원장으로 15년째 간호조무사 국가시험을 준비하는 수험생들을 교육하고 있는 한미영입니다.임상에서는 중환자실과 수술실을 비롯해 요양병원, 여성병원 등 다양한 의료기관에서 근무했으며, 간호과장으로 재직하며 임상과 조직 운영을 함께 경험했습니다. 이후 교육 분야로 진로를 넓혀 메가스터디에서 보건행정 전임 강사로 활동하며 수험생들을 지도해 왔습니다.그동안 현장에서 학생들을 가르치며 쌓은 강의 경험과 노하우를 바탕으로, 보다",
-    "source": "간호사타임즈",
-    "lang": "ko",
-    "published": "2026-07-14T15:25:50+09:00"
-   },
-   {
-    "title": "How Nuffield Health achieved accreditation across 92 clinical sites",
-    "link": "https://www.nursingtimes.net/infection-prevention-and-control/how-nuffield-health-achieved-accreditation-across-92-clinical-sites-14-07-2026/",
-    "summary": "Nuffield Health explains its decision to pursue ANTT Gold Accreditation across every site providing clinical services. The post How Nuffield Health achieved accreditation across 92 clinical sites appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-07-14T15:01:45+09:00"
    },
    {
     "title": "政, 의료기관 내 괴롭힘 예방·관리체계 평가지표 반영",
@@ -442,12 +442,36 @@
   ],
   "ni": [
    {
+    "title": "삼진제약, 체중조절용 단백질 쉐이크 '하루픽' 출시",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=414598",
+    "summary": "삼진제약이 단백질 쉐이크 '하루픽'을 선보인다. 체중조절용으로 설계돼 단백질 보충을 넘어 영양 밸런스를 고려한 점이 특징이다. 삼진제약 토탈헬스케어 브랜드 '위시헬씨'는 단백질 쉐이크 '하루픽'을 GS25 편의점 단독 제품으로 출시했다고 15일 밝혔다.회사에 따르면 하루픽은 한 끼에 필요한 필수 영양 성분으로 달걀 약 3.5개 분량에 해당하는 단백질 21g과 비타민 8종, 미네랄 3종을 황금 비율로 배합한 체중조절용 조제식품이다. 단순히 단백질 보충에만 집중한 기존 제품들과 달리 균형 잡힌 영양 밸런스를 갖춘 것이 특징이라는 설명이",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-07-15T09:55:39+09:00"
+   },
+   {
+    "title": "Morning Headlines 7/15/26",
+    "link": "https://histalk2.com/2026/07/14/morning-headlines-7-15-26/",
+    "summary": "Meta used AI to target workers with medical conditions for ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-15T08:00:15+09:00"
+   },
+   {
     "title": "[BIO USA Interview] SK Biopharma Advances AI Drug Development",
     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77645",
     "summary": "South Korean pharmaceutical and biotechnology companies navigated an intensive four-day schedule at BIO USA 2026, packed with partnering meetings, presentations and networking events. HIT News went behind the scenes to hear about their experiences.① Sung-woo Hong, Vice President of Rznomics② Byung-c",
     "source": "히트뉴스",
     "lang": "ko",
     "published": "2026-07-15T04:56:37+09:00"
+   },
+   {
+    "title": "News 7/15/26",
+    "link": "https://histalk2.com/2026/07/14/news-7-15-26/",
+    "summary": "Top News Connected health devices company Withings launches Withings Medical ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-07-15T04:43:41+09:00"
    },
    {
     "title": "A Roadmap to Real Healthcare AI Execution",
@@ -472,14 +496,6 @@
     "source": "Digital Health News",
     "lang": "en",
     "published": "2026-07-14T19:30:19+09:00"
-   },
-   {
-    "title": "일산백병원, 인바디 AI로 수면장애 위험 최대 97% 예측",
-    "link": "https://www.medipana.com/news/articleView.html?idxno=414567",
-    "summary": "인제대학교 일산백병원은 신경과 배희원 교수가 인바디(체성분 검사)와 설문 하나로 불면증 및 수면무호흡증 위험을 예측할 수 있는 인공지능(AI) 기반 수면장애 선별모델을 개발했다고 14일 밝혔다. 이번 연구에서는 배희원 교수와 삼성서울병원 주은연 교수, KAIST 김재경 교수 공동연구팀이 인바디 검사로 측정한 근육량과 제지방량 정보를 활용해 기존 모델보다 정확도 높은 수면장애 위험 예측 AI 모델 'I-SLEEPS(InBody-based SimpLE quEstionnairE Predicting Sleep Disorders)'를 개발했",
-    "source": "메디파나뉴스",
-    "lang": "ko",
-    "published": "2026-07-14T17:33:50+09:00"
    },
    {
     "title": "Kaiser Nurses Protest CEO’s AHA Appearance Over AI Concerns",
@@ -568,18 +584,24 @@
     "source": "HIStalk",
     "lang": "en",
     "published": "2026-07-13T10:18:41+09:00"
-   },
-   {
-    "title": "Monday Morning Update 7/13/26",
-    "link": "https://histalk2.com/2026/07/12/monday-morning-update-7-13-26/",
-    "summary": "Top News OpenEvidence launches EvidenceGrade, which displays the strength and ...",
-    "source": "HIStalk",
-    "lang": "en",
-    "published": "2026-07-12T20:53:27+09:00"
    }
   ]
  },
  "papers": [
+  {
+   "title": "From awareness to application: Unveiling the interplay between dependence on artificial intelligence and achievement motivation among nursing students: A multicenter study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42447606/",
+   "journal": "Nurse education today",
+   "authors": "Nasr AM, Soliman AM, Hendawi NE 외",
+   "pubdate": "2026 Jul 12"
+  },
+  {
+   "title": "A Five-Step Faculty Development Checklist for Artificial Intelligence in Nursing Education.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42447451/",
+   "journal": "The Journal of nursing education",
+   "authors": "Lioce L, Rutherford-Hemming T, Breymier T",
+   "pubdate": "2026 Jul 16"
+  },
   {
    "title": "[Real-world testing of digital health: the INSPIRE Living Lab : An interdisciplinary clinical innovation platform].",
    "link": "https://pubmed.ncbi.nlm.nih.gov/42446712/",
@@ -635,20 +657,6 @@
    "journal": "Journal of nursing management",
    "authors": "Li Z, Fan Q, Gan X 외",
    "pubdate": "2026"
-  },
-  {
-   "title": "The effect of a standardized nursing language education program on documentation practices among pediatric nurses.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42442162/",
-   "journal": "Journal of pediatric nursing",
-   "authors": "Loutfy A, Elzeiny A, Mohamed MA 외",
-   "pubdate": "2026 Jul 13"
-  },
-  {
-   "title": "Reporting challenging behaviour in nursing home residents with dementia: a qualitative study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42442027/",
-   "journal": "Geriatric nursing (New York, N.Y.)",
-   "authors": "Raaijmakers A, Persoon A, Lovink M",
-   "pubdate": "2026 Jul 13"
   }
  ]
 }
