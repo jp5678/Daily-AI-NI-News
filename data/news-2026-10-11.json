@@ -1,0 +1,606 @@
+{
+ "date": "2026-10-11",
+ "generatedAt": "2026-10-11T09:03:57.393898+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "'AI 해킹'에 통신사 비상태세 돌입…전사 취약점 점검",
+    "link": "https://www.etnews.com/20261008000266",
+    "summary": "금융권 등 AI 해킹 공격에 통신사들도 전사 취약점 점검에 나서는 등 비상 태세에 돌입했다. 지난해 대규모 해킹 사고로 홍역을 치른 상황에서 또다시 표적이 될 수 있다는 우려에 재발 방지에 총력을 기울이고 있다. 11일 관련 업계에 따르면 SK텔레콤, KT, LG유플러스 통신 3사는 최근 금융기관의 연이은 해킹 피해 사실이 알려진 직후 전사 취약점 점검과 내·외부 이상징후 모니터링을 강화했다. 이번 공격에 인공지능(AI) 에이전트가 이용됐다는",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-11T09:01:00+09:00"
+   },
+   {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-11T06:47:51+09:00"
+   },
+   {
+    "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
+    "link": "https://www.etnews.com/20261008000207",
+    "summary": "일본 대표 가전 기업 파나소닉이 구글과 차세대 스마트 홈 시장을 공략한다. LG전자와 애플 협력 등 가전 제조사와 빅테크 간 동맹이 가속화되면서 스마트 홈 주도권을 잡기 위한 경쟁이 치열해질 전망이다. 파나소닉은 구글과 차세대 스마트 홈·보안 솔루션을 공동 개발할 예정이다. 파나소닉이 보유한 비디오 인터콤과 모니터링 카메라 등 사물인터넷(IoT) 기기에 구글 생성형 인공지능(AI)·클라우드 서비스를 결합하는 방식이다. 이를 통해 AI 기반으로",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-11T06:00:00+09:00"
+   },
+   {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-11T04:50:00+09:00"
+   },
+   {
+    "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+    "link": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+    "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The article OpenAI says a mi",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-11T00:15:40+09:00"
+   },
+   {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-11T00:00:00+09:00"
+   },
+   {
+    "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+    "link": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
+    "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision-1 model enters the ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-10T23:57:33+09:00"
+   },
+   {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-10T23:00:00+09:00"
+   },
+   {
+    "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+    "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+    "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hugo Duminil-Copin wrot",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-10T22:03:59+09:00"
+   },
+   {
+    "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
+    "summary": "엔비디아가 AI 추론 칩 개발업체 d-매트릭스(d-Matrix)에 투자할 계획인 것으로 알려졌다. 경쟁 관계에 있는 반도체 업체들과 협력을 확대해 자사 GPU를 중심으로 한 AI 컴퓨팅 생태계를 넓히려는 움직임으로 풀이된다.디 인포메이션은 8일(현지시간) 거래에 정통한 소식통 3명을 인용해 엔비디아가 d-매트릭스에 투자할 계획이라고 보도했다. 투자 규모와 구체적인 조건은 공개되지 않았다.d-매트릭스는 AI 추론 작업에 특화된 칩을 개발하는 스타트업으로, 엔비디아와 경쟁하는 것을 목표로 설립됐다. 그러나 지난 7월에는 엔비디아와 칩을",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-10-10T20:35:00+09:00"
+   },
+   {
+    "title": "Few people pay for AI, but those who do spend big",
+    "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+    "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for development and automatio",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-10T19:54:56+09:00"
+   },
+   {
+    "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+    "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+    "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-10T19:16:26+09:00"
+   },
+   {
+    "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
+    "summary": "아마존웹서비스(AWS)가 엔비디아(NVIDIA)의 피지컬 인공지능(AI) 기술 스택과 아마존의 로봇 운영 경험을 결합한 오픈소스 개발 체계를 8일(현지시간) 공개했다. 데이터 생성과 모델 학습, 가상환경 검증부터 실제 로봇 배포와 운영 데이터 기반의 재학습까지 연결해 산업용 로봇과 휴머노이드, 자율이동 시스템 개발에 필요한 과정을 통합 지원한다.이 툴체인 ‘AWS 피지컬 AI 툴체인(Physical AI Toolchain on AWS-다운)’은 피지컬 AI 시스템 개발에 필요한 아키텍처 가이드, 배포 자동화, 참조 코드 등을 제공하",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-10-10T18:02:26+09:00"
+   },
+   {
+    "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+    "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+    "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and A",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-10T17:59:49+09:00"
+   },
+   {
+    "title": "대한전선, CLV 2척으로 해저케이블 '투 트랙 시공'…'턴키 경쟁력'↑",
+    "link": "https://www.etnews.com/20261008000076",
+    "summary": "대한전선이 해저케이블 전용 포설선(CLV)을 추가 확보하며 해저케이블 시공 및 턴키 사업 역량을 대폭 강화했다. 이를 앞세워 인공지능(AI) 데이터센터 및 첨단 산업단지 확대로 급증하는 전력 수요와 차세대 전력망 시장에 선제 대응에 나섰다. 대한전선은 기존 해저케이블 전용 7000톤급 포설선인 '팔로스'에 이어 1만1000톤급 포설선 '스칸디 커넥터'를 추가 확보해 국내 유일 CLV 선대를 구축했다. 이로써 두 척의 포설선을 프로젝트 규모와 해",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-10T12:00:00+09:00"
+   },
+   {
+    "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다",
+    "link": "https://www.etnews.com/20261008000291",
+    "summary": "여러 쇼핑몰 상품을 한곳에서 비교하고 소비자 요구에 맞는 상품까지 찾아주는 '인공지능(AI) 멀티 쇼핑' 서비스가 속속 등장하고 있다. 판매처별 최저가 가격비교를 넘어 AI가 상품 옵션과 구성, 혜택, 리뷰 등을 분석하고 자연어로 입력한 조건까지 고려해 상품을 추천하는 방식이다. 특정 플랫폼 경계를 벗어나 AI가 소비자 대신 상품을 탐색·추적하고 골라주면서 개인의 쇼핑 경험이 고도화할 전망이다. 11일 유통업계에 따르면 최근 올로·스쿠핀·쇼포트",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-10T11:00:00+09:00"
+   },
+   {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-10T09:18:32+09:00"
+   },
+   {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-10T06:41:29+09:00"
+   },
+   {
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-09T21:10:00+09:00"
+   },
+   {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-09T18:00:00+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "국가 6G 성과 첫 공개…'6G 비전 페스트' 12월 8일 송도서 개막",
+    "link": "https://www.etnews.com/20261008000260",
+    "summary": "정부가 6세대(6G) 이동통신 연구개발(R&D) 성과를 처음 공개하는 '6G 비전 페스트 2026'의 세부 계획을 확정했다. 2030년 상용화를 앞두고 각국 기술·표준경쟁이 본격화된 가운데 국가 6G 연구개발 성과를 국내외에 처음 선보인다. 국제표준 선점에 유리한 고지를 점하고 한국을 글로벌 6G 협력 거점으로 키우겠다는 포석이다. 과학기술정보통신부는 12월 8일부터 11일까지 인천 송도컨벤시아에서 '6G 비전 페스트 2026'을 연다. 정보통",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-11T09:00:00+09:00"
+   },
+   {
+    "title": "[Tech Insigt] \"AI 해킹, 보안 문제로만 보는 건 위험한 착각\"",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706229",
+    "summary": "[디지털투데이 황치규 기자]최근 AI 에이전트들이 통제를 벗어나 사고를 치는 사건들이 잇따르고 있는 가운데 딥러닝 분야 세계적인 석학들 중 한명인 요슈아 벤지오(Yoshua Bengio) 캐나다 몬트리올대 교수는 \"모델 학습용 샌드박스(격리된 실험 환경) 보안만 높이면 된다는 시각이 힘을 얻고 있는데, 이는 '위험한 신화'(dangerous myth)\"라고 잘라 말했다.그는 최근 파이낸셜타임스(FT)에 쓴 칼럼에서 이같이 주장하며 \"최근 벌어진 사건들은 정렬 실패(misalignment)가 핵심이다. AI 에이전트가 사람이 원하는",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-10-11T08:48:21+09:00"
+   },
+   {
+    "title": "How to use the parental controls on iOS 27",
+    "link": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+    "summary": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T08:45:00+09:00"
+   },
+   {
+    "title": "How to reduce mobile data usage on your iPhone",
+    "link": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+    "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T08:30:00+09:00"
+   },
+   {
+    "title": "수천억 투입 포항방사광가속기, '그들만의 리그' 벗어나 지역산업 엔진으로 거듭나야",
+    "link": "https://www.etnews.com/20261008000011",
+    "summary": "수천억원대 막대한 예산이 투입된 포항 3·4세대 방사광가속기가 정작 지역 산업과는 겉돌고 있어, 거대 연구 인프라와 지역 기업을 잇는 실질적인 산학연 협력 생태계 구축이 시급하다는 지적이다. 포항 3세대 방사광가속기는 포스코를 비롯해 민간과 정부가 총 1500억원을 투입해 1994년 완공됐다. 이어 2015년 완공된 4세대 선형 방사광가속기 역시 건설 비용만 4300억원이 소요됐다. 건설 초기에는 이 거대 인프라가 지역 산업과 연계해 미래 신산",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-11T08:28:00+09:00"
+   },
+   {
+    "title": "풀레인지 ‘오디오엑스포서울 2026’ 개최…11월 용산서 3일간 진행",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407879",
+    "summary": "[테크월드=김경주 기자] 풀레인지가 주최하는 오디오 전문 박람회 ‘오디오엑스포서울 2026’이 오는 11월 27일부터 29일까지 3일간 서울드래곤시티에서 열린다.올해 8번째로 개최되는 오디오엑스포서울은 다양한 오디오 브랜드와 시스템을 소개하고 관람객에게 직접 청음 기회를 제공하는 행사다. 국내 오디오 시장 발전을 목표로 매년 개최되고 있으며, 음악과 오디오를 즐기는 관람객들이 꾸준히 찾고 있다.이번 행사는 역대 최대 규모로 준비된다. 서울드래곤시티 노보텔 스위트룸에서는 주요 신제품을 중심으로 전시와 청음 프로그램이 진행되고, 백제홀",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-10-11T08:00:00+09:00"
+   },
+   {
+    "title": "Simple tweaks to improve your 4K TV's picture quality",
+    "link": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+    "summary": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T08:00:00+09:00"
+   },
+   {
+    "title": "How to lock apps on your Samsung Galaxy phone",
+    "link": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+    "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T07:45:00+09:00"
+   },
+   {
+    "title": "What is the 3-2-1 rule for backing up your data?",
+    "link": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+    "summary": "Make sure your files are safe in the event of a hard drive disaster.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T07:30:00+09:00"
+   },
+   {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-11T07:10:17+09:00"
+   },
+   {
+    "title": "How does using your MacBook while charging affect its battery life?",
+    "link": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
+    "summary": "Modern MacBooks are pretty smart about managing their battery's health.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-11T07:00:00+09:00"
+   },
+   {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-11T06:23:38+09:00"
+   },
+   {
+    "title": "“돈이 부족해?”…빵 공짜로 줬더니, 초등생 4명이 냅다 큰절",
+    "link": "https://www.etnews.com/20261010000026",
+    "summary": "돈이 부족해 빵을 사지 못한 아이들에게 크루아상을 선물한 카페의 사연이 온라인에서 화제를 모으고 있다. 빵을 받은 아이들은 식사를 마친 뒤 카페 직원들에게 큰절로 감사 인사를 전했고, 이 모습이 담긴 폐쇄회로(CC)TV 영상에 누리꾼들의 관심이 쏠렸다. 10일 온라인 커뮤니티 등에 따르면 전날 사회관계망서비스(SNS)에는 부산의 한 카페에서 촬영된 CCTV 영상과 함께 아이들의 사연이 공개됐다. 카페 관계자로 보이는 작성자 A씨는 “꼬마들이 돈",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-11T06:00:00+09:00"
+   },
+   {
+    "title": "네이버, N배송 셀러 'FBN 전환' 본격화…위약금 없애고 비용 혜택까지",
+    "link": "https://www.etnews.com/20261008000146",
+    "summary": "네이버가 파격적 혜택을 앞세워 N배송 판매자들의 '풀필먼트 바이 네이버'(FBN) 전환을 본격화한다. 물류사 변경에 따른 위약금 부담을 없애고 보관비·배송비 혜택도 제공한다. 네이버가 직접 관리하는 물류 생태계 확장에 가속 페달을 밟았다. 11일 업계에 따르면 네이버는 현재 N배송 제휴 계약을 맺고 있던 입점 판매자들을 대상으로 N배송 FBN 전환을 적극 유도하고 있다. FBN은 네이버가 계약 주체로 물류를 총괄하고, 실제 물류 현장 운영은 C",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-11T06:00:00+09:00"
+   },
+   {
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-11T02:39:16+09:00"
+   },
+   {
+    "title": "King warns malicious online actors are evolving tactics",
+    "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-11T00:56:32+09:00"
+   },
+   {
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-10T23:41:16+09:00"
+   },
+   {
+    "title": "정부 주최 AI해킹 대회 12월 열린다...'ACDC' 예선 참가자 모집",
+    "link": "https://zdnet.co.kr/view/?no=20261010225607",
+    "summary": "[지디넷코리아]과학기술정보통신부와 한국인터넷진흥원(KISA, 원장 이상중)이 오는 12월 열리는 '인공지능(AI) 해킹 방어 대회(2026 AI Cyber Defense Contest, ACDC)'의 예선 참가자를 26일까지 모집한다.'AI 해킹 방어 대회(ACDC)'는 인공지능을 활용해 사이버 위협에 대응하는 ‘인공지능을 활용한 보안(AI for Security)’, 인공지능 자체를 공격으로부터 보호하는 ‘인공지능의 안전성 확보(Security for AI)’, 인공지능이 구동되는 환경을 보호하는 ‘인공지능 플랫폼 보안(AI Pl",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-10-10T22:56:07+09:00"
+   },
+   {
+    "title": "“군고구마, 담배 냄새 나서 버렸다”…담배 상자에 넣어 배달한 편의점",
+    "link": "https://www.etnews.com/20261010000024",
+    "summary": "편의점에서 배달 주문한 군고구마가 전자담배 제품 상자에 담겨 왔으며, 담배 냄새 때문에 먹지 못하고 버렸다는 사연이 알려져 논란이 일고 있다. 지난 9일 소셜미디어(SNS)에는 편의점에서 군고구마를 주문했다가 담배 제품 상자에 담긴 채 배송받았다는 제보와 영상이 올라왔다. 해당 게시물은 조회 수 54만회를 기록하며 관심을 모았다. 제보자 A씨는 “편의점 배달이 되길래 군고구마를 시켰다”며 “우리 가족은 모두 비흡연자인데 담배 상자에 담겨서 배달",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-10T22:30:00+09:00"
+   },
+   {
+    "title": "민주 “딸 '편법 스펙' 수사 덮었나”…한동훈 “망상, 마타도어”",
+    "link": "https://www.etnews.com/20261010000025",
+    "summary": "한동훈 무소속 의원이 법무부 장관으로 재직하던 2022년 딸 관련 의혹을 수사하던 경찰의 미국 사법공조 요청이 검찰 단계에서 중단된 경위를 놓고 정치권 공방이 벌어졌다. 더불어민주당은 당시 검찰의 결정 과정과 한 의원의 관여 여부를 밝혀야 한다고 주장했다. 한 의원은 딸 관련 의혹에 문제가 없었다며 정치적 공세라고 반박했다. 서울경찰청 반부패공공범죄수사대는 2022년 11월 21일 한 의원 딸의 저작권법 위반 혐의 등을 수사하기 위해 서울중앙지",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-10T19:14:31+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "소청과 전문의 부족 심각...지역 소아의료 ‘붕괴 중’",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3013625",
+    "summary": "[의학신문·일간보사=김현기 기자] 지역 소아필수의료를 담당하는 소아청소년병원들이 심각한 의료인력 부족으로 진료 축소와 운영난에 직면한 것으로 나타났다.특히 전문의 채용에 나선 병원 상당수가 장기간 인력을 확보하지 못하고 있는 실정으로, 절반 이상의 병원은 향후 4년 이내 현재의 진료체계를 유지하기 어렵다고 호소하고 있다.게다가 전문의 부족이 야간·휴일 진료 축소와 입원 병상 감축으로 이어지는 가운데 간호인력 확보마저 어려워지면서 지역 소아의료 기반이 흔들리고 있다는 지적이다.대한소아청소년병원협회(회장 최용재)는 10일 웨스틴 서울",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-10-10T16:52:04+09:00"
+   },
+   {
+    "title": "Take Action for Our Children’s Health",
+    "link": "https://www.myamericannurse.com/take-action-for-our-childrens-health/",
+    "summary": "If you’re a nurse born after the mid-1950s, it’s unlikely you’ve ever seen a case of measles, until perhaps recently, when a resurgence of this deadly disease started making news across the United States. You may have heard about measles and other infectious diseases in nursing school, but all that ",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-10-10T02:30:31+09:00"
+   },
+   {
+    "title": "The unconventional nurse: Making nursing expertise visible beyond traditional practice settings",
+    "link": "https://www.myamericannurse.com/the-unconventional-nurse-making-nursing-expertise-visible-beyond-traditional-practice-settings/",
+    "summary": "When someone asks what I do for work, I sometimes struggle with the answer. I’m a nurse, but I also work in an industry where my day does not look like what most people imagine when they hear that word. I develop and review nursing content, design curricula and assessments, evaluate clinical accurac",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-10-10T01:50:37+09:00"
+   },
+   {
+    "title": "Helping nursing students and educators use AI without losing sight of the source",
+    "link": "https://www.myamericannurse.com/helping-nursing-students-and-educators-use-ai-without-losing-sight-of-the-source/",
+    "summary": "Throughout my career at the intersection of nursing, healthcare, and technology, I’ve learned that the hardest challenges are really about trust. When healthcare students turn to AI for help with a difficult medical concept, a quick answer is only part of what they need. They also need confidence th",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-10-10T00:33:39+09:00"
+   },
+   {
+    "title": "Kaiser Must Pay Back Wages to 1,100+ Nurses After Years-Long Payroll Error",
+    "link": "https://nurse.org/news/kaiser-nurses-back-wages-payroll-error/",
+    "summary": "Image source: NNU More than 1,000 Kaiser Permanente nurses in California are finally getting paid what they were owed, after an arbitrator ordered the health system to cover back wages…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T21:05:13+09:00"
+   },
+   {
+    "title": "JAANUU Co-Founder to Nurses Affected by Breast Cancer: 'I See You'",
+    "link": "https://nurse.org/news/jaanuu-warrior-pink-breast-cancer-awareness/",
+    "summary": "Disclosure: JAANUU is the official scrubs partner of Nurse.org’s Nurse Night Events. Nurse.org received no compensation for this article and retained full editorial control. Every October, our units turn pink.…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T16:00:00+09:00"
+   },
+   {
+    "title": "Denver Nuggets Nurse Appreciation 2027",
+    "link": "https://nurse.org/articles/denver-nuggets-nurse-appreciation-night/",
+    "summary": "🏀 2027 Event Details About Denver Nuggets Nurse Appreciation Night Date: March 1, 2027 at 7:00pm Game: Denver Nuggets vs. Brooklyn Nets Nurse discount tickets: Click here to shop! Nurse…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T16:00:00+09:00"
+   },
+   {
+    "title": "2026 Nurse Strikes: Complete List of Active and Planned Strikes",
+    "link": "https://nurse.org/articles/nurse-strikes-list/",
+    "summary": "Image: NJ.com This tracker is the live front end of a larger Nurse.org project we're calling Nurse Strike Intelligence. Nurse walkouts are rising fast, but the reporting on them is…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T16:00:00+09:00"
+   },
+   {
+    "title": "New Jersey Could Fine Anyone Who Calls Themselves a 'Nurse' Without a License",
+    "link": "https://nurse.org/news/nj-bill-fines-unlicensed-nurse-title/",
+    "summary": "Anyone in New Jersey who calls themselves a \"nurse\" without a nursing license could soon be fined, after an Assembly panel unanimously approved legislation that would close a long-standing loophole…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T07:47:54+09:00"
+   },
+   {
+    "title": "의료연대본부, 국공립병원 간호간병통합서비스 전면 실시 촉구",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043483",
+    "summary": "국립대병원의 간호간병통합서비스 참여율이 사립대병원의 절반 수준에 그치는 것으로 나타났다.공공운수노조 의료연대본부는 진보당 전종덕 의원실 자료를 바탕으로 전국 132개 의료기관의 간호간병통합서비스 운영 현황을 분석한 결과를 공개하며 “전 국민의 간병비 부담을 덜기 위해 오는 2027년부터 국공립병원 간호간병통합서비스 전면 실시와 이를 위한 간호인력 기준 상향을 요구한다”고 지난 8일 밝혔다.분석 대상은 상급종합병원 47곳, 지역거점공공병원 41곳, 정부운영 공공병원 44곳으로 총 132개의 의료기관이었다. 분석 결과, 상급종합병원의",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-10-09T06:48:42+09:00"
+   },
+   {
+    "title": "The Ballot Measures That Name Nurses or Decide What They Can Do",
+    "link": "https://nurse.org/news/nursing-ballot-measures-2026/",
+    "summary": "Part of Nurses on the Ballot, Nurse.org's research series tracking verified nurses running for office in 2026. This installment looks at the ballot measures where nurses are named in the…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-09T02:56:01+09:00"
+   },
+   {
+    "title": "When competence camouflages a nurse’s mental health crisis",
+    "link": "https://www.myamericannurse.com/when-competence-camouflages-a-nurses-mental-health-crisis/",
+    "summary": "I knew how to recognize a patient in crisis. I knew the questions to ask, the precautions to take, whom to notify, and what could happen if warning signs were missed. I had spent years caring for people during some of the worst moments of their lives. Recognizing the same danger in myself was harder",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-10-09T02:14:50+09:00"
+   },
+   {
+    "title": "부산백병원, 임상시험 참여자 권리보호를 위한 교육 캠페인 개최",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21447",
+    "summary": "인제대학교 부산백병원(원장 양재욱)은 9월 18일(금) 의약품 임상시험 참여자의 권리 보호와 임상시험에 대한 올바른 이해를 돕기 위한 교육 캠페인을 실시했다.인당생명의학연구원(연구부원장 신정환)과 한국의약품안전관리원이 공동으로 주관한 이번 캠페인은 ‘의약품 임상시험 동의·설명서 바로 알기’를 주제로 개최됐다.임상시험 참여자를 비롯해 환자 및 보호자, 구성원을 대상으로 진행된 행사에서는 임상시험 동의서와 설명서에 대한 주요 내용을 알기 쉽게 안내하였으며 ▲ OX 퀴즈 ▲가로세로 퀴즈 ▲체크리스트 매칭하기 등 다양한 체험 프로그램을 통",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-10-08T17:59:54+09:00"
+   },
+   {
+    "title": "[Medical Report] 한의계 “의료일원화 논의 참여”…한·양방 대등한 통합 요구 外",
+    "link": "http://www.hkn24.com/news/articleView.html?idxno=351283",
+    "summary": "[헬스코리아뉴스 / 임해리] 의료계 주요 단체들이 의료제도 개선과 보건의료인력의 역할 확대를 위한 목소리를 내고 있다. 대한한의사협회는 의료일원화 논의에 참여하겠다는 입장을 밝히면서 한의학과 서양의학의 대등한 통합을 요구했다. 대한간호협회는 간호사신문 창간 50주년을 맞아 간호문학상을 부활시키고, 대한전공의협의회는 의료취약계층을 위한 봉사활동을 확대한다. 국내 연구진은 난소암·위암을 표적으로 하는 차세대 CAR-T 치료 기술과 뇌졸중 재발 위험을 높이는 대기오염물질에 관한 연구 성과를 발표했다. 오늘의 주요 의료계 뉴스를 정리했다.",
+    "source": "헬스코리아뉴스",
+    "lang": "ko",
+    "published": "2026-10-08T17:37:48+09:00"
+   },
+   {
+    "title": "“환자 마음까지 보듬어요”… 좋은병원들, 천사데이 릴레이 건강 나눔",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=44948",
+    "summary": "좋은병원들(좋은강안·좋은문화·좋은삼선·좋은삼정병원)이 지난 10월 4일 ‘천사데이(1004 Day)’를 맞아 환자와 내원객을 위한 다채로운 건강 나눔 행사를 성황리에 마쳤다고 8일 밝혔다.매년 10월 4일로 지정된 ‘천사데이’는 간호부와 의료진이 환우 및 방문객에게 봉사와 사랑의 마음을 전하며 소통하는 뜻깊은 의료계 기념일이다. 이번 행사는 투병 생활로 지친 환자들에게 위로를 전하고, 지역 주민들의 일상 속 건강 관리 중요성을 알리기 위해 마련됐다.좋은병원들 각 병원 간호부는 원내 로비 및 내원객 밀집 구역에서 방문객들을 맞이했다.",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-10-08T17:31:22+09:00"
+   },
+   {
+    "title": "부천세종병원 병동간호부 간호사들, 소사역서 건강지원 부스 운영",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=241106",
+    "summary": "[라포르시안] 부천세종병원은 최근 병동 간호부를 주축으로 경인전철 1호선 소사역사에서 ‘소사역 건강지원 부스’를 운영했다고 8일 밝혔다.간호사들은 부스에서 지역주민을 대상으로 혈압 및 혈당 측정, 결과 상담, 심폐소생술(CPR) 교육 및 실습, 건강 키트 배부 등 지원 프로그램을 펼쳤다. 이번 건강 부스 운영에 필요한 재원은 앞서 원내에서 열린 플리마켓 수익금과 병동 간호부 소속 간호사들의 월 회비 일부로 마련했다.부천세종병원 김정숙 간호부원장은 “지역주민의 건강을 위해 간호사들이 마음을 모아 마련한 자리인 만큼 더욱 뜻깊다”며 “",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-10-08T15:41:08+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "약 배송 앞에 선 4가지 셈법… 누군가 뛰고, 누군가 지켜본다",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79501",
+    "summary": "HIT 기획 약 배송, 판이 바뀐다① 가속과 브레이크 동시에 밟는 보건복지부② 충돌할 지점은 누가 배송 선택권을 갖느냐[히트뉴스=이우진 기자] 정부가 8월 20일 모든 비대면진료 환자로 의약품 배송을 확대하는 논의에 착수하겠다고 밝힌 지 한 달 가까이 지났다. 같은 사안을 놓고 이해당사자들의 대응 속도는 확연히 갈린다. 거리로 나간 쪽이 있고, 요구의 방향을 바꾼 쪽이 있으며, 아직 말을 아끼는 쪽도 있다.보폭의 차이는 결국 ‘각자 걸린 것’과 ‘잃을 것’의 크기에서 나온다. 손실이 확정적이고 즉각적인 쪽은 빠르게 움직인다. 반면",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-10-10T06:04:00+09:00"
+   },
+   {
+    "title": "국감서 약 배송 전면 확대 제동…약국가, 긍정 속 불안감 여전",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=419056",
+    "summary": "국정감사에서 약 배송 전면 확대에 대한 신중론이 제기되면서 약사사회가 일단 한숨을 돌렸다. 다만 정부의 정책 추진 방향에 대한 불안감과 대한약사회의 대응을 둘러싼 아쉬움은 여전히 남아 있는 분위기다. 지난 8일 국회 보건복지위원회 국정감사에서는 비대면진료 제도 시행에 앞서 정부가 약 배송 전면 확대 논의를 꺼낸 것에 대한 지적이 이어졌다. 이만희 보건복지위원장과 남인순 더불어민주당 국회의원은 이해관계자 논의와 기존 사회적 합의를 강조했고, 정은경 보건복지부 장관은 당장 약 배송을 전면 확대하겠다는 것이 아니라 의견을 수렴하려는 취지",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-10-10T06:03:00+09:00"
+   },
+   {
+    "title": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
+    "link": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
+    "summary": "Eli Lilly-partnered TRexBio will apply the IPO proceeds toward clinical development of molecules designed to activate regulatory T cells to mediate immune responses and inflammation. Meanwhile, Retension Pharmaceuticals will use its IPO cash for mid-stage testing of a next-generation hypertension dr",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-10T03:26:41+09:00"
+   },
+   {
+    "title": "What Life Sciences Commercial Teams Can Learn from Digital Health",
+    "link": "https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/",
+    "summary": "The pace of change in digital innovation has exposed the ever-widening gap between digital health and Pharma commercial teams. As a result, Pharma is missing out on its ability to significantly improve its commercial model, by focusing on efficiencies vs. truly reinventing. The post What Life Scienc",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-09T22:49:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/9/26",
+    "link": "https://histalk2.com/2026/10/08/morning-headlines-10-9-26/",
+    "summary": "Vocca Raises a $20M Series A After Growing From 2,000 to 15,000 Practitioners in a Year Healthcare AI phone assistant vendor Vocca raises $20 million in a Series A funding round. HHS Announces 2026 LEAP ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-09T09:11:40+09:00"
+   },
+   {
+    "title": "News 10/9/26",
+    "link": "https://histalk2.com/2026/10/08/news-10-9-26/",
+    "summary": "Top News The American Hospital Association challenges the claim by insurers that AI-assisted hospital coding drives inappropriate spending, arguing that their analysis neither reviewed medical records nor established which claims involved AI. Reader Comments From ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-09T05:12:34+09:00"
+   },
+   {
+    "title": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity",
+    "link": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
+    "summary": "The Series A round was led by Oak HC/FT, with participation from Norwest, .406 Ventures, Constellation Ventures, Y Combinator, Rock Health Capital and MemorialCare Innovation Fund. The post Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-09T05:04:08+09:00"
+   },
+   {
+    "title": "EPtalk by Dr. Jayne 10/8/26",
+    "link": "https://histalk2.com/2026/10/08/eptalk-by-dr-jayne-10-8-26/",
+    "summary": "A recent article in Applied Clinical Informatics looks at the impact of a large language model (LLM) tool on the creation of hospital discharge summaries. This is exactly the kind of research that we need ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-09T00:20:43+09:00"
+   },
+   {
+    "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
+    "link": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
+    "summary": "Earlier detection is valuable, but it creates a duty that does not end when an alert appears in the electronic health record. Health systems need to decide, in advance, how a risk signal becomes a clinically accountable pathway. The post AI Can Flag Cognitive Decline Earlier — Health Systems Still O",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-08T22:53:00+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "NAVIGATE-AI Nursing Framework: A Scoping Review and Preliminary Expert Content Evaluation for Safe Bedside AI Use in Nursing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42855902/",
+   "journal": "Journal of nursing management",
+   "authors": "Alqaisi O, Darwish S, Dibas M 외",
+   "pubdate": "2026"
+  },
+  {
+   "title": "Diagnostic Accuracy of Pressure Injury Staging Among Nurses: A Multisite Study Using Knowledge Assessment and Image-Based Evaluation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42855860/",
+   "journal": "International wound journal",
+   "authors": "Tayyib NA, Asiri MY",
+   "pubdate": "2026 Oct"
+  },
+  {
+   "title": "Using strengths-based nursing to introduce the Kerala model of palliative care to Australia-a theoretical integrative narrative review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42854755/",
+   "journal": "Annals of palliative medicine",
+   "authors": "Cheluvappa D, Cheluvappa R",
+   "pubdate": "2026 Sep"
+  },
+  {
+   "title": "Engaging community advisors to adapt remote me & my wishes: perspectives from persons living with dementia, care partners, and nursing home leaders.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42854637/",
+   "journal": "Geriatric nursing (New York, N.Y.)",
+   "authors": "Lee S, Kim H, Geurin R 외",
+   "pubdate": "2026 Oct 9"
+  },
+  {
+   "title": "Integrating Artificial Intelligence Into Nursing Care Planning: A Comparative Evaluation of Psychosocial Care for Patients With a Stoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42854195/",
+   "journal": "Computers, informatics, nursing : CIN",
+   "authors": "Kulakaç N, Tuncer M",
+   "pubdate": "2026 Oct 9"
+  },
+  {
+   "title": "Bridging the Gap: A Needs Assessment of the Chief Nursing Informatics Officer Role Perception and Role Execution in Military Treatment Facilities.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42854186/",
+   "journal": "Computers, informatics, nursing : CIN",
+   "authors": "Evans SL, Reynolds MA",
+   "pubdate": "2026 Oct 9"
+  },
+  {
+   "title": "Adaptations of an evidence-based intervention for child obesity treatment delivered in a home health setting: a brief report.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42853644/",
+   "journal": "Translational behavioral medicine",
+   "authors": "Button AM, Ullmer A, Katzmarzyk PT 외",
+   "pubdate": "2026 Jan 7"
+  },
+  {
+   "title": "Standardizing Echocardiography Workflow to Reduce Length of Stay After Uncomplicated STEMI.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42853174/",
+   "journal": "JACC. Case reports",
+   "authors": "Warrington C, Ghantous A, Elwell J 외",
+   "pubdate": "2026 Oct 8"
+  },
+  {
+   "title": "Assessment Tools for Nursing Informatics Competency: A Scoping Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42852982/",
+   "journal": "Creative nursing",
+   "authors": "Zheng K, Zong S, Fan L 외",
+   "pubdate": "2026 Oct 9"
+  },
+  {
+   "title": "Implementing a Telehealth Perinatal Depression Prevention Program: Perspectives of Rural and Urban Clinical Staff.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42852673/",
+   "journal": "Journal of nursing management",
+   "authors": "Aderibigbe T, Tu W, Kausler R 외",
+   "pubdate": "2026"
+  }
+ ]
+}
