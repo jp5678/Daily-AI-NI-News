@@ -1,0 +1,590 @@
+{
+ "date": "2026-10-13",
+ "generatedAt": "2026-10-13T11:23:18.651114+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42275",
+    "summary": "현대자동차와 기아가 글로벌 AI 데이터 인프라 기업 바스트 데이터(VAST Data)에 전략적 투자를 단행했다. 자율주행과 로보틱스 등 피지컬 AI(Physical AI) 개발에 필요한 대규모 데이터를 더 빠르고 효율적으로 처리하고, AI 모델 개발부터 검증까지 이어지는 데이터 인프라를 고도화하기 위한 행보다.바스트 데이터는 13일 현대차·기아가 자사에 전략적 투자를 진행했다고 밝혔다. 이번 투자는 현대차그룹의 글로벌 소프트웨어 센터이자 자율주행 모빌리티 개발 조직인 포티투닷(42dot)이 수년간 실제 연구·개발 환경에서 바스트 A",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-10-13T11:11:09+09:00"
+   },
+   {
+    "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216182",
+    "summary": "마이크로소프트(MS)가 자체 개발한 AI 칩 '마이아(Maia)' 제품군을 내년부터 수 기가와트(GW) 규모로 확대 배치한다. 동시에 차세대 칩 '마이아 300(Maia 300)'도 공개하며 엔비디아 GPU에 대한 의존도를 낮추고 급증하는 AI 서비스 운영 비용을 줄이겠다는 뜻을 밝혔다.사티아 나델라 MS CEO는 12일(현지시간) X와 공식 블로그를 통해 자체 실리콘 칩 ‘마이아’에 대한 역대 최대 규모의 투자를 진행한다고 밝혔다. 내년부터 마이아 제품군을 멀티 GW 규모로 배치하고, 자사 제품과 서비스의 주요 추론 시스템으로 활",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-10-13T11:09:07+09:00"
+   },
+   {
+    "title": "APEC 10개국 서울 집결…AI·자율주행 모빌리티 협력 넓힌다",
+    "link": "https://www.etnews.com/20261013000117",
+    "summary": "아시아태평양경제협력체(APEC) 10개 회원경제가 서울에 모여 인공지능(AI)과 자율주행 시대의 스마트 모빌리티 협력 방안을 논의한다. 지난해 한국 주도로 마련한 공동 권고문을 토대로 정책과 운영, 기술까지 협력 범위를 넓힌다. 국토교통부는 14일부터 16일까지 서울 웨스틴조선호텔에서 '2026 APEC 스마트 모빌리티 포럼'을 연다고 13일 밝혔다. APEC 회원경제 정부대표와 국내외 전문가, 산업계 관계자가 참석해 스마트 모빌리티 정책과 운",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T11:00:00+09:00"
+   },
+   {
+    "title": "“안 읽은 업무 메시지 요약하고 답장보내줘”…카톡서 말 한마디로 업무 처리",
+    "link": "https://www.etnews.com/20261013000083",
+    "summary": "카카오톡에 밤새 쌓인 메시지에서 업무 관련 내용을 요약하고, 음성 명령으로 답장까지 보내는 인공지능(AI) 서비스가 나온다. 카카오톡 화면을 두 손가락으로 쓸면 등장하는 '라이언'이 이용자 요청을 수행한다. 카카오는 오는 12월 일부 이용자를 대상으로 비공개 베타 테스트(CBT)를 진행하고, 향후 예약·송금 등으로 기능을 확대할 계획이다. 카카오는 13일 경기 용인시 카카오 AI 캠퍼스에서 연례 컨퍼런스 '이프 카카오(if(kakao)26)을",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T11:00:00+09:00"
+   },
+   {
+    "title": "IMF, 한국 성장률 3.3%로 상향…AI·반도체 수출 호조 영향",
+    "link": "https://www.etnews.com/20261013000056",
+    "summary": "국제통화기금(IMF)이 올해 한국 경제성장률 전망치를 상향 조정했다. 중동전쟁 장기화와 국제유가 상승에도 인공지능(AI) 투자 확대에 따른 반도체 수출 호조가 한국 경제의 성장을 견인할 것으로 전망했다. IMF는 13일 발표한 '10월 세계경제전망(World Economic Outlook)'에서 올해 한국 경제성장률을 3.3%로 제시했다. 지난 7월 전망치보다 0.7%포인트(P) 높아진 수치다. 내년 성장률 전망치도 기존 2.5%에서 2.8%로",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T11:00:00+09:00"
+   },
+   {
+    "title": "강원대병원·춘천기업혁신파크, AI 의료데이터 플랫폼 구축 맞손",
+    "link": "https://www.etnews.com/20261013000134",
+    "summary": "강원대학교병원과 춘천기업혁신파크가 인공지능(AI) 기반 정밀의료 데이터 서비스 플랫폼 구축과 지역 바이오산업 생태계 조성을 위해 손을 잡았다. 강원대학교병원과 춘천기업혁신파크 사업시행사인 바이오테크이노밸리는 12일 강원대병원에서 '의료데이터 플랫폼 구축을 위한 업무협약(MOU)'을 체결했다. 협약식에는 남우동 강원대학교병원장과 김용찬 바이오테크이노밸리 대표 등 양 기관 관계자들이 참석했다. 이번 협약은 춘천기업혁신파크에 조성될 AI데이터센터를",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T10:52:13+09:00"
+   },
+   {
+    "title": "전남테크노파크-KAIST 공대, 전남광주 지능형 로봇산업 육성 '맞손'",
+    "link": "https://www.etnews.com/20261013000131",
+    "summary": "전남테크노파크(원장 오익현)는 12일 한국과학기술원(KAIST) 공과대학(학장 이태식)과 전남광주 지능형 로봇산업 육성 및 로봇 기반 지역 산업 경쟁력 강화를 위한 업무협약을 체결했다. 이번 협약은 전남광주의 주력 제조산업과 KAIST 공과대학의 로봇·인공지능(AI) 분야 연구 역량을 연계해 기술개발·실증·기업육성 등 전주기 협력체계를 구축하고 지역 산업현장의 AI·로봇 기술 적용과 확산을 촉진하기 위해 마련됐다. 전남광주는 철강·석유화학·조선",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T10:50:08+09:00"
+   },
+   {
+    "title": "광주대, 29일 지용구 더존비즈온 대표 초청 강연…AI·ERP 트랙 기반 산·학협력 강화",
+    "link": "https://www.etnews.com/20261013000118",
+    "summary": "광주대학교(총장 김동진)는 29일 오후 3시 30분 교내 행정관 3층 스마트강의실에서 ㈜더존비즈온 지용구 대표 초청 강연을 개최한다. 이번 특강은 광주대 AI부트캠프사업의 인공지능(AI)-전사적자원관리(ERP)트랙 프로그램 일환으로 AI와 ERP 시스템의 융합을 통해 변화하는 기업 경영환경을 이해하고, 학생들의 AI 활용능력과 산업현장 중심의 실무역량 강화를 위해 마련됐다. 지용구 대표는 이번 강연에서 'AI-네이티브 엔터프라이즈 시대, 일하는",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-13T10:39:10+09:00"
+   },
+   {
+    "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+    "link": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+    "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta's new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-13T03:48:29+09:00"
+   },
+   {
+    "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+    "link": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+    "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mistake them for progre",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-13T02:58:54+09:00"
+   },
+   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-13T02:56:56+09:00"
+   },
+   {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-13T02:19:14+09:00"
+   },
+   {
+    "title": "Clearing chat history helps AI agents find better solutions",
+    "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+    "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better results ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-13T01:10:00+09:00"
+   },
+   {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-13T00:45:00+09:00"
+   },
+   {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-13T00:31:19+09:00"
+   },
+   {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-13T00:27:59+09:00"
+   },
+   {
+    "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+    "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+    "summary": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls it \"our biggest bet ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-13T00:24:03+09:00"
+   },
+   {
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-12T23:00:00+09:00"
+   },
+   {
+    "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+    "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+    "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Min",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-12T22:14:54+09:00"
+   },
+   {
+    "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+    "link": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+    "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years.",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-12T21:51:21+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "[국감2026] 우주청, 재사용 발사체로 발사 비용 낮춘다…위성 양산도 추진",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706693",
+    "summary": "[디지털투데이 이진호 기자] 우주항공청이 한국형 발사체 발사 신뢰도를 현재 80% 수준에서 90% 이상으로 높이기로 했다. 재사용이 가능한 차세대 발사체를 개발해 개발사 비용을 낮추고 위성 대량생산에 도 속도를 낸다.오태석 우주항공청장은 13일 국회 과학기술정보방송통신위원회 국정감사에서 \"정책의 무게중심을 연구개발에서 산업 육성으로 전환하고 민간이 주도하는우주항공 산업 생태계를 조성하겠다\" 강조했다.오 청장은 지난해 누리호 4차 발사에 이어 지난 7일 5차 발사까지 성공적으로 마친 점을 되짚으며 발사체 신뢰성 확보를 예고했다. 그는",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-10-13T11:14:40+09:00"
+   },
+   {
+    "title": "AMD, 에이전틱 AI 랙 ‘헬리온’ 공개…CPU 코어 3만2768개 지원",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408111",
+    "summary": "[테크월드=박규찬 기자] AMD가 에이전틱 AI 시대를 겨냥한 랙스케일 컴퓨팅 솔루션 ‘AMD 헬리온(AMD Helion)’을 공개했다. AMD는 12일(현지시간) 미국 캘리포니아주 산타클라라에서 오픈 컴퓨트 프로젝트(Open Compute Project·OCP) 사양 설계를 기반으로 한 개방형 에이전틱 AI 인프라 청사진 ‘AMD 헬리온 에이전틱 AI 랙’을 발표했다고 13일 밝혔다.AMD 헬리온은 기존 랙스케일 솔루션인 ‘AMD 헬리오스(AMD Helios)’의 개방형 플랫폼 접근 방식을 확장한 제품이다. AMD 컴퓨팅 기술과",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-10-13T11:10:00+09:00"
+   },
+   {
+    "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-13T10:50:47+09:00"
+   },
+   {
+    "title": "사우디 리야드 공항에 또 '쾅'… 후티 미사일 공격에 300여명 사상",
+    "link": "https://www.etnews.com/20261013000123",
+    "summary": "예멘 후티 반군의 미사일 공격으로 사우디아라비아 수도 리야드의 주요 국제공항이 추가 피해를 입으면서 항공편 운항이 전면 중단됐다. 12일(현지시간) 영국 가디언에 따르면 사우디 당국은 후티 반군의 잇따른 미사일 공격으로 추가 피해와 사망자가 발생하자 리야드 킹칼리드 국제공항을 오가는 모든 항공편 운항을 오는 17일까지 중단하기로 했다. 앞서 걸프에어와 바레인에어 등 일부 항공사도 같은 기간 리야드 노선 운항을 취소한다고 밝힌 바 있다. 후티 반",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:41:58+09:00"
+   },
+   {
+    "title": "렉서스 '올 뉴 ES' 출격…하이브리드 신뢰에 첫 순수 전기차 더했다",
+    "link": "https://www.etnews.com/20261013000121",
+    "summary": "렉서스코리아가 국내 프리미엄 하이브리드 세단 시장을 주도한 'ES'의 8세대 완전변경 모델을 출시하며 첫 순수 전기차(BEV) 라인업을 전격 투입했다. 탄탄한 하이브리드 신뢰도를 바탕으로 전기차까지 아우르는 '투트랙' 전동화 선택지를 완성했다. 렉서스코리아는 13일 프리미엄 세단 '올 뉴 ES(All-New ES)'를 국내에 공식 출시했다. 1989년 렉서스 브랜드 출범과 함께 등장한 ES는 2001년 한국 진출 이후 정숙성과 편안한 승차감을",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:40:16+09:00"
+   },
+   {
+    "title": "트럼프에 다시 붙었나?…머스크, 공화당에 3700억원 쏟아부어 '美 중간선거 최대 큰손'",
+    "link": "https://www.etnews.com/20261013000120",
+    "summary": "세계 최고 부호인 일론 머스크 스페이스X 최고경영자(CEO)가 오는 11월 미국 중간선거를 앞두고 공화당의 핵심 정치자금 후원자로 부상했다. 12일(현지시간) 뉴욕타임스(NYT)는 머스크 측 대변인들을 인용해 그가 지난 7월 이후 공화당 관련 단체와 자신이 만든 슈퍼팩(SuperPAC·특별정치활동위원회)에 2억7천600만 달러(약 3천680억원) 이상을 전달했다고 보도했다. 이는 이번 중간선거에서 개인 후원자가 제공한 금액 중 가장 큰 규모다.",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:39:04+09:00"
+   },
+   {
+    "title": "한화손보, 캐롯 통합 1주년…車보험·디지털 시너지 확대",
+    "link": "https://www.etnews.com/20261013000102",
+    "summary": "캐롯과 통합 1주년을 맞은 한화손해보험이 자동차보험 시장에서 5위 입지를 굳히고 있다. 온라인과 대면 영업채널을 결합해, 자동차보험 외형을 확대하는 동시에 장기보험 판매 기반을 넓히고 있다는 평가다. 13일 보험업계에 따르면 한화손보 상반기 자동차보험 원수보험료는 6358억원으로 전년 동기 대비 83.4% 증가했다. 같은 기간 메리츠화재(3382억원)를 웃돌며 삼성화재·DB손해보험·현대해상·KB손해보험에 이어 5위를 기록했다. 한화손보는 작년",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:20:54+09:00"
+   },
+   {
+    "title": "오픈AI·앤트로픽 쫓는 메타…AI 모델 '뮤즈 원더' 공개",
+    "link": "https://www.etnews.com/20261013000086",
+    "summary": "메타가 오픈AI와 앤트로픽에 맞설 최상위 인공지능(AI) 모델 시리즈를 공개했다. 12일(현지시간) 블룸버그통신에 따르면 메타는 최상위 AI 모델 '뮤즈 원더(Muse Wonder)'와 '뮤즈 원더 풀'(Muse Wonder Full)을 공개했다. 내부 모델명은 '워터멜론'으로 메타가 개발한 모델 가운데 최고 성능을 갖췄다. 메타는 뮤즈 원더가 오픈AI의 '챗GPT'나 앤트로픽 '클로드'에 필적할 수준이라고 강조했다. 마크 저커버그 메타 최고경",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:08:45+09:00"
+   },
+   {
+    "title": "MS, 자체 AI칩 '마이아300' 공개…“내년 100만개 투입”",
+    "link": "https://www.etnews.com/20261013000085",
+    "summary": "마이크로소프트(MS)가 3세대 자체 인공지능(AI) 칩 '마이아300'을 공개했다. 내년부터 100만여개를 투입해 엔비디아 칩 의존도를 낮춘다. 12일(현지시간) 로이터통신 등에 따르면 MS는 내년부터 자체 개발한 '애저 마이아(Azure Maia)' 칩을 수 기가와트(GW) 규모로 확대해 자사 AI 제품과 서비스의 핵심 추론 인프라로 활용한다. 내년 마이아300 배치 규모는 100만개 이상에 이를 전망이다. 스콧 거스리 MS 클라우드·AI부문",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-13T10:05:52+09:00"
+   },
+   {
+    "title": "티맥스소프트, 일본 보험사 시스템 현대화…아시아 시장 공략 속도",
+    "link": "https://zdnet.co.kr/view/?no=20261013095742",
+    "summary": "[지디넷코리아]티맥스소프트가 일본 주요 손해보험사의 메인프레임 시스템을 클라우드로 전환하며 글로벌 디지털 전환(DX) 시장 공략에 속도를 낸다. 기존 프로그램과 업무 자산을 최대한 유지하면서 클라우드로 이전하는 리호스팅 기술을 앞세워 금융권 시스템 현대화 사업을 확대한다는 전략이다.티맥스소프트는 일본 현지 법인이 메인프레임 현대화 솔루션 '오픈프레임'을 활용해 일본 손해보험사 손보재팬의 메인프레임 리호스팅 프로젝트를 완료했다고 13일 밝혔다.이번 프로젝트는 지난 2021년 9월 시작해 약 45개월간 진행됐으며 지난해 6월부터 본격적",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-10-13T09:58:11+09:00"
+   },
+   {
+    "title": "Don't buy a cheap Android phone without these non-negotiable features",
+    "link": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+    "summary": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T09:30:00+09:00"
+   },
+   {
+    "title": "How to boost your GPU performance without buying a new one",
+    "link": "https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/",
+    "summary": "With an older GPU, you'll need to go without some of the fancy features, but you can still enjoy high frame rates with the right changes.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T08:30:00+09:00"
+   },
+   {
+    "title": "How to turn your old hard drives into a RAID array",
+    "link": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+    "summary": "Your old hard drives still have some live left in them.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T08:00:00+09:00"
+   },
+   {
+    "title": "How to use Google Gemini to automate tasks",
+    "link": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+    "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T07:30:00+09:00"
+   },
+   {
+    "title": "Why are your iPhone photos so blurry (and how to improve it)",
+    "link": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+    "summary": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T07:00:00+09:00"
+   },
+   {
+    "title": "The Social Reckoning is flopping at the box office",
+    "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+    "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 m",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-13T06:21:23+09:00"
+   },
+   {
+    "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+    "link": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+    "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-13T05:48:19+09:00"
+   },
+   {
+    "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+    "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+    "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funnel",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-13T01:52:54+09:00"
+   },
+   {
+    "title": "The Yandex outage probably didn’t blitz Russian bots",
+    "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+    "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around so",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-13T00:43:07+09:00"
+   },
+   {
+    "title": "Android is the best and worst thing about Googlebooks",
+    "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+    "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly chec",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-13T00:04:23+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "\"낯설었던 첫날, 어느덧 1년\"…희명병원 신규 간호사 첫돌 축하",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45035",
+    "summary": "희명병원이 입사 1주년을 맞은 간호사들을 격려하기 위한 '첫돌 행사'를 열었다. 선배와 동료 간호사들이 지난 1년간의 병원 생활을 돌아보고 앞으로의 경력 개발과 성장을 응원하는 자리로 마련됐다.희명병원 간호부는 지난 10월 6일 오후 2시 반석빌딩 11층 간호부에서 신입간호사 입사 1주년 기념행사를 개최했다고 10월 13일 밝혔다.오은영 희명병원 간호부장은 자신의 신규 간호사 시절을 돌아보며 병원 생활에 적응하는 과정에서 필요한 태도와 준비에 관해 설명했다. 오 부장은 “저 역시 첫 입사 당시 낯설었던 기억이 있다”며 “병원의 일원",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-10-13T10:08:53+09:00"
+   },
+   {
+    "title": "Selma Blair Accused of Assaulting Nurse at New York Hospital After Flight Arrest",
+    "link": "https://nurse.org/news/selma-blair-nurse-assault-jamaica-hospital/",
+    "summary": "Image sources: Super Festivals / CC BY 2.0 (modified), Jamaica Hospital Actress Selma Blair was taken into custody Sunday night at New York’s John F. Kennedy International Airport after Port…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-13T08:28:19+09:00"
+   },
+   {
+    "title": "Pioneering nurse-led service focuses on youth vaping in Midlands",
+    "link": "https://www.nursingtimes.net/public-health/pioneering-nurse-led-service-focuses-on-youth-vaping-in-midlands-12-10-2026/",
+    "summary": "A new specialist service, described as the first-of-its-kind, has been launched in secondary schools across parts of Derbyshire to help young people stop vaping and smoking. The post Pioneering nurse-led service focuses on youth vaping in Midlands appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-13T03:16:59+09:00"
+   },
+   {
+    "title": "Nurses helping orphaned children of colleagues stay in education",
+    "link": "https://www.nursingtimes.net/global-nursing/nurses-helping-orphaned-children-of-colleagues-stay-in-education-12-10-2026/",
+    "summary": "Hundreds of orphaned daughters of nurses living in developing countries have been able to access education thanks to a charity's nurse mentorship scheme and funding. The post Nurses helping orphaned children of colleagues stay in education appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-13T01:48:24+09:00"
+   },
+   {
+    "title": "Congress Wants Medicare to Pay for Advanced Practice Nurse Training: What's in the Bill",
+    "link": "https://nurse.org/news/educating-future-nurses-act-aprn-medicare/",
+    "summary": "Image source: Mediaplanet A bipartisan group of nurse-allied lawmakers wants Medicare to start paying for the clinical training of the nation's future nurse practitioners, nurse anesthetists, nurse-midwives, and clinical nurse…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-13T00:49:30+09:00"
+   },
+   {
+    "title": "Measles Tops 4,000 Cases as Pennsylvania Outbreak Puts Nurses on the Front Lines",
+    "link": "https://nurse.org/news/us-measles-cases-top-4000-pennsylvania/",
+    "summary": "Image source: CDC The United States has now confirmed 4,080 measles cases in 2026, the highest annual total since 1991, according to the latest Centers for Disease Control and Prevention…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-12T23:31:22+09:00"
+   },
+   {
+    "title": "‘We rise by lifting others: the power of mentorship in nursing’",
+    "link": "https://www.nursingtimes.net/leadership/we-rise-by-lifting-others-the-power-of-mentorship-in-nursing-12-10-2026/",
+    "summary": "Sun Sander-Jackson on the positive impact that mentorship can have on wellbeing and development as a nurse leader. The post ‘We rise by lifting others: the power of mentorship in nursing’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-12T20:55:53+09:00"
+   },
+   {
+    "title": "County council plan to overhaul nursing services sparks ‘serious concerns’",
+    "link": "https://www.nursingtimes.net/public-health/county-council-plan-to-overhaul-nursing-services-sparks-serious-concerns-12-10-2026/",
+    "summary": "Read to find out more about a group of community staff nurses who could face job losses if Suffolk County Council go through with plans for a new children's health and care service. The post County council plan to overhaul nursing services sparks ‘serious concerns’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-12T20:38:59+09:00"
+   },
+   {
+    "title": "Shaping the future of dermatology care through collaboration and shared decision making",
+    "link": "https://www.nursingtimes.net/dermatology/shaping-the-future-of-dermatology-care-through-collaboration-and-shared-decision-making-12-10-2026/",
+    "summary": "I have worked within the NHS for more than 40 years. Throughout my career I have seen dermatology care evolve considerably. The post Shaping the future of dermatology care through collaboration and shared decision making appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-12T19:12:41+09:00"
+   },
+   {
+    "title": "안산대학교 간호학과, ‘제30회 노인의 날 기념행사’ 참여",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21456",
+    "summary": "안산대학교(총장 윤동열) 간호학과는 4학년 재학생들이 지난 6일 한양대 에리카컨벤션에서 열린 ‘제30회 노인의 날 기념행사’에 참여했다고 밝혔다.대한노인회 안산시상록구지회가 주최한 이번 행사는 노인의 날을 맞아 어르신들의 사회적 기여에 감사하고 경로효친의 의미를 되새기기 위해 마련했다. 이민근 안산시장, 상록구 관내 경로당 회원과 내빈 등이 참석한 가운데 기념식, 표창 수여, 축하공연 순으로 진행했다.안산대학교 간호학과 4학년 지맑음, 오주연, 정승재 학생은 종합실습 교과목의 지역사회 현장실습 일환으로 행사에 참여했다. 학생들은 직",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-10-12T17:45:00+09:00"
+   },
+   {
+    "title": "Human immunodeficiency virus (HIV): factsheet on sexually transmitted infections",
+    "link": "https://www.nursingtimes.net/public-health/human-immunodeficiency-virus-hiv-factsheet-on-sexually-transmitted-infections-12-10-2026/",
+    "summary": "This factsheet discusses human immunodeficiency virus (HIV); it is part of a collection on sexually transmitted infections. The post Human immunodeficiency virus (HIV): factsheet on sexually transmitted infections appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-12T16:43:43+09:00"
+   },
+   {
+    "title": "WHO Sets First-Ever Global Childhood Obesity Guidelines: What Nurses Need to Know",
+    "link": "https://nurse.org/news/who-child-obesity-guidelines-nurses/",
+    "summary": "The World Health Organization (WHO) issued its first-ever global guidelines on child and adolescent obesity on October 7th, and the headline recommendation is clear: no weight-loss medications, bariatric surgery, or…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-12T16:00:00+09:00"
+   },
+   {
+    "title": "간호간병통합서비스 병원 정보 확인 쉬워진다",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=414447",
+    "summary": "[메디칼업저버 신형주 기자] 내 주변의 간호간병통합서비스 병원 정보 확인이 쉬워진다.국민건강보험공단은 간호간병통합서비스 제공 병원 병원 정보 서비스를 네이버지도 및 카카오맵을 통해 제공한다.해당 서비스는 네이버지도·카카오맵에서 ‘간호·간병통합서비스’,‘간호간병’ 등 관련 핵심 단어를 검색하면 사용자 위치를 기반으로 가까운 간호간병통합서비스 제공 병원 목록을 확인할 수 있다.특히 ‘네이버 지도’는 환자와 보호자가 병원 선택 시 참고할 수 있도록 지도 내 병원 정보에 ‘간호간병통합서비스 세부 서비스 정보인 운영 병상수 등’을 추가로 제",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-10-12T11:51:59+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "암 환자 면역주사 재평가 약속 1년…식약처 공고도 안 해",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=419192",
+    "summary": "한국보건의료연구원(NECA)이 암 환자 투여를 '권고하지 않음'으로 평가한 면역주사 2종에 대해 식품의약품안전처가 지난해 국정감사에서 신속한 재평가를 약속했지만, 1년이 지나도록 공고 하지 않은 것으로 나타났다. 실손보험 약관 개정과 의약품 재평가만으로는 허가 외 사용을 관리하기 어려워 제도적 공백을 해소해야 한다는 지적이 나온다. 13일 국회 보건복지위원회 전종덕 진보당 의원이 식약처에서 제출받은 서면답변에 따르면 식약처는 '이뮤노시아닌'과 '비스쿰알붐'에 대한 문헌재평가를 아직 공고하지 않았다. 두 의약품은 요양병원 등에서 암",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-10-13T10:37:38+09:00"
+   },
+   {
+    "title": "한국머크, 의학부 총괄에 안텐진 코리아 출신 이동열 전무 선임",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79830",
+    "summary": "[히트뉴스=방혜림 기자] 한국머크 헬스케어가 이동열 전 안텐진 코리아 메디컬 디렉터를 의학부 총괄 전무로 선임했다.13일 회사 측에 따르면 이동열 전무는 가정의학과 전문의다. 한국노바티스와 안텐진 코리아 등 글로벌 제약사에서 15년 동안 항암 포트폴리오를 담당하며 △의약품 허가 △마켓 엑세스 △커머셜 오퍼레이션 △약물감시 등 직무를 경험했다.특히 한국노바티스에서는 CAR-T 치료제 '킴리아' 출시를 주도한 리더십을 인정받아 'Novartis Chief Medical Officer Award'를 수상하기도 했다. 안텐진 코리아에서는",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-10-13T09:32:43+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/13/26",
+    "link": "https://histalk2.com/2026/10/12/morning-headlines-10-13-26/",
+    "summary": "OpenEvidence and Northwestern Medicine Launch Collaboration to Integrate Clinical Evidence into the EHR Northwestern Medicine in Chicago will embed OpenEvidence’s medical AI tool within its EHR. HealthTap Launches Virtual Primary Care Program to Support DME ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-13T08:03:32+09:00"
+   },
+   {
+    "title": "Curbside Consult with Dr. Jayne 10/12/26",
+    "link": "https://histalk2.com/2026/10/12/curbside-consult-with-dr-jayne-10-12-26/",
+    "summary": "Schools of thought differ on the importance of staffing healthcare projects with team members who have experience in care delivery roles. I once did some consulting for a health system that staffed its program management ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-12T22:38:37+09:00"
+   },
+   {
+    "title": "HIStalk Interviews Eric Rosow, CEO, ReferWell",
+    "link": "https://histalk2.com/2026/10/12/histalk-interviews-eric-rosow-ceo-referwell/",
+    "summary": "Eric Rosow, MS is CEO of ReferWell. Tell me about yourself and the company. I’ve been in health tech for over 35 years. I’m super excited to be stepping into this role as CEO of ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-12T22:03:38+09:00"
+   },
+   {
+    "title": "Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem",
+    "link": "https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/",
+    "summary": "Register for INVEST Digital Health, scheduled for October 29 in Dallas, for an engaging discussion on the impact of consumer-centered care from diagnostics to employer benefits and more. The post Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecos",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-12T22:00:15+09:00"
+   },
+   {
+    "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
+    "link": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
+    "summary": "The FDA recently published draft guidance on pre-market testing for robotically-assisted surgical devices, raising timely discussion around whether hospital infrastructures are capable of supporting increasingly complex systems. The post Are Hospital Operating Rooms Ready For FDA’s Expectations for ",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-12T21:00:00+09:00"
+   },
+   {
+    "title": "정신응급도 필수의료 지정…집중치료병상 2000개로 확충",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043538",
+    "summary": "정부가 정신응급을 필수의료로 지정하고 급성기 정신질환 집중치료병상을 오는 2030년까지 2,000개로 확충한다. 자살 고위험군이 신속하게 진료받을 수 있도록 거점의료기관을 지정하고 긴급진료에 대한 별도 보상도 추진한다.정부는 12일 정부서울청사에서 한성숙 국무총리 주재로 ‘제11차 자살예방정책위원회’를 열고 이같은 내용을 담은 ‘제6차 자살예방기본계획’을 심의·확정했다. 이번 계획은 지난 6월부터 9월까지 발표한 9대 분야 자살예방대책을 통합·조정하고 정신건강 치료와 인공지능(AI)·데이터 활용 등 새로운 과제를 추가한 것이다.정부",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-10-12T19:38:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/12/26",
+    "link": "https://histalk2.com/2026/10/11/morning-headlines-10-12-26/",
+    "summary": "Emergence Announces Acquisition of Clinect Healthcare to Accelerate AI-Driven Patient Experience & Outcomes Intelligence Private equity firm Emergence acquires Clinect, which offers patient satisfaction and online reputation management software. AI, Tech Leaders Are Lobbying Trump ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-12T07:34:21+09:00"
+   },
+   {
+    "title": "Monday Morning Update 10/12/26",
+    "link": "https://histalk2.com/2026/10/11/monday-morning-update-10-12-26/",
+    "summary": "Top News A KFF Health News investigation finds that CMS officials have used a government-run Slack workspace with 1,700 participants, predominantly technology executives and investors, to help shape federal AI healthcare policy outside traditional public ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-11T22:55:36+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "Strategic leadership in patient safety through AI-enabled fall prevention technology.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42862899/",
+   "journal": "Nursing management",
+   "authors": "Bouvier M, Deaterly C, Collins N 외",
+   "pubdate": "2026 Oct 12"
+  },
+  {
+   "title": "Provider Knowledge, Risk Perceptions, and Communication Readiness Drive Discussions about Early-Onset Colorectal Cancer: A National Survey of US Healthcare Providers.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42861640/",
+   "journal": "Diseases of the colon and rectum",
+   "authors": "Butcher J, Fassler SA, Bedell J 외",
+   "pubdate": "2026 Oct 12"
+  },
+  {
+   "title": "Automating chart review for identification of infected patients using natural language processing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42861183/",
+   "journal": "JAMIA open",
+   "authors": "Khan AZ, Buell KG, Karway G 외",
+   "pubdate": "2026 Oct 11"
+  },
+  {
+   "title": "Real-time physical function assessment in hospitalized patients: Enhanced discharge disposition predictions with the PROMIS PF5 tool.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42860802/",
+   "journal": "Journal of hospital medicine",
+   "authors": "Yoo MS, Plimier C, Kipnis P 외",
+   "pubdate": "2026 Oct 11"
+  },
+  {
+   "title": "Nurses' Experiences With Artificial Intelligence and the Association Between Clinical Decision-Making and Missed Nursing Care: A Convergent Mixed-Methods Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42860727/",
+   "journal": "Journal of nursing management",
+   "authors": "Alanazi FK, Tawfik AF, Mahgoub SA 외",
+   "pubdate": "2026"
+  },
+  {
+   "title": "A Machine Learning-Based Fall Risk Prediction Model for Middle-Aged and Older Adults with Comorbid Cardiovascular Disease and Arthritis: Development and Geographic Split-Sample Validation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42860697/",
+   "journal": "Rejuvenation research",
+   "authors": "Zhang Y, Li Y",
+   "pubdate": "2026 Oct 11"
+  },
+  {
+   "title": "Artificial intelligence technologies in pregnancy and childbirth care: a scoping review from a nursing perspective.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42860282/",
+   "journal": "Women's health nursing (Seoul, Korea)",
+   "authors": "Cho H, Ahn S",
+   "pubdate": "2026 Sep 29"
+  },
+  {
+   "title": "Implementation of Provider-Facing Interventions to Increase Uptake of Endoscopic Screening for Esophageal Adenocarcinoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42859762/",
+   "journal": "Gastro hep advances",
+   "authors": "Chang JW, Harrod M, Arasim M 외",
+   "pubdate": "2026 Aug 29"
+  },
+  {
+   "title": "From Challenge to Studio: A Prototype Frontline AI Innovation Mechanism to Address the AI Embedding Deficit in Healthcare and Educational Institutions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42859688/",
+   "journal": "Learning health systems",
+   "authors": "Xie B",
+   "pubdate": "2026 Oct 9"
+  },
+  {
+   "title": "Artificial Intelligence-Enhanced Early Warning Systems for Early Detection of Clinical Deterioration in Hospitalized Patients: Current Clinical Applications and Future Directions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42859454/",
+   "journal": "Maedica",
+   "authors": "Kakaidi V, Gouva M, Tsimos K 외",
+   "pubdate": "2026 Sep"
+  }
+ ]
+}
