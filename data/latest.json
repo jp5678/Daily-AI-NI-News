@@ -1,332 +1,428 @@
 {
- "date": "2026-10-16",
- "generatedAt": "2026-10-16T08:30:59.199087+09:00",
+ "date": "2026-10-17",
+ "generatedAt": "2026-10-17T08:13:13.649676+09:00",
  "articles": {
   "ai": [
    {
-    "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”",
-    "link": "https://www.etnews.com/20261016000009",
-    "summary": "내달 상장을 앞둔 앤트로픽이 미국 대형 공적 연기금 수장으로부터 기업공개(IPO)를 중단하라는 요구를 받았다. 15일(현지시간) 블룸버그 통신에 따르면 마크 레빈 뉴욕시 감사원장은 전날 다리오 아모데이 앤트로픽 최고경영자(CEO)에게 서한을 보내 인공지능(AI)의 안전성과 지배구조, 개발 속도를 둘러싼 위험을 완전히 해소할 때까지 IPO를 멈추라고 촉구했다. 레빈은 “앤트로픽은 적절한 감사와 통제를 어떻게 시행할지, 통제 대상의 범위와 예상 일",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-10-16T07:33:23+09:00"
-   },
-   {
-    "title": "[10월15일] AI 수학 능력 급발전의 파장…과학 연구부터 인터넷 보안까지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216279",
-    "summary": "지난주 오픈AI가 722편의 수학 연구 원고를 공개하면서 AI의 과학 연구 능력에 관심이 집중됐습니다. 그동안 AI가 과학 연구를 수십년 앞당길 수 있다는 전망이 이어졌지만, 일반인들이 그 의미를 체감하기는 쉽지 않았습니다. 그런데 최근 AI의 수학적 문제 해결 능력이 실제로 얼마나 발전했는지 보여주는 연구 결과와 함께, 어떤 분야에 영향을 미칠지에 대한 구체적인 전망이 나오기 시작했습니다.대표적인 분야가 물리학과 경제학 등 이론 연구입니다. AI가 실제 학술 논문에 등장하는 이론적 문제를 해결하는 비율이 2년도 채 되지 않아 약",
+    "title": "[10월16일] AI 수요는 넘치는데 채권은 급락…코어위브가 드러낸 '부채 위험'",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216325",
+    "summary": "최근 며칠 동안 글로벌 증시에서 AI 관련 주식이 급락했습니다. 엔비디아를 비롯한 반도체 기업들이 직격탄을 맞았고, 미국 반도체 기업들의 시가총액은 최근 매도세로 최대 2조달러(약 2800조원)가 사라질 것으로 예상됐습니다. AI 투자 열풍의 최대 수혜주들이 한꺼번에 매도 대상이 된 것입니다.그런데 AI 수요가 줄어서 생긴 문제가 아니라는 것이 주목됩니다. 예를 들어 세계 최대 반도체 위탁생산업체 TSMC는 AI 칩 수요에 힘입어 6분기 연속 사상 최고 실적을 기록했습니다. AI 데이터센터 기업들도 수년 치 계약을 확보하고 있습니다",
     "source": "AI타임스",
     "lang": "ko",
-    "published": "2026-10-16T07:00:00+09:00"
+    "published": "2026-10-17T07:00:00+09:00"
    },
    {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-10-16T05:04:53+09:00"
+    "published": "2026-10-17T06:22:28+09:00"
    },
    {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+    "link": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+    "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant that reads and acts on ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-17T03:10:27+09:00"
+   },
+   {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-17T03:00:00+09:00"
+   },
+   {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-10-16T04:55:25+09:00"
+    "published": "2026-10-17T02:52:24+09:00"
    },
    {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+    "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+    "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Wester",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-17T02:42:47+09:00"
+   },
+   {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-10-16T04:14:26+09:00"
+    "published": "2026-10-17T01:30:00+09:00"
    },
    {
-    "title": "[2026 경기 스타트업 서밋] 문서 올리면 점자·음성으로…오리누, '오리누닷에이아이' 소개",
-    "link": "https://www.etnews.com/20261015000056",
-    "summary": "일반 문서를 점자·음성 자료로 바꾸는 AI 기업 오리누(대표 구본경)가 '2026 경기 스타트업 서밋'에서 변환 플랫폼 '오리누닷에이아이(orinu.ai)'를 소개했다. 학교와 도서관, 공공기관이 시각장애인을 위한 자료를 필요한 때 제작하도록 돕는 서비스다. 담당자가 문서를 올리면 AI가 점자로 옮기고 음성 파일을 만든다. 점역 과정에서 오류가 의심되는 부분은 사람이 확인하도록 표시해 교정·검수 작업을 돕는다. 점자 변환에는 표와 수식 등 문서",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-17T01:30:00+09:00"
+   },
+   {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-17T01:01:37+09:00"
+   },
+   {
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-17T00:33:49+09:00"
+   },
+   {
+    "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+    "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+    "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals i",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-17T00:03:46+09:00"
+   },
+   {
+    "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+    "link": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
+    "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating whether",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-16T22:48:08+09:00"
+   },
+   {
+    "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+    "link": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
+    "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-16T22:15:09+09:00"
+   },
+   {
+    "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
+    "link": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
+    "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-16T22:11:55+09:00"
+   },
+   {
+    "title": "센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단",
+    "link": "https://www.etnews.com/20261016000344",
+    "summary": "센스톤이 인공지능(AI)과 로봇이 생산설비를 자율적으로 운영하는 무인공장 보안 기술 개발에 나선다. 산업설비에 전달되는 제어 명령의 출처와 권한을 검증해 비인가 명령이 실제 설비 작동으로 이어지기 전에 차단하는 기술이 핵심이다. 센스톤은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 '협업지능 시스템을 위한 피지컬AI 기반 다중 계층 보안 기술 개발' 국책과제에 공동연구개발기관으로 참여한다고 16일 밝혔다. 센스톤은 주관기관인 라온",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-10-16T04:00:00+09:00"
+    "published": "2026-10-16T21:10:42+09:00"
    },
    {
-    "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
-    "link": "https://www.etnews.com/20261015000053",
-    "summary": "인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처의 설계자산을 활용해 제품에 필요한 AI 연산 기능을 반도체에 넣을 수 있다. 외부 서버와의 통신에만 의존하지 않고 가전제품이나 로봇 등 기기 내부에서 AI를 실행하는 데 쓰인다. 에임퓨처는 미국",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In J",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-16T21:10:00+09:00"
+   },
+   {
+    "title": "엔비디아, RTX 스파크 노트북 공식 출시…'개인용 에이전틱 AI 시대' 연다",
+    "link": "https://www.etnews.com/20261016000313",
+    "summary": "엔비디아는 '엔비디아 RTX 스파크'를 탑재한 노트북이 16일 공식 출시된다고 밝혔다. RTX 스파크는 엔비디아 블랙웰 RTX 그래픽처리장치(GPU)와 엔비디아 그레이스 중앙처리장치(CPU)를 하나로 결합한 슈퍼칩이자 AI PC용 플랫폼이다. 1페타플롭의 FP4 AI 성능으로 대규모언어모델(LLM)과과 AI 에이전트를 실행할 수 있다. 최대 128GB 통합 메모리를 제공한다. 마이크로소프트(MS) 윈도 운용체계(OS) PC로, 에이수스·델·HP",
     "source": "전자신문 SW·AI",
     "lang": "ko",
-    "published": "2026-10-16T04:00:00+09:00"
+    "published": "2026-10-16T21:00:00+09:00"
    },
    {
-    "title": "[2026 경기 스타트업 서밋] AI가 한 일 검증…아르바랩스코리아, '아르바엣지' 소개",
-    "link": "https://www.etnews.com/20261015000051",
-    "summary": "인공지능(AI) 실행 검증 기업 아르바랩스코리아(대표 리브스 애슐리)가 '2026 경기 스타트업 서밋'에서 엣지 AI 검증 솔루션 '아르바엣지'를 소개했다. 로봇이나 산업설비에 탑재된 AI가 실제로 어떤 모델을 실행하고 어떤 결과를 냈는지 확인하는 기술이다. 통신이 불안정하거나 끊긴 현장에서도 AI 실행 기록은 기기 내부에 남는다. 운영자는 이 기록을 설비의 작동 이력 점검이나 사고 원인 조사에 활용할 수 있다. 각 기기의 기록을 비교해 작동",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-10-16T04:00:00+09:00"
-   },
-   {
-    "title": "[2026 경기 스타트업 서밋] 땅 조건 넣으니 도면 초안이 '쓱'…스타키움, '아키파일럿' 소개",
-    "link": "https://www.etnews.com/20261015000047",
-    "summary": "건설테크 기업 스타키움(대표 이정완)이 '2026 경기 스타트업 서밋'에서 생성형 인공지능(AI) 건축설계 자동화 서비스 '아키파일럿'을 소개했다. 설계 요구와 대지 조건, 건축 관련 법규를 해석해 도면 작성을 지원하는 기술이다. 건축사나 설계 담당자가 조건을 입력하면 AI가 대지를 분석해 평면도 초안과 CAD·DXF 형식의 도면 작성을 돕는다. 설계자는 나온 도면을 검토·수정해 후속 작업에 활용할 수 있어, 반복적인 조건 확인과 초안 작성에",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-10-16T04:00:00+09:00"
-   },
-   {
-    "title": "[2026 경기 스타트업 서밋] 뉴로플로우, 위험성평가 돕는 '세이프플로우' 공개",
-    "link": "https://www.etnews.com/20261015000041",
-    "summary": "영상 인공지능(AI) 기업 뉴로플로우(대표 이종민)가 '2026 경기 스타트업 서밋'에서 산업현장 위험성평가 솔루션 '세이프플로우'를 소개했다. 작업 정보와 현장 데이터를 분석해 위험요인을 찾고 평가 문서 작성을 돕는 기술이다. 사업장 담당자는 작업 환경을 입력하고 AI가 분류한 위험요인, 관련 안전기준과 개선대책을 검토할 수 있다. 반복되는 문서 작성과 기준 확인을 줄이면서 위험요인 누락을 줄이도록 지원한다. 경기 수원에 본사를 둔 뉴로플로우",
-    "source": "전자신문 SW·AI",
-    "lang": "ko",
-    "published": "2026-10-16T04:00:00+09:00"
-   },
-   {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "source": "OpenAI 뉴스",
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin",
+    "source": "MIT Technology Review",
     "lang": "en",
-    "published": "2026-10-16T04:00:00+09:00"
+    "published": "2026-10-16T18:00:00+09:00"
    },
    {
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "source": "TechCrunch AI",
+    "title": "Love is infrastructure",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
+    "source": "MIT Technology Review",
     "lang": "en",
-    "published": "2026-10-16T03:56:46+09:00"
+    "published": "2026-10-16T18:00:00+09:00"
    },
    {
-    "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-    "link": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-    "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on Apple'",
-    "source": "The Decoder",
+    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+    "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…",
+    "source": "MIT Technology Review",
     "lang": "en",
-    "published": "2026-10-16T03:34:32+09:00"
-   },
-   {
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-10-16T03:00:00+09:00"
-   },
-   {
-    "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-    "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
-    "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary compe",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-10-16T01:57:14+09:00"
-   },
-   {
-    "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-    "link": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-    "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4 Arg",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-10-16T01:35:47+09:00"
-   },
-   {
-    "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-    "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-    "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. T",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-10-16T01:09:44+09:00"
-   },
-   {
-    "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
-    "link": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
-    "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models appeared first on The Decoder ",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-10-16T00:27:25+09:00"
-   },
-   {
-    "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
-    "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
-    "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn't had a ",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-10-16T00:24:15+09:00"
-   },
-   {
-    "title": "AI agents are coming to Rivian’s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-10-16T00:02:36+09:00"
+    "published": "2026-10-16T18:00:00+09:00"
    }
   ],
   "it": [
    {
-    "title": "Porn showing choking or incest to be banned from early November, government says",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-    "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-    "source": "BBC Technology",
-    "lang": "en",
-    "published": "2026-10-16T08:27:57+09:00"
-   },
-   {
-    "title": "Steam can now show game achievements in separate ‘sets’",
-    "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-    "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse wh",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-10-16T08:22:54+09:00"
-   },
-   {
-    "title": "바이낸스, 주식옵션에 커버드콜·현금담보 풋 전략 출시",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707605",
-    "summary": "[디지털투데이 김주훈 에디터] 바이낸스가 주식옵션(Stock Options) 상품에 커버드콜(Covered Call)과 현금담보 풋(Cash-Secured Put) 전략을 새로 출시했다고 15일(현지시간) 밝혔다.이들은 이용자가 필요한 담보를 보유한 상태에서 옵션 계약을 매도(발행)하고 프리미엄을 수익으로 얻을 수 있도록 하는 매도 측 전략이다. 바이낸스는 이번 출시가 확대 중인 트레드파이(TradFi) 상품군의 일환이라고 설명했다. 이용자는 주식옵션 거래에 사용하는 동일한 바이낸스 계정에서 보유 주식으로 수익을 창출하거나, 매수를",
+    "title": "테슬라 로드스터, 압축공기 자체 충전 가능…재충전 시간은 비공개",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707913",
+    "summary": "[디지털투데이 추현우 기자] 테슬라가 새 로드스터의 압축공기 탱크를 차량 스스로 다시 채울 수 있다고 밝혔지만, 재충전에 걸리는 시간과 연속 사용 가능 횟수는 공개하지 않았다. 16일(현지시간) 전기차 전문매체 인사이드EVs에 따르면 로드스터는 주변 공기를 모아 압축한 뒤 다시 저장하는 방식으로 탱크를 보충한다.로드스터는 퍼포먼스, 스러스트, 로켓 등 세 가지 버전으로 나뉜다. 세 모델 모두 차체를 노면에 붙이는 흡입 팬을 갖췄다. 다만 추력기는 상위 모델에만 들어간다. 기본형 퍼포먼스에는 추력기가 없고, 한정 제공되는 스러스트에는",
     "source": "디지털투데이",
     "lang": "ko",
-    "published": "2026-10-16T08:22:51+09:00"
+    "published": "2026-10-17T08:00:00+09:00"
    },
    {
-    "title": "나무에이엑스, ‘닷넥스트 온 투어 서울 2026’서 NAAI·NAAX 선봬",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408280",
-    "summary": "[테크월드=김승기 기자] 나무에이엑스가 기업용 AI 솔루션 ‘NAAI’와 AI 운영 플랫폼 ‘NAAX’를 통해 AI 모델과 에이전트, GPU 자원을 통합 관리하는 기업용 AI 운영 전략을 소개했다.나무에이엑스는 최근 열린 ‘닷넥스트 온 투어 서울 2026(.NEXT on Tour Seoul 2026)’에 참가해 NAAI와 NAAX를 선보였다고 밝혔다.이번 행사는 뉴타닉스가 주최한 엔터프라이즈 AI·하이브리드 멀티클라우드 기술 컨퍼런스다. 나무에이엑스는 AI 도입 이후 기업이 관리해야 하는 모델 배포와 에이전트 실행, 자원 사용량과",
-    "source": "테크월드뉴스",
-    "lang": "ko",
-    "published": "2026-10-16T08:20:00+09:00"
-   },
-   {
-    "title": "Living with a stink? Technology might help",
-    "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-    "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-    "source": "BBC Technology",
-    "lang": "en",
-    "published": "2026-10-16T08:18:21+09:00"
-   },
-   {
-    "title": "Withings wants new users to pay $100 a year to sync with Apple Health",
-    "link": "https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/",
-    "summary": "The smart health company is gating third-party app syncing to its own subscription plan for new users.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-10-16T08:02:04+09:00"
-   },
-   {
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app",
+    "title": "Why Apple is finally making its own smart home devices",
+    "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider E",
     "source": "The Verge",
     "lang": "en",
-    "published": "2026-10-16T07:43:23+09:00"
+    "published": "2026-10-17T07:22:40+09:00"
    },
    {
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-10-16T07:35:55+09:00"
-   },
-   {
-    "title": "The tech backlash is now in theaters",
-    "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-10-16T06:39:52+09:00"
-   },
-   {
-    "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
-    "link": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
-    "summary": "If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-10-16T06:35:08+09:00"
-   },
-   {
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-10-16T06:32:54+09:00"
-   },
-   {
-    "title": "중국 카페가 너도나도 내놓는 '한국빙나이'… 한국인은 모르는 中 인기 메뉴 정체는",
-    "link": "https://www.etnews.com/20261015000394",
-    "summary": "중국에서 '한국빙나이(?国??·한국 아이스밀크)'라는 이름의 음료가 젊은 층을 중심으로 인기를 끌고 있다. 정작 한국에서는“처음 들어본다”, “한국에는 없는 메뉴”라는 반응이 나오고 있다. 14일 중국 매체 신저우칸(신주간)에 따르면 올해 중국 음료 시장에서는 과일과 우유, 얼음을 조합한 한국빙나이 제품이 빠르게 확산하고 있다. 중국 1위 밀크티 프랜차이즈 '차바이다오'가 출시한 '리치 한국빙나이'는 판매 51일 만에 1700만잔이",
+    "title": "[무엇이든리뷰] '카카오멤버십' 써보니…록인 효과 '확실', 외부 확장·안정성은 '과제'",
+    "link": "https://www.etnews.com/20261016000238",
+    "summary": "카카오가 지난 1일 첫 통합 멤버십 서비스 '카카오멤버십'을 선보였다. 일부 사용자에게 제공하는 방식으로 이미 경쟁이 치열한 구독 시장 경쟁에 참전했다. 이미 유튜브와 넷플릭스, 쿠팡, 네이버, 배달의민족 등의 구독 서비스를 이용 중인 기자도 카카오멤버십에 가입했다. 구독 서비스가 하나 더 늘어난 만큼 월 4900원의 값어치를 할 수 있을지 2주간 직접 사용해봤다. 카카오멤버십의 첫인상은 '익숙한 서비스의 결합'이었다. 월 4900원에 카카오톡",
     "source": "전자신문 IT",
     "lang": "ko",
-    "published": "2026-10-16T06:00:00+09:00"
+    "published": "2026-10-17T06:00:00+09:00"
    },
    {
-    "title": "6m 비단뱀과 맨몸으로 몸싸움한 인플루언서",
-    "link": "https://www.etnews.com/20261015000251",
-    "summary": "미국의 한 야생동물 인플루언서가 거대한 비단뱀과 몸싸움을 벌이는 영상을 공개해 동물학대 논란이 일고 있습니다. '더 리얼 타잔'으로 활동하는 이 인플루언서는 최근 몸길이 약 5.8m의 그물무늬비단뱀을 직접 붙잡는 영상을 공개했습니다. 그는 비단뱀이 무게가 91kg을 넘었다고 밝혔습니다. 영상에서 비단뱀은 그의 팔과 다리를 휘감았고, 그는 자신이 겪은 뱀과의 싸움 중 가장 힘든 싸움이었다고 표현했습니다. 영상이 확산되자 일부 누리꾼들은 “인터넷에",
+    "title": "“어떻게 잡았대”… 8년간 친누이로 위장한 튀르키예 절도범 '덜미'",
+    "link": "https://www.etnews.com/20261016000186",
+    "summary": "절도 혐의로 실형을 선고받은 뒤 8년간 도피 생활을 이어온 튀르키예 남성이 여성의 외모와 신분을 이용해 경찰 추적을 피해온 끝에 붙잡혔다. 13일 영국 매체 익스프레스 등에 따르면 튀르키예 경찰은 최근 이스탄불 카디쿄이 지역에서 장기간 잠복 수사를 벌인 끝에 투룰 바르를 체포했다. 바르는 2010년 공무원을 사칭해 절도 행각을 벌인 혐의 3건으로 유죄 판결을 받고 징역 3년을 선고받았으나, 형 집행을 피하기 위해 도주한 것으로 전해졌다. 현지",
     "source": "전자신문 IT",
     "lang": "ko",
-    "published": "2026-10-16T06:00:00+09:00"
+    "published": "2026-10-17T06:00:00+09:00"
    },
    {
-    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-    "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-    "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "source": "Ars Technica",
     "lang": "en",
-    "published": "2026-10-16T05:32:41+09:00"
+    "published": "2026-10-17T05:59:01+09:00"
    },
    {
-    "title": "NY congressman to introduce bill protecting video game ownership",
-    "link": "https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/",
-    "summary": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased.",
+    "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+    "link": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+    "summary": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
     "source": "Engadget",
     "lang": "en",
-    "published": "2026-10-16T05:15:05+09:00"
+    "published": "2026-10-17T05:50:28+09:00"
    },
    {
-    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S",
+    "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+    "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+    "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
     "source": "The Verge",
     "lang": "en",
-    "published": "2026-10-16T04:57:16+09:00"
+    "published": "2026-10-17T05:50:27+09:00"
    },
    {
-    "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
-    "link": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/",
-    "summary": "The FTC is investigating possible consumer harms at two major AI companies.",
+    "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+    "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+    "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehic",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-17T05:49:04+09:00"
+   },
+   {
+    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+    "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-17T03:11:29+09:00"
+   },
+   {
+    "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
+    "link": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+    "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
     "source": "Engadget",
     "lang": "en",
-    "published": "2026-10-16T04:28:53+09:00"
+    "published": "2026-10-17T02:03:29+09:00"
    },
    {
-    "title": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
-    "link": "https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/",
-    "summary": "E Ink's new display tech offers improved color reproduction and refresh rates.",
+    "title": "The new Apple TV 4K just got its first (very small) discount",
+    "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+    "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-17T01:35:37+09:00"
+   },
+   {
+    "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+    "link": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+    "summary": "If a company like Apple could offer $29 batteries before, it can do so again.",
     "source": "Engadget",
     "lang": "en",
-    "published": "2026-10-16T03:41:58+09:00"
+    "published": "2026-10-17T01:32:00+09:00"
    },
    {
-    "title": "Riot will sunset League of Legends Classic in January 2027",
-    "link": "https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027/",
-    "summary": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future.",
-    "source": "Engadget",
+    "title": "Apple’s HomeView has an app problem",
+    "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+    "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]",
+    "source": "The Verge",
     "lang": "en",
-    "published": "2026-10-16T03:30:08+09:00"
+    "published": "2026-10-17T00:38:17+09:00"
    },
    {
-    "title": "IBS, 0.7nm급 차세대 반도체 소자 제작 기술 개발…'사이언스' 실려",
-    "link": "https://zdnet.co.kr/view/?no=20261015135222",
-    "summary": "[지디넷코리아]0.7nm급 차세대 반도체 소자 제작 기술이 국내서도 개발됐다. 지난 6월 IBM이 발표한 이래 두 번째다. 연구결과는 과학기술 분야 세계 3대 학술지 '사이언스'에 16일 오전 3시(KST) 게재됐다.과학기술정보통신부는 조문호 기초과학연구원(IBS) 반데르발스 양자 물질 연구단장 연구팀이 2차원 반도체를 구성하는 원자를 선택적으로 바꿔, 하나의 박막에 반도체·절연체·준금속 영역을 원하는 층과 위치에 구현하는 0.7nm급 모듈형 트랜지스터 제작 기술을 개발했다고 밝혔다.2차원 반도체는 원자층 두께에도 전류 제어가 가능",
+    "title": "Russian man linked to deadly London hospitals hack arrested",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-17T00:31:33+09:00"
+   },
+   {
+    "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+    "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+    "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartr",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-17T00:31:24+09:00"
+   },
+   {
+    "title": "AI 시대 새로운 성장을 위한 네트워크 가치 재편",
+    "link": "https://zdnet.co.kr/view/?no=20261017001003",
+    "summary": "[지디넷코리아]빈 2026년 10월 16일 /PRNewswire/ -- 세계광대역협회(World Broadband Association, WBBA)가 네트워크 X 2026(Network X 2026) 기간 중 빈에서 브로드밴드 발전 총회(Broadband Development Congress, BDC)를 개최했다. 이번 총회에서 화웨이(Huawei)의 밥 첸(Bob Chen) 광통신 사업부 사장은 'AI 시대 새로운 성장을 위한 네트워크 가치 재편(Reshaping Network Value for New Growth in the A",
     "source": "ZDNet Korea",
     "lang": "ko",
-    "published": "2026-10-16T03:00:02+09:00"
+    "published": "2026-10-17T00:10:03+09:00"
+   },
+   {
+    "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+    "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+    "summary": "You can see the locations of known outdoor surveillance cameras in the MapQuest app.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-16T23:12:29+09:00"
+   },
+   {
+    "title": "KFC마저 펩시 손절…코카콜라 택한 이유는",
+    "link": "https://www.etnews.com/20261016000166",
+    "summary": "미국 치킨 프랜차이즈 KFC가 40년 가까이 유지해 온 펩시코와의 음료 공급 계약을 종료하고 코카콜라 제품을 도입한다. 15일(현지시간) 월스트리트저널(WSJ)은 KFC가 내년 1월부터 미국 전역의 수천 개 점포에서 코카콜라 음료를 제공하기로 했다고 보도했다. 이에 따라 펩시코는 미국 외식업계의 주요 거래처 중 하나를 잃게 됐다. 두 음료 기업이 오랫동안 벌여온 시장 주도권 경쟁에도 이번 결정이 변수로 작용할 것으로 보인다. KFC와 펩시코의",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-16T22:30:00+09:00"
+   },
+   {
+    "title": "“서식지 아닌데?”… 인도 공원에 불쑥 나타난 '새끼 오랑우탄 5형제'",
+    "link": "https://www.etnews.com/20261015000393",
+    "summary": "인도 동부 오디샤주의 한 숲에서 생후 18개월도 되지 않은 새끼 오랑우탄 5마리가 한꺼번에 발견돼 당국이 국제 야생동물 밀수 가능성을 조사하고 있다. 동남아시아에 서식하는 오랑우탄이 인도에서 발견된 데다 모두 어미 없이 버려진 상태여서 밀렵 과정에서 어미가 희생됐을 가능성도 제기됐다. 13일(현지시간) CNN에 따르면 새끼 오랑우탄들은 오디샤주 숲속에서 겁에 질린 채 웅크리고 있다가 주민들에게 발견됐다. 당시 현장에는 약 1000명의 주민이 몰",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-16T22:30:00+09:00"
+   },
+   {
+    "title": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
+    "link": "https://www.engadget.com/2288638/technics-eah-a1000-review/",
+    "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-16T22:00:00+09:00"
    }
   ],
   "nurse": [
+   {
+    "title": "Beyond the report sheet: Why bedside handoff matters",
+    "link": "https://www.myamericannurse.com/beyond-the-report-sheet-why-bedside-handoff-matters/",
+    "summary": "Earlier in my nursing career, I didn’t fully appreciate bedside handoff. Report in the pod or just outside the room sometimes seemed faster and less disruptive. A clinical experience changed my view. I learned that the words used to describe a patient can sound reassuring—or misleading—until we see ",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-10-17T01:15:32+09:00"
+   },
+   {
+    "title": "Nurse understaffing linked with corridor care",
+    "link": "https://www.nursingtimes.net/emergency-and-critical-care/nurse-understaffing-linked-with-corridor-care-16-10-2026/",
+    "summary": "Improved nurse staffing in emergency departments could be a solution to the escalating issue of patient overcrowding and corridor care, renowned nursing academics have said. The post Nurse understaffing linked with corridor care appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-17T00:27:42+09:00"
+   },
+   {
+    "title": "Proposed Bill Would Set Mandatory Nurse-to-Patient Ratios in Puerto Rico",
+    "link": "https://nurse.org/news/puerto-rico-nurse-staffing-ratios-hospital-costs/",
+    "summary": "Puerto Rico's hospital industry is pushing back on a proposal to set mandatory nurse-to-patient ratios, warning that the change could cost facilities up to $100 million a year, The Weekly…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-16T23:05:57+09:00"
+   },
+   {
+    "title": "Petition demands action over jobless graduate midwives",
+    "link": "https://www.nursingtimes.net/midwifery-and-neonatal/petition-demands-action-over-jobless-graduate-midwives-16-10-2026/",
+    "summary": "The Royal College of Midwives has set up a petition calling on the Welsh Government to address shortages of jobs for newly registered midwives. The post Petition demands action over jobless graduate midwives appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-16T22:38:18+09:00"
+   },
+   {
+    "title": "Norfolk nurse among selectees for research leadership scheme",
+    "link": "https://www.nursingtimes.net/research-and-innovation/norfolk-nurse-among-selectees-for-research-leadership-scheme-16-10-2026/",
+    "summary": "A research nurse from Norfolk is among those selected for a “highly competitive” programme that trains future leaders in health research. The post Norfolk nurse among selectees for research leadership scheme appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-16T22:12:10+09:00"
+   },
+   {
+    "title": "Patients prefer human medical advice over immediate AI",
+    "link": "https://www.nursingtimes.net/digital-and-technology/patients-prefer-human-medical-advice-over-immediate-ai-16-10-2026/",
+    "summary": "The majority of patients prefer to wait for medical advice from a healthcare professional, rather than getting it immediately from AI, according to a new study out this week. The post Patients prefer human medical advice over immediate AI appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-16T18:37:05+09:00"
+   },
+   {
+    "title": "메리놀병원, 소방 합동 훈련… 재난 대응체계 점검",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45228",
+    "summary": "메리놀병원이 재난 상황 발생 시 신속한 대응체계 구축과 환자 안전 확보를 위해 관할 소방서와 손을 잡고 실전 대응 훈련을 펼쳤다.메리놀병원은 지난 10월 15일 원내 23병동 및 응급실 앞 성모당 등에서 부산중부소방서와 합동으로 ‘2026년도 소방 훈련’을 실시했다고 16일 밝혔다.이번 훈련은 병원 내 화재 발생 시 신속하고 체계적인 초기 대응 능력을 강화하고, 환자와 보호자, 직원들의 안전을 최우선으로 확보하기 위해 실제 상황을 가정해 진행됐다.훈련은 원내 후관 2층 23병동 병실에서 원인 미상의 화재가 발생한 상황으로 시작됐다.",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-10-16T18:23:00+09:00"
+   },
+   {
+    "title": "황규정 대한간호협회 전 정책국장 모친상",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=241356",
+    "summary": "[라포르시안] 황규정 대한간호협회 전 정책국장 모친 별세.▲빈소: 서울성모장례식장 23호실 ▲발인: 10월 18일 오전 09시 00분 ▲장지: 포천 평화묘원",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-10-16T17:32:48+09:00"
+   },
+   {
+    "title": "경상국립대학교병원, 2026년 경상남도 책임의료기관 공동 심포지엄 개최",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21480",
+    "summary": "경상국립대학교병원(병원장 화정석)은 14일 오후 1시 창원경상국립대학교병원 의료동 4층 이정자홀에서 ‘의료·요양 통합돌봄 시대, 재택의료는 어디까지 왔나?’를 주제로 ‘2026년 경상남도 책임의료기관 공동 심포지엄’을 개최했다고 밝혔다.이번 심포지엄은 경상남도가 주최하고 경상남도 권역책임의료기관인 경상국립대학교병원을 비롯해 지역책임의료기관인 양산부산대학교병원, 창원경상국립대학교병원, 경상남도마산의료원, 거창적십자병원, 통영적십자병원과 경상남도 공공보건의료지원단이 공동 주관했다.심포지엄은 두 개의 세션으로 진행됐으며, 초고령사회 진입",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-10-16T16:27:12+09:00"
+   },
+   {
+    "title": "Alabama Nursing Renewals Reopen 6 Weeks After Ransomware; Nurses’ Data Stolen",
+    "link": "https://nurse.org/news/alabama-nurses-license-cyberattack/",
+    "summary": "Update 10/16/26 Alabama’s Board of Nursing reopened the renewal cycle for single-state RNs and APRNs on October 15 under a new licensing management system and a new payment vendor. Dr.…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-16T16:00:00+09:00"
+   },
+   {
+    "title": "국제성모병원, 주문도 찾아 의료봉사 실시",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=414610",
+    "summary": "[메디칼업저버 이지현 기자] 가톨릭관동대 국제성모병원은 비에스종합병원과 15일 인천 강화군 서도면 주문도를 찾아 의료봉사를 실시했다고 16일 밝혔다. 이번 의료봉사는 인천시와 함께 추진하는 '1섬 1주치(主治) 병원' 사업의 일환으로 도서지역 주민들의 의료 접근성을 높이고 건강관리를 지원하기 위해 마련됐다. 국제성모병원은 이범석 교수(재활의학과), 황윤정 교수(치과)를 비롯해 간호사, 재활치료사, 행정직원 등 17명의 의료봉사단을 구성했다. 또 비에스종합병원 의료진 및 직원 4명, CJ프레시웨이 관계자 1명 등이 참석했다. 국제성모",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-10-16T15:03:02+09:00"
+   },
+   {
+    "title": "“기피 과목 넘어 붕괴 위기”…필수 의료 ‘SOS’",
+    "link": "http://www.khanews.com/news/articleView.html?idxno=251398",
+    "summary": "인사말을 하고 있는 김긍년 대한신경외과학회 이사장신경외과계가 붕괴 위기에 처한 필수의료 현장을 살리기 위해 중증 공공정책수가 신설과 법적 안전망 구축 등 정책 대안을 대거 제시하며 국민 생명보호를 호소했다.대한신경외과학회(이사장 김긍년)는 10월 16일 그랜드 인터컨티넨탈 서울 파르나스호텔에서 기자간담회를 열고 신경외과 분야의 심각한 인력난과 필수 의료 기피 현상을 극복하기 위한 ‘핵심 정책 제안’을 발표했다.김긍년 이사장은 인사말을 통해 “2022년 아산병원 간호사 사망 사건 이후 4년이 지났지만, 뇌혈관 및 신경외과 현장의 환경",
+    "source": "병원신문",
+    "lang": "ko",
+    "published": "2026-10-16T12:49:39+09:00"
+   },
    {
     "title": "NHS England issues new guidance on single-sex spaces",
     "link": "https://www.nursingtimes.net/policies-and-guidance/nhs-england-issues-new-guidance-on-single-sex-spaces-15-10-2026/",
@@ -344,14 +440,6 @@
     "published": "2026-10-16T01:32:47+09:00"
    },
    {
-    "title": "Antipsychotic diabetes risk ‘peaks in first 90 days’",
-    "link": "https://www.nursingtimes.net/diabetes/antipsychotic-diabetes-risk-peaks-in-first-90-days-15-10-2026/",
-    "summary": "The first 90 days after being prescribed antipsychotics is the most crucial period for monitoring patients’ risk of developing diabetes, new research has suggested. The post Antipsychotic diabetes risk ‘peaks in first 90 days’ appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-10-15T23:34:38+09:00"
-   },
-   {
     "title": "Over 450 Filipino Nurses \"Trapped\" by $20K Early-Quit Fees Win $1.85M Settlement",
     "link": "https://nurse.org/news/filipino-nurses-towne-nursing-settlement/",
     "summary": "A New Jersey judge has approved the third major settlement this year targeting the same contract structure used by US recruiters to lock Filipino nurses into their jobs. More than…",
@@ -360,76 +448,12 @@
     "published": "2026-10-15T23:09:05+09:00"
    },
    {
-    "title": "WHO to be advised by early career nursing group",
-    "link": "https://www.nursingtimes.net/newly-registered-nurses/who-to-be-advised-by-early-career-nursing-group-15-10-2026/",
-    "summary": "The voices of early career nurses will be represented on the World Health Organization (WHO)'s Youth Council, it has been announced. The post WHO to be advised by early career nursing group appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-10-15T21:42:19+09:00"
-   },
-   {
-    "title": "Nurses central to tackling C difficile",
-    "link": "https://www.nursingtimes.net/infection-prevention-and-control/nurses-central-to-tackling-c-difficile-15-10-2026/",
-    "summary": "A 2025 survey of NHS employees, conducted by YouGov on behalf of Tillotts Pharma UK, highlighted worrying variations in awareness of C difficile infection, its risk factors and prevention measures. The post Nurses central to tackling C difficile appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-10-15T20:25:15+09:00"
-   },
-   {
-    "title": "Chief nurse appointed for online NHS hospital",
-    "link": "https://www.nursingtimes.net/leadership/chief-nurse-appointed-for-online-nhs-hospital-15-10-2026/",
-    "summary": "The first-ever online NHS hospital has appointed Professor Avey Bhatia as its inaugural chief nurse. The post Chief nurse appointed for online NHS hospital appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-10-15T19:14:12+09:00"
-   },
-   {
-    "title": "“포털·SNS 자살유발정보 차단 의무화”… 11월 시행",
-    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45179",
-    "summary": "오는 11월부터 포털사이트나 사회관계망서비스(SNS) 등 정보통신서비스 제공자는 온라인상에서 자살유발정보가 유통되지 않도록 차단·삭제 및 검색 제한 등의 조치를 의무적으로 취해야 한다. 또한 이들 사업자는 해당 조치 결과를 익월 말일까지 보건복지부장관에게 제출해야 한다.보건복지부는 이 같은 내용을 골자로 하는 ‘자살예방 및 생명존중문화 조성을 위한 법률 시행령’ 일부개정령안을 10월 15일 재입법예고했다고 밝혔다.이번 개정안은 온라인을 통한 자살동반자 모집 공고 등 자살유발정보의 유통 급증과 이로 인한 사회적 폐해를 막기 위해 지난",
-    "source": "간호사신문",
-    "lang": "ko",
-    "published": "2026-10-15T18:06:55+09:00"
-   },
-   {
     "title": "She Found Out She Had Cancer the Day She Got Into Nursing School, Now She’s Pregnant",
     "link": "https://nurse.org/news/woman-breast-cancer-nursing-school-acceptance/",
     "summary": "Image source: People For most nursing students, an acceptance email can be some of the best news of the year. But for Katelyn Daniel, her acceptance day was tinged with…",
     "source": "Nurse.org",
     "lang": "en",
     "published": "2026-10-15T16:00:00+09:00"
-   },
-   {
-    "title": "연세대 용인세브란스병원, ‘BEYOND 심포지엄’ 개최",
-    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21472",
-    "summary": "연세대학교 용인세브란스병원(병원장 박진오)은 오는 31일 병원 4층 대강당에서 퇴행성뇌질환센터 주관으로 ‘2026 BEYOND 심포지엄’을 개최한다.용인세브란스병원 퇴행성뇌질환센터(소장 김우정)는 ‘Breakthrough to Excellence, Cure Neurodegenerative Disorders’라는 미션 아래 신경과‧정신건강의학과‧신경외과‧재활의학과 등 관련 다학제 진료와 연구, 교육을 이어오고 있다. 2022년부터는 알츠하이머병‧파킨슨병의 진단과 치료에 관한 최신 지견을 나누기 위해 매년 BEYOND 심포지엄을 개최해",
-    "source": "간호사타임즈",
-    "lang": "ko",
-    "published": "2026-10-15T15:31:54+09:00"
-   },
-   {
-    "title": "원자력병원, '호스피스의 날' 기념식 개최…14개 전문기관 참여",
-    "link": "https://www.rapportian.com/news/articleView.html?idxno=241297",
-    "summary": "[라포르시안] 한국원자력의학원(원장 임일한) 원자력병원 권역별호스피스센터는 15일 국가방사선비상진료센터 1층 강당에서 '2026년 권역별호스피스센터 호스피스의 날 기념식'을 개최했다.이날 행사에는 서울대병원, 세브란스병원, 고려대안암병원, 국립중앙의료원 등 9권역 내 14개 호스피스전문기관 종사자들이 참석했다.기념식은 기념사와 축사, 호스피스 영상 상영, 호스피스·완화의료 유공자 표창, 축하공연, 특별강연 순으로 진행됐다. 유공자 표창은 권역 내 호스피스·완화의료 발전에 기여한 종사자들에게 수여됐다.참석자들은 의사와 간호사, 사회복",
-    "source": "라포르시안",
-    "lang": "ko",
-    "published": "2026-10-15T13:05:00+09:00"
-   },
-   {
-    "title": "[행사] 재택의료학회, 추계학술대회 개최",
-    "link": "https://www.monews.co.kr/news/articleView.html?idxno=414564",
-    "summary": "[메디칼업저버 신형주 기자] 대한재택의료학회는 11월 8일 삼정호텔에서 2026년 추계학술대회를 개최한다.이번 학술대회는 ‘집으로 넓히다, 기준으로 세우다 – 재택의료의 확장과 질(質)’을 주제로, 국내 재택의료의 양적 확대를 넘어 의료서비스의 질과 표준화, 의료와 돌봄의 연계, 디지털 기반 의료정보 통합 등 지속가능한 재택의료체계 구축을 위한 핵심 과제를 집중적으로 논의할 예정이다.이번 학술대회는 이러한 문제의식을 바탕으로 재택의료의 질 관리, 임상적 전문성, 간호 기반 케어코디네이션, 디지털 의료정보 연계 등 네 가지 주요 영역",
-    "source": "메디컬옵저버",
-    "lang": "ko",
-    "published": "2026-10-15T09:31:41+09:00"
-   },
-   {
-    "title": "간협, 파독 간호사 60주년 특별전 개최",
-    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043643",
-    "summary": "대한간호협회가 파독 간호사 60주년을 맞아 이들을 조명하는 특별 전시회를 개최한다.간협은 오는 20일부터 21일까지 국회의원회관 2층 로비에서 ‘최초의 K-프로페셔널: 백의의 개척자들’ 특별 전시회를 연다. 관람 시간은 오전 10시부터 오후 5시까지다.이번 전시에서는 사진 66점과 실물 자료 43점, 동영상 및 음성기록 등을 통해 파독 간호사들의 삶과 역사를 소개한다. 특히 간협 역사박물관 건립을 위해 파독 간호사들이 직접 기증한 사료와 실물 자료를 공개해 당사자들의 기록으로 당시의 경험을 되짚는다.전시 자료는 간협이 지난 2008",
-    "source": "청년의사",
-    "lang": "ko",
-    "published": "2026-10-15T06:26:24+09:00"
    },
    {
     "title": "[Medical Report] 동네의원·간호조무사 무료 구인·구직 플랫폼 구축…연세대 융합보건의료대학원, ‘글로벌융합보건학과’ 신설 外",
@@ -454,40 +478,48 @@
     "source": "Nurse.org",
     "lang": "en",
     "published": "2026-10-14T16:00:00+09:00"
-   },
-   {
-    "title": "Selma Blair Accused of Assaulting Nurse at New York Hospital After Flight Arrest",
-    "link": "https://nurse.org/news/selma-blair-nurse-assault-jamaica-hospital/",
-    "summary": "Image sources: Super Festivals / CC BY 2.0 (modified), Jamaica Hospital Updated October 13, 2026: This article has been updated with the outcome of Blair’s arraignment. We will continue to…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-10-13T16:00:00+09:00"
-   },
-   {
-    "title": "Who's Protecting Pregnant Nurses? A $2.4M Study Is Asking That Question",
-    "link": "https://nurse.org/news/pregnant-nurses-workplace-risks-study/",
-    "summary": "University of Arizona researchers will follow 250 pregnant hospital nurses to better understand how workplace demands affect stress, mental health, and cardiovascular health, with the goal of making nursing safer…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-10-13T16:00:00+09:00"
    }
   ],
   "ni": [
    {
-    "title": "AI가 찾은 신약, 빅파마 품으로…사노피, 첫 후보물질 선택",
-    "link": "https://www.medipana.com/news/articleView.html?idxno=419407",
-    "summary": "프랑스 빅파마 사노피가 인공지능(AI)을 활용한 공동연구에서 발굴한 첫 신약 후보물질을 도입한다. AI 신약개발 협력이 초기 연구를 넘어 실제 후보물질 확보와 임상개발로 이어지고 있다는 점에서 주목된다. 15일(현지시간) 미국 리커전 파마슈티컬스(Recursion Pharmaceuticals)는 사노피가 양사의 공동연구에서 발굴한 면역질환 치료 후보물질에 대한 라이선스 옵션을 행사했다고 발표했다. 해당 후보물질은 두 가지 표적을 동시에 억제하는 경구용 저분자 치료제로, 계열 최초(first-in-class) 신약을 목표로 개발되고",
-    "source": "메디파나뉴스",
+    "title": "'NAMs' OECD 표준화 조준…식약처, 동물실험 대체 시험법 개발 박차",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043709",
+    "summary": "식품의약품안전처가 국내에서 개발한 '새로운 접근법(New Approach Methodologies, NAMs)'의 국제 표준화와 규제 제도화에 속도를 낸다.식약처 소속 식품의약품안전평가원은 지난 16일 웨스틴 조선 서울에서 '인체 중심의 NAMs 규제과학 국제 심포지엄'을 개최하고, NAMs의 연구 개발 계획을 밝혔다.NAMs는 오가노이드(장기유사체)와 인공지능(AI) 등을 활용해 의약품 개발 과정에서 동물 실험을 줄이고, 인체 적합성(Human Relevance)을 높이기 위해 고안된 차세대 독성 평가 방법이다. 최근 해외 주요",
+    "source": "청년의사",
     "lang": "ko",
-    "published": "2026-10-16T08:13:22+09:00"
+    "published": "2026-10-17T07:49:40+09:00"
    },
    {
-    "title": "식약처, 수능 앞두고 ADHD 치료제 업무 목적 외 취급 단속",
-    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79941",
-    "summary": "[히트뉴스=방혜림 기자] 식품의약품안전처가 내달 2027학년도 대학수학능혁시험을 앞두고 '메틸페니데이트(ADHD 치료제)'의 오남용 예방을 위해 처방량 상위 환자 방문 의료기관 집중 점검을 실시한다.16일 식약처에 따르면 이번 점검은 오는 19일부터 내달 18일까지 마약류통합관리시스템의 빅데이터를 분석해 ADHD 치료제 처방량 상위인 청소년 등이 방문한 의료기관을 선정해 실시한다. 주요 점검 내용은 △ 과다처방 등 오남용 여부 △ 취급 보고의무 준수 여부 △ 보고내역과 실제 재고량의 일치 여부다.점검 결과 업무 목적 외 취급이 의심",
+    "title": "[종합] 심평원장 '공사 구분' 의혹…심사 신뢰까지 흔들",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=419479",
+    "summary": "건강보험심사평가원 홍승권 원장의 해외 출장과 업무용 차량 사용을 둘러싼 의혹이 국정감사에서 제기됐다. 공적 업무와 사적 활동의 경계가 불분명했다는 비판에 이어, 기관 운영과 주요 현안에 대한 이해가 충분하지 않다는 질타도 쏟아졌다. 기관장을 향한 검증은 심평원 본연의 업무로 이어졌다. 인공지능(AI) 심사 확대에 따른 정확성 문제와 이의신청 장기 지연, 신약 급여 평가와 비급여 관리의 한계까지 심사·평가체계 전반이 점검 대상이었다. 심평원이 새로운 제도와 기술을 도입하는 데 속도를 내고 있지만, 기존 업무의 정확성과 전문성부터 확보",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-10-17T06:03:00+09:00"
+   },
+   {
+    "title": "How AI Is Connecting MedTech’s Data Without Compromising Compliance",
+    "link": "https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/",
+    "summary": "The connected, agent-ready enterprise is the model that wins, where compliance and intelligence operate together. The post How AI Is Connecting MedTech’s Data Without Compromising Compliance appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-16T22:08:00+09:00"
+   },
+   {
+    "title": "오가노이드·AI 독성평가, 규제 현장 진입의 관건은 '국제 표준화'",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79977",
+    "summary": "[히트뉴스=김동우 기자] 한국바이오의약품협회와 식품의약품안전평가원이 오가노이드와 인공지능(AI) 등 첨단 기술을 활용한 인체 중심 독성평가 방법(NAMs)의 규제 적용과 국제 표준화 방안을 논의했다. 기존 평가방법의 한계를 보완할 새로운 기술이 실제 규제 현장에서 활용되기 위한 과학적 검증과 국제 협력이 주요 과제로 제시됐다.한국바이오의약품협회(회장 이정석)는 식품의약품안전평가원(원장 강석연)과 공동으로 16일 중구 웨스틴 조선 서울에서 '2026 인체 중심 독성평가(NAMs) 기반 규제과학 국제 심포지엄'을 개최했다.심포지엄은 1",
     "source": "히트뉴스",
     "lang": "ko",
-    "published": "2026-10-16T08:07:56+09:00"
+    "published": "2026-10-16T18:28:43+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/16/26",
+    "link": "https://histalk2.com/2026/10/15/morning-headlines-10-16-26/",
+    "summary": "Sirona Medical Raises $40M Series D as Platform Usage Triples Sirona Medical raises $40 million in Series D funding to expand its cloud-based radiology platform, commercialize its Cortex AI orchestration tools, and enter international markets. ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-16T09:02:10+09:00"
    },
    {
     "title": "News 10/16/26",
@@ -554,101 +586,85 @@
     "published": "2026-10-15T00:49:04+09:00"
    },
    {
-    "title": "This Week in Health Tech 10/14/26",
-    "link": "https://histalk2.com/2026/10/14/this-week-in-health-tech-10-14-26/",
-    "summary": "",
-    "source": "HIStalk",
-    "lang": "en",
-    "published": "2026-10-14T23:01:32+09:00"
-   },
-   {
     "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
     "link": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
     "summary": "Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use. The post Why Agentic A",
     "source": "MedCity News",
     "lang": "en",
     "published": "2026-10-14T22:30:00+09:00"
-   },
-   {
-    "title": "Happy Health’s Cuffless BP Device Wins FDA Clearance",
-    "link": "https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/",
-    "summary": "Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration. The post Happy Health’s Cuffless BP Device Wins FDA Clearance appeared first on MedCity News .",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-10-14T07:01:55+09:00"
    }
   ]
  },
  "papers": [
   {
-   "title": "Health Literacy and Communication in Stroke Prevention, Management, and Recovery: A Scientific Statement From the American Heart Association.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42877955/",
-   "journal": "Stroke",
-   "authors": "Mogos MF, Maynard S, Perrin S 외",
+   "title": "Three Ambient Listening Systems in Simulated Dutch-Language Multispeaker and Multidialect Clinical Encounters: Comparative Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42887000/",
+   "journal": "JMIR medical informatics",
+   "authors": "Hoekman AH, Mehri T, Doornberg JN 외",
+   "pubdate": "2026 Oct 16"
+  },
+  {
+   "title": "Natural Language Processing in Nursing Practice for Clinical Reasoning and Workflow: Scoping Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42886841/",
+   "journal": "JMIR nursing",
+   "authors": "Iwase K, Teshima T, Yamakawa M 외",
+   "pubdate": "2026 Oct 16"
+  },
+  {
+   "title": "Reinventing vitamin K antagonist therapy management: an implementation study of a home-based integrated monitoring model.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42886161/",
+   "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+   "authors": "Scapaticci M, Nigro S, Caveduri F 외",
+   "pubdate": "2026 Oct 16"
+  },
+  {
+   "title": "Nurse-Led Interventions to Mitigate High-Alert Medication Errors in Critical Care: A Systematic Review of Effectiveness and Implementation Strategies.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42885876/",
+   "journal": "Nursing in critical care",
+   "authors": "Norouzdamghani M, Kasaeian G, Asgharipoor Y 외",
+   "pubdate": "2026 Nov"
+  },
+  {
+   "title": "Learning Adaptation in Artificial Intelligence-Enabled Nursing Education: A Network Analysis of Artificial Intelligence Literacy, Self-Regulated Learning and Academic Resilience.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42885113/",
+   "journal": "Journal of advanced nursing",
+   "authors": "Gong X, Xiao Z, Chen D 외",
    "pubdate": "2026 Oct 15"
   },
   {
-   "title": "Effects of an LLM-based intelligent adaptive teaching program on clinical risk perception among newly employed nurses: a quasi-experimental study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42877403/",
-   "journal": "Frontiers in medicine",
-   "authors": "Qiu X, Shen L, Xie L 외",
-   "pubdate": "2026 Sep 30"
+   "title": "Evolution of a Large-Scale Virtual Nursing Program: Utilization, Geographic Reach, and Cost Comparison at a Tertiary Care Center in Saudi Arabia, November 2021-July 2025.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42881620/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Maqadi KH, Asiri WA, Aboshaiqah A 외",
+   "pubdate": "2026 Sep 25"
   },
   {
-   "title": "Latent profile analysis of artificial intelligence anxiety among undergraduate nursing students: a cross-sectional study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42877009/",
-   "journal": "Frontiers in public health",
-   "authors": "Xu J, Yu X, Fang Z 외",
-   "pubdate": "2026 Sep 30"
+   "title": "From Remote Monitoring to Actionable Care: Real-World Implementation of an Interoperable Digital Ecosystem for Peritoneal Dialysis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42881595/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Rivera A, Vesga J, Sanabria M 외",
+   "pubdate": "2026 Sep 23"
   },
   {
-   "title": "Self-perceived digital literacy, creative self-efficacy, and self-reported innovative behavior among undergraduate nursing students in Anhui, China: a multi-institutional cross-sectional study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876740/",
-   "journal": "Frontiers in public health",
-   "authors": "Wu T, Fan X, Zhou X 외",
-   "pubdate": "2026 Sep 30"
+   "title": "Artificial Intelligence Literacy and Subjective Workload Among Clinical Nurses: A Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42881594/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Yu CW, Yang CC",
+   "pubdate": "2026 Sep 23"
   },
   {
-   "title": "Survey of public health education combined with intelligent prescription intervention system on antibiotic use in the county-level hospitals.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876734/",
-   "journal": "Frontiers in public health",
-   "authors": "Xie X, Yang L, Yue X 외",
-   "pubdate": "2026 Sep 30"
+   "title": "The mediating role of AI anxiety between AI literacy and attitudes towards AI in nursing students: a cross-sectional study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42881380/",
+   "journal": "BMC medical education",
+   "authors": "Wang L, Nie M, Xiao Y 외",
+   "pubdate": "2026 Oct 2"
   },
   {
-   "title": "Beyond the clicker: rethinking student response systems as pedagogical infrastructure for healthcare professions education.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876637/",
-   "journal": "Frontiers in medicine",
-   "authors": "Krumsvik RJ, Slettvoll V",
-   "pubdate": "2026 Sep 30"
-  },
-  {
-   "title": "Nurse-led digital triage and health literacy navigation: redefining the front door of public health in the artificial intelligence era.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876618/",
-   "journal": "Frontiers in public health",
-   "authors": "Luo W, Lu GH",
-   "pubdate": "2026 Sep 30"
-  },
-  {
-   "title": "Explainable machine-learning model for postoperative lower-extremity deep vein thrombosis after gynecologic cancer surgery.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876541/",
-   "journal": "Frontiers in oncology",
-   "authors": "Zhang Y, Shi C, Yang D 외",
-   "pubdate": "2026 Sep 30"
-  },
-  {
-   "title": "Nursing students' experiences with using generative artificial intelligence: a descriptive qualitative study.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876528/",
-   "journal": "Frontiers in medicine",
-   "authors": "Wan W, Yu X, Guo Q 외",
-   "pubdate": "2026 Sep 30"
-  },
-  {
-   "title": "Digital Communication in Paediatric Surgery Care: Meeting Parents' and Children's Fundamental Care Needs at Home.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42876056/",
-   "journal": "Journal of advanced nursing",
-   "authors": "Wester Fleur M, Hansson H, Stenström P 외",
-   "pubdate": "2026 Oct 14"
+   "title": "A Clinical Decision Support Model for Early Ovarian Cancer Detection in Rural Practice: A Quality Assurance Project.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42880876/",
+   "journal": "Journal of doctoral nursing practice",
+   "authors": "Harrison P, Montgomery C, Vest B",
+   "pubdate": "2026 Oct 15"
   }
  ]
 }
