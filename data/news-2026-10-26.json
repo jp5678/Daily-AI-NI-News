@@ -1,0 +1,598 @@
+{
+ "date": "2026-10-26",
+ "generatedAt": "2026-10-26T07:59:24.200787+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-26T06:31:16+09:00"
+   },
+   {
+    "title": "화성은 얼마나 먼 미래일까…돌봄부터 우주까지 코엑스서 찾는 'AI 미래도시'",
+    "link": "https://www.etnews.com/20261024000010",
+    "summary": "경기 화성특례시가 56개 기업·기관과 인공지능(AI) 도시 기술을 선보인다. 시는 오는 11월3~5일 서울 코엑스 D홀과 오디토리움, 콘퍼런스룸에서 AI 엑스포 'MARS 2026'을 개최한다고 23일 밝혔다. 'AI CITY IN ACTION'을 슬로건으로 내건 이번 행사는 모빌리티·제조·생활·도시운영·우주항공 등 5개 분야의 AI 기술을 전시하고, 산업 현장과 공공행정에 적용하는 방안을 논의하는 자리다. 기업 투자유치와 기술 교류 프로그램도",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-26T04:00:00+09:00"
+   },
+   {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-26T01:57:32+09:00"
+   },
+   {
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-25T23:10:00+09:00"
+   },
+   {
+    "title": "사람 표정 따라하는 28cm AI 로봇",
+    "link": "https://www.etnews.com/20261023000345",
+    "summary": "사람처럼 표정을 지으며 대화하는 탁상형 AI 로봇이 등장했습니다. 홍콩 로봇기업 피규로봇이 공개한 'FR-NIA'는 키 약 28cm의 AI 동반자 로봇으로 눈과 눈썹, 입을 움직여 표정을 짓습니다. 얼굴과 목에 총 10개의 자유도를 적용해 50가지 이상의 표정을 구현합니다. 내장 카메라로 사용자를 추적해 움직임에 맞춰 눈과 고개를 돌릴 수도 있습니다. 스마트폰 앱에서는 로봇의 표정과 움직임을 실시간으로 조작하거나 새로운 동작을 직접 만들 수 있",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-25T22:30:00+09:00"
+   },
+   {
+    "title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+    "summary": "바이두(Baidu)의 인공지능(AI) 반도체 및 아키텍처 부문을 기반으로 하는 중국 AI 반도체 기업 쿤룬신(Kunlunxin)이 자국 AI 기업 미니맥스(MiniMax)의 최신 대형언어모델(LLM)을 공개 당일 자사 AI 가속기 플랫폼에서 구동하는 데 성공했다. 새로운 AI 모델이 등장하면 즉시 대응하는 '데이 제로(Day 0)' 호환성 확보를 통해 중국산 AI 반도체의 활용 범위를 확대하고, 해외 컴퓨팅 플랫폼에 대한 의존도를 낮추려는 움직임이다.쿤룬신은 지난 23일(현지시간) 미니맥스가 지난 19일 공개한 차세대 AI 모델 '",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-10-25T22:24:44+09:00"
+   },
+   {
+    "title": "피지컬 AI 로봇 전문 '로보아이', 내년 상반기 코넥스 상장 추진",
+    "link": "https://www.etnews.com/20261023000030",
+    "summary": "비정형 산업환경 특화 피지컬 AI 로봇 전문기업 로보아이(ROBOi·대표 김대영)는 교보증권과 기업공개(IPO) 대표주관사 지정자문인 계약을 체결하고, 내년 상반기 코넥스에 상장한다고 밝혔다. 로보아이는 연내 기관투자가들의 투자유치를 완료하고 내년 상반기 코넥스 상장을 통해 사업화 기반을 다지기로 했다. 이를 통해 현재 개발 중인 건설 특화 피지컬 AI 기반 내화뿜칠 자율시공 로봇을 내년 하반기에 상용화한다는 전략이다. 연내 투자유치는 약 50",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-25T21:00:00+09:00"
+   },
+   {
+    "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+    "summary": "구체적인 임무 없이 가상 섬에 놓인 AI 에이전트들이 스스로 농구와 볼링을 하고, 블록으로 조형물을 만드는 행동을 보였다. 이 과정에서 시뮬레이터 개발자도 몰랐던 물체 던지기 기술까지 발견했다. 연구진은 이런 활동이 놀이의 특징을 갖췄으며, 탐색하며 쌓은 경험이 이후 과제 수행에도 도움이 됐다고 설명했다.MIT 연구진은 최근 아카이브를 통해 AI 에이전트의 자발적인 탐색과 학습을 분석한 연구 '이 기계는 놀고 있는가(Is this machine playing?)'를 공개했다.연구진은 앤트로픽의 코딩 도구 ‘클로드 코드’와 ‘클로드",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-10-25T19:33:16+09:00"
+   },
+   {
+    "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+    "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+    "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls s",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T19:08:49+09:00"
+   },
+   {
+    "title": "오라클 AI 월드 25일 개막…AI 중심 비즈니스 전략·미래 비전 제시",
+    "link": "https://www.etnews.com/20261025000100",
+    "summary": "오라클이 데이터·애플리케이션·클라우드 인프라를 아우르는 인공지능(AI) 전략을 공개한다. 기업의 AI 도입을 실질적인 비즈니스 성과로 연결하는 방안을 제시한다. 오라클은 25일(현지시간)부터 28일까지 미국 라스베이거스 베네시안 컨벤션 & 엑스포 센터에서 '오라클 AI 월드 2026'을 개최한다. 오라클AI 월드는 클라우드 인프라, 데이터베이스, 애플리케이션 및 AI 기술 전반에 걸친 오라클의 최신 혁신과 전략을 소개하는 글로벌 행사다. 올해",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-25T18:46:45+09:00"
+   },
+   {
+    "title": "中 여행 갈땐, 빈 캐리어가 국룰?…돌아올땐 中 제품 가득 '차이나 하울' 뭔데",
+    "link": "https://www.etnews.com/20261025000099",
+    "summary": "중국을 찾는 외국인 관광객들 사이에서 빈 여행 가방을 가져가 현지 제품으로 가득 채워 돌아오는 이른바 '차이나 하울(China Haul)'이 새로운 여행 트렌드로 떠오르고 있다. 저렴한 간식과 기념품을 넘어 인공지능(AI) 안경과 드론, 중국 로컬 브랜드 의류·화장품까지 쇼핑 품목이 다양해지는 모습이다. 최근 중국 인민망에 따르면 최근 틱톡 등 SNS에서는 중국 여행 중 구매한 상품을 공개하고 쇼핑 정보와 사용 후기를 공유하는 차이나 하울 콘텐",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-25T18:39:52+09:00"
+   },
+   {
+    "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+    "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+    "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T18:37:46+09:00"
+   },
+   {
+    "title": "“일상의 차원을 바꾼 AI의 향연”… '2026 대한민국 ICT융합엑스포' 성황리 폐막",
+    "link": "https://www.etnews.com/20261025000097",
+    "summary": "대한민국 ICT 산업의 현재와 미래를 한눈에 조망할 수 있었던 '2026 대한민국 ICT융합엑스포(ITCE 2026)'가 24일 대구 엑스코에서 성공적으로 막을 내렸다. 미래기술혁신박람회(FIX 2026)의 ICT분야 전시회인 이번 ITCE 2026에서는 AI·IT분야 선도기업과 기관 162곳이 400개 부스로 참여해 풍성한 볼거리를 제공했다. 대구시가 주최하고 엑스코, 전자신문, KOTRA가 공동 주관한 이번 행사는 일상을 혁신하는 인공지능(",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-10-25T18:16:35+09:00"
+   },
+   {
+    "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+    "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+    "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T18:12:10+09:00"
+   },
+   {
+    "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+    "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+    "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T17:09:32+09:00"
+   },
+   {
+    "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+    "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+    "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T16:30:11+09:00"
+   },
+   {
+    "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+    "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+    "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their mo",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-25T15:55:22+09:00"
+   },
+   {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-25T04:00:00+09:00"
+   },
+   {
+    "title": "Block’s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-25T01:00:00+09:00"
+   },
+   {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-25T00:00:00+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+    "link": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+    "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T07:45:00+09:00"
+   },
+   {
+    "title": "아이씨뱅큐, ‘아두이노 벤투노 Q’ 출시 기념 무료 렌탈 서비스 운영",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408716",
+    "summary": "[테크월드=이광재 기자] 아이씨뱅큐가 아두이노의 엣지 AI·로보틱스 개발 플랫폼 ‘아두이노 벤투노 Q(Arduino VENTUNO Q)’의 11월 말 국내 출시를 앞두고 이를 기념해 무료 렌탈 서비스를 운영한다고 26일 밝혔다.아이씨뱅큐에 따르면 이번 무료 렌탈 서비스는 엣지 AI 및 로보틱스 솔루션 도입을 검토 중인 기업 및 연구기관을 대상으로 상시 운영된다.고사양 개발용 하드웨어 구매에 따른 초기 예산 부담을 줄이고 시제품 개발 과정에서 아두이노 벤투노 Q를 활용해 양산 및 실전 도입 전 성능과 현장 적용성을 사전에 직접 검증할",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-10-26T07:40:46+09:00"
+   },
+   {
+    "title": "[AI핫이슈] 글로벌 기업들 韓 소버린 AI 시장 '정조준'",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709772",
+    "summary": "[디지털투데이 황치규 기자] 글로벌 AI 기업들이 정부기관과 기업들이 통제할 수 있는 AI 인프라, 이른바 소버린 AI 관련 한국 시장 공략에 속도를 내는 모습이다. 팔란티어, 코히어, 미스트랄 등이 국내 소버린 AI 시장에서 투자를 확대하는 대표적인 글로벌 AI 기업들로 꼽힌다.팔란티어는 최근 한국에서 두번째 팝업 스토어 행사를 열고 한국 소버린 AI 시장 공략에 대한 의지를 강조했다. 팔란티어는 한국 시장이 갖는 중요한 가치로 통신, 반도체, 조선 같은 핵심 산업에 집중한다는 점, 50~60년 역사 속에서 한미동맹과 국방에 대한",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-10-26T07:30:00+09:00"
+   },
+   {
+    "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+    "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+    "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T07:30:00+09:00"
+   },
+   {
+    "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+    "link": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+    "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T07:00:00+09:00"
+   },
+   {
+    "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+    "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+    "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-26T06:40:27+09:00"
+   },
+   {
+    "title": "Scott Walker’s The Drift will get under your skin",
+    "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+    "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-26T06:08:09+09:00"
+   },
+   {
+    "title": "오십견인 줄, 방치했더니…'옆으로 누워 자는 습관', 어깨 통증 키운다",
+    "link": "https://www.etnews.com/20261025000098",
+    "summary": "아침마다 어깨가 뻣뻣해 팔을 올리기 어렵거나 밤마다 통증 때문에 잠에서 깬다면 단순한 노화 현상으로 넘겨서는 안 된다. 오십견으로 생각하기 쉽지만 어깨충돌증후군이나 회전근개 손상일 가능성도 있기 때문이다. 특히 옆으로 누워 자거나 팔을 머리 위로 올리는 수면 습관이 어깨 통증을 악화시키는 요인으로 지목된다. 옆으로 누워 자면 체중이 아래쪽 어깨에 집중되면서 관절과 주변 조직에 압박이 가해질 수 있다. 여기에 장시간 컴퓨터와 스마트폰을 사용하면서",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-26T06:00:00+09:00"
+   },
+   {
+    "title": "GTA6 출시가 美 경제에 악영향?…“회사원 150만명 쉬어 1.3조 날아갈수도”",
+    "link": "https://www.etnews.com/20261023000170",
+    "summary": "전 세계 게이머들의 기대를 모으고 있는 '그랜드 테프트 오토6(GTA6)' 출시가 미국 경제에 최대 10억달러(약 1조3200억원) 규모의 단기 생산성 손실을 가져올 수 있다는 뜻밖의 분석이 나왔다. 21일(현지시간) 게임 전문매체 게임즈레이더 등에 따르면 스페인 바르셀로나 폼페우파브라대의 한 경제학자는 GTA6가 출시되는 오는 11월 19일 미국 근로자 약 150만명이 게임을 하기 위해 병가를 낼 가능성이 있다고 추정했다. 이는 공식 경제 전",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-26T06:00:00+09:00"
+   },
+   {
+    "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+    "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+    "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all s",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-26T05:16:19+09:00"
+   },
+   {
+    "title": "Zen Browser is the Arc replacement I was looking for",
+    "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+    "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-26T05:03:05+09:00"
+   },
+   {
+    "title": "What does the bell icon mean on your CarPlay screen?",
+    "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+    "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T03:45:00+09:00"
+   },
+   {
+    "title": "The most unexpected everyday tool can be found on your phone",
+    "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+    "summary": "If you have an iPhone, that is.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T03:30:00+09:00"
+   },
+   {
+    "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+    "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+    "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-26T03:00:00+09:00"
+   },
+   {
+    "title": "환경보전원·현대百, 청소년 기후행동 아이디어 시상 및 현장 적용",
+    "link": "https://zdnet.co.kr/view/?no=20261026015516",
+    "summary": "[지디넷코리아]한국환경보전원(원장 신진수)은 지난 23일 서울 삼성동 현대백화점 본사에서 ‘2026년 미래세대 기후행동 오픈 이노베이션’ 청소년 부문 시상식을 개최했다고 밝혔다.기후에너지환경부가 주최하고 환경보전원과 현대백화점·CJ프레시웨이가 공동 주관한 이번 행사는 기업의 환경 현안에 대해 청소년과 청년이 제안한 해결 아이디어를 실제 현장에서 시범운영하는 프로그램이다.청소년 부문에서는 현대백화점이 제시한 ▲미사용 에코백의 재사용·재활용 활성화 방안 ▲의류 재활용을 통한 업사이클 굿즈 운영 전략을 주제로 중·고등학생과 지도교사로 구",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-10-26T01:55:16+09:00"
+   },
+   {
+    "title": "Now you can watch Instagram Reels on your Apple TV",
+    "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew o",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-26T01:20:17+09:00"
+   },
+   {
+    "title": "美 해변서 금보다 비싼 '바다 로또' 발견…샤넬 향수에도 들어간 '수상한 덩어리' 정체는",
+    "link": "https://www.etnews.com/20261025000102",
+    "summary": "미국 플로리다주 해변에서 발견된 정체불명의 덩어리가 고급 향수 산업에서 가치를 인정받아 온 희귀 물질인 용연향으로 주목받고 있다. 향유고래의 소화기관에서 형성되는 용연향은 숙성 과정에서 독특한 향을 띠며, 희소성 때문에 고가에 거래되는 것으로 알려져 있다. 다만 미국에서는 관련 법률에 따라 발견자가 이를 임의로 소유하거나 판매하는 데 제약이 따른다. 영국 데일리메일에 따르면 플로리다주 멜버른 해변을 산책하던 크리스틴 마빈은 최근 모래 속에 묻힌",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-25T19:22:13+09:00"
+   },
+   {
+    "title": "“좌석 양보하면 800만원”…'오버부킹' 파격 제안에도 아무도 안 나선 사연",
+    "link": "https://www.etnews.com/20261023000224",
+    "summary": "미국 델타항공이 초과예약된 항공편에서 좌석을 양보하는 승객에게 최대 6000달러(약 790만원)의 보상금을 제시했지만 아무도 지원하지 않았다는 주장이 나왔다. 23일(현지시간) 미국 온라인 매체 데일리닷에 따르면 틱톡 이용자 '@jinberr'는 최근 공항으로 보이는 장소에서 촬영한 영상을 올리고 자신이 탑승할 예정이던 델타항공 항공편이 초과예약 상태였다고 전했다. 그는 항공사가 좌석을 포기하고 이후 항공편을 이용할 승객을 찾기 위해 처음에는",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-25T18:40:00+09:00"
+   },
+   {
+    "title": "“갤럭시A 20% 감산”…삼성, 칩플레이션 대응",
+    "link": "https://www.etnews.com/20261023000235",
+    "summary": "삼성전자가 중저가 스마트폰 '갤럭시A' 시리즈 4분기 생산량을 계획보다 20%가량 줄인다. 칩플레이션과 원자재 확보 난항에 따라 중저가폰 생산량을 줄이고 플래그십 제품군에 자원을 집중하는 방향으로 전략을 선회한다. 25일 업계에 따르면 삼성전자는 갤럭시A 시리즈 생산량을 줄이는 물량 조정안을 공급망에 전달했다. 사안에 밝은 업계 관계자는 “4분기 기준 부품 주문량이 올 초 생산 계획 대비 약 20% 줄어들었다”며 “연간 기준으로 보면 약 100",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-25T16:30:00+09:00"
+   },
+   {
+    "title": "카드사 '에이전트 커머스' 시대 연다…내년 에이전트 페이 출시",
+    "link": "https://www.etnews.com/20261023000282",
+    "summary": "국내 카드사가 정부 대국민 프로젝트 '모두의 AI' 사업에 인공지능(AI)기반 에이전틱 결제 접목을 시도한다. 모두의 AI 사업에 커머스를 접목해 새로운 결제 생태계를 만들겠다는 구상이다. 25일 여신업계에 따르면 과학기술정보통신부와 SKT·카카오·KT 3개 컨소시엄이 주도하는 '모두의 AI' 프로젝트에서 카드사가 에이전트 페이를 추진한다. 신한카드·하나카드는 SKT 컨소시엄, 비씨카드는 KT 컨소시엄에 참여한다. 목표는 내년 상반기 AI 에이",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-10-25T16:00:00+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "“지방 필수의료 한계”… 원광대병원, 분만·소아 환자 급증",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45517",
+    "summary": "전북과 충남 서부지역의 필수의료를 담당하는 원광대학교병원의 소아·신생아·분만 진료 수요가 대폭 증가한 것으로 나타났다. 병원 측은 인력난 속에서도 전문 인력을 확충하며 진료체계 유지에 총력을 기울이고 있지만, 안정적인 운영을 위해서는 실효성 있는 정책적 지원이 시급하다고 호소했다.10월 26일 원광대학교병원 진료 통계에 따르면 2026년 3분기(7~9월) 분만 환자 수는 전년 동기 대비 53.7% 급증했다. 신생아집중치료실(NICU) 입원 환자는 35.9%, 소아청소년과 외래 환자 역시 9.5% 증가하며 관련 진료 수요가 전반적으로",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-10-25T17:13:42+09:00"
+   },
+   {
+    "title": "CMS Will Pay RNs and LPNs up to $50,000 to Work in Nursing Homes Under New $275M Program",
+    "link": "https://nurse.org/news/nurses-for-nursing-homes-cms-275m-launch/",
+    "summary": "Applications open Monday for a new federal program that will pay registered nurses and LPN/LVNs up to $40,000 in student loan repayment and up to a $10,000 incentive stipend, in…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-24T23:57:57+09:00"
+   },
+   {
+    "title": "업무·교육 기준 정했지만…PA제도 정착까지 ‘산 넘어 산’",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043931",
+    "summary": "진료지원업무를 수행하는 전담간호사의 업무 범위와 교육 기준이 마련됐지만, 업무 범위를 둘러싼 논란과 직역 간 역할 중복 문제는 여전하다. 제도가 환자 안전에 미치는 영향을 평가할 체계도 부족하다는 지적이다. 특히 23년간 PA(Physician Associate) 제도를 운영한 영국에서도 안전성을 판단할 근거가 부족하다는 평가가 나온 만큼 국내에서도 관련 자료를 축적할 필요가 있다고 강조했다.한국보건의료연구원 이민 보건의료연구팀장은 지난 22일 경주 화백컨벤션센터에서 열린 대한예방의학회 가을학술대회에서 진료지원업무 제도화 과정과 향",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-10-24T12:26:17+09:00"
+   },
+   {
+    "title": "Mellow Massage: Inside San Diego’s Design-Led Studios",
+    "link": "https://scrubsmag.com/mellow-massage-san-diego-studios/",
+    "summary": "Searching for Mellow Massage in San Diego? The name brings together two parts of the experience: independent massage therapists you can choose through a marketplace, and distinctive studios where those therapists perform their services. Here is a closer look at the spaces, the booking process, and w",
+    "source": "Scrubs Magazine",
+    "lang": "en",
+    "published": "2026-10-24T02:08:55+09:00"
+   },
+   {
+    "title": "Pushback against call to close understaffed maternity units",
+    "link": "https://www.nursingtimes.net/midwifery-and-neonatal/pushback-against-call-to-close-understaffed-maternity-units-23-10-2026/",
+    "summary": "A body of NHS leaders has said that some understaffed and \"small\" maternity units in England may have to close to protect patient safety. The post Pushback against call to close understaffed maternity units appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-24T00:16:57+09:00"
+   },
+   {
+    "title": "ADHD linked to higher mortality risk from all causes",
+    "link": "https://www.nursingtimes.net/research-and-innovation/adhd-linked-to-higher-mortality-risk-from-all-causes-23-10-2026/",
+    "summary": "People with attention deficit hyperactivity disorder (ADHD) have a higher risk of dying from any cause, but medication may help, new research has found. The post ADHD linked to higher mortality risk from all causes appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-23T21:00:25+09:00"
+   },
+   {
+    "title": "New social care nurse leader for England amid merger uncertainty",
+    "link": "https://www.nursingtimes.net/leadership/new-social-care-nurse-leader-for-england-amid-merger-uncertainty-23-10-2026/",
+    "summary": "A mental health nurse has taken the helm as England's most senior adult social care nursing leader, but ambiguity remains over the future of the role. The post New social care nurse leader for England amid merger uncertainty appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-23T19:09:40+09:00"
+   },
+   {
+    "title": "CQC warns of ongoing decline in public health nursing workforce",
+    "link": "https://www.nursingtimes.net/workforce/cqc-warns-of-ongoing-decline-in-public-health-nursing-workforce-23-10-2026/",
+    "summary": "A continuing decline in school nurses and health visitors, as well as major variation in practice nurse staffing, have been flagged by the health and social care watchdog. The post CQC warns of ongoing decline in public health nursing workforce appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-23T18:25:22+09:00"
+   },
+   {
+    "title": "‘Nurses who feel valued and supported are better positioned to deliver compassionate, person-centred care’",
+    "link": "https://www.nursingtimes.net/workforce/nurses-who-feel-valued-and-supported-are-better-positioned-to-deliver-compassionate-person-centred-care-23-10-2026/",
+    "summary": "Carolyn Fox and Deb Zimmermann highlight the importance of meaningful recognition for the wellbeing and retention of the nursing workforce. The post ‘Nurses who feel valued and supported are better positioned to deliver compassionate, person-centred care’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-23T16:00:02+09:00"
+   },
+   {
+    "title": "Nurse Gear Survey 2026: Tell Us Your Favorite Scrubs, Shoes, and Socks",
+    "link": "https://nurse.org/news/nurse-gear-survey/",
+    "summary": "Ask any nurse about their work shoes and you'll get a strong opinion. Ask 10 nurses and you'll get 10 different answers. We want to hear yours. The Nurse Gear…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-23T16:00:00+09:00"
+   },
+   {
+    "title": "Chicago Bulls Nurse Appreciation 2027: Nominate a Nurse, Buy Tickets",
+    "link": "https://nurse.org/news/chicago-bulls-nurse-appreciation-night/",
+    "summary": "Image source: Chicago Bulls 🏀 2027 Event Details About Chicago Bulls Nurse Appreciation Night Date: March 15, 2027 at 7:00pm Game: Chicago Bulls vs Orlando Magic Nurse discount tickets: Starting…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-23T16:00:00+09:00"
+   },
+   {
+    "title": "Nurse Appreciation Nights 2026: Baseball, Basketball, Hockey, Soccer (discount tickets)",
+    "link": "https://nurse.org/articles/nurse-appreciation-night/",
+    "summary": "Nurse.org is teaming up with MLB, NBA, WNBA, NHL, MLS and now NFL teams across the country to offer special discounts, recognition, and appreciation events to celebrate nurses throughout 2026!…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-23T16:00:00+09:00"
+   },
+   {
+    "title": "Top Doctor of Nursing Practice (DNP) Programs 2026",
+    "link": "https://nurse.org/education/best-dnp-programs/",
+    "summary": "Everything you need to know about getting a DNP degree including a list of the 10 most reputable programs in the US.",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-23T16:00:00+09:00"
+   },
+   {
+    "title": "원광대병원, 제22회 간호학술제 성료",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014702",
+    "summary": "[의학신문·일간보사=차원준 기자] 원광대학교병원(병원장 서일영)은 지난 22일 외래1관 4층 대각전에서 ‘제22회 간호학술제’를 열고 임상간호연구 성과를 공유했다.간호부가 주관한 이번 학술제는 환자중심 간호, 간호역량 개발, 간호조직문화 등 3개 세션으로 진행됐으며 총 8편의 연구가 발표됐다.대상은 ‘AI 챗봇 기반 SBAR 교육이 신규간호사의 임상추론 역량, 보고자신감, 학습전이에 미치는 효과’를 발표한 유서현 간호사가 수상했다. 최우수상은 최미선 간호사와 전세영 간호사가 각각 받았고, 나머지 발표자 5명에게는 우수상이 수여됐다.",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-10-23T15:11:26+09:00"
+   },
+   {
+    "title": "원광대병원, 간호학술제 개최…임상간호연구 8편 발표",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=241545",
+    "summary": "[라포르시안] 원광대학교병원(병원장 서일영)은 지난 22일 외래1관 4층 대각전에서 '제22회 간호학술제'를 열고 환자안전과 의료서비스 질 향상을 위한 임상간호연구 성과를 공유했다고 밝혔다.간호부가 주관한 이번 학술제는 간호현장의 경험을 과학적 연구로 발전시키고, 연구 결과를 실제 간호업무에 적용하기 위해 마련했다. 학술제에서는 ▲환자중심 간호 ▲간호역량 개발 ▲간호조직문화 등 3개 분야에서 총 8편의 임상간호연구가 발표됐다.환자중심 간호 분야에서는 관상동맥 조영술 환자의 교육방법에 따른 반응과 만족도, 외상병동 입원환자의 섬망 영",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-10-23T11:01:00+09:00"
+   },
+   {
+    "title": "Top 10 Cheapest Online DNP Programs for 2026",
+    "link": "https://nurse.org/education/cheapest-online-dnp-programs/",
+    "summary": "A Doctor of Nursing Practice (DNP) is a terminal nursing degree and pinnacle achievement for nurses in their education. These degrees are often costly, making them even more challenging to…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-23T09:00:00+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "15년 환자 데이터로 근감소증 신약 찾는다...바이오바이츠의 도전",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80121",
+    "summary": "[히트뉴스=김선경 기자] 근감소증 환자를 15년간 추적 관찰해 신약 개발의 실마리를 찾으려는 기업이 있다. 고령 환자의 혈액과 근육 조직, 신체기능 변화를 인공지능(AI)으로 분석해 신약 표적 후보 10종을 발굴하고, 이 가운데 5종에서 세포 수준의 발현 변화를 확인했다고 한다. 데이터 분석에서 출발한 후보를 실제 신약 개발로 이어갈 수 있을지, 바이오바이츠의 다음 도전이 시작됐다.2023년 설립된 바이오바이츠는 근감소증 환자 데이터를 기반으로 AI 신약 표적을 발굴하는 바이오텍이다. 정형외과 전문의인 이정우 대표는 \"우리는 영원히",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-10-26T06:08:00+09:00"
+   },
+   {
+    "title": "[기획] 글로벌 블록버스터 도전, K-디지털헬스 육성 과제",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=420009",
+    "summary": "한국 디지털헬스가 국내 임상 검증과 상용화 성과를 바탕으로 글로벌 시장에 도전하고 있다. 신약 시장과는 다른 경쟁 환경에서 확보한 초기 우위를 지속적인 해외 매출과 산업 경쟁력으로 연결하기 위해, 연구개발과 시장 진입 지원을 넘어 글로벌 사업화까지 뒷받침하는 육성 전략이 과제로 떠올랐다. 해외선 다시 검증부터…허가 이후 사업화도 과제 25일 메디파나뉴스 취재를 종합하면 국내 디지털헬스 기업들은 해외 진출에 나서면서 기존 기술개발이나 국내 상용화 단계와는 다른 과제에 직면하고 있다. 국내에서 확보한 임상 근거와 사업 성과가 해외 시장",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-10-26T06:04:00+09:00"
+   },
+   {
+    "title": "Monday Morning Update 10/26/26",
+    "link": "https://histalk2.com/2026/10/25/monday-morning-update-10-26-26/",
+    "summary": "Top News Cleveland-based University Hospitals shuts down some of its systems following an unspecified cybersecurity issue. The health system makes the boilerplate assurance that patient care is not impacted, which if taken at face value ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-25T23:20:00+09:00"
+   },
+   {
+    "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+    "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+    "summary": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not. The post Phy",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-25T22:21:00+09:00"
+   },
+   {
+    "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+    "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+    "summary": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between ",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-25T21:30:00+09:00"
+   },
+   {
+    "title": "Where Are the Biggest Opportunities in Women’s Cardiovascular Health?",
+    "link": "https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/",
+    "summary": "MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health. The post Where Are the Biggest Opportunities in Women’s Cardiovascular Health? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-24T05:33:44+09:00"
+   },
+   {
+    "title": "Why an Independent NP Practice Requires an Undergraduate Business Foundation",
+    "link": "https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/",
+    "summary": "Ultimately, while clinical training teaches nurses how to care for patients within a system, business education empowers them to design, protect, and scale the system. The post Why an Independent NP Practice Requires an Undergraduate Business Foundation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-23T22:54:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/23/26",
+    "link": "https://histalk2.com/2026/10/22/morning-headlines-10-23-26/",
+    "summary": "Redesign Health and ARC Global Merge to Help Health Systems Shape the Future of Healthcare From Within Redesign Health acquires Sheba Medical Center’s ARC Global to help health systems turn clinician ideas into companies and ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-23T09:54:25+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "Five-Year Changes in Nurses' Compassion Competence and Associated Factors: A Longitudinal Study Using Explainable Machine Learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42926354/",
+   "journal": "Journal of nursing management",
+   "authors": "Park M, Gan S, Lee E 외",
+   "pubdate": "2026"
+  },
+  {
+   "title": "Nurse-supported smartphone diabetes self-management in older adults.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42925793/",
+   "journal": "Geriatric nursing (New York, N.Y.)",
+   "authors": "Zills GM",
+   "pubdate": "2026 Oct 24"
+  },
+  {
+   "title": "Early Identification of Aggression Risk in Hospitalized Adults: Evaluating the Dynamic Appraisal of Situational Aggression Tool.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42925241/",
+   "journal": "Research in nursing & health",
+   "authors": "Twibell KRS, Osborne K, Hicks M 외",
+   "pubdate": "2026 Oct 24"
+  },
+  {
+   "title": "Enhancing Empathy in Nursing Students Through a Multimodal Artificial Intelligence-Supported Simulation: A Mixed-Methods Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42924605/",
+   "journal": "Nurse educator",
+   "authors": "Kim S",
+   "pubdate": "2026 Oct 23"
+  },
+  {
+   "title": "Applications of Generative Artificial Intelligence Teaching in Nursing Education: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42924599/",
+   "journal": "Nurse educator",
+   "authors": "Wan Q, Long X, Lin T 외",
+   "pubdate": "2026 Oct 23"
+  },
+  {
+   "title": "Optimizing nurse scheduling problem using the hybrid of genetic algorithm and firefly algorithm.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42924334/",
+   "journal": "Journal of education and health promotion",
+   "authors": "Rahimi A, Golabpour A, Beigi-Harchegani H",
+   "pubdate": "2026 Sep 30"
+  },
+  {
+   "title": "Development and internal validation of explainable machine learning models for predicting failure of first ambulation within 12 h after cesarean delivery: A retrospective cohort study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42923278/",
+   "journal": "Experimental and therapeutic medicine",
+   "authors": "Xiong L, Jin Y, Li W 외",
+   "pubdate": "2026 Oct 2"
+  },
+  {
+   "title": "Explainable machine learning-based prediction of postoperative pulmonary infection after aneurysmal subarachnoid hemorrhage clipping and exploratory analysis of enteral nutrition timing: a dual-cohort retrospective study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42923169/",
+   "journal": "Frontiers in neurology",
+   "authors": "Li L, Li X, Shi S",
+   "pubdate": "2026 Oct 8"
+  },
+  {
+   "title": "Digital, Mobile and Artificial Intelligence-Supported Interventions for Pressure Injury Prevention and Management: A Systematic Review of Clinical, Workflow and Implementation Outcomes.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42922108/",
+   "journal": "International wound journal",
+   "authors": "Sengul T, Koyuncu F, Sarıköse S 외",
+   "pubdate": "2026 Oct"
+  },
+  {
+   "title": "Preferences for digital health services among patients with chronic kidney disease: a discrete choice experiment.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42920652/",
+   "journal": "Frontiers in public health",
+   "authors": "Wei L, Huang Y, Duan D 외",
+   "pubdate": "2026 Oct 9"
+  }
+ ]
+}
