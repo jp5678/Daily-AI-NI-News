@@ -1,0 +1,614 @@
+{
+ "date": "2026-10-27",
+ "generatedAt": "2026-10-27T09:12:11.994251+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "얼굴만 찍었는데 나와 똑같은 3D 아바타가?…UNIST, 차세대 AI 아바타 생성 기술 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42438",
+    "summary": "얼굴만 촬영한 영상부터 상반신과 전신 영상까지, 촬영된 신체 범위에 맞춰 실제 사람을 닮은 3차원(3D) 아바타를 정교하게 생성하는 인공지능(AI) 기술이 개발됐다. 영상에 나타나지 않는 신체 부위에 불필요한 연산을 수행하는 기존 기술의 한계를 개선하고, 얼굴 표정과 손동작 등 실제로 관찰되는 부위의 재현 정확도를 높인 것이 핵심이다.울산과학기술원(UNIST) 인공지능대학원 백승렬 교수 연구팀은 영국 애버딘대학교(University of Aberdeen) 연구진 등과 공동으로 촬영된 신체 범위에 따라 3D 아바타를 유연하게 생성하는",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-10-27T09:01:23+09:00"
+   },
+   {
+    "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216582",
+    "summary": "테디노트의 LangGraph 에이전트 비법노트이경록·김태한·임한택·최재훈·강민석·김성연 | 리코멘드2026년 7월 6일추천이유저자들은 LangGraph를 활용해 단순 챗봇을 넘어 도구를 사용하고 협업하는 실무급 에이전트를 설계·구축하는 방법을 단계적으로 제시합니다. 상태 관리, 워크플로 그래프화, 멀티에이전트 패턴까지 현장에서 검증된 실전 기법을 담았습니다.상세보기 국내에서 랭체인을 공부해 본 개발자라면 '테디노트'라는 이름을 한 번쯤 지나쳤을 가능성이 크다. 리코멘드가 지난 7월 6일 펴낸 『테디노트의 LangGraph 에이전트",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-10-27T09:00:00+09:00"
+   },
+   {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-10-27T07:00:00+09:00"
+   },
+   {
+    "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+    "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+    "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI's API prices",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-27T05:30:55+09:00"
+   },
+   {
+    "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+    "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+    "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-27T04:14:45+09:00"
+   },
+   {
+    "title": "Researchers find six patterns that make AI text so exhausting to read",
+    "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+    "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded but clarity doesn't",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-27T02:50:15+09:00"
+   },
+   {
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-27T02:45:43+09:00"
+   },
+   {
+    "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+    "link": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+    "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOpenSource has already",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-27T02:19:40+09:00"
+   },
+   {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-27T01:49:42+09:00"
+   },
+   {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-27T01:46:36+09:00"
+   },
+   {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+    "source": "Google AI 블로그",
+    "lang": "en",
+    "published": "2026-10-27T01:00:00+09:00"
+   },
+   {
+    "title": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-10-26T23:35:22+09:00"
+   },
+   {
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-10-26T23:30:00+09:00"
+   },
+   {
+    "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+    "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+    "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-26T23:21:23+09:00"
+   },
+   {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-10-26T22:45:00+09:00"
+   },
+   {
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the ",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-26T21:40:00+09:00"
+   },
+   {
+    "title": "ChatGPT’s expanding world of work",
+    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-10-26T19:00:00+09:00"
+   },
+   {
+    "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+    "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+    "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-10-26T18:49:33+09:00"
+   },
+   {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-10-26T18:01:00+09:00"
+   },
+   {
+    "title": "네오클라우드 위기론, 시험대는 GPU 아닌 ‘숫자’에서 나온다",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=21800",
+    "summary": "“200곳이 넘는 네오클라우드는 도태와 통합을 맞게 될 것이다.” 일론 머스크 스페이스X 최고경영자가 25일(현지시간) 소셜미디어에 남긴 말이다. 그는 최근 몇 주 사이 부채시장이 AI 데이터센터와 무관한 매출이 없는 네오클라우드 기업에 사실상 자금줄을 닫았다고 말했다. 일부는 살아남겠지만 많지 않을 것이라고도 덧붙였다. 가트너도 최근 비슷한 전망을 내놨다. 비용 압박과 차별화한 사업 모델의 부재를 이유로 2030년까지 네오클라우드 사업자의 80% 이상이 독립 운영을 중단한다는 것이다. ◇ 네오클라우드의 위기, 돈의 흐름에서 감지된",
+    "source": "THE AI",
+    "lang": "ko",
+    "published": "2026-10-26T17:47:31+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "KTcs, 다이소 고객센터에 AICC 플랫폼 '하이큐리' 공급",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710095",
+    "summary": "[디지털투데이 이진호 기자] KTcs가 다이소 고객센터에 자체 AI 컨택센터(CC) 플랫폼 'HiQri(하이큐리)'를 공급하며 기업 대상 AI 상담 사업을 확대한다고 27일 밝혔다. 이번에 도입된 하이큐리는 생성형 AI와 검색증강생성(RAG) 기술을 결합한 AICC 플랫폼이다. 다이소의 상품과 매장 정보, 배송, 교환·환불 등 고객센터 데이터를 기반으로 고객 질문에 적합한 답변을 제공하도록 설계했다.RAG는 생성형 AI가 기업 내부의 지식 데이터를 검색해 답변에 활용하는 기술이다. 사전에 정해진 질문과 답변을 연결하는 기존 방식과",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-10-27T09:01:01+09:00"
+   },
+   {
+    "title": "삼성전자, 삼성월렛 머니 해외 결제 확대…중국 QR 결제 공략",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408789",
+    "summary": "[테크월드=박규찬 기자] 삼성전자가 텐센트·우리은행과 협력해 충전형 간편결제 서비스 ‘삼성월렛 머니’의 해외 결제 지원을 확대한다. 삼성전자는 26일 중국 선전에 위치한 텐센트 본사에서 텐센트, 우리은행과 ‘삼성월렛 머니’ 해외 결제 서비스 지원 및 협력 강화를 위한 업무협약(MOU)을 체결했다고 27일 밝혔다.협약식에는 채원철 삼성전자 MX사업부 디지털월렛팀장 부사장, 다니엘 홍(Daniel Hong) 텐센트 금융기술부문 부사장, 정진완 우리은행장 등 3사 주요 임원진이 참석했다.이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-10-27T09:00:00+09:00"
+   },
+   {
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts th",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T08:47:59+09:00"
+   },
+   {
+    "title": "The most popular streaming platforms in the US might not be what you think",
+    "link": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+    "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T08:30:00+09:00"
+   },
+   {
+    "title": "6+ ways you can use your PlayStation 5's USB ports",
+    "link": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+    "summary": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T08:00:00+09:00"
+   },
+   {
+    "title": "Halide releases its first batch of updates for the iPhone Duo",
+    "link": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
+    "summary": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T07:51:46+09:00"
+   },
+   {
+    "title": "What are the leading causes of EV battery damage?",
+    "link": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
+    "summary": "Charging behaviors and heat are the things to pay attention to.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T07:30:00+09:00"
+   },
+   {
+    "title": "The mistake iPhone Duo buyers can easily avoid",
+    "link": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
+    "summary": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T07:00:00+09:00"
+   },
+   {
+    "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+    "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+    "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the large",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T06:56:36+09:00"
+   },
+   {
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T06:45:31+09:00"
+   },
+   {
+    "title": "\"서버 생태계 전반 위협\"...PHP이어 노드.js서도 보안 취약점 발견",
+    "link": "https://zdnet.co.kr/view/?no=20261027060701",
+    "summary": "[지디넷코리아]PHP에 이어 자바스크립트 서버 실행 환경인 노드.js(Node.js)에서도 보안 취약점이 발견됐다.Node.js는 자바를 서버에서 실행할 수 있게 해주는 환경이다. 웹과 클라우드 개발에서 상당히 중요한 위치를 차지하고 있다.AI 기반 오펜시브 사이버 보안 기업 티오리(Theori, 대표 박세준)는 웹 서버 및 백엔드 개발에 광범위하게 쓰이는 Node.js 런타임의 치명적 취약점인 ‘Node2shell(CVE-2026-111497)’에 대해 자체 재현 및 검증을 완료하고, 기업·기관을 위한 긴급 대응 가이드를 공개했다",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-10-27T06:07:01+09:00"
+   },
+   {
+    "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-27T04:57:23+09:00"
+   },
+   {
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "link": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
+    "summary": "Apple has rolled out software updates for all its platforms today.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-10-27T04:47:56+09:00"
+   },
+   {
+    "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+    "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+    "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"lat",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T03:53:15+09:00"
+   },
+   {
+    "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+    "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+    "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T03:22:19+09:00"
+   },
+   {
+    "title": "The RealReal won’t let AI agents hog designer clothing",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve sy",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-10-27T02:30:55+09:00"
+   },
+   {
+    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+    "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+    "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-27T01:27:17+09:00"
+   },
+   {
+    "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+    "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+    "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-10-26T08:44:34+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "Three or more social activities ‘protect’ against cognitive decline",
+    "link": "https://www.nursingtimes.net/older-peoples-nursing/three-or-more-social-activities-protect-against-cognitive-decline-26-10-2026/",
+    "summary": "Diverse and sustained social activities may boost cognitive performance and slow the decline in brain health associated with ageing, according to findings from a large international study. The post Three or more social activities ‘protect’ against cognitive decline appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-27T05:36:14+09:00"
+   },
+   {
+    "title": "Judge Denies Nightingale College’s Request for Preliminary Injunction",
+    "link": "https://nurse.org/news/nightingale-college-preliminary-injunction-denied/",
+    "summary": "A Sacramento County Superior Court judge has denied Nightingale College’s request for a preliminary injunction in its lawsuit against the California Board of Registered Nursing. After hearing arguments Oct. 23,…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-27T05:08:43+09:00"
+   },
+   {
+    "title": "Former nurse appointed as chief executive of Leeds inquiry trust",
+    "link": "https://www.nursingtimes.net/leadership/former-nurse-appointed-as-chief-executive-of-leeds-inquiry-trust-26-10-2026/",
+    "summary": "Former nurse Brendan Brown has been appointed as the chief executive of a South Yorkshire trust at the centre of a high-profile maternity services inquiry. The post Former nurse appointed as chief executive of Leeds inquiry trust appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-26T23:46:23+09:00"
+   },
+   {
+    "title": "Seven Needles: What Went Wrong in the Christa Pike Execution",
+    "link": "https://nurse.org/news/christa-pike-execution-iv-needles/",
+    "summary": "Editor's note: This piece examines nursing practice standards, professional ethics, and documented procedures as they apply to Tennessee's September 30, 2026 execution attempt. It does not take a position on…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-26T22:18:56+09:00"
+   },
+   {
+    "title": "Nurses Don't Need More Complexity. They Need Their Time Back.",
+    "link": "https://nurse.org/news/nurses-need-their-time-back/",
+    "summary": "Editor's note: The author is Senior Vice President of Growth and Commercial Strategy (US) at Navenio, a healthcare technology company focused on workflow coordination. Nurse.org received no compensation for this…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-26T22:11:12+09:00"
+   },
+   {
+    "title": "Theatre assistants continue to strike over pay in Yorkshire",
+    "link": "https://www.nursingtimes.net/workforce/theatre-assistants-continue-to-strike-over-pay-in-yorkshire-26-10-2026/",
+    "summary": "Theatre assistants employed by a trust in South Yorkshire remain on indefinite strike over pay grades as their union warns the new trust chief executive to make resolving their pay-dispute his “top priority”. The post Theatre assistants continue to strike over pay in Yorkshire appeared first on Nurs",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-26T18:50:57+09:00"
+   },
+   {
+    "title": "정부, 루게릭 등 희귀질환 ‘전문요양병원’ 시범사업 착수",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45603",
+    "summary": "루게릭병(근위축성측삭경화증) 등 지속적인 고난도 의료·재활 관리가 필요한 중증근육성 희귀질환자를 위해 정부가 ‘전문요양병원’ 모델을 도입하고 보상 체계 개편에 나선다. 획일적인 일당정액수가로 인해 현장에서 외면받던 중증 희귀질환자에 대한 적정 치료 기반을 마련하겠다는 취지다.보건복지부는 이 같은 내용을 골자로 하는 ‘중증근육성희귀질환 전문요양병원 건강보험 시범사업’ 참여기관을 11월 5일까지 공모한다고 23일 밝혔다. 사업 기간은 오는 11월부터 2029년 10월까지 총 3년이다.국내 루게릭병 환자는 2020년 2484명에서 202",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-10-26T18:26:31+09:00"
+   },
+   {
+    "title": "서울의료원 등 시립병원 8곳, 의료취약층 찾아 독감 예방접종",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043994",
+    "summary": "서울의료원을 비롯한 서울시 산하 8개 시립병원이 쪽방촌 주민과 노숙인 등 의료취약계층 1,200여명을 대상으로 찾아가는 인플루엔자(독감) 예방접종을 실시한다.서울의료원은 서울시 나눔진료봉사단이 지난 20일부터 오는 29일까지 총 6회에 걸쳐 의료취약계층을 대상으로 독감 예방접종을 진행한다고 밝혔다. 이번 접종에는 서울의료원과 보라매병원, 동부병원, 북부병원, 서북병원, 서남병원, 어린이병원, 은평병원 등 8개 시립병원이 참여한다.봉사단은 다시서기 희망지원센터 등에 현장 진료소를 설치하고, 의사와 간호사가 직접 방문해 예방접종을 실시",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-10-26T18:07:24+09:00"
+   },
+   {
+    "title": "전남대병원, 한국임직원공제회와 복지 강화 업무협약 체결",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014837",
+    "summary": "[의학신문·일간보사=차원준 기자] 전남대학교병원이 한국임직원공제회와 임직원의 교육·연수 지원 확대 및 문화·복지 프로그램 연계를 위한 업무협약을 맺었다.병원은 지난 20일 오후 2시 행정동 2층 접견실에서 협약식을 진행했다. 병원 측에서는 정신 원장을 비롯해 심중식 사무국장, 최옥자 간호부장, 손성덕 총무과장 등이, 공제회 측에서는 오풍연 회원사업이사, 박충훈 호남권지역본부장, 조원철 오프라인마케팅팀장, 장경민 전남광주지부 사무국장 등이 참석했다.협약에 따라 양 기관은 신규·퇴직 예정 임직원 연수 시 공제회 사업 안내와 장소 제공,",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-10-26T17:09:15+09:00"
+   },
+   {
+    "title": "‘How we can use the State of the World’s Nursing report to reclaim our future?’",
+    "link": "https://www.nursingtimes.net/global-nursing/how-we-can-use-the-state-of-the-worlds-nursing-report-to-reclaim-our-future-26-10-2026/",
+    "summary": "Lois Ezebuiro warns that nursing is on the brink and asks how can the profession use the WHO State of the World’s Nursing report to reclaim its future. The post ‘How we can use the State of the World’s Nursing report to reclaim our future?’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-26T17:00:52+09:00"
+   },
+   {
+    "title": "2026 Nurse Strikes: Complete List of Active and Planned Strikes",
+    "link": "https://nurse.org/articles/nurse-strikes-list/",
+    "summary": "Image: NJ.com This tracker is the live front end of a larger Nurse.org project we're calling Nurse Strike Intelligence. Nurse walkouts are rising fast, but the reporting on them is…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-26T16:00:00+09:00"
+   },
+   {
+    "title": "Gonorrhoea: factsheet on sexually transmitted infections",
+    "link": "https://www.nursingtimes.net/public-health/gonorrhoea-factsheet-on-sexually-transmitted-infections-26-10-2026/",
+    "summary": "This factsheet discusses gonorrhoea; it is part of a collection on sexually transmitted infections. The post Gonorrhoea: factsheet on sexually transmitted infections appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-10-26T15:02:37+09:00"
+   },
+   {
+    "title": "원광대병원, ‘국가지정 입원치료병상 전담인력 교육·모의훈련’ 실시",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=241609",
+    "summary": "[라포르시안] 원광대학교병원(병원장 서일영)이 지난 23일 병원 내 국가지정 입원치료병상에서 신종감염병 위기 상황에 대비하기 위한 ‘전담인력 교육 및 화재대응 모의훈련’을 실시했다고 26일 밝혔다.이번 훈련은 국가지정 입원치료병상 운영 중 격리구역에 화재가 발생하는 복합재난 상황에서 음압격리 환자의 안전한 대피와 감염 확산 차단을 동시에 달성할 수 있도록 기존에 도출된 대응 매뉴얼의 미비점을 보완하고 개선하기 위해 마련했다. 이날 훈련에는 감염관리실 주관으로 간호부, 55병동 간호사, 관리팀, 총무팀 등 주요 전담인력이 대거 참석했",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-10-26T14:29:25+09:00"
+   },
+   {
+    "title": "제주대학교병원 간호현장 맞춤형CPR 시뮬레이션 교육",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21515",
+    "summary": "제주대학교병원(병원장 장원영) 간호부는 임상간호사의 심정지 초기 대응능력과 팀 기반 소생술 역량을 강화하기 위해 직접 임상현장을 찾아가는 ‘CPR Skill UP! - One Minute, One Team, One Life’ 교육을 운영하고 있다.이번 교육은 8월부터 11월까지 4개월간 16개 부서, 간호사 295명을 대상으로 총 29회에 걸쳐 진행중이다.기존 교육실 중심의 심폐소생술 교육에서 한 단계 더 나아가, 간호사가 실제 근무하는 부서에서 부서별 환자 특성을 반영한 시나리오와 현장의 응급장비를 활용하는 맞춤형 시뮬레이션 교육",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-10-26T10:26:51+09:00"
+   },
+   {
+    "title": "Top PMHNP Programs in California",
+    "link": "https://nurse.org/education/pmhnp-programs-california/",
+    "summary": "California has 19 Board-approved psychiatric-mental health nurse practitioner (PMHNP) programs currently accepting students, with MSN, DNP, and post-graduate certificate pathways available. Programs vary widely in cost, format, and degree type,…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-26T09:00:00+09:00"
+   },
+   {
+    "title": "10 Best Online RN to MSN Programs of 2026",
+    "link": "https://nurse.org/education/online-rn-msn-programs/",
+    "summary": "Online RN to MSN programs are an excellent option for working nurses seeking to advance their education. Graduates can become advanced practice registered nurses (APRNs) or non-clinical specialists like educators…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-10-26T09:00:00+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "진료비 비교부터 처방·조제까지…美 월마트, 의료 플랫폼 확대",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=420125",
+    "summary": "미국 월마트가 의료서비스 검색과 가격 비교 기능을 강화하며 약국과 진료를 연결하는 디지털 헬스케어 사업을 확대했다. 미국 의료전문매체 피어스헬스케어는 26일(현지시간) 월마트가 헬스케어 기업 제너럴메디슨(General Medicine)과 협력해 '베터 케어 서비스(Better Care Services)'를 확대했다고 보도했다. 개편된 플랫폼에서는 900개 이상의 의료 상품과 서비스를 검색할 수 있다. 비대면·대면 긴급진료를 비롯해 검사, 일차의료, 만성질환 관리, 정신건강 상담 등이 포함됐다. 소비자는 개인 보험정보를 바탕으로 예상",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-10-27T09:09:30+09:00"
+   },
+   {
+    "title": "권익위 \"부당청구 병원 과징금, 업무정지로 못바꿔\"",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80239",
+    "summary": "[히트뉴스=이우진 기자] 요양급여를 부당청구해 과징금을 부과받은 의료재단이 재정 부담을 이유로 업무정지로 바꿔달라며 낸 행정심판 청구가 기각됐다.국민권익위원회 소속 중앙행정심판위원회는 처분이 적법·정당한 이상 이미 부과된 과징금을 사후에 업무정지로 변경할 수 없다고 판단했다고 27일 밝혔다.국민건강보험법에 따르면 보건복지부장관은 요양기관이 속임수나 부당한 방법으로 요양급여비용을 부담하게 한 경우 업무정지 처분을 내리거나 이에 갈음해 과징금을 부과할 수 있다.중앙행심위에 따르면 ㄱ의료재단은 2022년부터 2024년 사이 요양급여를 부",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-10-27T08:47:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/27/26",
+    "link": "https://histalk2.com/2026/10/26/morning-headlines-10-27-26/",
+    "summary": "HHS Finalizes HTI-5 Deregulatory Rule to Encourage Innovation and Reduce Health IT Certification Program Compliance Costs HHS releases the Health Data, Technology, and Interoperability: ONC Deregulatory Actions to Unleash Prosperity (HTI-5) Final Rule to reduce ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-27T07:41:13+09:00"
+   },
+   {
+    "title": "Sutter Health Expands Remote Monitoring Program to Patients with Heart Failure",
+    "link": "https://medcitynews.com/2026/10/sutter-health-expands-remote-monitoring-program-to-patients-with-heart-failure/",
+    "summary": "Sutter Health, a nonprofit healthcare system based in Sacramento, California, is expanding its digital chronic disease management program, Sutter Sync, to include patients with heart failure. The expansion adds a remote monitoring technology from San Francisco-based medical tech company BodyPort. Th",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-27T02:48:02+09:00"
+   },
+   {
+    "title": "Curbside Consult with Dr. Jayne 10/26/26",
+    "link": "https://histalk2.com/2026/10/26/curbside-consult-with-dr-jayne-10-26-26/",
+    "summary": "I appreciated Mr. H’s recent poll asking readers which healthcare organization frustrated them the most in the last 12 months. I would love to compare the responses of healthcare and healthcare-adjacent respondents, such as HIStalk ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-26T21:43:04+09:00"
+   },
+   {
+    "title": "Readers Write: Wearables Deliver the Data, Healthcare Needs to Build the Bridge to Make Them Useful",
+    "link": "https://histalk2.com/2026/10/26/readers-write-wearables-deliver-the-data-healthcare-needs-to-build-the-bridge-to-make-them-useful/",
+    "summary": "Wearables Deliver the Data, Healthcare Needs to Build the Bridge to Make Them UsefulBy Mike McSherry Mike McSherry is co-founder and CEO of Xealth. Healthcare is entering an era of unprecedented signal generation thanks to ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-26T21:02:08+09:00"
+   },
+   {
+    "title": "FDA Alignment Is a Starting Point, Not a Rare Disease Strategy for the European Market",
+    "link": "https://medcitynews.com/2026/10/fda-alignment-is-a-starting-point-not-a-rare-disease-strategy-for-the-european-market/",
+    "summary": "[Sponsored] For US biotech companies developing rare disease therapies, decisions about clinical evidence, patient populations and regulatory advice can have consequences in Europe long before a marketing application is submitted. The post FDA Alignment Is a Starting Point, Not a Rare Disease Strate",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-26T20:30:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 10/26/26",
+    "link": "https://histalk2.com/2026/10/25/morning-headlines-10-26-26/",
+    "summary": "University Hospitals disconnects online systems after detecting ‘unusual activity’ on servers Cleveland-based University Hospitals shuts down some of its systems following an unspecified cybersecurity issue. Kivo Health nabs $10M for lung disease Kivo Health, which ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-26T08:33:14+09:00"
+   },
+   {
+    "title": "CareValidate Launches Expanded HRT Offering",
+    "link": "https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/",
+    "summary": "CareValidate expanded its HRT offering for telehealth companies, combining hormone therapy with provider access, pharmacy services and AI-powered care coordination. The post CareValidate Launches Expanded HRT Offering appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-26T08:22:54+09:00"
+   },
+   {
+    "title": "Monday Morning Update 10/26/26",
+    "link": "https://histalk2.com/2026/10/25/monday-morning-update-10-26-26/",
+    "summary": "Top News Cleveland-based University Hospitals shuts down some of its systems following an unspecified cybersecurity issue. The health system makes the boilerplate assurance that patient care is not impacted, which if taken at face value ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-10-25T23:20:00+09:00"
+   },
+   {
+    "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+    "link": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+    "summary": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not. The post Phy",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-25T22:21:00+09:00"
+   },
+   {
+    "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+    "link": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+    "summary": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between ",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-10-25T21:30:00+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "An mHealth Intervention to Support Caregivers in Delivering Safer Home-Based Care: Protocol for a Participatory Approach and Feasibility Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931347/",
+   "journal": "Nursing reports (Pavia, Italy)",
+   "authors": "Busca E, Basso I, Stedile M 외",
+   "pubdate": "2026 Oct 21"
+  },
+  {
+   "title": "Artificial Intelligence Readiness in Nursing: A Scoping Review of Knowledge, Attitudes, Practice, and Emerging Evidence on Patient Safety Culture.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931343/",
+   "journal": "Nursing reports (Pavia, Italy)",
+   "authors": "Tawhari SH, Tumala RB, Tawhari YH",
+   "pubdate": "2026 Oct 19"
+  },
+  {
+   "title": "Artificial Intelligence Legal Literacy and Procedure-Concordant Use of an AI-Enabled Early-Warning System Among Hospital Nurses in Romania.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931341/",
+   "journal": "Nursing reports (Pavia, Italy)",
+   "authors": "Tănase AD, Mureșan CO, Dinu Ș 외",
+   "pubdate": "2026 Oct 18"
+  },
+  {
+   "title": "Artificial Intelligence and AI-Adjacent Digital Technologies in Nursing Practice Within Gastroenterology: A Scoping Review of Current Applications, Challenges, and Future Directions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931330/",
+   "journal": "Nursing reports (Pavia, Italy)",
+   "authors": "Barros S, Carvalho A, Macedo G 외",
+   "pubdate": "2026 Oct 10"
+  },
+  {
+   "title": "An Exploratory Qualitative Study of Postgraduate Nursing Students' Experiences of Using GenAI in Learning Nursing Leadership.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931325/",
+   "journal": "Nursing reports (Pavia, Italy)",
+   "authors": "Chan JHM, Yousef K, Alananzeh I 외",
+   "pubdate": "2026 Oct 3"
+  },
+  {
+   "title": "How Multidisciplinary Teams Are Reshaping Adult IBD Management: A Narrative Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42930810/",
+   "journal": "Journal of personalized medicine",
+   "authors": "Todeschini A, Teso MV, Barugola G 외",
+   "pubdate": "2026 Oct 21"
+  },
+  {
+   "title": "Cared for But Not Cared About? AI and the Moral Practice of Nursing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929698/",
+   "journal": "Nursing philosophy : an international journal for healthcare professionals",
+   "authors": "Kimani RW",
+   "pubdate": "2026 Oct"
+  },
+  {
+   "title": "Balancing Innovation and Humanity: Advanced Practice Nurses Harnessing AI in Mental Health Care.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929446/",
+   "journal": "Journal of the American Psychiatric Nurses Association",
+   "authors": "Henry-Okafor QO, Schroer ME, Russell RG",
+   "pubdate": "2026 Oct 26"
+  },
+  {
+   "title": "A Rapid Systematic Review of AI-Generated and Human-Generated Real-Time Feedback in Nursing Education.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929064/",
+   "journal": "International nursing review",
+   "authors": "Rajasekaran R, Attawet J, Bhandari P 외",
+   "pubdate": "2026 Dec"
+  },
+  {
+   "title": "Improving Haemorrhage Prediction in General Ward Patients by Incorporating Patterns of Change Derived From Routine Ward Measurements.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42928406/",
+   "journal": "Journal of clinical nursing",
+   "authors": "Kim Y, Choo HJ, Lee SM",
+   "pubdate": "2026 Oct 25"
+  }
+ ]
+}
