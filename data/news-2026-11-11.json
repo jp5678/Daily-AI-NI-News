@@ -1,0 +1,670 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T09:58:26.604386+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-11-12T09:00:00+09:00"
+   },
+   {
+    "title": "구글, 최강 프론티어 AI ‘제미나이 4 카본’ 공개…복잡한 장기 작업 수행하는 에이전틱 AI 강화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42682",
+    "summary": "구글이 복잡한 문제를 여러 단계에 걸쳐 해결하고 장시간 작업을 수행하는 데 특화된 새로운 프론티어 AI 모델 ‘제미나이 4 카본(Gemini 4 Carbon)’을 공개했다. 소프트웨어 개발과 사이버보안, 과학 연구 등 전문적인 업무에서 추론과 검증을 반복하는 에이전틱 AI 역량을 강화한 것이 핵심이다.구글은 제미나이 4 카본을 자사의 가장 강력한 프론티어 모델로 소개하고, 복잡한 지식 업무와 소프트웨어 엔지니어링, 웹 개발, 사이버보안, 과학적 추론 등에서 높은 성능을 발휘하도록 설계했다고 10일(현지시간) 밝혔다. 특히 여러 단계",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-11-11T09:48:17+09:00"
+   },
+   {
+    "title": "위드네트웍스, 금융정보보호 컨퍼런스서 AI 기반 자산·취약점 통합관리 기술 선보여",
+    "link": "https://www.etnews.com/20261111000066",
+    "summary": "인공지능(AI) 기반 정보통신기술(ICT)·사이버보안 전문기업 위드네트웍스가 관리되지 않는 응용프로그램인터페이스(API)를 탐지하고 보안 취약점을 통합 관리하는 기술을 선보인다. 위드네트웍스(대표 안종업)는 12일 서울 여의도 콘래드 서울에서 열리는 '금융정보보호 컨퍼런스(FISCON) 2026'에 참가해 AI 기반 자산·보안 취약점 통합관리 플랫폼 '위드브이티엠(withVTM)'을 소개한다고 11일 밝혔다. 올해 20회를 맞는 FISCON은",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:32:48+09:00"
+   },
+   {
+    "title": "어드밴텍, 로보월드 2026서 피지컬 AI·로보틱스 기술 선보여",
+    "link": "https://www.etnews.com/20261111000057",
+    "summary": "산업용 컴퓨팅 및 엣지 인공지능(AI) 솔루션 전문기업 어드밴텍이 국내 최대 로봇산업 전시회에서 피지컬 AI와 로보틱스 기술을 선보이며 산업현장 적용 전략을 공유했다. 어드밴텍은 지난 4일부터 7일까지 경기 고양시 킨텍스에서 열린 '로보월드 2026'에 파트너사 ALLAI와 공동 참가해 로봇의 인지·추론부터 이동·작업 제어까지 지원하는 다양한 솔루션을 소개했다고 밝혔다. 공동 전시관은 '로봇 인지(Robotic Perception)'와 '공장",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:22:41+09:00"
+   },
+   {
+    "title": "동신대, 美 UCLA 방문단과 교육·연구 협력 방안 모색",
+    "link": "https://www.etnews.com/20261111000055",
+    "summary": "동신대학교(총장 이주희)는 10일 세계 명문대학인 미국 캘리포니아대학교 로스앤젤레스(UCLA) 방문단과 만나 인공지능(AI) 기반 교육혁신 성과를 공유하고 교육·연구 분야 교류 협력 방안을 모색했다. 이날 동신대를 방문한 UCLA 방문단은 크리스티나 크리스티 UCLA 교육정보대학 학장, 애나매리 프랑수아 UCLA 교육정보대학원 공공협력 담당 부학장, 린 킴-존 UCLA 교육정보대학 산하 Center X 상임이사 등 5명으로 구성됐다. 이날 UC",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:21:53+09:00"
+   },
+   {
+    "title": "나인테크, AI서버용 냉각 시스템으로 'CES 2027' 혁신상 2개 수상",
+    "link": "https://www.etnews.com/20261111000052",
+    "summary": "나인테크가 차세대 인공지능(AI) 서버용 하이브리드 냉각 시스템(HTRC)으로 'CES 2027'에서 '엔터프라이즈 테크'와 '에너지 전환·지속가능성' 부문에서 2관왕을 달성했다고 11일 밝혔다. 미국소비자기술협회(CTA)가 수여하는 CES 혁신상은 기술력과 디자인을 엄격히 평가해 상위 10% 이내 제품에만 수여된다. 나인테크 HTRC는 공랭·수랭·열전 기술을 하나의 랙 케이지에 통합한 솔루션이다. 별도 대형 칠러 시설 없이도 고밀도 AI 컴퓨",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:21:01+09:00"
+   },
+   {
+    "title": "국립광주과학관, AI 특별전 '모두의 A.I.' 성료…87일간 3만 1천여 명 관람",
+    "link": "https://www.etnews.com/20261111000049",
+    "summary": "국립광주과학관(관장 이정구)은 지난 7월 30일부터 이달 8일까지 87일간 기획전시실에서 인공지능(AI) 특별전 '모두의 A.I.(On-A.I.)'를 성황리에 운영했다. 이번 특별전에는 3만 1천여 명의 관람객이 다녀갔다. 휴머노이드 로봇과 생성형 AI, 지역 AI 기술 등 35점의 전시품을 직접 체험할 수 있도록 구성해 어린이부터 성인까지 다양한 연령층의 관람객에게 인공지능을 경험하는 기회를 제공했다. 휴머노이드 로봇 '아메카'와의 일대일 대",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:18:48+09:00"
+   },
+   {
+    "title": "[기고] AI 시대, 정보시스템 안전을 지키는 감리 역할",
+    "link": "https://www.etnews.com/20261111000048",
+    "summary": "최근 금융권을 겨냥한 연쇄 해킹 사고는 정보시스템의 안전성을 다시 생각하게 한다. 일부 시중은행에서는 대출모집인 전용 서비스 등을 통해 고객정보가 유출됐다. 반면에 국책은행의 경우 유사한 공격을 받고도 피해는 아직 확인되지 않고 있다. 국회 제출 자료에 따르면 한국은행과 3개 국책은행은 2020년부터 2026년 9월까지 약 499만건 해킹 시도를 탐지했고, 그중 올해에는 102만건이 넘지만, 해킹에 따른 침해사고는 보고되지 않았다. 이러한 차이",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-11T09:18:27+09:00"
+   },
+   {
+    "title": "[AI리더의 서가] 파이토치로 배우는 현대 인공지능",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217031",
+    "summary": "파이토치로 배우는 현대 인공지능김태훈 | 한빛아카데미2026년 7월 3일추천이유독자는 신경망 기초부터 트랜스포머, LLM까지 현대 딥러닝의 핵심 이론을 학습하고 파이토치로 직접 구현하며, 개인화 음성 어시스턴트 프로젝트를 통해 실무 기반의 AI 엔지니어로 성장할 수 있습니다.상세보기 \"LLM API로 서비스는 몇 개 만들어 봤어요. 그런데 내부가 어떻게 돌아가는지는 모르겠습니다. 원리부터 다시 공부하려면 어떤 책을 봐야 하나요?\" 영풍문고 북마스터가 이런 질문을 받는다면 한빛아카데미가 지난 7월 펴낸 『 파이토치로 배우는 현대 인공",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-11-11T09:00:00+09:00"
+   },
+   {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T06:08:52+09:00"
+   },
+   {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T05:52:13+09:00"
+   },
+   {
+    "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+    "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+    "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns Cha",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-11T05:17:00+09:00"
+   },
+   {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T04:57:52+09:00"
+   },
+   {
+    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+    "link": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+    "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-11T04:48:40+09:00"
+   },
+   {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T04:23:34+09:00"
+   },
+   {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T04:03:52+09:00"
+   },
+   {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+    "source": "Google AI 블로그",
+    "lang": "en",
+    "published": "2026-11-11T04:00:00+09:00"
+   },
+   {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-11T03:49:52+09:00"
+   },
+   {
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "link": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-11T03:41:52+09:00"
+   },
+   {
+    "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+    "link": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+    "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, whi",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-11T03:19:13+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "에누리 가격비교, 피부·모발 관리하는 복합형 콜라겐 인기…거래액 전년동기대비 908.7% 급증",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409544",
+    "summary": "[테크월드=이광재 기자] 기온이 떨어지고 건조한 날씨가 이어지는 시기에는 피부 보습과 머릿결 관리에 더욱 신경 쓰게 된다. 이러한 가운데 최근 피부뿐 아니라 모발 건강까지 고려한 콜라겐 제품이 주목받고 있다.에누리 가격비교는 10월 한 달간 콜라겐 제품 판매 데이터를 분석한 결과 피부와 모발을 함께 관리할 수 있는 복합형 제품의 성장세가 두드러졌다고 11일 밝혔다.해당 기간 거래액을 전년 동기와 비교한 결과 비오틴, 아연 등 모발 건강 성분이 복합된 스킨·모발 복합 콜라겐 제품군은 908.7% 급증했으며 어류 추출 원료를 차별화한",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-11-11T09:50:00+09:00"
+   },
+   {
+    "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+    "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+    "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-11T09:34:34+09:00"
+   },
+   {
+    "title": "Why your Roku might be plugged into the wrong HDMI port",
+    "link": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
+    "summary": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T09:30:00+09:00"
+   },
+   {
+    "title": "신한투자증권, '2027 금융시장 포럼' 개최...AI·산업별 투자전략 제시",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714450",
+    "summary": "[디지털투데이 오상엽 기자] 신한투자증권이 11일부터 12일까지 이틀간 '2027년 신한 금융시장 포럼'을 열고 내년 경제와 금융시장, 주요 산업별 투자전략을 제시한다.신한투자증권은 글로벌 경제와 금융시장 불확실성이 확대되는 가운데 인공지능(AI) 투자 패러다임 변화와 주요 산업의 성장 전망을 점검하기 위해 이번 포럼을 마련했다고 11일 밝혔다.포럼에서는 국가 간 전략산업 경쟁과 공급망 재편, AI 산업의 수익성 검증 등 금융시장의 주요 변화를 살펴보고 새로운 투자 기회를 점검한다.첫날인 11일에는 '2027년 경제 및 금융시장 전",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-11-11T09:28:04+09:00"
+   },
+   {
+    "title": "속초 찹쌀떡, 성수동서 만난다…이마트24 ‘육구방앗간’ 팝업",
+    "link": "https://zdnet.co.kr/view/?no=20261111091746",
+    "summary": "[지디넷코리아]이마트24가 속초 떡집 ‘육구방앗간’의 대표 상품을 성수동 편의점에서 한정 판매한다. 지난 9월 지역 떡집과 진행한 팝업에 이어 두 번째 행사로 떡을 디저트로 즐기는 수요를 공략한다.이마트24는 오는 13일 플래그십 매장 ‘트렌드랩 성수점’에서 육구방앗간의 ‘찹쌀모찌’ 9개입 상품을 선보인다고 11일 밝혔다. 오전 11시부터 한정 수량으로 판매하며 준비한 물량이 소진되면 마감한다.강원도 속초에 있는 육구방앗간은 밀가루 없이 찹쌀을 쪄 떡을 만드는 전문점이다. 대표 상품인 찹쌀모찌는 쫀득한 식감으로 SNS에서 입소문을 ",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-11-11T09:27:46+09:00"
+   },
+   {
+    "title": "“집콕하면 돈 아낄 줄 알았더니”…배달·OTT '소파 경제'에 당했다",
+    "link": "https://www.etnews.com/20261111000054",
+    "summary": "외식과 여행 대신 집에서 여가를 보내는 미국인이 늘면서 이른바 '소파 경제(Couch Economy)'가 새로운 소비 트렌드로 떠오르고 있다. 고물가에 외부 활동을 줄였지만 배달 음식과 온라인 쇼핑, 스트리밍 구독 등에 지출이 몰리면서 집에 머무는 것이 반드시 절약으로 이어지지는 않는다는 분석이다. 최근 야후파이낸스에 따르면 소파 경제는 외식과 여행, 공연 관람 등 외부 활동 대신 집에서 이용할 수 있는 상품과 서비스에 소비가 집중되는 현상을",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-11T09:21:20+09:00"
+   },
+   {
+    "title": "Robot vessels take on the dangerous work of mine hunting",
+    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-11T09:19:13+09:00"
+   },
+   {
+    "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+    "link": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+    "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T09:03:54+09:00"
+   },
+   {
+    "title": "How to get this Siri camera upgrade for your iPad before its public release",
+    "link": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
+    "summary": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T09:00:00+09:00"
+   },
+   {
+    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+    "link": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
+    "summary": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T08:42:04+09:00"
+   },
+   {
+    "title": "How SCSKiller is trying to fix shader stuttering in PC games",
+    "link": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
+    "summary": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T08:30:00+09:00"
+   },
+   {
+    "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
+    "link": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+    "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-11T08:00:00+09:00"
+   },
+   {
+    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-11T07:52:15+09:00"
+   },
+   {
+    "title": "앤트로픽, 19일 나스닥 상장…공모가 70~78달러·86조원 조달 추진",
+    "link": "https://www.etnews.com/20261111000002",
+    "summary": "인공지능(AI) 클로드를 운영하는 앤트로픽이 기업공개(IPO)를 진행해 최대 1조4000억달러의 기업가치를 인정받는 것을 목표로 삼았다. 기존 시장에서 거론되던 1조5000억달러보다는 다소 낮은 수준이다. 앤트로픽은 오는 18일 공모가를 확정하고 19일 나스닥에 상장할 예정이다. 엔비디아와 구글 등에 대한 사모 배정 260억달러를 포함해 총 904억달러를 조달하며, 공모가 범위 상단 기준 기업가치는 약 1조4000억달러(약 1876조원)다. 1",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-11T07:16:02+09:00"
+   },
+   {
+    "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+    "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+    "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-11T07:07:22+09:00"
+   },
+   {
+    "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”",
+    "link": "https://www.etnews.com/20261111000001",
+    "summary": "중국 간첩 의혹을 받는 앨리스 황(중국명 황러)이 젠슨 황 엔비디아 최고경영자(CEO)와의 관계를 악용해 엔비디아 인공지능(AI) 반도체를 중국으로 들여왔다는 보도가 나왔다. 로이터 통신은 10일(현지시간) 미 정보기술(IT) 전문매체 디인포메이션을 인용해 황 CEO와 앨리스 황의 연인 관계가 최소 75억달러(약 10조원) 규모 엔비디아 AI 칩을 중국 기업들에 우회 유출·운송하는 데 기여했다고 전했다. 보도에 따르면 앨리스 황은 남편으로 알려",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-11T07:05:16+09:00"
+   },
+   {
+    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-11T06:40:31+09:00"
+   },
+   {
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-11T06:22:36+09:00"
+   },
+   {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "source": "Ars Technica",
+    "lang": "en",
+    "published": "2026-11-11T06:12:59+09:00"
+   },
+   {
+    "title": "Sony cancels live-service shooter Fairgames",
+    "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+    "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchi",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-11T06:06:12+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "은평성모병원, 스마트 물류관리 체계 구축…의료진 업무 부담 80% 줄여",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=46481",
+    "summary": "가톨릭대학교 은평성모병원이 무선주파수식별(RFID) 기술을 활용한 의료기기 통합 물류관리 시스템을 구축해 재고조사 시간을 80% 이상 단축했다. 수술실 등 진료 부서에서 의료진이 직접 수행하던 물품관리 업무를 물류센터로 이관하면서 환자 진료와 간호에 집중할 수 있는 환경을 마련했다.가톨릭대학교 은평성모병원은 '가납 의료기기 RFID 통합관리 시스템'을 구축하고, 병원 주도의 스마트 물류관리 체계를 운영한다고 11월 11일 밝혔다.가납 의료기기는 수술이나 응급상황 등에 대비해 병원에 미리 비치하는 고가 치료재료와 소모품 등을 말한다.",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-11-11T09:17:12+09:00"
+   },
+   {
+    "title": "간호대생 3명 중 1명 \"원거리 임상실습 비용 부담에 휴학·학업 중단 고려\"",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=242283",
+    "summary": "[라포르시안] 간호대학생 3명 중 1명은 원거리 임상실습에 따른 경제적 부담으로 휴학이나 학업 중단을 고려한 경험이 있는 것으로 나타났다. 실습 과정에서 안전 위협이나 불안을 느낀 학생도 10명 중 7명에 달해 정부 차원의 지원 대책이 필요하다는 지적이 나온다.11일 국회 교육위원회 강경숙 의원(조국혁신당)과 대한간호협회가 지난 6일부터 9일까지 전국 간호학과 3·4학년 재학생 2,156명을 대상으로 실시한 '원거리 임상실습 실태조사'에 따르면 응답자의 96.9%가 원거리 실습을 경험한 것으로 조사됐다.간호대학생은 졸업을 위해 임상",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-11-11T08:05:00+09:00"
+   },
+   {
+    "title": "Nurse Practitioner Week 2026: Dates, History & Ideas",
+    "link": "https://nurse.org/articles/nurse-practitioner-week/",
+    "summary": "National Nurse Practitioner Week 2026 runs Sunday, November 8, through Saturday, November 14. Organized by the American Association of Nurse Practitioners (AANP), this annual celebration recognizes nurse practitioners (NPs) and…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-11T05:28:00+09:00"
+   },
+   {
+    "title": "Building the Future of Nursing Together",
+    "link": "https://www.myamericannurse.com/building-the-future-of-nursing-together-2/",
+    "summary": "When we honor leaders who have served before us, I am reminded that nursing is always about something larger than any one individual. We inherit a legacy, we build upon it, and we leave it stronger for those who come next. After 28 years as a nurse, I can honestly say that I have never...",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T03:41:24+09:00"
+   },
+   {
+    "title": "Urgent action needed to cut CVD risk in people with severe mental illness",
+    "link": "https://www.nursingtimes.net/cardiovascular/urgent-action-needed-to-cut-cvd-risk-in-people-with-severe-mental-illness-10-11-2026/",
+    "summary": "Ministers must take urgent action to address “stark” cardiovascular inequalities that contribute to shorter life expectancy in people with severe mental illness, according to a new report from a leading charity. The post Urgent action needed to cut CVD risk in people with severe mental illness appea",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T03:38:54+09:00"
+   },
+   {
+    "title": "ONA Welcomes New 2026 – 2027 Board Members",
+    "link": "https://www.myamericannurse.com/ona-welcomes-new-2026-2027-board-members/",
+    "summary": "Each year, the Oklahoma Nurses Association is strengthened by the leadership, dedication, and service of its Board of Directors. We are pleased to welcome our incoming 2026–2027 board members, whose experience, perspective, and commitment to nursing will help guide ONA’s work in the year ahead. We a",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T03:35:15+09:00"
+   },
+   {
+    "title": "Oklahoma Nurses Association Honors Nursing Excellence",
+    "link": "https://www.myamericannurse.com/oklahoma-nurses-association-honors-nursing-excellence/",
+    "summary": "The Oklahoma Nurses Association celebrated nurses, healthcare partners and nursing teams from across the state during as its 2026 Award Recipients, whose work reflects courage, leadership, innovation and a lasting commitment to improving patient care. This year’s award recipients embody the very bes",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T03:27:13+09:00"
+   },
+   {
+    "title": "Artificial Intelligence and the Scope of Nursing Practice: Implications for Oklahoma Nurses",
+    "link": "https://www.myamericannurse.com/artificial-intelligence-and-the-scope-of-nursing-practice-implications-for-oklahoma-nurses/",
+    "summary": "Artificial intelligence (AI) is no longer a future concept in healthcare; it is embedded in clinical decision support, predictive analytics, documentation systems, and population health management (Sassi et al., 2025). As these technologies expand, a critical question emerges for the profession: Doe",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T03:11:27+09:00"
+   },
+   {
+    "title": "Annual Legislative Impact Summary: Strengthening Oklahoma’s Response to Domestic Violence",
+    "link": "https://www.myamericannurse.com/annual-legislative-impact-summary-strengthening-oklahomas-response-to-domestic-violence/",
+    "summary": "The Oklahoma Domestic Violence Fatality Review Board (DVFRB) continues to play a critical role in improving victim safety and preventing domestic violence homicides across the state. Through its multidisciplinary review of domestic violence-related fatalities, the Board identifies systemic gaps, ana",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T02:52:10+09:00"
+   },
+   {
+    "title": "Followers Wanted: The Hidden Skill of Great Leaders",
+    "link": "https://www.myamericannurse.com/followers-wanted-the-hidden-skill-of-great-leaders/",
+    "summary": "OACNS Most nurses aspire to become better leaders. We pursue certifications, advanced degrees, formal leadership roles, and opportunities to influence change. We learn to communicate effectively, navigate conflict, inspire others, and move ideas into action. Leadership is a common professional aspir",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-11T02:33:20+09:00"
+   },
+   {
+    "title": "When a Nurse Wants to Quit After an Error, Who Helps?",
+    "link": "https://nurse.org/news/nurse-second-victim-support-after-errors/",
+    "summary": "A 2026 synthesis of 21 studies involving 272 nurses describes what can follow a patient safety incident: shame, silence, damaged confidence and thoughts of leaving nursing. For nurses struggling after…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-11T02:09:04+09:00"
+   },
+   {
+    "title": "New director of midwifery appointed for Yorkshire hospital trust",
+    "link": "https://www.nursingtimes.net/midwifery-and-neonatal/new-director-of-midwifery-appointed-for-yorkshire-hospital-trust-10-11-2026/",
+    "summary": "Leeds Teaching Hospitals NHS Trust has announced the appointment of a new director of midwifery with national leadership experience to help turn around performance in maternity care. The post New director of midwifery appointed for Yorkshire hospital trust appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T01:43:07+09:00"
+   },
+   {
+    "title": "Alison Walsh",
+    "link": "https://www.nursingtimes.net/students/alison-walsh-10-11-2026/",
+    "summary": "Hello, my name is Alison. I’m a third-year student mental health nurse on the registered nurse degree apprenticeship programme at the University of Chester. As a regular reader of the Nursing Times throughout my time as a student, I’m excited to be joining the team… The post Alison Walsh appeared fi",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T01:32:09+09:00"
+   },
+   {
+    "title": "Rachel Swan",
+    "link": "https://www.nursingtimes.net/students/rachel-swan-10-11-2026/",
+    "summary": "Hello, I’m Rachel and I am currently studying adult nursing at Edinburgh Napier University. I began my journey into nursing for the same reason many of us do: to care for others and to make a meaningful difference in people’s lives. Prior to starting my… The post Rachel Swan appeared first on Nursin",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T01:30:54+09:00"
+   },
+   {
+    "title": "Melissa Moyo",
+    "link": "https://www.nursingtimes.net/students/melissa-moyo-10-11-2026/",
+    "summary": "I’m Melissa Moyo, a final-year nursing associate apprentice at Manchester University NHS Foundation Trust, studying at the University of Salford, where I also serve as lead representative within the School of Health, Communities and Life Sciences. I’m also a Royal College of Nursing student ambassad",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T01:26:30+09:00"
+   },
+   {
+    "title": "Lila Masterman",
+    "link": "https://www.nursingtimes.net/students/lila-masterman-10-11-2026/",
+    "summary": "Hello! My name is Lila and I am a third-year student children’s nurse at the University of Leeds. My journey into nursing began in 2013 with an obsession with CBBC’s Operation Ouch! and a first aid kit that I would proudly attach to my jeans… The post Lila Masterman appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-11T01:24:50+09:00"
+   },
+   {
+    "title": "This Nurse Helped Cure the First Louisiana Patient From Sickle Cell Anemia",
+    "link": "https://nurse.org/news/lynn-winfield-sickle-cell-gene-therapy/",
+    "summary": "When Lynn Winfield, MBA, BSN, RN, NEA-BC, CPHON, was in high school, she read a book that would go on to change her life. The book was Eric by Doris…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-10T23:06:52+09:00"
+   },
+   {
+    "title": "How Nurse Practitioners Are Actually Using AI, From Charting to Chronic Care",
+    "link": "https://nurse.org/articles/nurse-practitioners-using-ai/",
+    "summary": "Editor's note: The author is Director of Growth Initiatives at CollabDocs, a company that matches nurse practitioners and physician assistants with collaborating physicians. Nurse.org received no compensation for this article.The…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-10T22:16:04+09:00"
+   },
+   {
+    "title": "[Medical Report] 뇌경색 후 LDL 콜레스테롤, 목표 수치와 ‘감소 폭’ 함께 살펴야 外",
+    "link": "https://www.hkn24.com/news/articleView.html?idxno=351627",
+    "summary": "[헬스코리아뉴스 / 임해리] 용인세브란스병원 연구팀이 뇌경색 환자의 저밀도지단백(LDL) 콜레스테롤 감소 폭과 뇌졸중 재발·심근경색·사망 위험의 연관성을 확인했다. 가톨릭대 연구팀은 골전이 전립선암 환자의 데노수맙 장기 투여에 따른 턱뼈괴사 위험을 분석했고, 이대서울병원 연구팀은 관상동맥 주변 지방조직의 염증 신호 변화와 동맥경화반 진행의 관련성을 밝혔다. 대한전공의협의회는 수도권·비수도권 전공의 정원 5대 5 배정 철회를 요구했다. 하나로 의료재단 이종두 센터장은 한국핵의학청봉상을 수상했으며, 국립중앙의료원은 간호·간병통합서비스",
+    "source": "헬스코리아뉴스",
+    "lang": "ko",
+    "published": "2026-11-10T17:55:25+09:00"
+   },
+   {
+    "title": "실습비 부담에 학업 중단까지…간호대생 3명 중 1명 '휴학 고민'",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044458",
+    "summary": "간호대생 10명 중 9명은 원거리 임상실습에 따른 숙박비와 교통비 등 추가 비용으로 경제적 부담을 겪고 있는 것으로 나타났다. 3명 중 1명은 비용 부담으로 휴학이나 학업 중단가지 고려했다. 국회 교육위원회 소속 조국혁신당 강경숙 의원은 대한간호협회와 함께 지난 6일부터 9일까지 전국 간호학과 3·4학년 재학생 2,156명을 대상으로 실시한 ‘원거리 임상실습 실태조사’ 결과를 10일 공개했다. 조사 결과, 응답자 96.9%가 원거리 실습을 경험했다. 원거리 임상실습은 주거지와 실습기관 간 거리가 멀어 통학이 어렵거나 실습 시작·종료",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-11-10T17:13:39+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "동아ST, 캄보디아 헤브론의료원에 의약품 1억5000만원 기부",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=421490",
+    "summary": "동아에스티가 캄보디아 의료 취약계층을 대상으로 의약품과 디지털 의료기기를 활용한 의료 지원을 이어가고 있다. 2018년부터 지속해 온 전문의약품 기부 규모를 올해 확대하는 한편, 지난해부터는 웨어러블 환자 모니터링 시스템을 통한 현지 의료진 지원도 병행하고 있다. 동아에스티는 지난 10일 캄보디아 프놈펜에 위치한 헤브론의료원에 1억5000만원 규모의 전문의약품을 기부했다고 11일 밝혔다. 이번 기부는 캄보디아 현지 의료 취약계층의 치료를 지원하기 위해 마련됐다. 동아에스티는 2018년부터 헤브론의료원에 전문의약품을 기부해 왔으며,",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-11-11T09:54:18+09:00"
+   },
+   {
+    "title": "Oura’s Buys Counsel for $625M, But Will Payers and Consumers Get on Board?",
+    "link": "https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/",
+    "summary": "Oura will be integrating Counsel Health’s clinical AI and virtual care into its app, but will payers and employers cover the Oura ring as a benefit? And will consumers sign on to pay a much more expensive monthly subscription for AI-enabled medical insights and access to licensed physicians? The pos",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-11T09:12:49+09:00"
+   },
+   {
+    "title": "Morning Headlines 11/11/26",
+    "link": "https://histalk2.com/2026/11/10/morning-headlines-11-11-26/",
+    "summary": "Google Cloud Launches Gemini for Healthcare Google Cloud previews Gemini for healthcare, which uses data from EHR and billing systems, clinical guidelines, and CMS datasets to help providers and payers automate clinical and operational workflows. ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-11T08:53:10+09:00"
+   },
+   {
+    "title": "News 11/11/26",
+    "link": "https://histalk2.com/2026/11/10/news-11-11-26/",
+    "summary": "Top News Google Cloud previews Gemini for healthcare, which uses data from EHR and billing systems, clinical guidelines, and CMS datasets to help providers and payers automate clinical and operational workflows. The product includes AI ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-11T06:35:48+09:00"
+   },
+   {
+    "title": "상장 날개 단 바로팜, 약국 넘어 의사·소비자·해외로 '연결점 확대'",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80656",
+    "summary": "\"너희가 제약사냐, 도매상이냐, 라는 질문을 자주 들어요.그럴 때마다 저희는 각 플레이어를 연결하는 걸 한다고 답합니다.\" 2024년 10월, 바로팜 간담회에서 김슬기 대표 [히트뉴스=이우진 기자] 2019년 약국 재고를 한 번에 보는 서비스로 출발했던 바로팜이 딱 7년 만에 '헬스케어 통합 플랫폼'이라는 타이틀을 달고 코스닥 시장에 등판한다. 플랫폼을 기반으로 의사ㆍ약사ㆍ소비자는 물론 제약과 화장품의 판로를 만드는 종합기업으로 도약하는 셈인데 '수요와 공급'이라는 틀을 쌓아온 이들이 향후 시장에서 어떤 성과를 낼지 주목된다.한국거",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-11-11T06:08:00+09:00"
+   },
+   {
+    "title": "New Campaign Wants AI Applications To Look Beyond Speed",
+    "link": "https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/",
+    "summary": "Healthcare has plenty of tedious administrative work which could benefit from AI’s efficiency – but what if simply speeding up an already broken system isn’t the answer? Healthcare leaders push for a re-built, AI-native system in Anterior’s recent Beyond Faster Horses campaign. The post New Campaign",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-11T01:32:38+09:00"
+   },
+   {
+    "title": "Morning Headlines 11/10/26",
+    "link": "https://histalk2.com/2026/11/09/morning-headlines-11-10-26/",
+    "summary": "$5+ billion AI healthcare company confirms layoffs Healthcare AI documentation company Abridge confirms it has laid off an unspecified number of employees as part of an organizational realignment. Trump Administration Announces $10 Billion in Second ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-10T08:54:12+09:00"
+   },
+   {
+    "title": "Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Drug. You Came for Health”",
+    "link": "https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/",
+    "summary": "In a panel discussion, executives from Noom, Omada, Virta and Twin Health discussed how they are going beyond the pill in their GLP-1 strategy and responded to a question about whether they will exist two-to-three years from now. The post Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Dru",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-10T07:22:40+09:00"
+   },
+   {
+    "title": "Simulation-Guided Clinical Trials: Is EU Law Ready?",
+    "link": "https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/",
+    "summary": "Simulations do not replace human judgment: they inform it, making transparent what would otherwise remain a “black box.” EU law does not require them today; but a proportionate embrace, in the right legislative vehicle, with clear methodological standards, and without crushing noncommercial research",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-09T23:54:00+09:00"
+   },
+   {
+    "title": "Curbside Consult with Dr. Jayne 11/9/26",
+    "link": "https://histalk2.com/2026/11/09/curbside-consult-with-dr-jayne-11-9-26/",
+    "summary": "During some recent travels, I stumbled upon a monument that commemorates the use of ether for surgical anesthesia. It reads, “To commemorate the discovery that the inhaling of ether causes insensibility to pain. First proved ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-09T23:52:51+09:00"
+   },
+   {
+    "title": "Readers Write: What Rural Health Transformation Looks Like From a Mountain Town",
+    "link": "https://histalk2.com/2026/11/09/readers-write-what-rural-health-transformation-looks-like-from-a-mountain-town/",
+    "summary": "What Rural Health Transformation Looks Like From a Mountain TownBy Doug Grapski Doug Grapski, MS is VP of strategy and operations at Praia Health. I live in a small mountain town in the Sierra Nevada. ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-09T23:32:39+09:00"
+   },
+   {
+    "title": "Nkarta Autoimmune Disease Cell Therapy’s First Human Data Show Safety, Signs of Efficacy",
+    "link": "https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/",
+    "summary": "Nkarta will present initial clinical data for its natural killer cell therapy in two disorders, myositis and systemic sclerosis, during the American College of Rheumatology annual in Orlando this week. The biotech is part of a growing group of companies developing therapies that reset the immune sys",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-09T21:00:00+09:00"
+   },
+   {
+    "title": "What’s Driving the Consumerization of Healthcare?",
+    "link": "https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/",
+    "summary": "Patients increasingly expect convenient, consumer-focused healthcare experiences, panelists said at the recent MedCity INVEST Digital Health Conference. The post What’s Driving the Consumerization of Healthcare? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-09T10:57:01+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "Remote patient management reduces liver-related hospitalizations in patients with acutely decompensated cirrhosis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007295/",
+   "journal": "Hepatology (Baltimore, Md.)",
+   "authors": "Calleri A, Deng Y, Hara KS 외",
+   "pubdate": "2026 Nov 9"
+  },
+  {
+   "title": "Artificial Intelligence and Adolescent Depression and Anxiety: Clinical Potential, Developmental Risks, Ethical Safeguards, and Nursing Implications.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43006989/",
+   "journal": "Journal of child and adolescent psychiatric nursing : official publication of the Association of Child and Adolescent Psychiatric Nurses, Inc",
+   "authors": "Abuhammad S",
+   "pubdate": "2026 Nov"
+  },
+  {
+   "title": "Community-Based Educational and Counseling Interventions to Support Breastfeeding: A Scoping Review of Models, Implementation, and Outcomes.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43005590/",
+   "journal": "International journal of women's health",
+   "authors": "Novianti SW, Mediani HS, Fitri SYR 외",
+   "pubdate": "2026 Nov 3"
+  },
+  {
+   "title": "Status and influencing factors of artificial intelligence readiness among nursing students.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43005000/",
+   "journal": "Frontiers in medicine",
+   "authors": "Qin H, Zeng T, Liu L",
+   "pubdate": "2026 Oct 26"
+  },
+  {
+   "title": "Tele-Emergency Care Reduced Emergency Department Visits and Shifted Care to Primary Care Settings in the Veterans Affairs System.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003137/",
+   "journal": "Health services research",
+   "authors": "Rose L, Tran LD, Urech TH 외",
+   "pubdate": "2026 Dec"
+  },
+  {
+   "title": "Thirty-Day Readmission Risk Stratification at Hospital Discharge: Single-Center Temporal Validation and Nursing Implementation Readiness Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002732/",
+   "journal": "JMIR nursing",
+   "authors": "Po HW, Huang TY, Chu YC 외",
+   "pubdate": "2026 Nov 9"
+  },
+  {
+   "title": "Internet Access, Health-Related Internet Use, and Pelvic Floor Muscle Exercise Adherence Among Prostate Cancer Patients With Urinary Incontinence After Radical Prostatectomy: A Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001635/",
+   "journal": "Cancer nursing",
+   "authors": "Huang H, He Y, Qu Y 외",
+   "pubdate": "2026 Nov 9"
+  },
+  {
+   "title": "Ethical Governance of Artificial Intelligence in Nursing Management: Frameworks, Challenges, and Leadership Imperatives.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001626/",
+   "journal": "Journal of nursing management",
+   "authors": "Tobar SK",
+   "pubdate": "2026"
+  },
+  {
+   "title": "The intersection between leadership, DEIB and professional identity in nursing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001043/",
+   "journal": "Journal of research in nursing : JRN",
+   "authors": "Varghese J, Pereira A",
+   "pubdate": "2026 Nov 7"
+  },
+  {
+   "title": "Digital Interventions in Hospital-To-Home Transitions: Self-Care and Quality of Life Through Fundamental Care and Navigation Health Literacy: A Systematic Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001010/",
+   "journal": "Journal of advanced nursing",
+   "authors": "Valentim P, Arriaga M, Costa A",
+   "pubdate": "2026 Nov 9"
+  }
+ ]
+}
