@@ -1,387 +1,483 @@
 {
- "date": "2026-11-12",
- "generatedAt": "2026-11-12T11:05:28.450246+09:00",
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T10:37:50.749056+09:00",
  "articles": {
   "ai": [
    {
-    "title": "KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42705",
-    "summary": "KT와 마이크로소프트가 숙련된 통신망 엔지니어의 경험과 전문지식을 학습한 에이전틱 인공지능(AI) 플랫폼을 공동 개발해 네트워크 장애 탐지 시간을 기존 10분 이상에서 2~3분으로 단축했다. AI가 통신망의 이상 징후를 실시간으로 분석하고 장애 원인을 신속하게 파악하도록 지원하면서, 네트워크 운영의 효율성과 안정성을 동시에 높이는 성과를 거뒀다.마이크로소프트는 11일(현지시간) KT와 공동 개발한 지능형 네트워크 운영 플랫폼 'AIO-Net'의 기술 구조와 현장 적용 성과를 공개했다. 이 플랫폼은 전국 통신망에서 발생하는 방대한 데",
+    "title": "파네시아·인텔, CXL 실증 협력...AI 데이터센터 메모리 확장 추진",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=21949",
+    "summary": "AI 데이터센터에서 서버별로 분산된 메모리 자원을 효율적으로 활용하기 위한 기술 협력이 시작됐다. AI 반도체 기업 파네시아가 인텔코리아와 컴퓨트익스프레스링크(CXL) 기반 메모리 확장 기술을 검증하고, 여러 서버를 연결하는 랙 단위 AI 인프라 구현 가능성을 살핀다.파네시아는 12일 서울 코엑스에서 열린 ‘인텔 AI 서밋 서울 2026’에서 인텔코리아와 CXL 기술 협력을 위한 업무협약을 체결했다고 밝혔다. 양사는 인텔 제온 플랫폼에 파네시아의 CXL 스위치 등 인터커넥트 반도체를 결합해 메모리 확장 구조를 검증하고, 실제 AI",
+    "source": "THE AI",
+    "lang": "ko",
+    "published": "2026-11-13T10:28:39+09:00"
+   },
+   {
+    "title": "전장 검증된 자율 무인체계에 7억달러 투자…우크라이나계 '유포스', 영국서 생산 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42721",
+    "summary": "우크라이나 전쟁에서 실전 운용 경험을 축적한 자율 무인체계 기술이 영국 정부의 대규모 투자와 결합해 글로벌 방위산업으로 확장되고 있다. 영국에 본사를 둔 우크라이나계 국방기술기업 유포스(UFORCE)가 7억 달러(약 9천억원) 규모의 투자를 유치하고, 인공지능(AI) 기반 무인체계의 생산과 소프트웨어 개발 역량을 영국에서 확대한다.영국 국방부(Ministry of Defence)와 국가자산펀드(National Wealth Fund)는 12일(현지시간) 유포스의 7억 달러 규모 시리즈 A 투자 유치와 영국 내 생산시설 확장 계획을 발",
     "source": "인공지능신문",
     "lang": "ko",
-    "published": "2026-11-12T10:41:13+09:00"
+    "published": "2026-11-13T10:09:32+09:00"
    },
    {
-    "title": "엔비디아 이사회, 젠슨 황 해임 논의 착수…주가 시간외 8% 급락",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217304",
-    "summary": "엔비디아 이사회가 젠슨 황 CEO의 해임 여부를 결정하기 위한 회의에 들어간 것으로 알려졌다. 중국 스파이 의혹을 받는 여성과의 불륜에 이어 회사 내부 임원과의 또 다른 관계까지 보도되면서 사흘 전 황 CEO에 대한 신뢰를 표명했던 이사회가 거취를 논의하는 상황에 이른 것이다. 엔비디아 주가는 시간외거래에서 약 8% 급락했다.로이터는 11일(현지시간) 사안에 정통한 소식통을 인용, 엔비디아 이사회가 황 CEO의 해임 여부를 결정하기 위한 회의를 진행하고 있다고 보도했다. 앞서 월스트리트저널(WSJ)도 이사회가 황 CEO의 해임을 준",
+    "title": "[AI리더의 서가] AI 컴플라이언스 실무가이드",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217033",
+    "summary": "AI 컴플라이언스 실무가이드법무법인 화우 AI센터 | 법률신문사2026년 7월 30일추천이유기업이 AI를 안전하게 개발하고 운영하기 위해 알아야 할 법적 리스크와 대응 방안을 종합적으로 제시합니다. 저자는 한국과 EU, 미국 등의 규제를 비교하고 헬스케어·금융·자율주행 등 산업별 쟁점을 분석하며, 즉시 활용 가능한 가이드라인과 체크리스트를 제공합니다.상세보기 연말은 기업이 내년 사업계획을 짜는 시기다. 올해는 계획서에 새 항목이 하나 더 붙는다. 지난 1월 22일 「 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법 」, 이른바 A",
     "source": "AI타임스",
     "lang": "ko",
-    "published": "2026-11-12T09:56:27+09:00"
+    "published": "2026-11-13T09:00:00+09:00"
    },
    {
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "source": "OpenAI 뉴스",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-11-12T09:00:00+09:00"
+    "published": "2026-11-13T07:42:51+09:00"
+   },
+   {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-13T07:22:28+09:00"
    },
    {
     "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-11-12T08:50:00+09:00"
+    "published": "2026-11-13T06:35:00+09:00"
    },
    {
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-11-12T08:28:45+09:00"
+    "published": "2026-11-13T06:27:10+09:00"
    },
    {
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-11-12T08:17:05+09:00"
-   },
-   {
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-11-12T05:15:15+09:00"
-   },
-   {
-    "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-    "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-    "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article G",
+    "title": "Claude Meetings lets Anthropic's AI join your video calls",
+    "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+    "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic'",
     "source": "The Decoder",
     "lang": "en",
-    "published": "2026-11-12T05:12:46+09:00"
+    "published": "2026-11-13T05:26:50+09:00"
    },
    {
-    "title": "Meta is losing its longtime head of infrastructure",
-    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
     "source": "TechCrunch AI",
     "lang": "en",
-    "published": "2026-11-12T05:12:01+09:00"
+    "published": "2026-11-13T05:26:47+09:00"
    },
    {
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-11-12T05:02:14+09:00"
-   },
-   {
-    "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
-    "link": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
-    "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has ",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-11-12T04:35:11+09:00"
-   },
-   {
-    "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
-    "link": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
-    "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to ex",
-    "source": "The Decoder",
-    "lang": "en",
-    "published": "2026-11-12T03:18:25+09:00"
-   },
-   {
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "source": "Google AI 블로그",
-    "lang": "en",
-    "published": "2026-11-12T03:00:00+09:00"
-   },
-   {
-    "title": "What to know about this year’s UN climate talks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
     "source": "MIT Technology Review",
     "lang": "en",
-    "published": "2026-11-12T02:00:00+09:00"
+    "published": "2026-11-13T05:16:24+09:00"
    },
    {
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-11-13T05:00:00+09:00"
+   },
+   {
+    "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+    "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+    "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and stil",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-13T04:58:43+09:00"
+   },
+   {
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-13T04:27:45+09:00"
+   },
+   {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
     "source": "Google AI 블로그",
     "lang": "en",
-    "published": "2026-11-12T01:00:00+09:00"
+    "published": "2026-11-13T03:00:00+09:00"
    },
    {
-    "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-    "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-    "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fu",
+    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+    "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+    "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not",
     "source": "The Decoder",
     "lang": "en",
-    "published": "2026-11-12T00:12:53+09:00"
+    "published": "2026-11-13T01:58:11+09:00"
    },
    {
-    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-    "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-    "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The a",
+    "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
+    "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
+    "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder .",
     "source": "The Decoder",
     "lang": "en",
-    "published": "2026-11-11T23:25:20+09:00"
+    "published": "2026-11-12T23:11:40+09:00"
    },
    {
-    "title": "MCU용 NPU로 엣지 AI 최적화한 TI “추론 전력 95% 줄여”",
-    "link": "http://www.newstheai.com/news/articleView.html?idxno=21936",
-    "summary": "텍사스 인스트루먼트(TI)가 11일 서울 코엑스에서 열린 ‘임베디드 랩스 2026 코리아’에서 칩 안에 AI 전용 가속기를 넣는 전략을 설명했다. 박중서 TI코리아 대표의 기조연설에 이어 연단에 오른 허정혁 이사는 엣지 AI가 임베디드 제품에 왜 맞는지, 어떤 칩이 그 역할을 맡는지 순서대로 짚었다. 허 이사는 화재 경보기를 예로 들었다. 정밀한 화재 판별 AI를 클라우드에 두면 현장의 통신 상태가 나쁠 때 감지가 늦어질 수 있는데, 이런 상황은 용납될 수 없다는 것이다. 클라우드 AI는 성능이 우수하지만 모든 센서 데이터를 서버로",
-    "source": "THE AI",
-    "lang": "ko",
-    "published": "2026-11-11T22:53:51+09:00"
-   },
-   {
-    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-    "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
-    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and ",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "link": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That",
     "source": "The Decoder",
     "lang": "en",
-    "published": "2026-11-11T22:51:11+09:00"
+    "published": "2026-11-12T22:48:19+09:00"
    },
    {
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w",
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN clim",
     "source": "MIT Technology Review",
     "lang": "en",
-    "published": "2026-11-11T22:10:00+09:00"
+    "published": "2026-11-12T22:10:00+09:00"
+   },
+   {
+    "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+    "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+    "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-12T21:09:43+09:00"
+   },
+   {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-11-12T21:00:00+09:00"
    }
   ],
   "it": [
    {
-    "title": "투자운용업계 AI 확산의 역설…도입률 87%, 전략적 활용은 소수",
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714875",
-    "summary": "[디지털투데이 최재원 기자] 글로벌 투자운용사 10곳 중 9곳이 AI를 도입했지만, 실제 투자 판단에 활용하는 곳은 소수에 그친 것으로 나타났다. AI 확산 속도에 비해 수익 창출과 위험 관리 등 핵심 업무의 변화는 더디다는 분석이다.11일(이하 현지시간) 핀테크 뉴스 스위스에 따르면 블랙록(BlackRock)의 투자관리 플랫폼 알라딘(Aladdin)이 의뢰하고 포레스터 컨설팅(Forrester Consulting)이 수행한 조사에서 금융기관의 87%가 AI 기능을 도입하거나 업무에 활용하고 있다고 답했다. 조사는 올해 5~7월 자",
+    "title": "디티앤씨, 2억원 규모 자기주식 취득 결정",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715229",
+    "summary": "[디지털투데이 임민철 에디터] 비임상·임상시험 서비스 기업 디티앤씨(187220)가 2억원 규모의 자기주식 취득을 결정했다고 13일 공시했다.취득 예정 주식은 보통주 11만9331주로 기재됐다. 이 수량은 취득예정금액을 이사회 결의일 전일인 2026년 11월 12일 종가 1676원으로 나눠 산정됐으며, 향후 주가 변동 등에 따라 취득 주식수가 달라질 수 있다고 명시됐다.취득 예상 기간은 2026년 11월 16일부터 2026년 12월 15일까지이며, 취득 방법은 코스닥시장을 통한 장내 매수로 기재됐다. 위탁투자중개업자는 하나증권이다.",
     "source": "디지털투데이",
     "lang": "ko",
-    "published": "2026-11-12T11:00:05+09:00"
+    "published": "2026-11-13T10:32:01+09:00"
    },
    {
-    "title": "콩가텍, COM-HPC 캐리어 설계 가이드 개정본 2.3 공개",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409646",
-    "summary": "[테크월드=이광재 기자] 콩가텍이 COM-HPC 캐리어 설계 가이드 개정본 2.3(PICMG COM-HPC Carrier Design Guide, Rev. 2.3)을 공개했다.개정본은 제조업체 독립 표준 그룹 PICMG가 발행한 것으로 COM-HPC 표준 기반의 맞춤형 캐리어 보드를 설계하는 전자 엔지니어와 PCB 레이아웃 엔지니어에게 업데이트된 최신 실무 지침을 제공한다.크리스티안 이더 콩가텍 마켓 인텔리전스 이사겸 COM-HPC 워킹그룹 의장은 “COM-HPC는 소형 폼팩터 피지컬 AI 애플리케이션부터 임베디드 서버 및 워크스테",
+    "title": "아시아나IDT-한진정보통신, 하천 수질정화·생태회복 공동 봉사활동 실시",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409733",
+    "summary": "[테크월드=이광재 기자] 아시아나IDT가 한진정보통신과 함께 서울 은평구 불광천에서 수질 정화와 생태계 복원을 위한 ‘EM 흙공(유용 미생물군과 황토를 반죽해 만든 공)’ 제작 및 던지기 봉사활동을 실시했다고 밝혔다.이번 활동은 ‘ESG 친환경 사회공헌 캠페인’ 일환으로 환경에 대한 교육을 시작으로 EM 흙공 만들기, 흙공 던지기 등으로 진행됐다.회사측 설명에 의하면 EM 흙공은 화학물질을 사용하지 않고 황토와 유용 미생물군 발효액을 반죽해 만든 친환경 정화재로 강이나 하천에 투입하면 수질 개선과 악취 제거에 효과가 있는 것으로 알",
     "source": "테크월드뉴스",
     "lang": "ko",
-    "published": "2026-11-12T10:50:00+09:00"
+    "published": "2026-11-13T10:30:00+09:00"
    },
    {
-    "title": "주민번호 무단 수집하고 개인정보 방치...알뜰폰 8곳 제재",
-    "link": "https://zdnet.co.kr/view/?no=20261112074211",
-    "summary": "[지디넷코리아]알뜰폰 사업자 8곳이 법적 근거 없이 주민등록번호를 수집하거나 중요 개인정보를 암호화하지 않고 보관하는 등 개인정보 보호 의무를 위반해 제재를 받았다. 선택 동의를 필수 항목으로 지정해 동의하지 않으면 개통할 수 없도록 한 사례도 적발됐다.개인정보보호위원회는 11일 전체회의에서 알뜰폰 사업자 8곳에 과징금 총 6090만원과 과태료 총 1억 1040만원을 부과하고 시정명령과 공표명령을 내리기로 의결했다.조사 대상은 KT엠모바일, 미디어로그, 에스원, LG헬로비전, SK텔링크, 유니컴즈, 국민은행, KT스카이라이프다. 개",
+    "title": "엔라이튼, 기술성평가 통과…내년 코스닥 상장 예고",
+    "link": "https://zdnet.co.kr/view/?no=20261113094155",
+    "summary": "[지디넷코리아]에너지 기후테크 기업 엔라이튼(대표 이영호)는 코스닥 기술특례상장을 위한 기술성평가를 통과했다고 지난 12일 밝혔다. 이번 결과를 바탕으로 엔라이튼은 내년 상장을 목표로 기업공개(IPO) 절차를 본격화한다.엔라이튼은 한국거래소가 지정한 전문평가기관 2곳에서 각각 A등급과 BBB등급을 획득해 상장예비심사 청구 자격을 확보했다. 앞서 예비 기술성평가에서 A등급을 받은 데 이어, 본평가도 통과하며 기술력과 사업성을 공식적으로 인정받았다.이번 평가에서 엔라이튼은 인공지능(AI) 기반 모니터링·예측·제어 기술의 완성도와 독자성",
     "source": "ZDNet Korea",
     "lang": "ko",
-    "published": "2026-11-12T10:00:03+09:00"
+    "published": "2026-11-13T09:58:51+09:00"
    },
    {
-    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
+    "title": "Donald Trump really wants Tim Cook to run Nvidia",
+    "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+    "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking g",
     "source": "The Verge",
     "lang": "en",
-    "published": "2026-11-12T09:55:40+09:00"
+    "published": "2026-11-13T09:51:25+09:00"
    },
    {
-    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-    "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-frie",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-11-12T08:14:34+09:00"
-   },
-   {
-    "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
-    "link": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/",
-    "summary": "The company was throttling speeds for plans offered under the Affordable Broadband Act.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T07:46:07+09:00"
-   },
-   {
-    "title": "United won’t let your AI agent book your flight",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like ",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-11-12T06:54:21+09:00"
-   },
-   {
-    "title": "United is restricting AI agents from booking flights",
-    "link": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
-    "summary": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T05:09:44+09:00"
-   },
-   {
-    "title": "Google brings the Gemini app to Apple CarPlay",
-    "link": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-    "summary": "The chatbot was already available through the Google Maps app.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T04:54:55+09:00"
-   },
-   {
-    "title": "ByteDance is reportedly working on its own AI agent",
-    "link": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
-    "summary": "The Chinese company wants to compete with Meta's Muse.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T04:42:19+09:00"
-   },
-   {
-    "title": "How many SpaceX Starship rocket tests have failed?",
-    "link": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
-    "summary": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T04:27:00+09:00"
-   },
-   {
-    "title": "Cash App founder's killer gets 16 years to life in prison",
-    "link": "https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison/",
-    "summary": "Bob Lee died from multiple stab wounds in 2023.",
-    "source": "Engadget",
-    "lang": "en",
-    "published": "2026-11-12T03:57:37+09:00"
-   },
-   {
-    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-    "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-    "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-11-12T03:13:52+09:00"
-   },
-   {
-    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-    "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which a",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-11-12T02:09:58+09:00"
-   },
-   {
-    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
-    "source": "The Verge",
-    "lang": "en",
-    "published": "2026-11-11T23:15:27+09:00"
-   },
-   {
-    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-    "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
     "source": "BBC Technology",
     "lang": "en",
-    "published": "2026-11-11T20:33:24+09:00"
+    "published": "2026-11-13T09:13:35+09:00"
    },
    {
-    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "title": "Xbox announces Wolfenstein 3",
+    "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+    "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-13T09:11:44+09:00"
+   },
+   {
+    "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+    "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+    "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on othe",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-13T08:43:22+09:00"
+   },
+   {
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-13T08:34:05+09:00"
+   },
+   {
+    "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+    "link": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
+    "summary": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T08:32:00+09:00"
+   },
+   {
+    "title": "Humble Bundle redesign removes two-factor verification from settings",
+    "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+    "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-fa",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-13T08:30:52+09:00"
+   },
+   {
+    "title": "Microsoft Outlook is still down",
+    "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-13T08:25:01+09:00"
+   },
+   {
+    "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+    "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+    "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynam",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-13T07:07:18+09:00"
+   },
+   {
+    "title": "Who is Collette Kress, NVIDIA's interim CEO?",
+    "link": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+    "summary": "Kress spent 25 years in various finance roles before joining NVIDIA in 2013",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T04:26:47+09:00"
+   },
+   {
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "link": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
+    "summary": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T04:17:32+09:00"
+   },
+   {
+    "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
+    "link": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
+    "summary": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T02:53:08+09:00"
+   },
+   {
+    "title": "Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense",
+    "link": "https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/",
+    "summary": "It comes three weeks after Ukraine's speeds were restored following the last throttling incident.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T02:45:03+09:00"
+   },
+   {
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-13T02:11:48+09:00"
+   },
+   {
+    "title": "Apple Sports adds live UFC updates",
+    "link": "https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/",
+    "summary": "The app can deliver real-time stats for each fight on a UFC card.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-13T02:00:00+09:00"
+   },
+   {
+    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-13T01:43:36+09:00"
+   },
+   {
+    "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
     "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
     "source": "BBC Technology",
     "lang": "en",
-    "published": "2026-11-11T16:44:24+09:00"
-   },
-   {
-    "title": "Robot vessels take on the dangerous work of mine hunting",
-    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-    "source": "BBC Technology",
-    "lang": "en",
-    "published": "2026-11-11T09:19:13+09:00"
-   },
-   {
-    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-    "source": "BBC Technology",
-    "lang": "en",
-    "published": "2026-11-11T07:52:15+09:00"
-   },
-   {
-    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-    "source": "Ars Technica",
-    "lang": "en",
-    "published": "2026-11-11T06:12:59+09:00"
+    "published": "2026-11-13T00:26:39+09:00"
    }
   ],
   "nurse": [
    {
-    "title": "강예은 충남대병원 교수, 대한내분비학회 ‘송원의학자상’",
-    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=46594",
-    "summary": "강예은 충남대학교병원 내분비대사내과 교수가 최근 열린 대한내분비학회 학술대회에서 ‘송원의학자상’을 받았다고 11월 12일 밝혔다.송원의학자상은 국내 내분비학 발전과 의사과학자 양성에 헌신한 송원 허갑범 교수의 유지를 기리기 위해 제정된 상으로, 만 45세 이하 정회원 중 우수한 연구 성과를 낸 연구자에게 수여된다.강 교수는 임상 환자 데이터와 대사체·단백체 등 첨단 오믹스 분석 기술을 융합해 내분비질환의 분자적 작용 기전을 규명하고, 새로운 진단 바이오마커와 치료 표적을 발굴하는 중개연구에 매진해 온 공로를 인정받았다. 강 교수는",
-    "source": "간호사신문",
-    "lang": "ko",
-    "published": "2026-11-12T11:04:03+09:00"
-   },
-   {
-    "title": "순천향대천안병원, 제25회 QI페스티벌 개최",
-    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016265",
-    "summary": "[의학신문·일간보사=이상만 기자] 순천향대학교 부속 천안병원(병원장 이문수)이 환자안전과 의료서비스 질 향상을 위해 교직원들이 한 해 동안 추진한 QI(Quality Improvement) 활동 성과를 공유하고, 우수사례를 확산하기 위해 11일 오후 병원 현곡홀에서 ‘제25회 QI페스티벌’을 개최했다.올해 페스티벌에서는 △고객만족 향상 △환자안전 △진료과정 및 업무개선 △수익증대 등 4개 분야에서 2부로 나뉘어 8개팀의 우수 활동성과를 공유했다.1부에서는 △협업기반 간호 현장(진료지원간호팀 이미자) △검사실 위치 안내 개선을 통한",
+    "title": "고신대복음병원 510병동, 우리 병동 자랑 공모전 '최우수병동'",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016345",
+    "summary": "[의학신문·일간보사=이균성 기자] 고신대학교복음병원(병원장 최종순)은 간호간병통합서비스 병동인 510병동이 국민건강보험공단 부산울산경남지역본부가 주최한 ‘2026 간호간병통합서비스 우리 병동 자랑 공모전’에서 최우수병동으로 선정됐다고 13일 밝혔다.건보공단 부울경본부(본부장 홍윤희)는 통합서비스를 운영하는 의료기관의 병동별 운영 노하우와 근무환경 개선 사례를 공유해 종사자들의 자긍심을 높이고, 환자와 보호자가 체감하는 간호간병서비스 수준을 향상하기 위해 이번 공모전을 개최했다.공모전에는 지역 23개 기관에서 총 41편이 접수돼 2단",
     "source": "의학신문",
     "lang": "ko",
-    "published": "2026-11-12T10:32:21+09:00"
+    "published": "2026-11-13T09:19:30+09:00"
    },
    {
-    "title": "보훈공단, 국가유공자 적정진료 보장과 공공의료 강화를 위해 심평원과 업무협약 체결",
-    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21622",
-    "summary": "한국보훈복지의료공단(이사장 직무대행 박찬호, 이하 보훈공단)은 건강보험심사평가원(이하 심사평가원)과 11월 11일(수) 심사평가원에서 보훈 진료비 심사 분야의 상호 협력을 위한 업무협약을 체결했다고 밝혔다.이번 업무협약은 국가유공자 등 보훈대상자에게 적정 진료를 보장하고, 보훈 진료비 심사 업무의 전문성과 효율성을 높이는 한편, 양 기관 간 상호협력체계 강화를 통해 보훈의료 서비스의 질과 공공성을 높이기 위해 마련됐다.보훈공단은 보훈병원 및 위탁병원의 보훈대상자 진료비에 대한 심사·평가 업무를 심사평가원에 위탁하고 있다.보훈공단은",
-    "source": "간호사타임즈",
+    "title": "“의무 끝나도 현장 지킨다” 공중보건장학 간호사들",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=46658",
+    "summary": "국립중앙의료원 공공보건의료교육훈련센터는 지난 11월 12일 서울 종로구 아미드호텔에서 ‘2026년 공중보건장학 동문 네트워크 포럼’을 열었다고 13일 밝혔다.공중보건장학제도 시범사업의 일환으로 마련된 이번 행사에는 공공보건의료기관에서 의무복무 중이거나 복무 종료 후에도 공공의료 현장을 지키고 있는 장학 동문 간호사 25명이 참석했다. 공중보건장학제도는 보건복지부와 국립중앙의료원이 지역·공공의료 인력 양성을 위해 사명감을 갖춘 학생에게 장학금과 역량 강화 교육을 지원하고, 면허 취득 후 일정 기간 공공의료기관에서 의무복무하도록 하는",
+    "source": "간호사신문",
     "lang": "ko",
-    "published": "2026-11-12T09:50:42+09:00"
+    "published": "2026-11-13T09:07:18+09:00"
    },
    {
-    "title": "What Every Nurse Should Know: Skipping Newborn Vitamin K Doubles Brain Bleed Risk",
-    "link": "https://nurse.org/news/newborn-vitamin-k-shot-bleeding-risk/",
-    "summary": "A Children’s Hospital of Philadelphia (CHOP) announcement released November 5, 2026, describes a troubling finding: newborns without documented vitamin K injections had a higher risk of bleeding during their first…",
+    "title": "Becoming someone worth thanking",
+    "link": "https://www.myamericannurse.com/becoming-someone-worth-thanking/",
+    "summary": "A few months ago, I received an email from a former student who wanted to share some news: after 8 years as a staff nurse on a medical-surgical unit, a remarkable tenure these days, she had just transferred to a different unit. Her message read, “Look what I found on my med cart!” Attached was...",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-13T06:31:40+09:00"
+   },
+   {
+    "title": "ANA President on Telehealth: Don't Let Patient Care Hang by a Thread | Opinion",
+    "link": "https://nurse.org/news/ana-president-medicare-telehealth-permanent/",
+    "summary": "Picture a 78-year-old widow in rural Mississippi who gave up her car keys last spring. Or a cattle rancher three hours from the nearest cardiologist. Or a young mother whose…",
     "source": "Nurse.org",
     "lang": "en",
-    "published": "2026-11-12T09:25:54+09:00"
+    "published": "2026-11-13T05:26:19+09:00"
    },
    {
-    "title": "순천향대서울병원, ‘간호·간병통합서비스 우수기관’ 인증",
-    "link": "https://www.rapportian.com/news/articleView.html?idxno=242352",
-    "summary": "[라포르시안] 순천향대서울병원(병원장 이성진)은 국민건강보험공단이 선정하는 ‘간호·간병통합서비스 우수기관’에 이름을 올리고 최근 공단으로부터 우수기관 현판을 받았다고 12일 밝혔다. 올해 처음 시행된 간호·간병통합서비스 우수기관 현판 수여 사업은 간호·간병통합서비스 병상을 확충하고 국민 간병비 부담을 덜기 위해 노력한 의료기관의 공로를 격려하기 위해 마련됐다.최종 선정된 기관은 전체 참여기관 837곳 중 상위 5% 이내에 해당하는 38곳이다. 서울에서는 순천향대서울병원을 비롯해 국립중앙의료원, 서울특별시보라매병원, 서울특별시서울의료",
-    "source": "라포르시안",
-    "lang": "ko",
-    "published": "2026-11-12T09:25:00+09:00"
-   },
-   {
-    "title": "Vaping could increase risk of COPD, preliminary research suggests",
-    "link": "https://www.nursingtimes.net/respiratory/vaping-could-increase-risk-of-copd-preliminary-research-suggests-11-11-2026/",
-    "summary": "Vaping several times a day may cause persistent changes in lung function in young people putting them at increased risk of a chronic and life-limiting lung condition, a new study has suggested. The post Vaping could increase risk of COPD, preliminary research suggests appeared first on Nursing Times",
+    "title": "Review finds ‘recurring patterns of harm’ at NHS Grampian",
+    "link": "https://www.nursingtimes.net/policies-and-guidance/review-finds-recurring-patterns-of-harm-at-nhs-grampian-12-11-2026/",
+    "summary": "An independent review of clinical governance at NHS Grampian has identified “recurring patterns of harm” at the health board and a need for stronger systems of learning and improvement. The post Review finds ‘recurring patterns of harm’ at NHS Grampian appeared first on Nursing Times .",
     "source": "Nursing Times",
     "lang": "en",
-    "published": "2026-11-12T04:58:43+09:00"
+    "published": "2026-11-13T02:49:14+09:00"
    },
    {
-    "title": "When the Caregiver Needs Care: An ICU Nurse on Stepping Back and Riding 948 Miles",
-    "link": "https://nurse.org/news/jenn-walsh-icu-nurse-mental-health-948-mile-ride/",
-    "summary": "Editor’s note: This story discusses mental health and suicide prevention. Support resources are listed at the end of this article. Jenn Walsh is an ambassador for the Dr. Lorna Breen…",
+    "title": "‘We must learn more about the deadliest cancer to give people precious time with their loved ones after diagnosis’",
+    "link": "https://www.nursingtimes.net/cancer/we-must-learn-more-about-the-deadliest-cancer-to-give-people-precious-time-with-their-loved-ones-after-diagnosis-12-11-2026/",
+    "summary": "Nicci Murphy from Pancreatic Cancer UK onm the steps nurses can take to help improve patient survival. The post ‘We must learn more about the deadliest cancer to give people precious time with their loved ones after diagnosis’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-13T02:19:38+09:00"
+   },
+   {
+    "title": "Top universities pledge action to curb decline in research nurses",
+    "link": "https://www.nursingtimes.net/research-and-innovation/top-universities-pledge-action-to-curb-decline-in-research-nurses-12-11-2026/",
+    "summary": "A group of the UK’s top universities has committed to boosting the number of nurses and midwives working in roles that span research and frontline patient care. The post Top universities pledge action to curb decline in research nurses appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-13T00:42:03+09:00"
+   },
+   {
+    "title": "[소년간호사] 이제부터 관습보다 근거 CPR (시리즈 통합본)",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21613",
+    "summary": "하단 문구를 클릭하시면해당 채널로 이동합니다♥[소년간호사]",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-11-13T00:00:00+09:00"
+   },
+   {
+    "title": "Nurses’ Next Big Legislative Fight Is Workplace Violence, ANA President Says",
+    "link": "https://nurse.org/news/ana-president-mensik-kennedy-nursing-policy/",
+    "summary": "From workplace violence and staffing to Medicaid cuts and nursing education funding, American Nurses Association President Jennifer Mensik Kennedy says the decisions shaping the future of nursing require nurses to…",
     "source": "Nurse.org",
     "lang": "en",
-    "published": "2026-11-12T02:33:02+09:00"
+    "published": "2026-11-12T23:45:42+09:00"
+   },
+   {
+    "title": "Health visitor strike ends in ‘victory’ with new band 7 offer",
+    "link": "https://www.nursingtimes.net/public-health/health-visitor-strike-ends-in-victory-with-new-band-7-offer-12-11-2026/",
+    "summary": "Health visitors in Wales involved in a months-long strike over pay have agreed to settle a dispute with their board and return to work as early as next week. The post Health visitor strike ends in ‘victory’ with new band 7 offer appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-12T22:28:32+09:00"
+   },
+   {
+    "title": "‘Shameful’: Hundreds of nurse job cuts across Canadian province",
+    "link": "https://www.nursingtimes.net/global-nursing/shameful-hundreds-of-nurse-job-cuts-across-canadian-province-12-11-2026/",
+    "summary": "Nursing unions in the Canadian province of Ontario are raising the alarm over cuts to hundreds of registered nurse positions. The post ‘Shameful’: Hundreds of nurse job cuts across Canadian province appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-12T21:42:38+09:00"
+   },
+   {
+    "title": "‘Reflection reminds us of who we are as professionals’",
+    "link": "https://www.nursingtimes.net/professional-regulation/reflection-reminds-us-of-who-we-are-as-professionals-12-11-2026/",
+    "summary": "Helené Donnelly on the importance of reflection in highlighting professional actions and responsibilities. The post ‘Reflection reminds us of who we are as professionals’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-12T21:23:50+09:00"
+   },
+   {
+    "title": "의료연대본부 “복지부 정책위원회서 현장 노동자·시민 배제” 주장",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044530",
+    "summary": "보건복지부가 운영하는 주요 보건의료 정책 논의 기구에서 일부 노동조합과 현장 노동자, 시민이 배제되고 있다는 지적이 나왔다.민주노총 공공운수노조 의료연대본부는 12일 복지부 세종 청사 앞에서 집회를 열고 “복지부 각종 위원회의 비민주적 운영을 중단하라”며 “정부위원회의 민주적 참여를 보장하라”고 요구했다.의료연대본부는 건강보험정책심의위원회와 간호간병통합서비스 혁신 협의체 등을 대표적인 사례로 꼽았다. 이들 기구가 보건의료 정책뿐 아니라 의료·돌봄 노동자의 노동조건과 고용에 영향을 미치지만, 정책 논의 과정에서 다양한 노동조합과 현장",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-11-12T17:06:03+09:00"
+   },
+   {
+    "title": "Brigham Nurses Reach Tentative Deal, Averting Open-Ended Strike",
+    "link": "https://nurse.org/news/brigham-nurses-open-ended-strike-october-2026/",
+    "summary": "Image source: WGBHPart of Nurse.org’s Nurse Strike Intelligence data series, built on a proprietary database tracking a decade of U.S. registered-nurse strikes (2017–2026).Update, November 12, 2026: Nurses reached a tentative…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-12T17:00:00+09:00"
+   },
+   {
+    "title": "NYC Nurse Killed by Hospital Ambulance in Hit-and-Run, Driver Charged",
+    "link": "https://nurse.org/news/nurse-killed-ambulance-brooklyn-hit-run/",
+    "summary": "Editor’s note: This article was updated on November 12, 2026, to reflect that the ambulance driver, Michael Gontar, was arrested and charged on July 1, 2026, and has pleaded not…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-12T17:00:00+09:00"
+   },
+   {
+    "title": "2026 Nurse Strikes: Complete List of Active and Planned Strikes",
+    "link": "https://nurse.org/articles/nurse-strikes-list/",
+    "summary": "Image: NJ.comThis tracker is the live front end of a larger Nurse.org project we're calling Nurse Strike Intelligence.Nurse walkouts are rising fast, but the reporting on them is scattered: a…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-12T17:00:00+09:00"
+   },
+   {
+    "title": "USF Nursing Program Director Held by ICE Mid-Semester as Court Weighs Her Case",
+    "link": "https://nurse.org/news/ann-lawani-nurse-educator-ice-detention/",
+    "summary": "Image source: University of San Francisco via FacebookDr. Ann Lawani, a practicing registered nurse who directs the statewide Master's Entry MSN program at the University of San Francisco (USF), was…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-12T13:32:22+09:00"
+   },
+   {
+    "title": "세브란스병원, 국가고객만족도(NCSI) 16년 연속 1위 달성",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=242375",
+    "summary": "[라포르시안] 세브란스병원이 한국생산성본부 주관 2026년 국가고객만족도조사(NCSI) 병원서비스업 부문에서 16년 연속 1위에 올랐다고 12일 전했다.지난 11일 서울 소공동 롯데호텔에서 열린 시상식에서 이강영 세브란스병원장이 상패를 받았다. 이번 기록은 NCSI 조사 실시 이래 의료기관 중 최장기간 1위 달성 성과다.세브란스병원은 교직원이 직접 환자경험을 기획하고 알리는 참여형 활동과 리더십이 직접 현장을 찾아 환자와 소통하는 환자 중심 병원 운영 체계를 이어온 결과라고 설명했다.올해 세브란스병원은 간호사, 방사선사, 물리치료사",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-11-12T11:02:00+09:00"
+   },
+   {
+    "title": "세브란스병원, 16년 연속 NCSI 1위",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=415361",
+    "summary": "[메디칼업저버 양영구 기자] 세브란스병원은 한국생산성본부 선정 국가고객만족도조사(NCSI) 병원서비스업 부문 16년 연속 1위에 이름을 올렸다고 12일 밝혔다. 이번 순위는 국가고객만족도조사 실시 이래 의료기관 중 최장기간 1위의 기록이다.이번 성과는 교직원이 직접 환자경험을 기획하고 알리는 참여형 활동과 병원장을 비롯한 리더십이 병동 현장을 직접 찾아 환자와 소통하는 활동 등 환자 중심 병원 운영 결과로 풀이된다.세브란스병원은 올해 교직원이 병원 안팎의 경험을 직접 영상 등으로 제작하는 '고객공감 서포터즈'를 시작했다. 간호사,",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-11-12T10:19:28+09:00"
    },
    {
     "title": "Veterans Day 2026: Thank You Nurse Veterans",
@@ -390,105 +486,73 @@
     "source": "American Nurse Journal",
     "lang": "en",
     "published": "2026-11-12T02:20:46+09:00"
-   },
-   {
-    "title": "Beyond the Bedside: A Nurse Case Manager on Helping People Navigate Their Health",
-    "link": "https://nurse.org/articles/nurse-case-manager-beyond-the-bedside/",
-    "summary": "This article is sponsored by Elevance Health. Nurse.org received compensation to publish this content. The product recommendations, claims, and views expressed are the sponsor's. Sponsored content is held to Nurse.org's…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-11-12T01:30:39+09:00"
-   },
-   {
-    "title": "Casey accuses successive governments of lacking leadership on social care",
-    "link": "https://www.nursingtimes.net/social-care/casey-accuses-successive-governments-of-lacking-leadership-on-social-care-11-11-2026/",
-    "summary": "Successive governments have been “asleep at the wheel” of adult social care, leaving the system without anyone in charge, according to Baroness Casey. The post Casey accuses successive governments of lacking leadership on social care appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-11-12T00:07:57+09:00"
-   },
-   {
-    "title": "‘Cultural exchange is an investment in developing thoughtful practitioners’",
-    "link": "https://www.nursingtimes.net/education-and-training/cultural-exchange-is-an-investment-in-developing-thoughtful-practitioners-11-11-2026/",
-    "summary": "Sarah Turner reflects on how cultural exchange placements strengthen nursing students’ professional identity and cultural competence. The post ‘Cultural exchange is an investment in developing thoughtful practitioners’ appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-11-11T21:33:19+09:00"
-   },
-   {
-    "title": "How my father’s cancer journey helped reshape cancer care at Nuffield Health",
-    "link": "https://www.nursingtimes.net/cancer/how-my-fathers-cancer-journey-helped-reshape-cancer-care-at-nuffield-health-11-11-2026/",
-    "summary": "As a cancer nurse specialist and national lead for cancer services at Nuffield Health, I have spent more than two decades supporting people through treatment. The post How my father’s cancer journey helped reshape cancer care at Nuffield Health appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-11-11T20:59:48+09:00"
-   },
-   {
-    "title": "Cheshire nurse reunited with man she saved in the street",
-    "link": "https://www.nursingtimes.net/workforce/cheshire-nurse-reunited-with-man-she-saved-in-the-street-11-11-2026/",
-    "summary": "A senior nurse in Cheshire has been reunited with a cardiac arrest survivor who tracked her down to thank her for saving his life. The post Cheshire nurse reunited with man she saved in the street appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-11-11T20:58:20+09:00"
-   },
-   {
-    "title": "Remembering the Nurses Who Served: Honoring Military Nurse Veterans This Veterans Day",
-    "link": "https://nurse.org/news/military-nurse-veterans/",
-    "summary": "This Veterans Day, we pause to honor the incredible nurses who have served our nation on the frontlines of war, in field hospitals, and in every corner of the world…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-11-11T20:20:00+09:00"
-   },
-   {
-    "title": "Nurse Converse Podcast",
-    "link": "https://nurse.org/articles/nurse-podcast/",
-    "summary": "Listen to the latest episode of Nurse Converse:>>Listen to “When the Caregiver Needs Care: An ICU Nurse on Stepping Back and Riding 948 Miles (With Jenn Walsh, RN)\"[audioplayer_nurseconverse_JennWalsh]Welcome to Nurse…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-11-11T17:00:00+09:00"
-   },
-   {
-    "title": "Supporting catheter users with sexual wellbeing",
-    "link": "https://www.nursingtimes.net/bladder-and-bowel/supporting-catheter-users-with-sexual-wellbeing-11-11-2026/",
-    "summary": "Catheter use and bladder symptoms can affect sex and intimacy; nurses can support patients through discussion and advice. The post Supporting catheter users with sexual wellbeing appeared first on Nursing Times .",
-    "source": "Nursing Times",
-    "lang": "en",
-    "published": "2026-11-11T16:20:18+09:00"
-   },
-   {
-    "title": "간호대생 3명 중 1명, \"원거리 실습으로 학업 중단 고민\"",
-    "link": "https://www.monews.co.kr/news/articleView.html?idxno=415318",
-    "summary": "간호대학에 다니는 학생들이 원거리 임상실습으로 상당한 경제적 부담과 안전 문제를 겪고 있는 것으로 나타났다.실제 실습비 부담으로 휴학이나 학업 중단을 고려한 학생이 3명 중 1명에 달해 정부 차원의 지원 대책이 필요하다는 지적이 나오고 있다.국회 교육위원회 강경숙 의원(조국혁신당)과 대한간호협회는 지난 6일부터 9일까지 전국 간호학과 3·4학년 재학생 2156명을 대상으로 실시한 원거리 임상실습 실태조사를 실시하고 11일 그 결과를 공개했다.간호대생은 졸업을 위해 임상실습을 이수해야 하지만 대학 부속병원이 없거나 인근 실습기관이 부",
-    "source": "메디컬옵저버",
-    "lang": "ko",
-    "published": "2026-11-11T11:37:16+09:00"
-   },
-   {
-    "title": "Nurse Practitioner Week 2026: Dates, History & Ideas",
-    "link": "https://nurse.org/articles/nurse-practitioner-week/",
-    "summary": "National Nurse Practitioner Week 2026 runs Sunday, November 8, through Saturday, November 14. Organized by the American Association of Nurse Practitioners (AANP), this annual celebration recognizes nurse practitioners (NPs) and…",
-    "source": "Nurse.org",
-    "lang": "en",
-    "published": "2026-11-11T05:28:00+09:00"
-   },
-   {
-    "title": "Building the Future of Nursing Together",
-    "link": "https://www.myamericannurse.com/building-the-future-of-nursing-together-2/",
-    "summary": "When we honor leaders who have served before us, I am reminded that nursing is always about something larger than any one individual. We inherit a legacy, we build upon it, and we leave it stronger for those who come next. After 28 years as a nurse, I can honestly say that I have never...",
-    "source": "American Nurse Journal",
-    "lang": "en",
-    "published": "2026-11-11T03:41:24+09:00"
-   },
-   {
-    "title": "ONA Welcomes New 2026 – 2027 Board Members",
-    "link": "https://www.myamericannurse.com/ona-welcomes-new-2026-2027-board-members/",
-    "summary": "Each year, the Oklahoma Nurses Association is strengthened by the leadership, dedication, and service of its Board of Directors. We are pleased to welcome our incoming 2026–2027 board members, whose experience, perspective, and commitment to nursing will help guide ONA’s work in the year ahead. We a",
-    "source": "American Nurse Journal",
-    "lang": "en",
-    "published": "2026-11-11T03:35:15+09:00"
    }
   ],
   "ni": [
+   {
+    "title": "News 11/13/26",
+    "link": "https://histalk2.com/2026/11/12/news-11-13-26/",
+    "summary": "Top News Inovalon will acquire DrFirst, adding electronic prescribing, prior authorization, medication benefits, and patient engagement capabilities. The combined companies will serve 2,000 hospitals and 240,000 prescribing providers across 270 EHR integrations. Terms were not ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-13T10:26:41+09:00"
+   },
+   {
+    "title": "세란병원, 127병상에 '씽크' 도입…AI로 입원환자 모니터링 강화",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=421745",
+    "summary": "세란병원이 AI 스마트 모니터링 시스템 '씽크(thynC)'를 도입해 일반병동 입원환자의 생체신호를 실시간으로 확인하는 환자 관리 체계를 구축했다. 대웅제약(대표 이창재·박성수)은 서울 종로구 세란병원(병원장 홍광표)의 전체 204병상 가운데 127병상에 씽크를 공급했다고 13일 밝혔다. 씽크는 환자에게 부착한 웨어러블 센서로 심전도·심박수·호흡수·산소포화도 등 주요 생체신호를 측정하고, 관련 데이터를 병동 중앙 모니터와 의료진의 모바일 기기로 전송하는 시스템이다. AI 기반 분석 정보를 제공해 의료진이 환자 상태 변화를 파악하고",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-11-13T10:22:20+09:00"
+   },
+   {
+    "title": "EPtalk by Dr. Jayne 11/12/26",
+    "link": "https://histalk2.com/2026/11/12/eptalk-by-dr-jayne-11-11-26/",
+    "summary": "I enjoyed attending the AMIA Annual Symposium in Dallas this week. I was excited to catch up on some of the Tex-Mex food that I’ve been missing for the last several years. Moving from one ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-13T07:29:46+09:00"
+   },
+   {
+    "title": "Is AI Really Saving Hospitals Money? A New Study Raises Questions About the Cost of AI-Driven Care",
+    "link": "https://medcitynews.com/2026/11/is-ai-really-saving-hospitals-money-a-new-study-raises-questions-about-the-cost-of-ai-driven-care/",
+    "summary": "Healthcare systems are investing in AI to streamline workflows and save money, but a new study in the New England Journal of Medicine shows that AI-generated care plans might actually cost far more than those ordered by physicians. . The post Is AI Really Saving Hospitals Money? A New Study Raises Q",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-13T02:54:03+09:00"
+   },
+   {
+    "title": "Sustaining Effective Care Teams During Staff Shortages",
+    "link": "https://medcitynews.com/2026/11/sustaining-effective-care-teams-during-staff-shortages/",
+    "summary": "[Sponsored] Join us on December 9 at 1 p.m. ET for an Inovalon-sponsored webinar, where panelists will discuss why hospitals and post-acute care facilities continue to struggle with staffing shortages and turnover. They will also share practical ways to keep employees engaged, reduce burnout, and bu",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-13T01:01:23+09:00"
+   },
+   {
+    "title": "When the Enrollment Freeze Ends, Claim Review Takes Over — Small Providers Need Clear Rules",
+    "link": "https://medcitynews.com/2026/11/when-the-enrollment-freeze-ends-claim-review-takes-over-small-providers-need-clear-rules/",
+    "summary": "A large health system absorbs an appeal as routine. For a small agency with a few office staff, every hour chasing a physician signature or a face-to-face note is an hour not spent on patients. The post When the Enrollment Freeze Ends, Claim Review Takes Over — Small Providers Need Clear Rules appea",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-12T23:59:00+09:00"
+   },
+   {
+    "title": "Beyond Metrics: How to Repair Our Relationship With Wearables",
+    "link": "https://medcitynews.com/2026/11/beyond-metrics-how-to-repair-our-relationship-with-wearables/",
+    "summary": "Users are, rightfully, upset that the devices they bought are not delivering the results they were promised. But is that indignation pointed at the right flaw? The post Beyond Metrics: How to Repair Our Relationship With Wearables appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-12T23:06:00+09:00"
+   },
+   {
+    "title": "[주식] 코스닥 700선 밑돌아...한스바이오메드 11% 급락",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80736",
+    "summary": "오늘의 증시시장 지수KOSPI: 5,342.73 (▼0.61%)KOSDAQ: 696.53 (▼1.22%)상승 종목대웅(+4.93%), 큐리언트(+3.92%), 종근당(+3.86%), 삼성제약(+3.81%), 삼진제약(+2.96%)하락 종목한스바이오메드(-11.19%), 제이에스링크(-8.43%), 케어젠(-7.07%), 한미약품(-7.07%), 리브스메드(-6.17%) 오늘의 이슈 HLB제약(▼1.63%): 향남 신공장 착공…\"생산능력 3배 확대해 매출 1조 도전\"디앤디파마텍(▼2.91%): 미 관계사에 100억 추가 출자",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-11-12T18:18:53+09:00"
+   },
    {
     "title": "Morning Headlines 11/12/26",
     "link": "https://histalk2.com/2026/11/11/morning-headlines-11-12-26/",
@@ -496,22 +560,6 @@
     "source": "HIStalk",
     "lang": "en",
     "published": "2026-11-12T10:25:15+09:00"
-   },
-   {
-    "title": "동국제약, 겨울철 감기 증상별 의약품 선택법 소개",
-    "link": "https://www.medipana.com/news/articleView.html?idxno=421637",
-    "summary": "기온이 낮아지고 일교차가 커지면서 감기 관련 일반의약품 판매가 증가하고 있다. 감기는 발열과 두통, 인후통, 기침 등 다양한 증상을 동반하는 만큼 의약품에 포함된 성분과 개인의 건강 상태를 고려한 선택이 중요하다. 동국제약은 겨울철 감기 증상에 따른 일반의약품의 성분별 특징과 복용 시 주의사항을 12일 소개했다. 약국 판매 데이터 분석 서비스 케어인사이트에 따르면, 올해 44주차(10월 25~31일) 인후질병치료제 판매는 전주 대비 18.1% 증가했다. 같은 기간 기침 및 감기약 판매도 10% 늘었다. 동국제약은 감기 증상에 따라",
-    "source": "메디파나뉴스",
-    "lang": "ko",
-    "published": "2026-11-12T10:19:56+09:00"
-   },
-   {
-    "title": "네이처셀, '네이처셀120 프로슈머' 600명 위촉",
-    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80717",
-    "summary": "[히트뉴스=방혜림 기자] 네이처셀이 '네이처셀120 프로슈머 발족식'을 개최하고 약 600명의 프로슈머를 위촉했다. 프로슈머 프로그램은 하위 판매조직이나 단계별 수당 구조 없이 자율적인 활동 참여로 이뤄진다.12일 회사 측에 따르면 이번 발족식에서는 네이처셀의 철학과 사업 비전을 공유하고 향후 프로슈머의 활동 방향이 소개됐다.이들은 네이처셀의 10대 핵심 생명사업인 △줄기세포치료제 △재생의료사업 △창생의학 △반려견 줄기세포 사업 △줄기세포배양액 화장품 △리버스에이징 스킨케어서비스 △양막줄기세포 보관사업 △비건건강음료 △발효건강식품",
-    "source": "히트뉴스",
-    "lang": "ko",
-    "published": "2026-11-12T10:08:26+09:00"
    },
    {
     "title": "Maven Clinic’s Virtual Care Clinic Goes In Network with 475 Plans",
@@ -544,58 +592,38 @@
     "source": "MedCity News",
     "lang": "en",
     "published": "2026-11-11T23:11:00+09:00"
-   },
-   {
-    "title": "Healthcare AI News 11/11/26",
-    "link": "https://histalk2.com/2026/11/11/healthcare-ai-news-11-11-26/",
-    "summary": "This column is presented by InterSystems. Learn how InterSystems helps healthcare organizations turn fragmented data into trusted, AI-ready information with solutions for interoperability, analytics, and real-time action. News Google Cloud launches Gemini for healthcare in ...",
-    "source": "HIStalk",
-    "lang": "en",
-    "published": "2026-11-11T18:37:03+09:00"
-   },
-   {
-    "title": "Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?",
-    "link": "https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/",
-    "summary": "Oura will be integrating Counsel Health’s clinical AI and virtual care into its app, but will payers and employers cover the Oura ring as a benefit? And will consumers sign on to pay a much more expensive monthly subscription for AI-enabled medical insights and access to licensed physicians? The pos",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-11-11T09:12:49+09:00"
-   },
-   {
-    "title": "Morning Headlines 11/11/26",
-    "link": "https://histalk2.com/2026/11/10/morning-headlines-11-11-26/",
-    "summary": "Google Cloud Launches Gemini for Healthcare Google Cloud previews Gemini for healthcare, which uses data from EHR and billing systems, clinical guidelines, and CMS datasets to help providers and payers automate clinical and operational workflows. ...",
-    "source": "HIStalk",
-    "lang": "en",
-    "published": "2026-11-11T08:53:10+09:00"
-   },
-   {
-    "title": "New Campaign Wants AI Applications To Look Beyond Speed",
-    "link": "https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/",
-    "summary": "Healthcare has plenty of tedious administrative work which could benefit from AI’s efficiency – but what if simply speeding up an already broken system isn’t the answer? Healthcare leaders push for a re-built, AI-native system in Anterior’s recent Beyond Faster Horses campaign. The post New Campaign",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-11-11T01:32:38+09:00"
-   },
-   {
-    "title": "Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Drug. You Came for Health”",
-    "link": "https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/",
-    "summary": "In a panel discussion, executives from Noom, Omada, Virta and Twin Health discussed how they are going beyond the pill in their GLP-1 strategy and responded to a question about whether they will exist two-to-three years from now. The post Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Dru",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-11-10T07:22:40+09:00"
-   },
-   {
-    "title": "Simulation-Guided Clinical Trials: Is EU Law Ready?",
-    "link": "https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/",
-    "summary": "Simulations do not replace human judgment: they inform it, making transparent what would otherwise remain a “black box.” EU law does not require them today; but a proportionate embrace, in the right legislative vehicle, with clear methodological standards, and without crushing noncommercial research",
-    "source": "MedCity News",
-    "lang": "en",
-    "published": "2026-11-09T23:54:00+09:00"
    }
   ]
  },
  "papers": [
+  {
+   "title": "Oversight asymmetry in AI-assisted clinical documentation: a comparative-abductive study using neonatal discharge as a test context.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43016917/",
+   "journal": "Frontiers in digital health",
+   "authors": "Atiku SO, Olakotan O, Agbaje K 외",
+   "pubdate": "2026 Oct 28"
+  },
+  {
+   "title": "Evidence-Based Practice Competence Mediates the Link Between AI Readiness and Clinical Judgment Among Critical Care Nurses.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015996/",
+   "journal": "Worldviews on evidence-based nursing",
+   "authors": "El-Sayed BKM, Ibrahim NM, Alanazi MO 외",
+   "pubdate": "2026 Dec"
+  },
+  {
+   "title": "Development, implementation, and evaluation of web-based decision support application for developmental care of preterm infants: a multi-phase study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015913/",
+   "journal": "Archives of public health = Archives belges de sante publique",
+   "authors": "Beykmirza R, Aghbelagh SM, Taleghani NT 외",
+   "pubdate": "2026 Aug 15"
+  },
+  {
+   "title": "Machine Learning-Based Risk Assessment Framework for Early Prediction and Nursing Intervention in Neonatal Hyperbilirubinemia.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015641/",
+   "journal": "BMC pediatrics",
+   "authors": "Wu L, Huang X",
+   "pubdate": "2026 Aug 15"
+  },
   {
    "title": "The Nurse Informaticist Role in Contemporary Health Care: An Integrative Literature Review.",
    "link": "https://pubmed.ncbi.nlm.nih.gov/43013705/",
@@ -637,34 +665,6 @@
    "journal": "Nurse education in practice",
    "authors": "Liu J, Li S, Cha R 외",
    "pubdate": "2026 Nov 5"
-  },
-  {
-   "title": "Remote patient management reduces liver-related hospitalizations in patients with acutely decompensated cirrhosis.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43007295/",
-   "journal": "Hepatology (Baltimore, Md.)",
-   "authors": "Calleri A, Deng Y, Hara KS 외",
-   "pubdate": "2026 Nov 9"
-  },
-  {
-   "title": "Artificial Intelligence and Adolescent Depression and Anxiety: Clinical Potential, Developmental Risks, Ethical Safeguards, and Nursing Implications.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43006989/",
-   "journal": "Journal of child and adolescent psychiatric nursing : official publication of the Association of Child and Adolescent Psychiatric Nurses, Inc",
-   "authors": "Abuhammad S",
-   "pubdate": "2026 Nov"
-  },
-  {
-   "title": "Community-Based Educational and Counseling Interventions to Support Breastfeeding: A Scoping Review of Models, Implementation, and Outcomes.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43005590/",
-   "journal": "International journal of women's health",
-   "authors": "Novianti SW, Mediani HS, Fitri SYR 외",
-   "pubdate": "2026 Nov 3"
-  },
-  {
-   "title": "Status and influencing factors of artificial intelligence readiness among nursing students.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43005000/",
-   "journal": "Frontiers in medicine",
-   "authors": "Qin H, Zeng T, Liu L",
-   "pubdate": "2026 Oct 26"
   }
  ]
 }
