@@ -1,0 +1,582 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T12:21:32.483259+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "캘리포니아주, 오픈AI 상대 소송...\"AI 에이전트 통제 실패 80건 넘어\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217476",
+    "summary": "미국 캘리포니아주가 AI 모델 개발과 시험 과정에서 안전조치를 소홀히 해 사이버 공격을 초래했다며 오픈AI를 상대로 소송을 제기했다. AI 모델의 자율적 행동으로 발생한 사이버 사고에 주정부가 직접 법적 책임을 묻는 첫 사례다.월스트리트저널(WSJ)과 로이터 등에 따르면, 캘리포니아주 법무장관실은 16일(현지시간) 샌프란시스코 카운티 상급법원에 오픈AI를 상대로 소송을 제기했다고 발표했다.롭 본타 캘리포니아주 법무장관은 오픈AI가 위험성을 인지한 상태에서 충분한 안전장치와 감독 없이 모델을 시험했으며, 관련 사고를 막기 위한 조치도",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-11-17T12:13:28+09:00"
+   },
+   {
+    "title": "AI가 배우를 대체할 수 있을까…프롬, 배우·감독·제작자 참여 ‘AI 명작 감상회’ 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42762",
+    "summary": "인공지능 스토리텔링 랩 프롬(PROM)이 오는 22일 서울 종로구 프롬 노스(North) 캠퍼스에서 제2회 'AI 명작 감상회'를 개최한다고 17일 밝혔다. 이 행사는 '인공지능 연기 그리고 배우의 본질'을 주제로, AI 캐릭터의 연기가 돋보이는 영상 작품을 상영하고 인간 배우와 AI 기술의 관계를 논의하는 자리다.감상회는 AI 우수작 프리뷰 상영을 시작으로 본 상영과 장면별 해설, 게스트 토크(GV) 순으로 진행된다. 작품 속 캐릭터의 표정과 시선, 호흡 등 연기 요소를 분석하고 AI 시대에 배우가 지켜야 할 가치와 새로운 역할을",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-11-17T11:34:41+09:00"
+   },
+   {
+    "title": "세미파이브, SC서 3D-IC 플랫폼 공개...PFN 차세대 AI칩 개발 참여",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=21971",
+    "summary": "AI 반도체 경쟁의 무게중심이 연산 성능에서 메모리 대역폭과 데이터 이동 효율로 확대되고 있다. 대형언어모델(LLM) 추론 과정에서 메모리 병목이 성능과 전력 효율을 좌우하는 요소로 부상하면서 로직 반도체와 메모리를 수직으로 적층하는 3차원 집적회로(3D-IC)가 차세대 설계 기술로 주목받고 있다. 세미파이브가 자체 개발한 3D-IC 플랫폼을 공개하고 글로벌 AI ASIC 시장 공략에 나섰다. 세미파이브는 17일(현지시간) 미국 시카고에서 개막한 ‘슈퍼컴퓨팅 2026(SC26)’에서 3D-IC 특화 플랫폼을 선보였다고 밝혔다. 이번",
+    "source": "THE AI",
+    "lang": "ko",
+    "published": "2026-11-17T11:16:24+09:00"
+   },
+   {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T08:32:32+09:00"
+   },
+   {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T07:03:02+09:00"
+   },
+   {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T05:07:13+09:00"
+   },
+   {
+    "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+    "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+    "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and r",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T04:42:13+09:00"
+   },
+   {
+    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+    "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+    "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T04:19:56+09:00"
+   },
+   {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T04:12:02+09:00"
+   },
+   {
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as be",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T03:52:55+09:00"
+   },
+   {
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-17T03:38:47+09:00"
+   },
+   {
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T03:11:10+09:00"
+   },
+   {
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-17T02:36:43+09:00"
+   },
+   {
+    "title": "Broadening access to AI for scientists",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-11-17T02:00:00+09:00"
+   },
+   {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "source": "OpenAI 뉴스",
+    "lang": "en",
+    "published": "2026-11-17T02:00:00+09:00"
+   },
+   {
+    "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+    "link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+    "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release sma",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T01:56:04+09:00"
+   },
+   {
+    "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+    "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+    "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T01:10:22+09:00"
+   },
+   {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-17T01:04:28+09:00"
+   },
+   {
+    "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+    "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+    "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" ",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-17T00:25:48+09:00"
+   },
+   {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "summary": "tbd",
+    "source": "Google AI 블로그",
+    "lang": "en",
+    "published": "2026-11-16T23:00:00+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "김진서 측, 글로벌텍스프리 주식등 보유 비율 1.07%p 증가",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716037",
+    "summary": "[디지털투데이 임민철 에디터] 김진서 측은 텍스리펀드서비스 전문기업 글로벌텍스프리(204620)의 주식등 보유 비율이 6.33%로 증가했다고 17일 공시했다. 변동방법은 장내매수로 기재됐으며, 보유목적은 단순투자로 명시됐다.김진서의 2026년 11월 17일 기준 보유 주식등의 수는 445만주다. 직전 보고일인 2026년 5월 27일 대비 75만주 증가했다. 보유비율은 6.33%로, 1.07%포인트 증가했다. 주권 주식수는 445만주다. 직전 보고일인 2026년 5월 27일 대비 75만주 증가했다. 지분율은 6.33%로, 1.07%포",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-11-17T12:02:02+09:00"
+   },
+   {
+    "title": "에이젠글로벌, ‘2026 포브스코리아 AI 50’ 선정 및 서미트 세션 발표",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409888",
+    "summary": "[테크월드=김경주 기자] 인공지능(AI) 금융 솔루션 전문 기업 에이젠글로벌(AIZEN Global, 대표 강정석)이 대한민국을 대표하는 혁신 AI 기업을 선정하는 ‘2026 포브스코리아 AI 50’에 이름을 올리고, 지난 11일 서울 연세대학교에서 열린 ‘2026 포브스코리아 AI 50 서미트’의 핵심 연사로 나서 글로벌 금융 혁신 비전을 발표했다.윤동섭 연세대 총장의 축사로 문을 연 이날 행사는 대한민국 AI 생태계를 이끄는 50대 기업의 성과를 조명하고, 실물 산업의 난제를 해결하는 각사의 기술적 비전을 공유하는 자리로 마련됐",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-11-17T11:47:18+09:00"
+   },
+   {
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-17T11:37:53+09:00"
+   },
+   {
+    "title": "네오위즈, 글로벌 흥행 넘어 지속 성장 노린다…신작 9종 승부수",
+    "link": "https://zdnet.co.kr/view/?no=20261117103759",
+    "summary": "[지디넷코리아]네오위즈가 글로벌 흥행작을 기반으로 지속 가능한 성장 체제 구축에 나섰다. 'P의 거짓'과 '브라운더스트2'를 통해 확보한 개발·운영 경쟁력을 바탕으로 자체 개발 6종과 글로벌 퍼블리싱 3종 등 신작 9종을 준비하며 차기 성장 동력 확보에 속도를 내고 있다. 박성준·배태근 공동대표 체제 아래 추진하는 신작 전략이 실적 성장으로 이어질 수 있을지 주목된다.17일 네오위즈에 따르면 회사는 현재 총 9종의 PC·콘솔 신작을 준비하고 있다. 기존 흥행작에서 축적한 개발 역량과 글로벌 서비스 경험을 차기작에 적용해 중장기 성장",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-11-17T10:58:47+09:00"
+   },
+   {
+    "title": "Buying a used phone? Make sure to check the IMEI first",
+    "link": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first/",
+    "summary": "One of the most important parts of buying a used phone involves the device's IMEI number - which can reveal whether it has sketchy history and more.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T10:30:00+09:00"
+   },
+   {
+    "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-17T10:04:45+09:00"
+   },
+   {
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related is",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T10:02:40+09:00"
+   },
+   {
+    "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+    "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+    "summary": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T10:00:00+09:00"
+   },
+   {
+    "title": "The important Gmail security settings you should be using",
+    "link": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use/",
+    "summary": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T09:30:00+09:00"
+   },
+   {
+    "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
+    "link": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal/",
+    "summary": "Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T09:00:00+09:00"
+   },
+   {
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, a",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T08:35:58+09:00"
+   },
+   {
+    "title": "How to put your iPad in recovery mode (with and without a home button)",
+    "link": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+    "summary": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T08:30:00+09:00"
+   },
+   {
+    "title": "The AI start-ups fixing India's broken roads and messy land records",
+    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+    "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-17T08:25:53+09:00"
+   },
+   {
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T08:20:44+09:00"
+   },
+   {
+    "title": "California sues OpenAI over Hugging Face attack",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-17T08:12:24+09:00"
+   },
+   {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T08:04:02+09:00"
+   },
+   {
+    "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
+    "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+    "summary": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-17T08:00:00+09:00"
+   },
+   {
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T07:47:14+09:00"
+   },
+   {
+    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+    "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+    "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed in",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-17T06:41:57+09:00"
+   },
+   {
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "source": "Ars Technica",
+    "lang": "en",
+    "published": "2026-11-17T05:37:47+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "아주대병원 참여 경기도 대표팀, 재난응급의료 도상훈련 우수상",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=46836",
+    "summary": "아주대병원 권역응급의료센터가 참여한 경기도 대표팀이 재난 상황에서 환자를 분류하고 처치·이송하는 대응 능력을 평가하는 전국 훈련대회에서 도상훈련 부문 우수상을 받았다.아주대병원은 11월 10일부터 11일까지 충남 천안에서 열린 ‘2026년 재난응급의료 종합훈련대회’에서 도상훈련 부문 우수상인 국립중앙의료원장상을 수상했다고 17일 밝혔다. 이번 대회는 보건복지부가 주최하고 국립중앙의료원 중앙응급의료센터가 주관했다. 재난의료 인력의 현장 대응 능력을 높이고 관계기관 간 협력체계를 강화하기 위해 매년 열린다. 올해는 전국 15개 시·도에",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-11-17T12:12:06+09:00"
+   },
+   {
+    "title": "일산백병원, 응급중환자실 개소",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21638",
+    "summary": "인제대학교 일산백병원(원장 최원주)이 응급중환자실(EICU)을 개소하고 11월 13일부터 본격적인 운영에 들어갔다. 응급중환자실은 총 20병상을 마련해 응급의료센터를 찾은 중증환자에게 신속하고 전문적인 중환자 치료를 제공할 예정이다.이와 함께 외과계 중환자실(SICU)도 같은 날 4병상을 추가 확충했다. 일산백병원은 응급중환자실 신설과 외과계 중환자실 확충을 통해 중증·응급환자 치료 역량을 한층 강화하고, 중환자 진료의 효율성과 대응 능력을 높일 계획이다.이번 응급중환자실 개소는 권역응급의료센터의 중증환자 진료 기능을 강화하고, 응",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-11-17T11:33:48+09:00"
+   },
+   {
+    "title": "Welsh government announces £23m emergency services reform",
+    "link": "https://www.nursingtimes.net/emergency-and-critical-care/welsh-government-announces-23m-emergency-services-reform-16-11-2026/",
+    "summary": "The Welsh Government has launched a new £23m plan to reform its emergency services with shorter hospital stays and more home-based care. The post Welsh government announces £23m emergency services reform appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-17T08:01:58+09:00"
+   },
+   {
+    "title": "\"딱 1년만 버텨\"…신규 간호사 향한 선배들의 현실 조언",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044597",
+    "summary": "신규 간호사에게 임상 현장 적응은 쉽지 않은 과정이다. 익숙하지 않은 업무와 잦은 실수, 선배 간호사의 질책과 부당한 대우 등으로 어려움을 겪기도 한다. 이러한 시기를 먼저 경험한 선배 간호사들이 신규 시절의 고충과 퇴사까지 고민했던 순간을 털어놨다. 이들은 신규 간호사의 어려움에 공감하며 “1년만 견디면 달라질 수 있다”고 조언했다.최근 응급전문 간호사 출신 유튜버 ‘옆집간호사 구슬언니’의 유튜브 채널에는 ‘신규 간호사 1년만 버티면 손바닥 뒤집듯 달라져요’라는 영상이 올라왔다. 영상에는 현직 간호사 또는 간호사 출신 유튜버인 ‘",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-11-17T06:46:29+09:00"
+   },
+   {
+    "title": "Expert group launches £3-a-day food plan for preventing malnutrition",
+    "link": "https://www.nursingtimes.net/nutrition-and-hydration/expert-group-launches-3-a-day-food-plan-for-preventing-malnutrition-16-11-2026/",
+    "summary": "A group of multidisciplinary clinicians has launched a seven-day shopping list and meal plan built on the ‘food-first’ approach used in clinical practice, to combat malnutrition in straightened times. The post Expert group launches £3-a-day food plan for preventing malnutrition appeared first on Nur",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-17T06:22:29+09:00"
+   },
+   {
+    "title": "복약 오류로 수급자 사망…요양기관 업무정지 적법",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016562",
+    "summary": "[의학신문·일간보사=정광성 기자] 주 1회 복용하도록 처방된 약을 요양보호사가 매일 먹게 해 수급자가 숨진 사건에서 장기요양기관에 대한 업무정지 3개월 처분이 적법하다는 판결이 나왔다.울산지방법원 제1행정부는 최근 재가장기요양센터 운영자 A가 관할 군수를 상대로 제기한 업무정지처분 취소소송에서 원고의 청구를 기각했다.A는 지난 2009년경부터 해당 센터를 운영해 왔으며, 숨진 수급자 B는 2015년 9월부터 센터와 장기요양급여 이용계약을 맺고 방문요양 서비스를 받아 왔다.사고는 지난해 6월 신규 요양보호사가 B에 대한 방문요양 업무",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-11-17T06:00:00+09:00"
+   },
+   {
+    "title": "‘Nurses see the reality of living with a disability – we can help make it understood’",
+    "link": "https://www.nursingtimes.net/social-care/nurses-see-the-reality-of-living-with-a-disability-we-can-help-make-it-understood-16-11-2026/",
+    "summary": "Stephanie McGibbon on how nurses can support people with disabilities and help them get the financial support that they need. The post ‘Nurses see the reality of living with a disability – we can help make it understood’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-17T01:43:12+09:00"
+   },
+   {
+    "title": "Nurses, Patients Can Find You Online Faster Than You Think. Here's How to Change That.",
+    "link": "https://nurse.org/news/how-to-remove-personal-information-from-internet/",
+    "summary": "This article is sponsored by Incogni. Nurse.org received compensation to publish this content. The product recommendations, claims, and views expressed are the sponsor's. Sponsored content is held to Nurse.org's advertising…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-17T01:39:20+09:00"
+   },
+   {
+    "title": "New public health framework ‘celebrates’ role of nurses and midwives",
+    "link": "https://www.nursingtimes.net/public-health/new-public-health-framework-16-11-2026/",
+    "summary": "The government has today launched a UK-wide framework aimed at recognising and harnessing the “important role” of nurses and midwives in public health. The post New public health framework ‘celebrates’ role of nurses and midwives appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-17T00:21:17+09:00"
+   },
+   {
+    "title": "Meet the 16 Nurses Headed to State Legislatures for the First Time",
+    "link": "https://nurse.org/news/nurses-newly-elected-state-legislatures-2026/",
+    "summary": "Part of Nurses on the Ballot, Nurse.org's research series on the nurses and nursing issues of the 2026 midterm elections. For all 140 nurses on this year's state legislative ballots,…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-17T00:14:48+09:00"
+   },
+   {
+    "title": "The Real Nursing Workforce Crisis: Violence, Toxic Leadership and a Failure to Listen",
+    "link": "https://nurse.org/news/nurse-retention-workplace-violence-jeff-doucette/",
+    "summary": "Unsafe workplaces, workplace violence and toxic leadership are driving nurses away from healthcare. Jeff Doucette, a nationally recognized nursing executive, says hospitals need to look beyond recruitment and start addressing…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-16T23:11:35+09:00"
+   },
+   {
+    "title": "Syphilis: factsheet on sexually transmitted infections",
+    "link": "https://www.nursingtimes.net/public-health/syphilis-factsheet-on-sexually-transmitted-infections-16-11-2026/",
+    "summary": "This factsheet discusses syphilis; it is part of a collection on sexually transmitted infections. The post Syphilis: factsheet on sexually transmitted infections appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-16T11:38:36+09:00"
+   },
+   {
+    "title": "연봉 3억짜리 美 간호사 파업 철회…노사 극적 합의",
+    "link": "https://www.hkn24.com/news/articleView.html?idxno=351677",
+    "summary": "[헬스코리아뉴스 / 임해리] 연봉 3억 원 이상을 받는 간호사가 1300명 넘게 근무하는 미국의 유명 대학병원에서 간호사 4000여 명이 예고했던 무기한 파업이 철회됐다. 병원과 노동조합이 파업을 불과 몇 시간 앞두고 임금과 근무조건을 포함한 새 단체협약에 잠정 합의하면서다.미국 매사추세츠주 보스턴의 브리검여성병원(Brigham and Women's Hospital)과 매사추세츠간호사협회(Massachusetts Nurses Association, MNA)는 11일(현지시간) 밤 새로운 단체협약에 잠정 합의했다고 발표했다. 이에 따",
+    "source": "헬스코리아뉴스",
+    "lang": "ko",
+    "published": "2026-11-14T14:34:10+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "의료기기 안전관리의 3대 축, 촘촘한 유통 그물망 짜였다",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80806",
+    "summary": "2026 의료기기 정책, 제도, 행정 탈탈 털기 인공지능(AI)과 디지털 혁신 등 기술환경 변화를 따라 의료기기 법·제도가 빠르게 변하고 있다. 는 2026년 한 해 동안 과 함께 바이오헬스케어 혁신의 이정표가 될 의료기기 정책·제도와 주요 행정 해석을 짚어본다.⑪ 의약품 부작용피해구제 제도 vs 의료기기 (책임)보험 또는 공제⑫ 의료기기의 광고와 광고시 주의사항⑬ 의료제품 판촉영업(CSO) 신고와 지출보고서 작성⑭ 의약품의 동등성과 의료기기의 본질적 동등성 비교⑮의료기기 유통질서 개선 – 간납 등의 특",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-11-17T12:02:00+09:00"
+   },
+   {
+    "title": "알츠하이머 신약 판도 바뀌나…美 CTAD서 차세대 치료제 각축",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=421992",
+    "summary": "알츠하이머병 치료제 개발 경쟁이 새로운 국면으로 접어든 가운데 글로벌 제약기업과 연구진의 관심이 미국 보스턴으로 집중되고 있다. 기존 항체 치료제의 장기 효과를 확인하는 연구와 함께 먹는 치료제, 새로운 작용기전의 신약, 조기진단 기술 등이 잇따라 소개되면서 차세대 알츠하이머 치료제 시장의 변화가 주목받고 있다. 제19회 알츠하이머병 임상시험 국제학회(Clinical Trials on Alzheimer's Disease, CTAD 2026)가 16일(현지시간) 미국 매사추세츠주 보스턴에서 개막해 오는 19일까지 열린다. CTAD는",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-11-17T11:55:00+09:00"
+   },
+   {
+    "title": "Morning Headlines 11/17/26",
+    "link": "https://histalk2.com/2026/11/16/morning-headlines-11-17-26/",
+    "summary": "Credo Health Acquires Affineon, Launches Pajama.ai to End Doctors’ “Pajama Time” Medical record retrieval company Credo Health acquires physician inbox management software startup Affineon Health and rebrands as Pajama.ai. Beyond Large Language Models: Knit Health ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-17T08:26:04+09:00"
+   },
+   {
+    "title": "Curbside Consult with Dr. Jayne 11/16/26",
+    "link": "https://histalk2.com/2026/11/16/curbside-consult-with-dr-jayne-11-16-26/",
+    "summary": "Along with many of my informatics colleagues, I feel like I’ve been run ragged after the global Microsoft outage. After traveling during the first part of the week, I had been looking forward to catching ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-17T05:35:31+09:00"
+   },
+   {
+    "title": "Safety and Regulation Must Lead the Way in Healthcare AI Innovation",
+    "link": "https://medcitynews.com/2026/11/safety-and-regulation-must-lead-the-way-in-healthcare-ai-innovation/",
+    "summary": "By applying proven and enforceable guardrails, coupled with smart financial incentives, we can ensure AI elevates medical care while maintaining the trust that holds our health system together. The post Safety and Regulation Must Lead the Way in Healthcare AI Innovation appeared first on MedCity New",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-16T23:47:00+09:00"
+   },
+   {
+    "title": "Innovative Health Tech and MedTech Grabs the Spotlight at INVEST Digital Health",
+    "link": "https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/",
+    "summary": "[Sponsored] The Innovation Showcase at the Dallas conference included technology to objectively assess pain, as well as startups seeking to speed up diagnosis of endometriosis, improve the way we communicate and precision nutrition. The post Innovative Health Tech and MedTech Grabs the Spotlight at ",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-16T21:30:00+09:00"
+   },
+   {
+    "title": "Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics",
+    "link": "https://medcitynews.com/2026/11/duet-secures-15m-to-grow-network-of-nurse-practitioner-owned-clinics/",
+    "summary": "Duet’s Series A round was led by Kairos, with participation from Lerer Hippeau. The post Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics appeared first on MedCity News .",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-16T13:43:16+09:00"
+   },
+   {
+    "title": "Morning Headlines 11/16/26",
+    "link": "https://histalk2.com/2026/11/15/morning-headlines-11-16-26/",
+    "summary": "Wolters Kluwer to acquire AI-powered clinical decision support platform AgileMD Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million. Server outage at Monadnock Community Hospital ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-16T09:49:28+09:00"
+   },
+   {
+    "title": "Monday Morning Update 11/16/26",
+    "link": "https://histalk2.com/2026/11/15/monday-morning-update-11-16-26/",
+    "summary": "Top News Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million. AgileMD is 23-employee company based in San Francisco that offers clinical pathways and clinical ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-16T05:18:27+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "Digital health infrastructure and research priorities across neonatal intensive care units in Germany: A nationwide cross-sectional survey.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038286/",
+   "journal": "PLOS digital health",
+   "authors": "Ascherl RG, Gille C, Thome UH 외",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "A Data Strategy for the Secondary Use of Nursing Real-World Data: Feasibility Study of the NuDaK Framework.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038247/",
+   "journal": "JMIR nursing",
+   "authors": "Nantschev R, Ammenwerth E",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "Perception, acceptance, and preparedness regarding artificial intelligence among primary care nurses: A cross-sectional mixed-methods study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038192/",
+   "journal": "PloS one",
+   "authors": "Vences Garrido A, Vicario-Merino Á, Buerba Díaz A",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "AACN Competencies as an AI Literacy Framework: A Graduate PMHNP Evaluation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038166/",
+   "journal": "The Journal of nursing education",
+   "authors": "Pair V, Katz S",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "Development of a Learner-Centered Educational Electronic Nursing Record: A Pilot Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038119/",
+   "journal": "Computers, informatics, nursing : CIN",
+   "authors": "Kim JY, Yoo HJ",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "Clinical Nurses' Perceptions of Interruptive Clinical Decision Support Alerts: A Qualitative Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037564/",
+   "journal": "Computers, informatics, nursing : CIN",
+   "authors": "Shirk HA, Krouse AM, Rochman MF 외",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "Electronic Health Record-Integrated Quality Dashboard for Diabetes Care in Public Primary Health Care: Development and Usability Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037450/",
+   "journal": "JMIR formative research",
+   "authors": "López MV, Irazola V, Nejamis A 외",
+   "pubdate": "2026 Nov 16"
+  },
+  {
+   "title": "Associations of Hospital Magnetism, Perceived Managerial Care, and Technology Acceptance With New Nurses' Artificial Intelligence Literacy: A Partially Longitudinal Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037175/",
+   "journal": "Journal of nursing management",
+   "authors": "Fu Y, Liu D, Shi G 외",
+   "pubdate": "2026"
+  },
+  {
+   "title": "A Ratio Cannot See a Machine: Rethinking Nurse Staffing in the Age of Agentic Artificial Intelligence.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037135/",
+   "journal": "Journal of nursing management",
+   "authors": "Park CS, Newbold D",
+   "pubdate": "2026"
+  },
+  {
+   "title": "Attitudes Towards Artificial Intelligence in Nursing and Associated Factors in a Multiregional Convenience Sample of Registered Nurses in China: An Online Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037029/",
+   "journal": "Journal of nursing management",
+   "authors": "Sun X, Liu X, Li C 외",
+   "pubdate": "2026"
+  }
+ ]
+}
