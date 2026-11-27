@@ -1,0 +1,614 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T12:26:53.850750+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "앤트로픽, MCP 서버에 '스킬' 도입…AI 에이전트에 업무 노하우까지 전달",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217847",
+    "summary": "앤트로픽이 AI 에이전트 연결 표준인 모델 컨텍스트 프로토콜(MCP)을 통해 업무 수행 방법을 담은 '스킬(Skills)'을 제공하는 기능을 도입했다. 외부 도구와 데이터를 연결하는 데 더해 업무 노하우 전달과 장시간 작업 위임까지 지원하며 복잡한 업무 자동화를 돕는다는 취지다.앤트로픽은 24일(현지시간) 공식 블로그를 통해 클로드와 클로드 코드에서 'MCP를 통한 스킬(Skills over MCP)' 기능을 공개 베타로 출시했다고 밝혔다.스킬은 AI 에이전트가 특정 업무를 수행하는 방법을 담은 지침 패키지다. 기존 MCP 서버가",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-11-27T12:23:23+09:00"
+   },
+   {
+    "title": "알리바바, AI 기술을 사회적 가치 창출로…안전·의료·과학·교육 등 8대 분야 혁신 성과 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42922",
+    "summary": "중국 알리바바그룹(Alibaba Group)이 인공지능(AI) 기술의 발전 방향을 성능 향상과 산업 생산성 제고를 넘어 인류의 복지 증진과 사회적 가치 창출로 확장하고 있다.알리바바는 26일(현지시간) 그룹의 두 번째 연례 ‘2026 사회적 가치를 위한 AI 행동 보고서(2026 AI for Good Action Report)’를 공개했다.보고서는 AI 안전, 오픈소스, 친환경 인프라, 의료, 교육, 과학 연구, 경제적 기회 확대, 지역사회·문화유산 보존 등 8개 분야의 실제 적용 사례 26건을 담았다. 사회적 수용성, 환경적 지속",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-11-27T12:17:20+09:00"
+   },
+   {
+    "title": "국가미래직업교육포럼, '제4회 지혜나눔스쿨' 개최…미래 직업교육 방향 모색",
+    "link": "https://www.etnews.com/20261127000175",
+    "summary": "국가미래직업교육포럼(NFVEF, 대표 한광식)은 지난 25일 서울역회의실센터에서 '제4회 지혜나눔스쿨'을 개최하고 인공지능(AI) 시대 직업교육 발전 방향과 교육체계 혁신 방안을 논의했다고 27일 밝혔다. 이번 행사에는 직업교육 전문가와 포럼 회원, 직업계고 학생기자단인 '매직기자단' 등이 참석해 직업교육 현안을 공유하고 미래 교육 변화 방향을 모색했다. 이날 이진우 교육부 직업교육정책과장과 김환식 전 인천·광주·충남 부교육감이 연사로 나서 직",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T12:01:54+09:00"
+   },
+   {
+    "title": "에이아이프로, 공공시설·발전소에 AI 영상분석 공급…현장별 안전관리 적용 확대",
+    "link": "https://www.etnews.com/20261127000167",
+    "summary": "AI 영상분석 전문기업 에이아이프로가 공공시설과 발전소 등 현장별 안전 과제에 맞춰 CCTV 분석 기술의 적용 범위를 넓히고 있다. 화재와 산불 징후를 감지하는 소프트웨어부터 댐 하류 방류 구역의 사람을 탐지하는 시스템까지, 관리 대상에 따라 필요한 기능을 공급하고 있다. 에이아이프로에 따르면 한국자산관리공사 캠코인재개발원에는 화재·산불 감지 소프트웨어를, 한국가스안전공사에는 혁신제품 화재 감지 솔루션 'VistaPro-FDS-002'를 공급했",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:39:13+09:00"
+   },
+   {
+    "title": "[2027 사이버대 특집]국제사이버대, 2027학년도 1학기 신·편입생 모집…산업체위탁전형 입학생 수업료 50% 감면",
+    "link": "https://www.etnews.com/20261126000293",
+    "summary": "국제사이버대학교는 12월 1일부터 내년 1월 13일까지 2027학년도 1학기 신·편입생을 모집한다. 이번 모집에서는 AI를 업무 자동화와 콘텐츠 제작 등 다양한 방면에 활용하는 법을 배우는 AI실무응용학과가 첫 입학생을 모집한다. 모집 학과는 ESG복지경영학과, 부동산학과, 뷰티비즈니스학과, 건강스포츠학과, 노인복지학과, 사회복지학과, 상담심리학과, 시니어모델치유학과, 아동가족상담학과, 통합상담치료학과, 웰빙귀농조경학과, 식물치유클리닉학과, A",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:30:00+09:00"
+   },
+   {
+    "title": "엠앤앤에이치, 생성형·피지컬 AI 겨냥한 유연한 VVC IP 개발",
+    "link": "https://www.etnews.com/20261127000164",
+    "summary": "엠앤앤에이치(대표이사 민병왕)가 광운대 서영호 교수 연구팀과 함께 생성형 AI 비디오와 월드모델, 피지컬 AI의 영상 데이터 수요에 대응하는 H.266 VVC Encoder IP를 개발했다. 비트리는 이 IP를 자사 피지컬 AI 영상 통합 플랫폼 'WALNUT'의 VPU 포트폴리오에 적용할 계획이다. 개발팀은 고객의 반도체 설계 조건에 맞춰 처리 성능·압축 효율·로직 크기를 조절하는 유연한 설계를 적용했다. 영상을 만드는 AI 기술과 이를 전송",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:28:00+09:00"
+   },
+   {
+    "title": "'AI와 함께 여는 새로운 돌봄의 미래'… 2026 AgeTech 세미나 내달 4일 개최",
+    "link": "https://www.etnews.com/20261127000165",
+    "summary": "초고령사회 진입에 따른 돌봄 산업의 혁신 방향과 인공지능(AI) 기술의 현주소를 조망하는 자리가 마련된다. 대한에이지테크협회는 오는 12월 4일 오후 1시부터 서울 삼성동 코엑스 1층 A홀 내 메인무대에서 '2026 에이지테크(AgeTech) 세미나'를 개최한다고 27일 밝혔다. 국내 대표 소프트웨어·AI 전시회인 'AI × SoftWave 2026'의 주요 부대행사로 열리는 이번 세미나는 'AI와 함께 여는 새로운 돌봄의 미래'를 주제로 진행",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:26:51+09:00"
+   },
+   {
+    "title": "모션어드바이저, 세종시 도시통합정보센터에 AI 다국어 브리핑 로봇 설치",
+    "link": "https://www.etnews.com/20261127000163",
+    "summary": "모션어드바이저는 세종특별자치시 도시통합정보센터 2층 관람실에 자체 개발한 AI 다국어 브리핑 에이전트 안내로봇을 설치하고 현장 실증에 나섰다고 밝혔다. 이번 로봇 도입은 중소벤처기업부와 창업진흥원의 '2026년 정부 첫 실증·구매 프로젝트(스마트도시)'에 선정된 'AI 다국어 브리퍼 로봇 도입 및 실증' 과제의 일환으로 추진됐다. 이번 사업은 인공지능산업융합사업단의 실증 과정 관리 아래 진행되며, 다양한 국적과 연령대의 방문객에게 다국어 기반의",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:24:51+09:00"
+   },
+   {
+    "title": "솔트웨어·AWS, 금융권 AI 도입 전략 공유...규제·보안 해법 모색",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=22054",
+    "summary": "솔트웨어는 아마존웹서비스(AWS)와 공동으로 ‘AWS × 솔트웨어 금융권 AI 세미나’를 개최했다고 27일 밝혔다. 서울 강남구 AWS코리아 사옥에서 열린 이번 행사에는 금융권 IT와 디지털 혁신, 정보보호, 클라우드 및 AI 담당자들이 참석했다. 세미나는 금융회사가 AI를 도입할 때 검토해야 할 제도적 요건과 클라우드 보안 체계를 중심으로 진행됐다. AWS는 금융권 클라우드 이용 관련 규제와 보안·컴플라이언스 지원 체계를 설명했다. 솔트웨어는 혁신금융서비스 지원 방안을 소개하며 금융회사가 AI 적용 과정에서 살펴야 할 제도적 사항",
+    "source": "THE AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:22:44+09:00"
+   },
+   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-27T05:03:54+09:00"
+   },
+   {
+    "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+    "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+    "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sittin",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-27T04:31:46+09:00"
+   },
+   {
+    "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+    "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+    "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and Work",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-27T02:28:56+09:00"
+   },
+   {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-27T01:00:00+09:00"
+   },
+   {
+    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+    "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-27T00:45:08+09:00"
+   },
+   {
+    "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+    "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+    "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space, bu",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-26T22:41:07+09:00"
+   },
+   {
+    "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. Bu",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-26T22:10:00+09:00"
+   },
+   {
+    "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+    "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+    "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system. Mi",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-26T20:30:06+09:00"
+   },
+   {
+    "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+    "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+    "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes \"chaos\",",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-26T20:21:16+09:00"
+   },
+   {
+    "title": "The next generation of bionic hands is here—and they can feel",
+    "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+    "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-26T18:59:00+09:00"
+   },
+   {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-26T07:44:32+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "판타지오 10%이상주주 엑스, 소유 주식 수량 5000주 증가…소유 지분율 0.03%p 상승",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718736",
+    "summary": "[디지털투데이 김지선 에디터] 종합 엔터테인먼트 기업 판타지오(032800)의 10%이상주주 엑스가 소유한 판타지오 주식 수량이 5000주 증가했다고 27일 공시했다.소유상황에 따르면 직전 기준일인 2026년 8월 7일 주식 수는 603만9240주, 지분율은 39.98%였다. 이번 기준일인 2026년 11월 27일 주식 수는 604만4240주, 지분율은 40.01%다. 이번에 보고된 주식 수는 직전 대비 5000주 증가했고, 지분율은 0.03%포인트 상승했다.세부변동내역을 보면 2026년 11월 24일 보통주가 5000주 증가했고,",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-11-27T12:20:07+09:00"
+   },
+   {
+    "title": "레파코리아, 반고체 배터리 기술 적용한 5,000mAh 무선충전 보조배터리 ‘C06’ 출시",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410397",
+    "summary": "[테크월드=김경주 기자] 모바일 기기의 충전 환경이 다양해지면서 보조배터리 제품에도 휴대성과 충전 방식, 배터리 소재 등을 고려한 기술이 적용되고 있다. 보조배터리 전문기업 주식회사 레파코리아(LEPA KOREA)는 반고체 배터리를 기반으로 설계한 5,000mAh 용량의 맥세이프 보조배터리 ‘C06’을 출시했다고 밝혔다.신제품에 적용된 반고체(Semi-Solid State) 배터리는 전해질을 반고체 형태로 구성하는 방식이다. 액체 전해질을 사용하는 기존 리튬이온 배터리와 비교해 전해질의 유동성을 줄이는 구조로, 누액 위험 완화와 열",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-11-27T12:12:24+09:00"
+   },
+   {
+    "title": "[단독]이나인페이 해킹, 25억원 탈취 “최대 규모”",
+    "link": "https://www.etnews.com/20261127000169",
+    "summary": "국내 1호 소액해외송금업체 이나인페이가 해킹으로 고객 자금 약 25억원을 탈취당했다. 국내 해킹 사고로 가장 큰 자금 탈취 규모다. 27일 업계에 따르면 금융감독원은 이나인페이의 해킹 사고 경위를 조사하고 있다. 사고 내용은 청와대에도 보고 중인 것으로 파악됐다. 이나인페이는 90여 차례 해킹 공격을 받았다. 회사는 사고를 인지한 뒤 금융당국에 신고했다. 이나인페이는 연내 코스닥 상장을 앞두고 있다. 공모를 앞둔 시점에 고객 자금 탈취 사고가",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T11:49:24+09:00"
+   },
+   {
+    "title": "“술 취한 것 아니냐” ACL2 주심 하프타임 교체…음주 의혹 일파만파",
+    "link": "https://www.etnews.com/20261127000116",
+    "summary": "아시아축구연맹(AFC) 챔피언스리그2(ACL2) 경기 도중 주심이 하프타임에 교체된 것을 두고 제기된 음주 의혹에 당사자가 “사실무근”이라며 반박했다. BBC에 따르면 26일(한국시간) 아랍에미리트(UAE) 아부다비에서 열린 2026-2027 ACL2 조별리그 B조 5차전 알자지라(UAE)와 골 고하르(이란)의 맞대결에서 시리아 출신 한나 하타브 심판이 전반전 종료 후 교체되는 일이 벌어졌다. 후반부터는 대기심이 경기를 진행했다. 알자지라는 전",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T11:45:00+09:00"
+   },
+   {
+    "title": "“한 글자만 해독해도 2000만원” 中, '갑골문자' 해석에 거액 내걸었다… 수상자는?",
+    "link": "https://www.etnews.com/20261126000519",
+    "summary": "중국에서 고대 갑골문자 한 글자를 새롭게 해독하면 최대 10만위안(약 2015만원)의 상금을 받을 수 있다는 사실이 알려져 화제다. 25일 중국 신징바오와 양청완바오 등에 따르면 최근 정셴장 후난사범대학교 부총장은 10년 전부터 중국 당국이 시행해 온 갑골문자 해석 상금 제도와 관련해 '평생을 연구에 바친 학자조차 한 글자의 의미를 밝혀내기 어려울 만큼 난도가 높아 실제 수상자는 극히 드물다'고 설명했다. 그는 “갑골문자 4000여 개 가운데",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T11:45:00+09:00"
+   },
+   {
+    "title": "KIST, 유망기술 9건 공개…헤일리온코리아와 기술이전 협약도",
+    "link": "https://zdnet.co.kr/view/?no=20261127113000",
+    "summary": "[지디넷코리아]한국과학기술연구원(KIST)은 오는 30일 서울 코엑스에서 ‘2026년 기술경영촉진(TLO혁신형) 성과공유 및 기술설명회’를 개최한다.글로벌 기술이전 협약식과 TLO 혁신형 사업 성과 공유, 유망기술 발표 및 기업 상담 등이 진행된다.기술이전은 글로벌 컨슈머 헬스케어 기업 헤일리온 코리아(대표 신동우)와 ‘수레국화 추출물 기반 근력 개선 건강기능식품 소재’의 글로벌 기술이전 협약을 체결한다.계약 내용은 NDA(비밀유지계약)에 따라 비공개다.양 기관은 향후 글로벌 시장 진출을 목표로 추가 효능·독성 검증, 표준공정 고도",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-11-27T11:30:00+09:00"
+   },
+   {
+    "title": "코스닥, 5%대 급등하며 매수 사이드카 발동",
+    "link": "https://www.etnews.com/20261127000155",
+    "summary": "코스닥이 5% 넘게 급등하며 매수 사이드카가 발동됐다. 한국거래소에 따르면 27일 코스닥150 선물은 전일 종가 6.06% 올랐고, 코스닥150 지수는 6.65% 오르며 10시 22분 매수 사이드카다 발동됐다. 올해 코스닥시장 사이드카 발동은 이번이 41번째다. 매수 사이드카가 23회, 매도 사이드카가 18회다. 발동 이후 코스닥은 11시 2분 전일 대비 5.90% 오른 694.37에 거래되고 있다.",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T11:10:05+09:00"
+   },
+   {
+    "title": "개인정보위, 유출사고 긴급 대응체계 가동…3개월 집중점검",
+    "link": "https://www.etnews.com/20261126000534",
+    "summary": "개인정보보호위원회가 인공지능(AI) 기반 사이버 공격 확산에 대응해 긴급 대응체계를 가동한다. 관계부처 간 위협정보 공유를 강화하고 공공기관과 민간기업의 개인정보 보호 실태를 집중점검한다. 개인정보위는 개인정보 유출사고 예방과 신속한 대응을 위해 긴급대응 및 점검지원 체계를 가동한다고 27일 밝혔다. 과학기술정보통신부, 금융위원회, 국가정보원 등 관계기관과 정보 공유 및 협력을 강화한다. 유출사고 유형과 원인 분석을 토대로 인터넷 노출 시스템",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T11:00:00+09:00"
+   },
+   {
+    "title": "Sh수협은행, 해킹 공격에 고객 54명 정보 유출",
+    "link": "https://www.etnews.com/20261127000149",
+    "summary": "Sh수협은행이 해킹 공격을 받아 고객 54명의 개인정보가 유출됐다. 금융권 전반에 해킹 공격이 지속되며 피해가 확인된 은행은 신한·KB국민·하나·BNK부산은행에 이어 5곳으로 늘었다. 27일 금융권에 따르면 수협은행은 지난 26일 개인정보 유출 사실을 확인하고 금융감독원에 보고했다. 유출된 정보에는 대출 정보, 신용정보, 주소 등이 포함됐다. 수협은행은 피해 고객에게 유출 사실을 발송하고 피해신고센터를 마련해 고객 문의에 대응할 계획이다. 고객",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-27T10:59:59+09:00"
+   },
+   {
+    "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+    "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+    "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-27T09:02:19+09:00"
+   },
+   {
+    "title": "Asia made a big AI bet on Nvidia. What happens now?",
+    "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-27T08:08:12+09:00"
+   },
+   {
+    "title": "Backloggd urges users to change their passwords after a breach",
+    "link": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+    "summary": "If you use Backloggd, you might need to log in again and reset your password.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-27T06:26:47+09:00"
+   },
+   {
+    "title": "Netflix’s coziest show has made a very quiet return",
+    "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+    "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-27T05:50:57+09:00"
+   },
+   {
+    "title": "1Password says it was hacked but users' vaults are safe",
+    "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+    "summary": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-27T05:00:00+09:00"
+   },
+   {
+    "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+    "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+    "summary": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-27T04:44:49+09:00"
+   },
+   {
+    "title": "The best Black Friday deals we’ve already found",
+    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-27T04:20:49+09:00"
+   },
+   {
+    "title": "Android app developers will soon have to share their address publicly",
+    "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+    "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-27T03:19:32+09:00"
+   },
+   {
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+    "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-27T03:09:18+09:00"
+   },
+   {
+    "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+    "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-27T02:15:53+09:00"
+   },
+   {
+    "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+    "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks ",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-27T01:56:43+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "다친 소방관의 현장 복귀, 스포츠의학에서 길 찾는다",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=47565",
+    "summary": "부상당한 국가대표 선수가 경기에 복귀할 때 쓰는 지침을 소방관의 현장 복귀에도 활용할 수 있을지 소방의학 전문가들이 논의했다. 소방관의 운동 기능과 업무 특성을 고려해 재활 방식을 정해야 한다는 제안도 나왔다.국립소방병원은 지난 11월 20일 충북 음성군 한국고용정보원 별관 대강당에서 ‘제1회 소방의학 국제 심포지엄’을 열었다고 27일 밝혔다. 병원 개원과 소방의학연구소 개소를 기념해 마련한 행사에는 국내외 재난의료 전문가와 연구자, 현장 소방대원 등이 참여했다.소방관 재활과 직무 복귀를 다룬 세션에서 박인천 경일대 교수는 소방관의",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-11-27T12:14:16+09:00"
+   },
+   {
+    "title": "한의사 X-ray 지지한 간협…간무협, “전형적인 내로남불” 직격",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017541",
+    "summary": "[의학신문·일간보사=유은제 기자]대한간호협회의 한의사 엑스레이(X-ray) 사용 지지 성명을 계기로 불거진 보건의료 직역 간 갈등이 간호조무사 제도 개선 문제로까지 번지고 있다.대한간호조무사협회(회장 곽지연)는 27일 성명을 통해 대한간호협회가 타 직역의 업무영역 확대에는 국민의 진료선택권과 의료서비스 접근성을 강조하면서 간호조무사의 제도 개선에는 상반된 기준을 적용하고 있다고 비판했다.간무협은 “앞서 간협은 의료서비스가 특정 직역의 독점적 권한을 보호하기 위한 것이 아니라 국민에게 최적의 의료서비스를 제공하기 위해 존재한다며 환자",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-11-27T12:02:34+09:00"
+   },
+   {
+    "title": "연세암병원 간호사, 9년 전 서약 지켜 혈액암 환자에 조혈모세포 기증",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=242973",
+    "summary": "[라포르시안] 연세암병원 10년 차 우준원 간호사가 9년 전 작성한 기증 서약을 실천해 혈액암 환자에게 조혈모세포를 기증했다고 세브란스병원이 27일 밝혔다.우 간호사는 연세암병원 150병동에서 암 환자를 돌보는 간호사다. 입사 후 병동에서 매일 혈액백을 연결해 수혈하며 헌혈의 중요성을 체감한 그는 병원 앞 헌혈의집을 정기적으로 찾았고, 신규 간호사였던 2017년 조혈모세포 기증 서약서를 작성했다.이후 50회 이상 헌혈을 이어가며 대한적십자사 은장과 금장 유공패를 받았으나 조혈모세포 기증 기회는 쉽게 찾아오지 않았다. 비혈연 간 조직",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-11-27T10:45:00+09:00"
+   },
+   {
+    "title": "심평원, ‘폐의약품 수거함 위치 찾기’ 서비스 개시",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21680",
+    "summary": "건강보험심사평가원(원장 홍승권, 이하 심평원)은 11월 27일부터 전국 폐의약품 수거함의 위치를 쉽고 편리하게 확인할 수 있는 ‘폐의약품 수거함 위치 찾기’ 서비스를 제공한다.심평원은 2022년 원주시와의 업무협약을 시작으로 전국 12개 지역본부로 협력 범위를 확대하고 지역 유관기관과 함께 폐의약품의 올바른 분리배출과 안전한 수거‧처리 환경 조성을 위한 ‘폐의약품 안심처리’ 사업을 추진해 왔다.이러한 노력으로 전국 폐의약품 수거 장소는 약 8,500개소로 확대됐으며, 2025년에는 총 304.4톤의 폐의약품이 수거됐다. 다만 국민이",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-11-27T09:25:28+09:00"
+   },
+   {
+    "title": "분당제생병원 간호사들 국제학술대회서 연구발표",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=415848",
+    "summary": "[메디칼업저버 신형주 기자] 분당제생병원 간호사들이 국제학술대회에서 연구결과를 발표하고, 간호사회 사진공모전에서도 우수작으로 당선되는 기염을 토했다.응급의료센터 한유진 과장은 지난 1일부터 4일까지 영국 에든버러에서 열린 ‘제10회 국제간호교육학술대회(NETNEP 2026)’에 참석해 Rapid5세션에서 ‘응급실 간호사의 정신응급환자 간호 역량 강화를 위해 개발한 사례 기반 모바일 교육 프로그램의 효과’에 대한 발표를 했다.한유진 과장은 응급실 간호사의 실제 정신 응급환자 간호 경험을 바탕으로 사례를 구성하고, 상황 학습이론을 적용",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-11-27T08:15:38+09:00"
+   },
+   {
+    "title": "Exclusive: Future of community children’s nurses in Scotland at risk",
+    "link": "https://www.nursingtimes.net/childrens-nursing/exclusive-future-of-community-childrens-nurses-in-scotland-at-risk-26-11-2026/",
+    "summary": "Scotland will have no specially trained community children’s nurses in 10 years’ time unless action is taken to secure the future pipeline, a nurse leader has warned. The post Exclusive: Future of community children’s nurses in Scotland at risk appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-27T01:59:07+09:00"
+   },
+   {
+    "title": "Concern over closure of NMC oversight group",
+    "link": "https://www.nursingtimes.net/professional-regulation/concern-over-closure-of-nmc-oversight-group-26-11-2026/",
+    "summary": "Nursing leaders are pushing for the Professional Standards Authority to backtrack on its decision to disband the oversight group set up to monitor the Nursing and Midwifery Council. The post Concern over closure of NMC oversight group appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-27T01:40:10+09:00"
+   },
+   {
+    "title": "Fresh call to end ‘systemic failure’ on nasogastric tube harm",
+    "link": "https://www.nursingtimes.net/nutrition-and-hydration/fresh-call-to-end-systemic-failure-on-nasogastric-tube-harm-26-11-2026/",
+    "summary": "Nurses have backed a call from specialists for updated guidance on nasogastric (NG) tube safety. The post Fresh call to end ‘systemic failure’ on nasogastric tube harm appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-26T22:22:08+09:00"
+   },
+   {
+    "title": "보건의료인 국시 AI 커닝 ‘사실무근’",
+    "link": "http://www.khanews.com/news/articleView.html?idxno=253298",
+    "summary": "정부가 최근 제기된 보건의료인 국가시험의 ‘인공지능(AI) 커닝’ 의혹을 일축했다.보건복지부는 11월 26일 일부 언론이 보도한 ‘보건의료 국시 과목 만점자 급증에 따른 AI 부정행위 의혹 및 전수조사 누락’ 주장에 대해 보도설명자료를 배포하며 적극적인 해명에 나섰다.보건복지부와 한국보건의료인국가시험원은 일부 과목의 만점자가 증가한 것은 시험 난이도와 응시자 수 변동에 따른 결과일 뿐, AI를 활용한 부정행위로 의심하기는 어렵다는 입장이다.실제로 의사나 간호사 등 동일한 교시에 복수로 치러진 과목들의 결과를 분석해 보면, ‘보건의약",
+    "source": "병원신문",
+    "lang": "ko",
+    "published": "2026-11-26T21:43:56+09:00"
+   },
+   {
+    "title": "Nursing workforce deficit stuck at around six million globally",
+    "link": "https://www.nursingtimes.net/global-nursing/nursing-workforce-deficit-stuck-at-around-six-million-globally-26-11-2026/",
+    "summary": "The global nursing shortage remains stubbornly high at around six million, a Nursing Times conference has heard. The post Nursing workforce deficit stuck at around six million globally appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-26T21:28:09+09:00"
+   },
+   {
+    "title": "‘My care home placement turned out to be wonderful’",
+    "link": "https://www.nursingtimes.net/students/my-care-home-placement-turned-out-to-be-wonderful-26-11-2026/",
+    "summary": "Mental health nursing student Katarzyna Zdrojewska shares her experience of a care home placement. The post ‘My care home placement turned out to be wonderful’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-26T18:00:54+09:00"
+   },
+   {
+    "title": "Hidden in plain sight: the workforce behind better rare disease care",
+    "link": "https://www.nursingtimes.net/workforce/hidden-in-plain-sight-the-workforce-behind-better-rare-disease-care-26-11-2026/",
+    "summary": "Much of the work that keeps rare disease care connected is invisible and happens every day in rare disease services across the NHS. The post Hidden in plain sight: the workforce behind better rare disease care appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-26T18:00:46+09:00"
+   },
+   {
+    "title": "2026 Nurse Strikes: Complete List of Active and Planned Strikes",
+    "link": "https://nurse.org/articles/nurse-strikes-list/",
+    "summary": "Image: NJ.comThis tracker is the live front end of a larger Nurse.org project we're calling Nurse Strike Intelligence.Nurse walkouts are rising fast, but the reporting on them is scattered: a…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-26T17:00:00+09:00"
+   },
+   {
+    "title": "\"병동에서 우리는 한 팀\"…전공의들, 울산대병원 보조인력 감축 반대",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044934",
+    "summary": "전공의들이 울산대병원의 간호·간병통합서비스 병동 축소 계획과 보조인력 운영 방식 변경에 반발하며 인력구조조정 중단을 촉구했다. 민주노총 공공운수노조 의료연대본부도 국회에서 기자회견을 열고 이를 규탄했다.전국전공의노동조합과 전공의노조 울산대병원지부는 26일 성명을 통해 “울산대병원은 인력구조조정을 즉각 중단하라”며 “전공의노조는 울산대병원분회의 투쟁을 지지하며 함께하겠다”고 밝혔다.이에 따르면 울산대병원은 지난 2021년 기준 17개였던 간호·간병통합서비스 병동을 오는 2027년 1월 9개로 축소할 계획이다. 병동 보조인력 운영 방식",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-11-26T16:43:17+09:00"
+   },
+   {
+    "title": "The Toxic Substances Control Act is Under Attack",
+    "link": "https://www.myamericannurse.com/the-toxic-substances-control-act-is-under-attack-2/",
+    "summary": "As a Delawarean and a registered nurse, to be concerned about the environment, about health, and how each impacts the other is an understatement. The Toxic Substances Control Act (or TSCA, pronounced Tah-sca), under the Environmental Protection Agency (EPA), was put into place to protect the health ",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T02:22:59+09:00"
+   },
+   {
+    "title": "Nurse Coaching: A Support Nurses Need Now",
+    "link": "https://www.myamericannurse.com/nurse-coaching-a-support-nurses-need-now/",
+    "summary": "What is nurse coaching? Nurses are trained to assess, educate, advocate, and care. Yet even experienced nurses can lose confidence after workplace conflict, criticism, or a difficult transition. Nurse coaching offers a structured, relationship-centered process to help people clarify what matters, re",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:28:51+09:00"
+   },
+   {
+    "title": "Maryland Nurses Association Celebrates 123 Years of Nursing Leadership at Annual Convention",
+    "link": "https://www.myamericannurse.com/maryland-nurses-association-celebrates-123-years-of-nursing-leadership-at-annual-convention/",
+    "summary": "The Maryland Nurses Association (MNA) 123RD Annual Convention brought together nurses, educators, healthcare leaders, students, and healthcare partners from across the state on October 8 and 9 at the Maritime Conference Center in Linthicum Heights, Maryland. Guided by the theme, “The Power of Maryla",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:17:37+09:00"
+   },
+   {
+    "title": "Nurse Practitioner Board Complaint Case Study: Failing to Maintain Professional Standards as it Relates to Improper Conduct Connected to Social Media Activity",
+    "link": "https://www.myamericannurse.com/nurse-practitioner-board-complaint-case-study-failing-to-maintain-professional-standards-as-it-relates-to-improper-conduct-connected-to-social-media-activity-3/",
+    "summary": "Nurse Practitioner Licensure Defense Expenses Case Study with Risk Management Strategies Presented by CNA and NSO A State Board of Nursing (SBON) complaint may be filed against a Nurse Practitioner (NP) by a patient, a patient’s family member, colleague, employer, and/or other regulatory agency, suc",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:04:43+09:00"
+   },
+   {
+    "title": "I Want to Hear From You",
+    "link": "https://www.myamericannurse.com/i-want-to-hear-from-you/",
+    "summary": "President’s Message I am not sure where the summer went this year, as ANA-Ohio was busy with multiple events and activities. One important responsibility was attending the annual American Nurses Association’s (ANA) Membership Assembly in June. As many of you know, the Membership Assembly is the gove",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-25T23:45:09+09:00"
+   },
+   {
+    "title": "Protecting our Practice",
+    "link": "https://www.myamericannurse.com/protecting-our-practice/",
+    "summary": "The theme for this issue of the ANA-Ohio News Journal is protecting our practice. ANA offers foundational publications that assist nurses to practice ethically and responsibly. Specifically, the Code of Ethics for Nurses (ANA, 2025) provides guidance for navigating today’s complex healthcare environ",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-25T23:31:01+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "감기약 시장 판 바뀐다…액제 강세 속 나이트·생약 약진",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=81149",
+    "summary": "히트뉴스와 비저너리 데이터 공동 기획 OTC NEXT 15% 히트뉴스와 빅데이터 분석회사 비저너리 데이터는 2024부터 2025년까지 약국경영 관련 원본데이터를 생성한 전국 500곳 패널 약국 데이터를 기반으로, 15% 박스권에 갇힌 일반의약품 시장을 다양한 관점에서 분석한다.◇ 글 싣는 순서(11) 감기약 시장 판 바뀐다…액제 강세 속 나이트·생약 약진[히트뉴스=최선재 기자] 종합감기약 시장에서 액제와 시럽제의 강세가 이어지는 가운데 대원제약 콜대원 브랜드의 존재감이 두드러지고 있다. 콜대원은 코프·노즈·콜드 등 기존 주력 제품군",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-11-27T12:04:00+09:00"
+   },
+   {
+    "title": "AI 가짜 의사 광고 금지…의료계가 경계해 온 위험",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=422805",
+    "summary": "인공지능(AI) 기술로 의사의 외모와 목소리, 전문적인 설명 방식까지 구현할 수 있게 되면서 의료인에 대한 사회적 신뢰가 상품 판매의 수단으로 악용되고 있다. 의사처럼 보이는 인물이 질환의 위험성을 설명하고 특정 제품의 효과를 장담하지만, 그 내용이 의학적 검증을 거쳤다는 보장은 없다. 의료계가 AI 가짜 의사 광고를 경계해 온 이유도 여기에 있다. 제품의 효능을 부풀리는 것을 넘어 정보를 전달하는 주체의 전문성까지 조작함으로써 소비자가 신뢰 여부를 판단하는 기준 자체를 흔들기 때문이다. 이러한 광고 행위를 직접 규율할 법적 근거가",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-11-27T11:55:00+09:00"
+   },
+   {
+    "title": "This Week in Health Tech 11/25/26",
+    "link": "https://histalk2.com/2026/11/25/this-week-in-health-tech-11-25-26/",
+    "summary": "",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-26T01:46:24+09:00"
+   },
+   {
+    "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
+    "link": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
+    "summary": "New technology, for example, remote monitoring, has potential to improve patient care and expand access. A carefully thought-out program, such as Houston Methodist’s remote monitoring expansion to rural Kansas hospitals, means those new technologies are supported by the structure and staffing needed",
+    "source": "MedCity News",
+    "lang": "en",
+    "published": "2026-11-25T08:32:07+09:00"
+   },
+   {
+    "title": "Morning Headlines 11/25/26",
+    "link": "https://histalk2.com/2026/11/24/morning-headlines-11-25-26/",
+    "summary": "Stanford Medicine study links a practice’s efficiency to less doctor burnout Physicians who believe their practices to be more efficient report feeling less burnt out and more professionally fulfilled, according to a new Stanford Medicine ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-25T08:04:45+09:00"
+   },
+   {
+    "title": "News 11/25/26",
+    "link": "https://histalk2.com/2026/11/24/news-11-25-26/",
+    "summary": "Top News Virtual and mobile healthcare company DocGo will sell its cardiac implantable electronic device remote monitoring business to Medical Monitoring Corp. for up to $25 million. The company will retain its non-CIED virtual care ...",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-25T07:43:45+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "Predictors of Hypomagnesemia Among Hospitalized Patients: A Retrospective Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43096470/",
+   "journal": "The American journal of nursing",
+   "authors": "Sheridan MJ, Quinn CA, Bresz KE 외",
+   "pubdate": "2026 Nov 26"
+  },
+  {
+   "title": "Implementation of an Electronic Health Record Initiative to Reduce Deep Sedation in a Cardiac Intensive Care Unit.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095350/",
+   "journal": "Journal of cardiac failure - intersections",
+   "authors": "Adie SK, Ketcham SW, Zimmerman C 외",
+   "pubdate": "2026 May 22"
+  },
+  {
+   "title": "Evaluating the feasibility of a nurse-informed, context-driven large language model pipeline for social determinants of health in heart failure care.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095285/",
+   "journal": "JAMIA open",
+   "authors": "Dinh HN, Zhang Z, Bang SH 외",
+   "pubdate": "2026 Nov 25"
+  },
+  {
+   "title": "Development and preliminary usability evaluation of an evidence-based knowledge graph-supported intelligent question-answering system for chronic rhinosinusitis health education.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43094908/",
+   "journal": "Frontiers in public health",
+   "authors": "Wang W, Zhang Z, Li X 외",
+   "pubdate": "2026 Nov 11"
+  },
+  {
+   "title": "Artificial Intelligence for the Early Prediction, Risk Stratification and Treatment of Sepsis: A Narrative Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43089295/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Raileanu A, Ignat MD, Pîrlitu E 외",
+   "pubdate": "2026 Nov 19"
+  },
+  {
+   "title": "Associations of Moral Sensitivity and Metacognition with Artificial Intelligence Ethics Awareness Among Clinical Nurses: The Potential Mediating Role of Technostress.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43089290/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Baek G, Lee E",
+   "pubdate": "2026 Nov 19"
+  },
+  {
+   "title": "Associations Between Medical Explainable Artificial Intelligence and Nurses' Medical AI-Based Innovative Behavior: The Roles of Trust in Medical AI and Medical AI Information Disclosure.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43089289/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Cheng M, Zhang L, Li X 외",
+   "pubdate": "2026 Nov 19"
+  },
+  {
+   "title": "Individual Innovativeness, General Attitudes Toward Artificial Intelligence, and Perceptions of an AI-Equipped Robotic Nursing Support System Among Intensive Care Nurses: An Analytical Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43089161/",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "authors": "Kızıl H, Yılmaz A, Çaylı O",
+   "pubdate": "2026 Nov 10"
+  },
+  {
+   "title": "Development and Internal Validation of a Nurse-Led Sepsis Risk Score Using AI-Enabled Remote Patient Monitoring Data in Adult Febrile Neutropenia: A Nested Case-Control Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43088796/",
+   "journal": "Diagnostics (Basel, Switzerland)",
+   "authors": "Asokan A, Lakshmanan AK, Jadhav SS 외",
+   "pubdate": "2026 Nov 10"
+  },
+  {
+   "title": "Transcultural adaptation and psychometric properties of the Chinese version of the Artificial Intelligence Attitude Scale for Nurses (AIASN).",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43086856/",
+   "journal": "BMC nursing",
+   "authors": "Lin X, Qin Y, Zeng Y 외",
+   "pubdate": "2026 Oct 31"
+  }
+ ]
+}
