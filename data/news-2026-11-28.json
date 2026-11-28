@@ -1,0 +1,590 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T12:02:35.691331+09:00",
+ "articles": {
+  "ai": [
+   {
+    "title": "동의대 '피지컬 AI 협의체' 결성…로봇 학습 데이터 생산·검증 시동",
+    "link": "https://www.etnews.com/20261128000003",
+    "summary": "동의대학교 앵커사업단(단장 김성희)은 27일 동의대 산학협력관에서 '피지컬 인공지능(AI) 협의체' 출범식을 열고, 지·산·학·연 협력 아래 피지컬 AI 학습 데이터 생산과 검증에 본격 나섰다. 피지컬 AI 협의체는 동의대 앵커사업단과 부산정보산업진흥원, 부산테크노파크, 필즈, 로아스, 마음AI, 한국로봇융합연구원 등 10개 기관 및 기업으로 구성됐다. 동의대 앵커사업단이 구축한 '피지컬 AI 랩(Lab)'을 기반으로 피지컬 AI 학습 데이터를",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-28T11:05:03+09:00"
+   },
+   {
+    "title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217895",
+    "summary": "글·그림 Dr. Alf",
+    "source": "AI타임스",
+    "lang": "ko",
+    "published": "2026-11-28T10:00:00+09:00"
+   },
+   {
+    "title": "문어, AI 기반 인테리어 견적서 분석 서비스 공개…계약 전 위험 요소 진단",
+    "link": "https://www.etnews.com/20261127000332",
+    "summary": "인테리어 계약을 앞둔 소비자가 인공지능(AI)을 활용해 견적서를 분석하고 추가 비용 발생 가능성 등 잠재적 위험 요소를 사전에 확인할 수 있는 서비스가 공개됐다. 가천대학교 재학생 김승찬, 김서윤으로 구성된 개발팀은 AI 기반 인테리어 견적서 분석 솔루션 '문어'를 선보였다. 문어는 소비자가 시공업체로부터 받은 견적서를 업로드하면 공사 항목을 자동으로 추출하고 누락, 중복 계상, 불명확한 표현 등 잠재적 위험 요소를 진단하는 서비스다. 분석 결",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-28T09:00:00+09:00"
+   },
+   {
+    "title": "전북가상융합산업혁신센터, 내달 4일 '트윈토크 2026' 세미나 개최",
+    "link": "https://www.etnews.com/20261127000111",
+    "summary": "전북지역의 전략산업 현장에서 인공지능(AI)과 가상융합(XR) 기술이 어떻게 활용되고 있는지 살펴볼 수 있는 자리가 마련된다. 전주시와 (재)전주정보문화산업진흥원(원장 허전)은 12월 4일 오후 2시 한국폴리텍대학 신기술교육원 컨벤션센터에서 '트윈토크 2026: AI·XR, 현장에 서다' 세미나를 개최한다. 이번 세미나는 전북가상융합산업혁신센터가 주관하며, '지역 전략산업 현장에서 문제를 듣고, 필요한 기술을 쓴다'를 부제로 진행된다. 특히 기",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-28T09:00:00+09:00"
+   },
+   {
+    "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류",
+    "link": "https://www.etnews.com/20261127000004",
+    "summary": "AI 에이전트 서비스 '피클'로 카드결제를 시도하기까지 몇 차례 망설였다. 피클이 실수하지 않을까, 나의 카드정보가 어디론가 새어나가는 것이 아닐까 우려했다. 직접 써보니 피클은 친절했고 결제도 성공했다. 하지만 주문정보를 안내하는 과정에서 오류를 보이며 정확성과 오류 발생 시 책임 소재는 해결해야 할 과제로 남았다. 국내 일간 사용자 수가 10만명에 달하는 피클은 사람 대신 일정관리를 해주고 전화를 걸어주고 예약도 해주는 기능으로 유명세를 탔",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-28T09:00:00+09:00"
+   },
+   {
+    "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+    "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+    "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to comp",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T04:38:37+09:00"
+   },
+   {
+    "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+    "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+    "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal. The article Ban",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T03:27:02+09:00"
+   },
+   {
+    "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+    "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+    "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction, th",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T01:58:56+09:00"
+   },
+   {
+    "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+    "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+    "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T01:06:43+09:00"
+   },
+   {
+    "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+    "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+    "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article Open",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T01:05:23+09:00"
+   },
+   {
+    "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+    "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+    "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rocks",
+    "source": "The Decoder",
+    "lang": "en",
+    "published": "2026-11-28T00:37:47+09:00"
+   },
+   {
+    "title": "호남대 앵커사업단, '함께늘봄 강사 실전강의' 운영…내년 1월까지 생성형 AI·로봇 실습",
+    "link": "https://www.etnews.com/20261127000359",
+    "summary": "호남대학교 앵커사업단(단장 정제평)은 25일 하나은행 광산지점 2층 하나EZ라운지에서 '함께늘봄 강사 실전강의' 첫 교육을 실시했다. 이번 실전강의는 함께늘봄 프로그램에 참여하는 현장 강사의 전문성을 강화하고, 늘봄교육에 관심 있는 예비·신규 강사들의 실무 역량을 높이기 위해 마련됐다. 이번 교육과정은 11월 25일을 시작으로 12월 16일과 30일, 2027년 1월 6일까지 총 4회에 걸쳐 진행된다. 회차별 20명 내외를 대상으로 늘봄교육 현",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T23:16:28+09:00"
+   },
+   {
+    "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inv",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-27T22:00:00+09:00"
+   },
+   {
+    "title": "포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략",
+    "link": "https://www.etnews.com/20261127000355",
+    "summary": "포시에스가 30년간 축적한 전자문서 소프트웨어 기술에 인공지능(AI) 에이전트를 결합해 기업 지식 자산화 시장 공략에 나선다. 단순 문서 생성·관리에서 벗어나 기업 내부 데이터를 업무에 활용할 수 있는 지식으로 전환하는 등 사업 영역을 확대한다. 포시에스는 30일 서울 양재동 엘타워에서 열리는 '디지털문서 AX 콘퍼런스 2026'에서 기조강연을 통해 전자문서와 AI 에이전트를 결합한 통합 로드맵을 최초 공개한다고 27일 밝혔다. 전자신문과 한국",
+    "source": "전자신문 SW·AI",
+    "lang": "ko",
+    "published": "2026-11-27T21:39:26+09:00"
+   },
+   {
+    "title": "Our 2027 Innovators Under 35 competition is now open",
+    "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+    "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founder",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-27T19:48:47+09:00"
+   },
+   {
+    "title": "How cutting-edge prosthetics can help probe the human mind",
+    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s ",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "published": "2026-11-27T19:00:00+09:00"
+   },
+   {
+    "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
+    "summary": "구글이 대규모 소프트웨어 개발 과정에서 발생하는 소스코드 다운로드와 빌드 병목현상을 해결하고, 다수의 인공지능(AI) 에이전트가 동시에 개발 업무를 수행할 수 있는 새로운 소프트웨어 개발 인프라를 오픈소스로 공개했다.AI 코딩 에이전트의 코드 생성 능력이 빠르게 발전하는 가운데 기존 개발 인프라의 물리적·구조적 제약까지 개선해 에이전틱 AI 기반 소프트웨어 개발의 생산성을 높이려는 전략으로 대규모 깃(Git) 저장소의 개발 작업을 가속화하는 소프트웨어 프레임워크 ‘ABFS(Another Build File Service)’를 공개했",
+    "source": "인공지능신문",
+    "lang": "ko",
+    "published": "2026-11-27T18:47:23+09:00"
+   },
+   {
+    "title": "솔트웨어·AWS, 금융권 AI 도입 전략 공유...규제·보안 해법 모색",
+    "link": "http://www.newstheai.com/news/articleView.html?idxno=22054",
+    "summary": "솔트웨어는 아마존웹서비스(AWS)와 공동으로 ‘AWS × 솔트웨어 금융권 AI 세미나’를 개최했다고 27일 밝혔다. 서울 강남구 AWS코리아 사옥에서 열린 이번 행사에는 금융권 IT와 디지털 혁신, 정보보호, 클라우드 및 AI 담당자들이 참석했다. 세미나는 금융회사가 AI를 도입할 때 검토해야 할 제도적 요건과 클라우드 보안 체계를 중심으로 진행됐다. AWS는 금융권 클라우드 이용 관련 규제와 보안·컴플라이언스 지원 체계를 설명했다. 솔트웨어는 혁신금융서비스 지원 방안을 소개하며 금융회사가 AI 적용 과정에서 살펴야 할 제도적 사항",
+    "source": "THE AI",
+    "lang": "ko",
+    "published": "2026-11-27T11:22:44+09:00"
+   },
+   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-27T05:03:54+09:00"
+   },
+   {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-11-27T01:00:00+09:00"
+   }
+  ],
+  "it": [
+   {
+    "title": "AIDC '메가프로젝트' 첫 삽…GS 동해 1.2GW 센터 착공",
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718991",
+    "summary": "[디지털투데이 이진호 기자] 정부가 추진하는 메가프로젝트가 본격적인 구축 단계에 들어섰다. GS가 강원도 동해에 1.2GW 규모의 AI 데이터센터(DC) 착공에 나선 가운데 정부도 제도 정비와 전후방 산업 육성에 속도를 낸다.과학기술정보통신부는 28일 강원도 동해시 북평제2일반산업단지에서 '동해 GS AI 데이터센터 착공식'을 개최했다.정부 메가프로젝트 가운데 GW급 AIDC가 착공에 들어간 첫 사례다. 이번 착공식은 지난 6월 29일 '3대 메가프로젝트 국민보고회'에서 GS가 발표한 2.4GW 규모의 AIDC 구축 계획의 1단계",
+    "source": "디지털투데이",
+    "lang": "ko",
+    "published": "2026-11-28T11:36:33+09:00"
+   },
+   {
+    "title": "“금덩이인 줄 알고 10년간 보관했는데”…17㎏ 돌덩이의 놀라운 정체",
+    "link": "https://www.etnews.com/20261127000281",
+    "summary": "호주에서 한 남성이 금덩이가 들어 있을 것으로 생각해 수년간 보관하던 돌이 약 46억년 전 형성된 희귀 운석으로 밝혀진 사연이 화제다. 남성은 돌을 깨기 위해 각종 공구까지 동원했지만 실패했고, 이후 박물관에 감정을 의뢰하면서 뜻밖의 정체를 알게 됐다. 27일(현지시간) 과학 전문매체 사이언스얼럿에 따르면 호주 남성 데이비드 홀은 2015년 빅토리아주 중부 메리버러 지역공원에서 금속탐지기로 금을 찾던 중 붉은빛을 띠는 무거운 돌을 발견했다. 메",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-28T11:30:00+09:00"
+   },
+   {
+    "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+    "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+    "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T10:54:12+09:00"
+   },
+   {
+    "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+    "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+    "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T10:50:28+09:00"
+   },
+   {
+    "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+    "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+    "source": "BBC Technology",
+    "lang": "en",
+    "published": "2026-11-28T10:30:50+09:00"
+   },
+   {
+    "title": "AI 피아노의 '나홀로 연주'…인간의 감성 입고 선율 확장하다",
+    "link": "https://zdnet.co.kr/view/?no=20261127165719",
+    "summary": "[지디넷코리아]연주자가 없는 피아노의 건반이 움직이기 시작했다. 아무도 앉아 있지 않은 피아노에서 선율이 흘러나오는 모습이 어색하게 느껴진 것은 잠시였다. 현악기 연주와 발레 무용수의 몸짓이 더해지자 피아노는 어느새 무대 위 또 다른 출연자로 자리 잡았다. 공연이 끝날 무렵 크리스마스 캐럴을 연주하는 피아노는 귀엽게 느껴질 정도였다. 기술에 대한 낯섦이 친근함으로 바뀌는 데는 한 편의 공연이면 충분했다.지난 25일 서울 구로아트밸리 예술극장에서 융복합 공연 제작사 글리치루드가 선보인 '몸짓을 연주하다 LINE'을 관람했다. 인공지능",
+    "source": "ZDNet Korea",
+    "lang": "ko",
+    "published": "2026-11-28T10:26:11+09:00"
+   },
+   {
+    "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+    "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T09:51:09+09:00"
+   },
+   {
+    "title": "The absolute best Black Friday deals we’ve found (so far)",
+    "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+    "summary": "This year's Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we've seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can'",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T09:44:11+09:00"
+   },
+   {
+    "title": "We found 60-odd Black Friday deals we love for $100 or less",
+    "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+    "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of gre",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T09:42:02+09:00"
+   },
+   {
+    "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+    "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+    "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on ele",
+    "source": "The Verge",
+    "lang": "en",
+    "published": "2026-11-28T09:25:48+09:00"
+   },
+   {
+    "title": "200kg 돌덩이 굴린 10대들…피해액만 1000만원",
+    "link": "https://www.etnews.com/20261127000301",
+    "summary": "폴란드에서 청소년들이 200kg에 달하는 돌덩이를 계단 아래로 굴려 1000만원이 넘는 재산 피해를 일으켰습니다. 지난 21일(현지시간) 폴란드 레그니차 도심에서 청소년들이 불법 주차를 막기 위해 설치된 둥근 돌덩이를 지하보도 계단 아래로 밀어 떨어뜨리는 모습이 CCTV에 포착됐습니다. 이로 인해 최근 보수 공사를 마친 계단 곳곳이 파손됐습니다. 다행히 인명 피해는 없었으나 시 당국은 피해액을 약 1020만원으로 추산했습니다. 경찰은 사건 직후",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-28T09:20:00+09:00"
+   },
+   {
+    "title": "[의정브리프] 원화 스테이블코인 발행 허용 추진…수능장 전파차단도 검토",
+    "link": "https://www.etnews.com/20261127000140",
+    "summary": "국회에서는 매주 새로운 법안과 정책 제안이 나옵니다. 의원실마다 다양한 목소리와 아이디어를 내놓지만, 하나하나 살펴보기는 쉽지 않습니다. '의정 브리프'는 한 주간 의원실에서 나온 주요 자료를 모아 정책과 입법 소식을 알기 쉽게 전합니다. ◇원화 스테이블코인·ICO 허용 추진…해킹 피해엔 사업자 무과실 배상 원화 스테이블코인 발행과 신규 디지털자산 발행·판매(ICO)를 허용하고, 해킹이나 전산장애로 이용자가 입은 손해는 사업자가 과실 여부와 관",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-28T09:00:00+09:00"
+   },
+   {
+    "title": "쇼핑몰 아닌 '카페들의 본사'…만월회, 발주 데이터와 AI로 독립카페 운영 대신하다",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410393",
+    "summary": "[테크월드=김경주 기자] 전국 개인 카페는 8만 곳이 넘지만, 이들 대부분은 메뉴를 정하고 원재료를 고르고 직원을 관리하는 일을 사장 한 사람이 맡는다. 프랜차이즈 가맹점이라면 본사가 대신하던 일이다. 지난 19일 '2026 재도전의 날'에서 중소벤처기업부장관 표창을 받은 ㈜만월회(대표 박제영)는 이 빈자리를 사업 모델로 삼았다.만월회가 운영하는 '만월상회'는 겉으로는 카페 사업자 전용 B2B 플랫폼이지만, 회사가 정의하는 정체성은 '독립카페의 본사'다. 원재료를 파는 데서 그치지 않고, 어떤 메뉴를 언제 내야 하는지, 원가를 어떻",
+    "source": "테크월드뉴스",
+    "lang": "ko",
+    "published": "2026-11-28T09:00:00+09:00"
+   },
+   {
+    "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+    "link": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+    "summary": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you're getting the best performance available.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-28T07:46:29+09:00"
+   },
+   {
+    "title": "LA school district blocks Google's AI search features",
+    "link": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+    "summary": "The company has insisted that AI overviews and search are a package deal.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-28T07:00:08+09:00"
+   },
+   {
+    "title": "“돌아가면 평생 감옥살이”…中 짝퉁 고발자, 한국서 난민 신청 거부당했다",
+    "link": "https://www.etnews.com/20261127000203",
+    "summary": "중국에서 약 30년간 '짝퉁' 유통을 추적하고 소비자 피해를 고발해온 인권·소비자 권익 활동가가 당국의 압박을 피해 한국으로 피신했지만, 난민 지위를 인정받지 못해 가족과 함께 체류에 어려움을 겪고 있다고 밝혔다. 27일(현지시간) AP통신에 따르면 중국인 왕하이(53)는 이날 공개된 인터뷰에서 지난 7월 중국 당국이 관련 활동에 대한 단속을 강화하자 9월 아내와 두 자녀를 데리고 한국으로 건너왔다고 밝혔다. 그러나 난민 신청이 받아들여지지 않",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-28T06:00:00+09:00"
+   },
+   {
+    "title": "날개 없이 둥실…하늘을 나는 자동차 등장",
+    "link": "https://www.etnews.com/20261126000541",
+    "summary": "날개 없이 하늘을 나는 자동차가 중국에서 첫 시험 비행에 성공했습니다. 중국 기업 중페이창즈가 10년 넘게 개발한 1인승 비행 자동차는 지난 21일(현지시간) 후난성 창사에서 첫 시험 비행을 마쳤습니다. 차체 내부에 3단계 팬을 배치해 공기를 아래로 밀어내고, 추력의 방향을 조절해 비행 자세를 제어합니다. 일반 주차 공간 크기에서 수직 이착륙할 수 있으며 공중에서 제자리 비행도 가능합니다. 개발사에 따르면 팬을 차체 내부에 배치해 회전 날개로",
+    "source": "전자신문 IT",
+    "lang": "ko",
+    "published": "2026-11-28T06:00:00+09:00"
+   },
+   {
+    "title": "Samsung is reportedly giving its camera app an AI mode",
+    "link": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+    "summary": "The feature could mirror the Siri mode Apple added in iOS 27.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-28T05:06:02+09:00"
+   },
+   {
+    "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+    "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+    "summary": "Bloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-28T04:45:23+09:00"
+   },
+   {
+    "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+    "link": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+    "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
+    "source": "Engadget",
+    "lang": "en",
+    "published": "2026-11-28T04:44:38+09:00"
+   }
+  ],
+  "nurse": [
+   {
+    "title": "Nursing Times Awards 2026: Theatre and Surgical Nursing winner and shortlist",
+    "link": "https://www.nursingtimes.net/hospital-nursing/nursing-times-awards-2026-theatre-and-surgical-nursing-winner-and-shortlist-27-11-2026/",
+    "summary": "Find out more about the winner and shortlisted entries in the Theatre and Surgical Nursing category at the 2026 Nursing Times Awards. The post Nursing Times Awards 2026: Theatre and Surgical Nursing winner and shortlist appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-28T02:42:34+09:00"
+   },
+   {
+    "title": "‘The reality of student nursing is not that we must know everything’",
+    "link": "https://www.nursingtimes.net/students/the-reality-of-student-nursing-is-not-that-we-must-know-everything-27-11-2026/",
+    "summary": "In his first blog, student editor James Joseph reflects on the student nurse journey and learning from clinical experience. The post ‘The reality of student nursing is not that we must know everything’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-28T02:21:54+09:00"
+   },
+   {
+    "title": "Growth in community nursing workforce ‘lagging’ behind policy",
+    "link": "https://www.nursingtimes.net/community-nursing/growth-in-community-nursing-workforce-lagging-behind-policy-27-11-2026/",
+    "summary": "Increases in the size of the health service’s community workforce, especially nurses, continues to lag behind that of staff based in hospital settings and, in some cases, is falling, analysts have warned. The post Growth in community nursing workforce ‘lagging’ behind policy appeared first on Nursin",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-28T01:02:05+09:00"
+   },
+   {
+    "title": "CQC highlights need to take maternity care concerns more seriously",
+    "link": "https://www.nursingtimes.net/midwifery-and-neonatal/cqc-highlights-need-to-take-maternity-care-concerns-more-seriously-27-11-2026/",
+    "summary": "Maternity care experiences are improving but concerns raised by women during labour and birth need to be taken more seriously, according to England’s health and social care system regulator. The post CQC highlights need to take maternity care concerns more seriously appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-27T23:45:42+09:00"
+   },
+   {
+    "title": "민주당, '보건의료특위' 출범...위원장에 김윤 의원",
+    "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017593",
+    "summary": "[의학신문·일간보사=이재원 기자] 더불어민주당이 의료계와 보건의료 직역 간 갈등을 조정하고 정부의 의료개혁 과제를 뒷받침하기 위한 보건의료특별위원회를 공식 출범시켰다. 의사와 한의사, 치과의사, 간호사, 약사, 의료기사 등 다양한 직역의 대표 인사들이 참여한 가운데, 향후 의료개혁 과정에서 이해관계를 조율하는 당내 소통 창구로 기능할 수 있을지 주목된다.더불어민주당은 27일 김민석 당대표와 김윤 보건의료특별위원장, 보건의료 직역별 부위원장 등이 참석한 가운데 보건의료특별위원회 출범식을 개최했다.이번 특위는 김윤 위원장을 중심으로 대",
+    "source": "의학신문",
+    "lang": "ko",
+    "published": "2026-11-27T23:14:14+09:00"
+   },
+   {
+    "title": "‘Protecting patient information is protecting patient trust’",
+    "link": "https://www.nursingtimes.net/policies-and-guidance/protecting-patient-information-is-protecting-patient-trust-27-11-2026/",
+    "summary": "Chief nursing officer for England Duncan Burton on nurses' professional responsibility to protect patient information. The post ‘Protecting patient information is protecting patient trust’ appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-27T21:22:30+09:00"
+   },
+   {
+    "title": "세종광역정신건강복지센터, 위기상담전화 적은 소방 가림막 배포",
+    "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=47622",
+    "summary": "세종광역정신건강복지센터가 재난·사고 현장을 가리는 소방 가림막에 정신건강위기상담전화 번호를 넣었다. 시민이 사고 장면에 불필요하게 노출되는 일을 줄이고, 현장을 목격한 사람이 상담받을 곳을 바로 알 수 있도록 했다.세종충남대병원이 위탁 운영하는 센터는 가림막을 제작해 세종소방본부에 배포했다고 11월 27일 밝혔다. 센터는 사고 목격자의 심리적 충격과 2차 피해를 예방하고 자살예방 실무자의 현장 대응을 돕기 위해 가림막을 마련했다.사고를 목격한 뒤 불안이나 스트레스를 겪는 시민은 가림막에 적힌 정신건강위기상담전화(1577-0199)로",
+    "source": "간호사신문",
+    "lang": "ko",
+    "published": "2026-11-27T20:47:34+09:00"
+   },
+   {
+    "title": "University ‘temporarily pauses’ learning disability nursing course",
+    "link": "https://www.nursingtimes.net/education-and-training/university-temporarily-pauses-learning-disability-nursing-course-27-11-2026/",
+    "summary": "The largest provider of higher education in the South West of England has suspended its pre-registration learning disabilities degree course because of “challenges” with student recruitment. The post University ‘temporarily pauses’ learning disability nursing course appeared first on Nursing Times .",
+    "source": "Nursing Times",
+    "lang": "en",
+    "published": "2026-11-27T20:37:49+09:00"
+   },
+   {
+    "title": "치료 중에도 배움은 계속…병원학교에서 키운 간호사의 꿈",
+    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044987",
+    "summary": "한양대병원이 개교 21주년을 맞은 병원학교 '누리봄교실'의 교육 공간을 확충하고 환아 맞춤형 교육 프로그램을 확대한다.한양대병원은 지난 25일 본관 HY이음홀에서 '스물한 번째 우리들의 희망 이야기'를 주제로 누리봄교실 개교 21주년 기념식을 개최했다.지난 2023년부터 2025년까지 누리봄교실에서 수업을 받은 김하영 졸업생은 이날 기념식에서 병원학교에서의 경험을 공유했다.김 양은 \"입·퇴원을 반복하며 학업 중단 위기에 놓였지만 1대1 맞춤형 교과 수업과 미술 수업 덕분에 무사히 중학교를 졸업할 수 있었다\"며 \"병원학교에서 얻은 힘",
+    "source": "청년의사",
+    "lang": "ko",
+    "published": "2026-11-27T19:02:54+09:00"
+   },
+   {
+    "title": "[Medical Report] 지역 필수의료 건강보험 보상 강화…지역 가산분 환자 본인부담 면제 추진 外",
+    "link": "https://www.hkn24.com/news/articleView.html?idxno=351812",
+    "summary": "[헬스코리아뉴스 / 임해리] 보건복지부는 지역·필수·공공의료에 대한 건강보험 보상을 강화하고 환자의 의료비 부담을 줄이기 위한 국민건강보험법 하위법령 개정안을 입법예고했다. 식품의약품안전처는 인공지능(AI)으로 만든 가짜 의사 등 전문가를 활용한 부당광고에 대한 규제를 본격 시행한다. 국내 연구진은 전립선암 수술 후 초기 재발 병변을 찾아내는 영상검사법의 유용성을 확인했으며, 줄기세포를 활용한 동물실험에서 손상된 뼈를 효과적으로 재생하는 기술을 개발했다. 연세암병원의 한 간호사는 9년 전 자신이 한 약속을 지키기 위해 혈액암 환자에",
+    "source": "헬스코리아뉴스",
+    "lang": "ko",
+    "published": "2026-11-27T17:50:09+09:00"
+   },
+   {
+    "title": "외상의학 주임연구원 심민서, “임상 경험은 연구에서도 가치 있는 자산입니다”",
+    "link": "https://www.fornurse.co.kr/news/articleView.html?idxno=21684",
+    "summary": "Q1. 안녕하세요 선생님^^ 인터뷰를 수락해 주셔서 감사합니다. 선생님의 소개를 부탁드립니다. 안녕하세요. 임상 현장에서 시작해 공공보건과 보건의료 연구 분야로 활동 영역을 넓혀 온 9년 차 간호사 심민서입니다.처음에는 인천광역시와 경기도 수원에 있는 대학병원 내과에서 2년간 간호사로 근무하며, 환자와 가장 가까운 곳에서 의료 현장을 경험했습니다. 이후 수원 소재 대학병원 소화기내과에서 연구원으로 4년간 근무하며 연구 역량을 쌓았습니다.코로나19 팬데믹을 계기로 개인의 건강을 넘어 지역사회와 국가 차원의 건강 문제에 관심을 갖게 되",
+    "source": "간호사타임즈",
+    "lang": "ko",
+    "published": "2026-11-27T15:45:14+09:00"
+   },
+   {
+    "title": "연세암병원 간호사, 9년 전 서약 지켜 혈액암 환자에 조혈모세포 기증",
+    "link": "https://www.rapportian.com/news/articleView.html?idxno=242973",
+    "summary": "[라포르시안] 연세암병원 10년 차 우준원 간호사가 9년 전 작성한 기증 서약을 실천해 혈액암 환자에게 조혈모세포를 기증했다고 세브란스병원이 27일 밝혔다.우 간호사는 연세암병원 150병동에서 암 환자를 돌보는 간호사다. 입사 후 병동에서 매일 혈액백을 연결해 수혈하며 헌혈의 중요성을 체감한 그는 병원 앞 헌혈의집을 정기적으로 찾았고, 신규 간호사였던 2017년 조혈모세포 기증 서약서를 작성했다.이후 50회 이상 헌혈을 이어가며 대한적십자사 은장과 금장 유공패를 받았으나 조혈모세포 기증 기회는 쉽게 찾아오지 않았다. 비혈연 간 조직",
+    "source": "라포르시안",
+    "lang": "ko",
+    "published": "2026-11-27T10:45:00+09:00"
+   },
+   {
+    "title": "분당제생병원 간호사들 국제학술대회서 연구발표",
+    "link": "https://www.monews.co.kr/news/articleView.html?idxno=415848",
+    "summary": "[메디칼업저버 신형주 기자] 분당제생병원 간호사들이 국제학술대회에서 연구결과를 발표하고, 간호사회 사진공모전에서도 우수작으로 당선되는 기염을 토했다.응급의료센터 한유진 과장은 지난 1일부터 4일까지 영국 에든버러에서 열린 ‘제10회 국제간호교육학술대회(NETNEP 2026)’에 참석해 Rapid5세션에서 ‘응급실 간호사의 정신응급환자 간호 역량 강화를 위해 개발한 사례 기반 모바일 교육 프로그램의 효과’에 대한 발표를 했다.한유진 과장은 응급실 간호사의 실제 정신 응급환자 간호 경험을 바탕으로 사례를 구성하고, 상황 학습이론을 적용",
+    "source": "메디컬옵저버",
+    "lang": "ko",
+    "published": "2026-11-27T08:15:38+09:00"
+   },
+   {
+    "title": "보건의료인 국시 AI 커닝 ‘사실무근’",
+    "link": "http://www.khanews.com/news/articleView.html?idxno=253298",
+    "summary": "정부가 최근 제기된 보건의료인 국가시험의 ‘인공지능(AI) 커닝’ 의혹을 일축했다.보건복지부는 11월 26일 일부 언론이 보도한 ‘보건의료 국시 과목 만점자 급증에 따른 AI 부정행위 의혹 및 전수조사 누락’ 주장에 대해 보도설명자료를 배포하며 적극적인 해명에 나섰다.보건복지부와 한국보건의료인국가시험원은 일부 과목의 만점자가 증가한 것은 시험 난이도와 응시자 수 변동에 따른 결과일 뿐, AI를 활용한 부정행위로 의심하기는 어렵다는 입장이다.실제로 의사나 간호사 등 동일한 교시에 복수로 치러진 과목들의 결과를 분석해 보면, ‘보건의약",
+    "source": "병원신문",
+    "lang": "ko",
+    "published": "2026-11-26T21:43:56+09:00"
+   },
+   {
+    "title": "2026 Nurse Strikes: Complete List of Active and Planned Strikes",
+    "link": "https://nurse.org/articles/nurse-strikes-list/",
+    "summary": "Image: NJ.comThis tracker is the live front end of a larger Nurse.org project we're calling Nurse Strike Intelligence.Nurse walkouts are rising fast, but the reporting on them is scattered: a…",
+    "source": "Nurse.org",
+    "lang": "en",
+    "published": "2026-11-26T17:00:00+09:00"
+   },
+   {
+    "title": "The Toxic Substances Control Act is Under Attack",
+    "link": "https://www.myamericannurse.com/the-toxic-substances-control-act-is-under-attack-2/",
+    "summary": "As a Delawarean and a registered nurse, to be concerned about the environment, about health, and how each impacts the other is an understatement. The Toxic Substances Control Act (or TSCA, pronounced Tah-sca), under the Environmental Protection Agency (EPA), was put into place to protect the health ",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T02:22:59+09:00"
+   },
+   {
+    "title": "Nurse Coaching: A Support Nurses Need Now",
+    "link": "https://www.myamericannurse.com/nurse-coaching-a-support-nurses-need-now/",
+    "summary": "What is nurse coaching? Nurses are trained to assess, educate, advocate, and care. Yet even experienced nurses can lose confidence after workplace conflict, criticism, or a difficult transition. Nurse coaching offers a structured, relationship-centered process to help people clarify what matters, re",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:28:51+09:00"
+   },
+   {
+    "title": "Maryland Nurses Association Celebrates 123 Years of Nursing Leadership at Annual Convention",
+    "link": "https://www.myamericannurse.com/maryland-nurses-association-celebrates-123-years-of-nursing-leadership-at-annual-convention/",
+    "summary": "The Maryland Nurses Association (MNA) 123RD Annual Convention brought together nurses, educators, healthcare leaders, students, and healthcare partners from across the state on October 8 and 9 at the Maritime Conference Center in Linthicum Heights, Maryland. Guided by the theme, “The Power of Maryla",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:17:37+09:00"
+   },
+   {
+    "title": "Nurse Practitioner Board Complaint Case Study: Failing to Maintain Professional Standards as it Relates to Improper Conduct Connected to Social Media Activity",
+    "link": "https://www.myamericannurse.com/nurse-practitioner-board-complaint-case-study-failing-to-maintain-professional-standards-as-it-relates-to-improper-conduct-connected-to-social-media-activity-3/",
+    "summary": "Nurse Practitioner Licensure Defense Expenses Case Study with Risk Management Strategies Presented by CNA and NSO A State Board of Nursing (SBON) complaint may be filed against a Nurse Practitioner (NP) by a patient, a patient’s family member, colleague, employer, and/or other regulatory agency, suc",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-26T01:04:43+09:00"
+   },
+   {
+    "title": "I Want to Hear From You",
+    "link": "https://www.myamericannurse.com/i-want-to-hear-from-you/",
+    "summary": "President’s Message I am not sure where the summer went this year, as ANA-Ohio was busy with multiple events and activities. One important responsibility was attending the annual American Nurses Association’s (ANA) Membership Assembly in June. As many of you know, the Membership Assembly is the gove",
+    "source": "American Nurse Journal",
+    "lang": "en",
+    "published": "2026-11-25T23:45:09+09:00"
+   }
+  ],
+  "ni": [
+   {
+    "title": "안양샘병원, 간호 우수사례 공유·굿즈 판매로 이웃돕기",
+    "link": "https://www.medipana.com/news/articleView.html?idxno=422862",
+    "summary": "안양샘병원 간호부가 한 해 동안의 임상 성과를 공유하고 지역사회 이웃돕기를 위한 나눔 행사를 진행했다. 간호 모범사례와 석사 논문을 발표하는 한편, 직접 제작한 굿즈를 판매해 약 300만원의 수익을 올렸다. 효산의료재단 안양샘병원(병원장 권덕주)은 지난 17일 병원 지하 1층 샘누리홀에서 '2026 간호부 학술대회 및 성경축제'를 개최했다. 행사에는 권덕주 병원장, 김상한 미션원장, 우미화 간호부장을 비롯한 간호사 및 임직원 150여명이 참석했다. 매년 열리는 이 행사는 한 해 동안 환자 곁에서 헌신한 간호사들의 노고를 격려하고,",
+    "source": "메디파나뉴스",
+    "lang": "ko",
+    "published": "2026-11-28T08:56:18+09:00"
+   },
+   {
+    "title": "AI 안경 다음은 AI 콘택트렌즈? 기술보다 앞서 고민할 규제",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=81194",
+    "summary": "[히트뉴스=최선재 기자] 최근 국내에서 시험 부정행위에 악용된 AI 안경이 논란이 되면서, 유사한 기능을 콘택트 렌즈에도 구현할 수 있을지 관심이 이어지고 있다. 눈에 직접 착용하는 렌즈에 카메라와 AI를 결합해 주변 정보를 인식하고 답변까지 제공하는 기술이 현실화되면 시험 부정행위 등 새로운 사회적 문제로 이어질 수 있다는 우려도 나온다.그렇다면 현재 기술 수준에서 AI 콘택트렌즈의 구현은 가능할까. 실제 제품이 개발된다면 어떤 규제 안에서 관리해야 할까. 27일 히트뉴스는 전문가의 분석, 식품의약품안전처의 답변을 통해 AI 콘택",
+    "source": "히트뉴스",
+    "lang": "ko",
+    "published": "2026-11-28T06:03:00+09:00"
+   },
+   {
+    "title": "This Week in Health Tech 11/25/26",
+    "link": "https://histalk2.com/2026/11/25/this-week-in-health-tech-11-25-26/",
+    "summary": "",
+    "source": "HIStalk",
+    "lang": "en",
+    "published": "2026-11-26T01:46:24+09:00"
+   }
+  ]
+ },
+ "papers": [
+  {
+   "title": "A cross-sectional survey of antenatal care providers' use of the Australian pregnancy care guidelines on oral health.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102975/",
+   "journal": "Community dental health",
+   "authors": "Wilson A, Bettiol S, Bridgman H 외",
+   "pubdate": "2026 Nov 27"
+  },
+  {
+   "title": "Externally Validated Explainable Machine Learning for Identifying High Death Anxiety in Chronic Heart Failure: Multicentre Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102904/",
+   "journal": "Journal of advanced nursing",
+   "authors": "Ma Y, Zhang X, Shi J 외",
+   "pubdate": "2026 Nov 27"
+  },
+  {
+   "title": "Translation and Cultural Adaptation of a Digital Health Literacy Intervention for Surgical Patients in Portugal.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102110/",
+   "journal": "Journal of primary care & community health",
+   "authors": "Valentim P, Arriaga M, Costa A",
+   "pubdate": "2026 Nov 27"
+  },
+  {
+   "title": "Latent Profiles Based on Motivation, Opportunity, Ability and Self-Reported Activity Behaviour Among Adults with Chronic Obstructive Pulmonary Disease: A Multicenter Cross-Sectional Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43101476/",
+   "journal": "International journal of chronic obstructive pulmonary disease",
+   "authors": "Wang H, Song M, Zhan Y 외",
+   "pubdate": "2026 Nov 22"
+  },
+  {
+   "title": "A decision tree-based predictive model for assessing burnout risk in undergraduate nursing interns during clinical training.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43101459/",
+   "journal": "Frontiers in medicine",
+   "authors": "Ma Z, Ji L, Liang F 외",
+   "pubdate": "2026 Nov 12"
+  },
+  {
+   "title": "Large Language Models and Professional Formation in Pre-Registration Nursing Education: Relevance to Readiness for Practice-An Integrative Review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099953/",
+   "journal": "Journal of nursing management",
+   "authors": "Oh L, Mearns G, Mowat R",
+   "pubdate": "2026"
+  },
+  {
+   "title": "A Heart Failure Guideline-Directed Medical Therapy Program: Lessons for Clinical Translation and Future Implementation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099939/",
+   "journal": "Clinical cardiology",
+   "authors": "Ali O, Velasco CM, Baksh G 외",
+   "pubdate": "2026 Dec"
+  },
+  {
+   "title": "Ethical challenges in technology-enabled care in homecare nursing: A scoping review.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099766/",
+   "journal": "Nursing ethics",
+   "authors": "Westerlund MH, Barken TL, Grøndahl VA 외",
+   "pubdate": "2026 Nov 26"
+  },
+  {
+   "title": "The Completion-Verification Gap in Clinical Nurses' Integration of Generative Artificial Intelligence Into Nursing Work: A Qualitative Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099301/",
+   "journal": "Journal of clinical nursing",
+   "authors": "Wang Y, Lu X, Jiang X 외",
+   "pubdate": "2026 Nov 26"
+  },
+  {
+   "title": "Watching through the screen: a secondary reflexive thematic analysis of nurses' experiences of remote AI-enabled monitoring in geriatric care.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43097766/",
+   "journal": "Geriatric nursing (New York, N.Y.)",
+   "authors": "Ali SI, Shaban M",
+   "pubdate": "2026 Nov 26"
+  }
+ ]
+}
